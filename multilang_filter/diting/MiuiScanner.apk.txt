@@ -1,0 +1,1 @@
+Removed: [it] strings.xml: string/impunity_declaration_content (format mismatch)
