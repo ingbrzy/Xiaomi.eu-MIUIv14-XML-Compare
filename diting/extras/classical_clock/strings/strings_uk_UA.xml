@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+    <string name="date_time" value="EEE, d MMMM"/>
+    <string name="date_time_12" value="EEE, d MMMM"/>
+    <string name="desc_date_format" value="EEEE, d MMM"/>
+    <string name="desc_date_format_12" value="EEEE, d MMM"/>
+    <string name="desc_time" value="'поточний час' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', натисніть двічі для входу в програму Годинник'"/>
+</strings>
