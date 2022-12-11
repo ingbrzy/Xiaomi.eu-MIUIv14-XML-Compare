@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="mms_main_purpose_new">This app needs to connect to the internet to provide you with basic services. We recommend that you turn on Mi Message and Smart Messaging services.</string>
+     <string name="system_permission_declare_exit">Exit</string>
+     <string name="wait_for_sp_mark_as_read">Just a sec…</string>
+</resources>

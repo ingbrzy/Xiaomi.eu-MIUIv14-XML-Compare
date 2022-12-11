@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="err_toast_msg_try_switch_network">Connect both your mobile device and computer to the same Wi-Fi network</string>
+     <string name="err_toast_msg_upgrade_pc_version">Update MIUI+ on your computer to be able to use this feature</string>
+     <string name="privacy_permission_read_write_mobile_phone_storage">Access and save items to storage</string>
+     <string name="privacy_permission_read_write_mobile_phone_storage_desc">For accessing and saving files and photos to this device</string>
+     <string name="privacy_permission_sound_recording">Record audio</string>
+     <string name="privacy_permission_sound_recording_desc">For making voice calls or recording sound</string>
+     <string name="upgrade_log_title">更新日志</string>
+     <string name="upgrade_phone_device_tip">*Updates are provided by Xiaomi Phone</string>
+     <string name="upgrade_ver_can_upgrade_1to2s">Update from version %1$s to %2$s</string>
+     <string name="upgrade_ver_latest1s">Current version (%1$s) is up to date</string>
+</resources>

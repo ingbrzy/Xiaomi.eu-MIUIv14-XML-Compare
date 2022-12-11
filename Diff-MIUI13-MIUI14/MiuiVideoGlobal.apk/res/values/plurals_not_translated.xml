@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="hint_local_guide_views">
+        <item quantity="other">%s views</item>
+        <item quantity="one">%s view</item>
+     </plurals>
+</resources>

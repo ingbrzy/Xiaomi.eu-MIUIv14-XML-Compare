@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="wifi_tofu_invalid_cert_chain_message">The server certificate chain is invalid.</string>
+     <string name="wifi_tofu_invalid_cert_chain_ok_text">OK</string>
+     <string name="wifi_tofu_invalid_cert_chain_title">"Can't connect to %1$s"</string>
+</resources>

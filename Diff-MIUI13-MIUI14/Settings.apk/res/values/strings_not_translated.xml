@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="complete_parameters_new">Detailed info and specs</string>
+     <string name="data_acceleration_summery">Use both Wi-Fi and mobile data to boost speed when Wi-Fi connection is poor</string>
+     <string name="dds_preference_smart_dds_switch_is_on">Smart DDS switch is on</string>
+     <string name="emulate_sd_data">Emulated SD card data</string>
+     <string name="enable_snpn">Enable SNPN</string>
+     <string name="haptic_descripthion_for_max_level">Strong</string>
+     <string name="haptic_descripthion_for_middle_level">Default</string>
+     <string name="haptic_descripthion_for_min_level">Light</string>
+     <string name="immersive_audio_sources">Immersion audio</string>
+     <string name="kid_space_forbidden_set_unlock_password_msg">"Can't set or change password in Kid space"</string>
+     <string name="legacy_power_menu">Legacy power menu</string>
+     <string name="lite_font_weight_title">Font weight</string>
+     <string name="miui_type_style_summary">Typing style applied when Screen reader is on</string>
+     <string name="miui_type_style_title">Typing style</string>
+     <string name="more_font_pref_title">More Fonts</string>
+     <string name="multi_network_acceleration_summery">Connect to multiple Wi-Fi networks at the same time to boost speed</string>
+     <string name="network_acceleration">Network acceleration</string>
+     <string name="network_auto_switch">Switch between networks</string>
+     <string name="network_auto_switch_summery">"Switch to mobile data when Wi-Fi signal is weak or network isn't available"</string>
+     <string name="solid_text">Uses low frequency tactile feedback and corresponding visual transitions to create a solid, powerful gesture experience</string>
+     <string name="sunlight_low_power_notification">"Can't turn on Sunlight mode. Battery is too low."</string>
+     <string name="wapi_all_sel_mode">Select mode</string>
+     <string name="wapi_cert_is_not_exist">No available certificate, please install the certificate first</string>
+     <string name="wapi_cert_manage_error">Faild to setting the WAPI certificate.</string>
+     <string name="wapi_cert_roaming">Connecting…</string>
+     <string name="wapi_password_hex_format_add">The count of hexadecimal characters can not be odd number</string>
+     <string name="wapi_password_is_empty">Password field can not be left blank</string>
+     <string name="wapi_password_is_not_hex_format">Invalid hexadecimal characters</string>
+     <string name="wapi_password_length_is_max">Password can not exceed 64 characters in length</string>
+     <string name="wapi_password_length_is_min">Password can not less than 8 characters in length</string>
+     <string name="wapi_password_length_is_min_to_max">The password must be: 8-64 characters</string>
+     <string name="wifi_auto_sel_wapi_cert">Select automatically</string>
+     <string name="wifi_hand_sel_wapi_cert">WAPI certificate</string>
+     <string name="wifi_hidden_gbk">GBK Encoding</string>
+     <string name="wifi_primary">Primary network</string>
+     <string name="wifi_saved_access_point">Saved networks</string>
+     <string name="wifi_ssid_is_empty">Ssid field can not be left blank</string>
+     <string name="wifi_ssid_length_is_max">Ssid can not exceed 32 characters in length</string>
+     <string name="wifi_wapi_as_certificate">AS certificate</string>
+     <string name="wifi_wapi_cert_mode_hand_text">Hand select the certificate</string>
+     <string name="wifi_wapi_fail_to_auth">"WAPI authentication failed
+Please check validity of certificates"</string>
+     <string name="wifi_wapi_fail_to_init">"Unable to open WAPI certificates
+Credential storage might not enable"</string>
+     <string name="wifi_wapi_psk_type">Password type</string>
+     <string name="wifi_wapi_user_certificate">User certificate</string>
+</resources>

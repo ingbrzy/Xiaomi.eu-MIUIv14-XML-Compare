@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="backpack_gift_timerleft_day">
+        <item quantity="other">%1$d days</item>
+        <item quantity="one">%1$d day</item>
+     </plurals>
+     <plurals name="backpack_gift_validtime_day">
+        <item quantity="other">%d days</item>
+        <item quantity="one">%d day</item>
+     </plurals>
+     <plurals name="backpack_gift_validtime_hour">
+        <item quantity="other">%d hrs</item>
+        <item quantity="one">%d hr</item>
+     </plurals>
+     <plurals name="backpack_gift_validtime_min">
+        <item quantity="other">%d mins</item>
+        <item quantity="one">%d min</item>
+     </plurals>
+     <plurals name="cr_background_day">
+        <item quantity="other">%d days</item>
+        <item quantity="one">%d day</item>
+     </plurals>
+     <plurals name="ktv_card_message_your_turn">
+        <item quantity="other">Next singer can start to sing in %1$ss</item>
+        <item quantity="one">Next singer can start to sing in %1$ss</item>
+     </plurals>
+     <plurals name="ktv_people_queue">
+        <item quantity="other">%1$s people in line</item>
+        <item quantity="one">%1$s person in line</item>
+     </plurals>
+     <plurals name="ktv_sung_before_members">
+        <item quantity="other">%1$s people have sung</item>
+        <item quantity="one">%1$s person has sung</item>
+     </plurals>
+     <plurals name="me_visit_number">
+        <item quantity="other">Visits: %1$d</item>
+        <item quantity="one">Visits: %1$d</item>
+     </plurals>
+</resources>

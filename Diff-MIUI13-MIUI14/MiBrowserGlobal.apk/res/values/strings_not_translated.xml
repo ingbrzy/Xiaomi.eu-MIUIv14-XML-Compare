@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="application_upgrade">Updates</string>
+     <string name="bookmark_file_privacy_nightmode_moved_here">Feature shortcuts and browsing modes can be found here</string>
+     <string name="clean_cache">Clear cache</string>
+     <string name="clear_result_page_more_content">Discover more</string>
+     <string name="clear_result_page_show_more">View more</string>
+     <string name="content_recommend_trending_title">Google</string>
+     <string name="doc_viewer_user_guide_profile">View the item you were browsing here</string>
+     <string name="game_center">Games</string>
+     <string name="hot_news_notify_summary">Push notifications for top news stories</string>
+     <string name="hot_news_notify_tips_light">You can turn off News notifications in &lt;font color=#0D84FF>Settings&lt;/font></string>
+     <string name="hot_news_notify_title">News notifications</string>
+     <string name="hour_minute">%1$s %2$s</string>
+     <string name="local_video_player_label">Video player (Mi Browser)</string>
+     <string name="memory_management">Manage storage</string>
+     <string name="my_prize_entry">My rewards</string>
+     <string name="no_scalable_applications">All apps are up to date</string>
+     <string name="occupy">%s occupied</string>
+     <string name="opr_activity_title">Watch the season and get rewards</string>
+     <string name="power_saving_settings">Battery saver</string>
+     <string name="reading__business_recommend_at_end_more">View more</string>
+     <string name="reading__business_recommend_at_end_other_docs">Further reading</string>
+     <string name="reading__business_recommend_at_end_title">Recommended content</string>
+     <string name="reading__reading_end">End</string>
+     <string name="sport_card_match_week">Week %d</string>
+     <string name="sports_card_match_season">Season</string>
+     <string name="sports_card_match_status_1">Upcoming</string>
+     <string name="sports_card_match_status_2">In progress</string>
+     <string name="sports_card_match_status_3">Finished</string>
+     <string name="summary_use_local_ad_config">Turn on to use local ad config</string>
+     <string name="third_image_viewer_label">Image viewer (Mi Browser)</string>
+     <string name="title_use_local_ad_config">Use local ad config</string>
+     <string name="upgrade">Update</string>
+     <string name="web_tools_moved_here">Tools were moved here</string>
+</resources>

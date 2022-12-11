@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="migrate_gp_data_num">
+        <item quantity="other">%1$d items</item>
+        <item quantity="one">%1$d item</item>
+     </plurals>
+     <plurals name="share_album_home_pref_screen_devices">
+        <item quantity="other">%1$d screens</item>
+        <item quantity="one">%1$d screen</item>
+     </plurals>
+     <plurals name="tran_notification_complete_msg">
+        <item quantity="other">"Couldn't transfer %1$d items"</item>
+        <item quantity="one">"Couldn't transfer %1$d item"</item>
+     </plurals>
+     <plurals name="transfer_status_banner_msg_file_failed">
+        <item quantity="other">"Couldn't transfer %1$d items. Visit i.mi.com to download them."</item>
+        <item quantity="one">"Couldn't transfer %1$d item. Visit i.mi.com to download it."</item>
+     </plurals>
+     <plurals name="trash_vip_info_text_login_medium_or_low_level">
+        <item quantity="other">Items can be stored here for %1$s days. Tap to extend this period.</item>
+        <item quantity="one">Items can be stored here for %1$s day. Tap to extend this period.</item>
+     </plurals>
+     <plurals name="trash_vip_info_text_no_sync_server">
+        <item quantity="other">Deleted items are stored in the cloud for %1$d days</item>
+        <item quantity="one">Deleted items are stored in the cloud for %1$d day</item>
+     </plurals>
+</resources>

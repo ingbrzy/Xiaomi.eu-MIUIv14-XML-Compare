@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="android_id">Android ID</string>
+     <string name="android_id_usage">For recognizing the app version and compatibility between the old and new devices</string>
+     <string name="android_oaid">OAID</string>
+     <string name="collect_content">Collected content</string>
+     <string name="collect_situation">Collection status</string>
+     <string name="collected">Collected</string>
+     <string name="not_support">Not supported</string>
+     <string name="oaid_usage">For ensuring the security of transferred items</string>
+     <string name="option_personal_info_list">Collection of personal information</string>
+     <string name="option_privacy_settings">Privacy</string>
+     <string name="option_third_party_shared_info_instruction">Third party data sharing</string>
+     <string name="option_user_agreement">User Agreement</string>
+     <string name="option_user_device_info">Device info</string>
+     <string name="recent_one_year">Past 1 year</string>
+     <string name="recent_seven_days">Past 7 days</string>
+     <string name="recent_thirty_days">Past 30 days</string>
+     <string name="ssid_name">SSID/Wi-Fi name</string>
+     <string name="uncollected">Not collected</string>
+     <string name="use_purpose">Purpose of use</string>
+     <string name="use_purpose_description">"For connecting to the new device's hotspot"</string>
+     <string name="use_scene">Usage scenario</string>
+     <string name="use_scene_description">For transferring items from the old device to the new one</string>
+</resources>

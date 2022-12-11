@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="all_apps_setting_jeejen_title">Lite mode</string>
+     <string name="app_set_icon">Set icon</string>
+     <string name="edit_folder">Edit folder</string>
+     <string name="folder_picker_big_text">Enlarged</string>
+     <string name="folder_picker_default_text">Regular</string>
+     <string name="folder_picker_options_tab_text">Size</string>
+     <string name="folder_picker_sliding_button_tab_text">Suggest highlighted apps</string>
+     <string name="folder_picker_tab_text">Folder</string>
+     <string name="intelligent_exposed_button_summary_text">Use smart suggestions based on your app usage to highlight apps in enlarged folders</string>
+     <string name="jeejen_description">"Bigger UI elements.
+More accessible calling.
+Enhanced security."</string>
+     <string name="miui_widget_toast_for_not_support_by_pa">"App vault doesn't support widgets of this size"</string>
+     <string name="open_pad_personal_assistant_settings">Home screen widgets</string>
+     <string name="open_personal_assistant_settings_off">Off</string>
+     <string name="open_personal_assistant_settings_on">On</string>
+     <string name="open_personal_assistant_settings_simplified">App vault</string>
+</resources>

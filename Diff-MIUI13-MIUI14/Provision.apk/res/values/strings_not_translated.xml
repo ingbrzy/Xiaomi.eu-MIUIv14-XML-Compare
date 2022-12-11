@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="check_box_label"><Data>"By turning on this feature, you're agreeing to &lt;a href=%1$s>Xiaomi Interconnectivity Services Privacy Policy&lt;/a >."</Data></string>
+     <string name="interconnection_service_summary">"Xiaomi Interconnectivity Services allow your devices to interact with each other wirelessly. These services include Mi Smart Hub, Mi Smart Play, MIUI+ Beta, Mi Share, and casting.
+To be able to work normally, these service need to connect to the internet and require the following permissions:
+\u0009\u0009Mi Smart Hub:
+\u0009\u0009Turn Wi-Fi on and off
+\u0009\u0009For transferring items over Wi-Fi
+\u0009\u0009Record audio
+\u0009\u0009For transferring audio playback to connected devices during casting or screen mirroring
+\u0009\u0009Access storage
+\u0009\u0009For transferring and receiving files wirelessly
+\u0009\u0009Mi Share:
+\u0009\u0009Access and save files and photos on your device
+\u0009\u0009For transferring and receiving files wirelessly
+\u0009\u0009Access location
+\u0009\u0009For transferring items to nearby devices over Wi-Fi and Bluetooth
+\u0009\u0009Turn Bluetooth on and off
+\u0009\u0009For finding devices nearby
+\u0009\u0009Turn Wi-Fi on and off
+\u0009\u0009For finding devices nearby and transferring files wirelessly
+\u0009\u0009Connect to nearby devices
+\u0009\u0009For finding devices nearby and connecting to them
+\u0009\u0009Casting:
+\u0009\u0009Turn Bluetooth on and off
+\u0009\u0009For finding devices nearby
+\u0009\u0009Turn Wi-Fi on and off
+\u0009\u0009For finding devices nearby
+\u0009\u0009Access location
+\u0009\u0009For getting the info about nearby devices
+\u0009\u0009Record audio
+\u0009\u0009For transferring audio playback to connected during casting
+If you don't agree to grant such permissions, you won't be able to use Xiaomi Interconnectivity Services.
+Features are subject to change. Some of the features above may not be available on all device models or for all system versions. Refer to the MIUI website (www.miui.com) to check compatibility."</string>
+     <string name="interconnection_service_title">Xiaomi Interconnectivity Services</string>
+</resources>

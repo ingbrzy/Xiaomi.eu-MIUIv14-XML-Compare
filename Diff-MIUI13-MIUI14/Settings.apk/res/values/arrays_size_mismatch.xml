@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <!-- Size mismatch! Translated: 41, Original: 40 -->
+     <!-- Size mismatch! Translated: 40, Original: 41 -->
      <string-array name="support_settings_haptic_device_list">
         <item>apollo</item>
         <item>cas</item>
@@ -43,5 +43,6 @@
         <item>unicorn</item>
         <item>nuwa</item>
         <item>fuxi</item>
+        <item>socrates</item>
      </string-array>
 </resources>

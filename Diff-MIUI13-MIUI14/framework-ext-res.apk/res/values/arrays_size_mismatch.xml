@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <!-- Size mismatch! Translated: 12, Original: 11 -->
+     <!-- Size mismatch! Translated: 11, Original: 12 -->
      <string-array name="list_about_need_relunch">
         <item>com.supercell.clashroyale.mi</item>
         <item>com.ss.android.ugc.live</item>
@@ -14,13 +14,13 @@
         <item>com.yuwan.tmshipin</item>
         <item>com.tencent.gamehelper.smoba</item>
         <item>com.mybank.android.phone</item>
+        <item>com.sankuai.meituan</item>
      </string-array>
-     <!-- Size mismatch! Translated: 11, Original: 12 -->
+     <!-- Size mismatch! Translated: 12, Original: 11 -->
      <string-array name="process_fg_service_check_list">
         <item>com.miui.screenrecorder</item>
         <item>com.android.soundrecorder</item>
         <item>com.android.deskclock</item>
-        <item>com.miui.voiceassist</item>
         <item>com.xiaomi.drivemode</item>
         <item>com.caiharbor.esim</item>
         <item>com.miui.backup</item>
@@ -30,7 +30,7 @@
         <item>com.milink.service</item>
         <item>com.xiaomi.mirror</item>
      </string-array>
-     <!-- Size mismatch! Translated: 11, Original: 8 -->
+     <!-- Size mismatch! Translated: 8, Original: 11 -->
      <string-array name="process_static_white_list_base">
         <item>com.lbe.security.miui</item>
         <item>com.miui.virtualsim:authentication</item>
@@ -40,8 +40,11 @@
         <item>com.miui.securitycenter.remote</item>
         <item>com.miui.greenguard</item>
         <item>com.miui.aod</item>
+        <item>com.android.mms:mms_service</item>
+        <item>com.miui.voiceassist:core</item>
+        <item>com.miui.voicetrigger</item>
      </string-array>
-     <!-- Size mismatch! Translated: 79, Original: 53 -->
+     <!-- Size mismatch! Translated: 53, Original: 79 -->
      <string-array name="rt_boost_pkg_white_list">
         <item>com.tencent.mm</item>
         <item>com.sina.weibo</item>
@@ -74,6 +77,27 @@
         <item>com.tencent.news</item>
         <item>com.zhihu.android</item>
         <item>com.taobao.idlefish</item>
+        <item>com.ss.android.article.video</item>
+        <item>com.kmxs.reader</item>
+        <item>com.youku.phone</item>
+        <item>com.ss.android.ugc.live</item>
+        <item>com.duowan.kiwi</item>
+        <item>com.baidu.haokan</item>
+        <item>com.tencent.news</item>
+        <item>air.tv.douyu.android</item>
+        <item>cn.xuexi.android</item>
+        <item>com.jingdong.app.mall</item>
+        <item>com.quark.browser</item>
+        <item>com.sup.android.superb</item>
+        <item>com.tencent.karaoke</item>
+        <item>com.sdu.didi.gsui</item>
+        <item>com.le123.ysdq</item>
+        <item>cn.xiaochuankeji.tieba</item>
+        <item>com.duokan.free</item>
+        <item>com.hunantv.imgo.activity</item>
+        <item>com.baidu.tieba</item>
+        <item>com.baidu.searchbox.lite</item>
+        <item>com.baidu.netdisk</item>
         <item>com.miui.home</item>
         <item>com.android.incallui</item>
         <item>com.android.browser</item>
@@ -96,15 +120,21 @@
         <item>com.android.thememanager</item>
         <item>com.android.fileexplorer</item>
         <item>com.miui.personalassistant</item>
+        <item>com.duokan.reader</item>
+        <item>com.miui.newhome</item>
+        <item>com.mfashiongallery.emag</item>
+        <item>com.android.quicksearchbox</item>
+        <item>com.miui.player</item>
      </string-array>
-     <!-- Size mismatch! Translated: 5, Original: 4 -->
+     <!-- Size mismatch! Translated: 4, Original: 5 -->
      <string-array name="smart_power_package_white_list">
         <item>com.xiaomi.xmsf</item>
         <item>com.miui.mishare.connectivity</item>
         <item>com.lbe.security.miui</item>
         <item>com.miui.cloudbackup</item>
+        <item>com.android.htmlviewer</item>
      </string-array>
-     <!-- Size mismatch! Translated: 8, Original: 9 -->
+     <!-- Size mismatch! Translated: 9, Original: 8 -->
      <string-array name="smart_power_process_white_list">
         <item>com.tencent.mm:push</item>
         <item>com.tencent.wework:push</item>
@@ -114,6 +144,5 @@
         <item>com.ss.android.lark.kami:wschannel</item>
         <item>android.process.media</item>
         <item>com.miui.misound</item>
-        <item>com.android.htmlviewer:remote</item>
      </string-array>
 </resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="large_icon_batch_has_update_text">
+        <item quantity="other">An update is available for %1$d Super icons</item>
+        <item quantity="one">An update is available for %1$d Super icon</item>
+     </plurals>
+     <plurals name="large_icon_batch_updating_text">
+        <item quantity="other">Updating %1$d Super icons</item>
+        <item quantity="one">Updating %1$d Super icon</item>
+     </plurals>
+     <plurals name="resource_mibi_per_set">
+        <item quantity="other">%1$s Mi Coins/set</item>
+        <item quantity="one">%1$s Mi Coin/set</item>
+     </plurals>
+</resources>

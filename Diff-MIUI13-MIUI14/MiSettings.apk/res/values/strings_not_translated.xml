@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="closed_high_refresh_options">Apps not using high refresh rate</string>
+     <string name="customize_high_refresh_summary">This feature supports a refresh rate of up to %d Hz. The appropriate refresh rate can be automatically selected based on device preferences.</string>
+     <string name="customize_high_refresh_title">Apps using high refresh rate</string>
+     <string name="follow_apps_settings">Based on app settings</string>
+     <string name="high_refresh_options_title">Supported apps</string>
+     <string name="new_customize_high_refresh_title">High refresh rate</string>
+     <string name="opened_high_refresh_options">Apps using high refresh rate</string>
+     <string name="search_app_tips">Search apps</string>
+     <string name="size_byte">B</string>
+     <string name="size_giga_byte">GB</string>
+     <string name="size_kilo_byte">KB</string>
+     <string name="size_mega_byte">MB</string>
+     <string name="size_peta_byte">PB</string>
+     <string name="size_suffix">%1$s%2$s</string>
+     <string name="size_tera_byte">TB</string>
+</resources>

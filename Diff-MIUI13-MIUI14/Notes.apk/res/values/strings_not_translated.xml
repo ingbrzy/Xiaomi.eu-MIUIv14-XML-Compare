@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="COM">com.</string>
+     <string name="MM">mm</string>
+     <string name="MOBILE_QQ">mobileqq</string>
+     <string name="SINA">sina.</string>
+     <string name="TENCENT">tencent.</string>
+     <string name="WEIBO">weibo</string>
+     <string name="app_widget_name_create_note">Create notes</string>
+     <string name="app_widget_name_create_todo">Create tasks</string>
+     <string name="app_widget_name_fast_entry">Shortcuts</string>
+     <string name="marketSdkVersion">3.2.22</string>
+     <string name="xiaomi_market_sdk_update_dialog_cancel">Not now</string>
+     <string name="xiaomi_market_sdk_update_dialog_ok">Update</string>
+     <string name="xiaomi_market_sdk_update_dialog_title">An update is available</string>
+</resources>

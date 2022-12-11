@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="has_mamual_hide_large_icons">Super icon hidden successfully</string>
+     <string name="hide_mamual_hide_large_icons">"Don't show hidden Super icons"</string>
+     <string name="large_icon_apply_fail_for_in_dock">"Can't use Super icons for apps in the app dock"</string>
+     <string name="large_icon_apply_fail_for_in_folder">"Can't use Super icons for apps in folders"</string>
+     <string name="large_icon_apply_fail_for_in_oldmode">"Super icons aren't supported in Lite mode"</string>
+     <string name="large_icon_apply_fail_for_not_in_launcher">"Can't use Super icons for apps that aren't on the Home screen"</string>
+     <string name="large_icon_card_image_bias">w,1:1</string>
+     <string name="large_icon_detail_title">%s Super icons</string>
+     <string name="large_icon_no_more">Nothing here yet</string>
+     <string name="large_icon_no_network">"Couldn't connect to the network"</string>
+     <string name="large_icon_not_support">"Can't set icons for %s"</string>
+     <string name="large_icon_official">Official</string>
+     <string name="large_icon_picker_haven">Available icons</string>
+     <string name="large_icon_picker_more">More</string>
+     <string name="large_icon_picker_size">Icon size</string>
+     <string name="large_icon_to_find_more">View more</string>
+     <string name="large_icon_warning_install">Install</string>
+     <string name="large_icon_warning_not_install">Install %s</string>
+     <string name="large_icon_warning_not_install_msg">Install %s to be able to use a Super icon. Install now?</string>
+     <string name="show_mamual_hide_large_icons">Show hidden Super icons</string>
+     <string name="theme_component_title_large_icon">Super icons</string>
+</resources>

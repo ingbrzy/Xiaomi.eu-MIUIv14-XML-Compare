@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="greenguard_new_install_message">Family Guard is a system app. You can install this app without downloading it.</string>
+     <string name="greenguard_new_install_title">Install Family Guard</string>
+</resources>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="download_percent">%1$d%%</string>
+     <string name="file_transferring">Wait until ongoing transfers are complete and try again</string>
 </resources>

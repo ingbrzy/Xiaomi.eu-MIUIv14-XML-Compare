@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="gb_gpu_custom_cut_anti">
+        <item>2X</item>
+        <item>4X</item>
+     </string-array>
+     <string-array name="gb_gpu_custom_cut_anti_value">
+        <item>2</item>
+        <item>4</item>
+     </string-array>
+     <string-array name="gb_gpu_custom_cut_texture">
+        <item>Balanced</item>
+        <item>High quality</item>
+     </string-array>
+     <string-array name="gb_gpu_custom_cut_texture_value">
+        <item>Balanced</item>
+        <item>Default</item>
+     </string-array>
+</resources>

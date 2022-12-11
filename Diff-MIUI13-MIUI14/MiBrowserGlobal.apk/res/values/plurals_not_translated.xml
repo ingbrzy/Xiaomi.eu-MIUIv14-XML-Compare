@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="hour">
+        <item quantity="other">%d hrs</item>
+        <item quantity="one">%d hr</item>
+     </plurals>
+     <plurals name="minute">
+        <item quantity="other">%d mins</item>
+        <item quantity="one">%d min</item>
+     </plurals>
+     <plurals name="opr_activity_news_task">
+        <item quantity="other">Browse %d news stories</item>
+        <item quantity="one">Browse %d news story</item>
+     </plurals>
+     <plurals name="opr_activity_svideo_task">
+        <item quantity="other">Watch %d short videos</item>
+        <item quantity="one">Watch %d short video</item>
+     </plurals>
+     <plurals name="second">
+        <item quantity="other">%d secs</item>
+        <item quantity="one">%d sec</item>
+     </plurals>
+</resources>

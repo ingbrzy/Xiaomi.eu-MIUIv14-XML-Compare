@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <!-- Size mismatch! Translated: 25, Original: 23 -->
+     <!-- Size mismatch! Translated: 23, Original: 25 -->
      <string-array name="subtitle_language_codes">
         <item>zh_CN</item>
         <item>zh_HK</item>
@@ -26,8 +26,10 @@
         <item>中文字幕</item>
         <item>泰文</item>
         <item>无字幕</item>
+        <item>AE_DR</item>
+        <item>PH_FIL</item>
      </string-array>
-     <!-- Size mismatch! Translated: 25, Original: 23 -->
+     <!-- Size mismatch! Translated: 23, Original: 25 -->
      <string-array name="subtitle_language_names">
         <item>简体中文</item>
         <item>繁體中文</item>
@@ -52,5 +54,7 @@
         <item>中文字幕</item>
         <item>ไทย</item>
         <item>无字幕</item>
+        <item>العربية</item>
+        <item>Filipino</item>
      </string-array>
 </resources>

@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="activity_title_create_shortcut">Manage shortcuts</string>
+     <string name="bh_set_phone_dialog_title_new">"Add your phone number to view and purchase data plans available to you.
+You can always change your phone number in Settings."</string>
+     <string name="gamebox_game_center_app_not_find">Install Games first</string>
+     <string name="gb_award_noti_message">Turn on Game for Peace background updates in Game Turbo to get rewards</string>
+     <string name="gb_award_noti_title">Game for Peace rewards are here!</string>
+     <string name="gb_barrage_dnd_conflict_toast">To use on-screen comments, turn off DND first</string>
+     <string name="gb_dnd_barrage_conflict_toast">"You won't be able to use on-screen comments when DND is on"</string>
+     <string name="gb_predownload_receive_error">A network error occurred. Try again.</string>
+     <string name="gb_predownload_receive_max">"Can't get more rewards on this device"</string>
+     <string name="gb_predownload_receiving">Receiving…</string>
+     <string name="pc_emergency_call">Emergency</string>
+     <string name="pc_high_temp_protection_noti_bt_text">Got it</string>
+     <string name="pc_high_temp_protection_noti_summary">"Can't use hotspots, mobile data, and location services now"</string>
+     <string name="pc_high_temp_protection_noti_tile">Your device is overheated</string>
+     <string name="pc_temperature_too_high">Device overheated</string>
+     <string name="pc_wait_device_cools_down">Wait until your device cools down to be able to use this feature.</string>
+     <string name="permission_instruction_shake">"This permission allows apps to track your device's orientation and movement (e.g. shaking, tilting, and rotating)"</string>
+     <string name="power_settings_firmware_update_title">Firmware updates</string>
+     <string name="storage_click_apk">安装包</string>
+     <string name="storage_click_app">应用和数据</string>
+     <string name="storage_click_audio">音频</string>
+     <string name="storage_click_clean">清理垃圾</string>
+     <string name="storage_click_deep_clean">深度清理</string>
+     <string name="storage_click_file">文档</string>
+     <string name="storage_click_memory_expansion">内存扩展</string>
+     <string name="storage_click_pic">图片</string>
+     <string name="storage_click_system_data">系统数据</string>
+     <string name="storage_click_system_log">系统日志</string>
+     <string name="storage_click_video">视频</string>
+     <string name="storage_entry_file">文件管理器</string>
+     <string name="storage_entry_other">其他</string>
+     <string name="storage_entry_setting">设置</string>
+     <string name="storage_system_other_tip_new">Includes the storage space necessary for system operation and upgrades. The size of this partition will fluctuate according to system status.</string>
+     <string name="vb_video_effects_immersion_sound">Immersive sound</string>
+     <string name="vb_video_effects_immersion_sound_summary">Experience immersion and sense of space when supported audio is played through earphones</string>
+     <string name="vb_video_effects_spatial_summary_new">Experience enhanced sense of space and direction for supported audio and video and adjust immersive sound based on head movement</string>
 </resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="config_notification_interceptchannel">
+        <item>com.miui.gallery:com.miui.gallery.hide</item>
+        <item>com.miui.securitycenter:securitycenter_resident_notification_hide</item>
+        <item>com.android.mtp:device_notification_channel</item>
+        <item>com.android.mms:Channel_Foreground_Service</item>
+        <item>com.xiaomi.mipicks:com.xiaomi.mipicks_hide</item>
+        <item>com.xiaomi.discover:com.xiaomi.discover_hide</item>
+        <item>com.xiaomi.discover:com.xiaomi.discover_hide_unique</item>
+        <item>com.miui.mishare.connectivity:MiShare</item>
+        <item>com.mfashiongallery.emag:gallery_overlay_windows</item>
+        <item>com.miui.misound:misound_sound</item>
+        <item>com.miui.misound:misound_assist</item>
+        <item>com.miui.misound:misound_protect</item>
+        <item>com.xiaomi.mirror:foreground</item>
+        <item>com.miui.screenshot:SCN</item>
+        <item>com.miui.screenshot:AITSCN</item>
+        <item>com.xiaomi.simactivate.service:com.xiaomi.simactivate.service.CHANNEL_ID</item>
+        <item>com.milink.service:hide_foreground</item>
+     </string-array>
+     <string-array name="config_notification_interceptlistener">
+        <item>com.android.systemui/com.android.systemui.statusbar.notification.MiuiNotificationListener</item>
+        <item>com.mi.health/com.xiaomi.fitness.notify.NotifySyncService</item>
+        <item>com.huawei.health/com.huawei.bone.ui.setting.NotificationPushListener</item>
+        <item>com.heytap.health/com.heytap.health.watch.commonnotification.HeytapNotificationListenerService</item>
+        <item>com.vivo.health/com.vivo.health.devices.watch.notify.NotificationService</item>
+        <item>com.xiaomi.hm.health/com.xiaomi.hm.health.ui.smartplay.NotificationAccessService</item>
+     </string-array>
+     <string-array name="miui_resize_white_list">
+        <item>com.android.camera</item>
+     </string-array>
+</resources>

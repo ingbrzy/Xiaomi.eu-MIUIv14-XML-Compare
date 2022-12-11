@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="session_starting_app_count_backup_text">
+        <item quantity="other">Backed up %d apps</item>
+        <item quantity="one">Backed up %d app</item>
+     </plurals>
+     <plurals name="session_starting_app_count_restore_text">
+        <item quantity="other">Restored %d apps</item>
+        <item quantity="one">Restored %d app</item>
+     </plurals>
+</resources>

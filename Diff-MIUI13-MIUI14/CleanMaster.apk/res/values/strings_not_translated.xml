@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="preference_key_about_privacy">key_about_privacy</string>
-     <string name="preference_key_whatsapp_setting_privacy_mi">key_whatsapp_setting_privacy_mi</string>
-     <string name="preference_key_whatsapp_setting_privacy_third">key_whatsapp_setting_privacy_third</string>
+     <string name="copy_toast_msg">Link copied to clipboard</string>
+     <string name="fallback_menu_item_copy_link">Copy link</string>
+     <string name="fallback_menu_item_open_in_browser">Open in browser</string>
+     <string name="fallback_menu_item_share_link">Share link</string>
 </resources>

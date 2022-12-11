@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="airplane">Airplane</string>
+     <string name="bootloader">Fastboot</string>
+     <string name="recovery">Recovery</string>
+     <string name="silent">Silent</string>
+     <string name="slider_view_content_left_description">Slide up to reboot to Fastboot mode or slide down to reboot to Recovery mode</string>
+     <string name="slider_view_content_right_description">Slide up to toggle Airplane mode or slide down to toggle Silent mode</string>
+</resources>

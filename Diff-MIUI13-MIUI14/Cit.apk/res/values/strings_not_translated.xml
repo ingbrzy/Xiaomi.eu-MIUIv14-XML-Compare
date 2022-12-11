@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="ST_CurrentDsi">\u0009\u0009ST_CurrentDsi</string>
+     <string name="ST_CurrentDsiDisplay">-1</string>
+     <string name="ST_CurrentMcc">\u0009\u0009ST_CurrentMcc</string>
+     <string name="ST_CurrentMccDisplay">-1</string>
+     <string name="ST_EffectiveRegulatoryBody">\u0009\u0009ST_EffectiveRegulatoryBody</string>
+     <string name="ST_EffectiveRegulatoryBodyDisplay">-1</string>
+     <string name="ST_ExposureMode">\u0009\u0009ST_ExposureMode</string>
+     <string name="ST_ExposureModeDisplay">-1</string>
+     <string name="ST_MccRegulatoryBody">\u0009\u0009ST_MccRegulatoryBody</string>
+     <string name="ST_MccRegulatoryBodyDisplay">-1</string>
+     <string name="ST_PeakModeOverrideMask">\u0009\u0009ST_PeakModeOverrideMask</string>
+     <string name="ST_PeakModeOverrideMaskDisplay">-1</string>
+     <string name="ST_QstGen">\u0009\u0009ST_QstGen</string>
+     <string name="ST_QstGenDisplay">-1</string>
+     <string name="ST_QstMode">\u0009\u0009ST_QstMode</string>
+     <string name="ST_QstModeDisplay">-1</string>
+     <string name="ST_SensingMode">\u0009\u0009ST_SensingMode</string>
+     <string name="ST_SensingModeDisplay">-1</string>
+     <string name="auto_frontflash_description">All the front flash lights are on, click to pass, otherwise click to fail</string>
+     <string name="auto_frontflash_title">Front camera flash test</string>
+     <string name="auto_rearflash_description">All rear camera flash lights are on, click to pass, otherwise click to fail</string>
+     <string name="auto_rearflash_title">Rear camera flash test</string>
+</resources>
