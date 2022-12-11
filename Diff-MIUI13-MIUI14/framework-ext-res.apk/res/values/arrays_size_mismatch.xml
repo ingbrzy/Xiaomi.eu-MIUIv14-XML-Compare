@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <!-- Size mismatch! Translated: 12, Original: 11 -->
+     <string-array name="list_about_need_relunch">
+        <item>com.supercell.clashroyale.mi</item>
+        <item>com.ss.android.ugc.live</item>
+        <item>com.taobao.taobao</item>
+        <item>com.tencent.qqmusic</item>
+        <item>com.greenpoint.android.mc10086.activity</item>
+        <item>com.xiaomi.market</item>
+        <item>com.android.email</item>
+        <item>cn.xuexi.android</item>
+        <item>com.yuwan.tmshipin</item>
+        <item>com.tencent.gamehelper.smoba</item>
+        <item>com.mybank.android.phone</item>
+     </string-array>
+     <!-- Size mismatch! Translated: 11, Original: 12 -->
+     <string-array name="process_fg_service_check_list">
+        <item>com.miui.screenrecorder</item>
+        <item>com.android.soundrecorder</item>
+        <item>com.android.deskclock</item>
+        <item>com.miui.voiceassist</item>
+        <item>com.xiaomi.drivemode</item>
+        <item>com.caiharbor.esim</item>
+        <item>com.miui.backup</item>
+        <item>com.android.thememanager</item>
+        <item>com.miui.mishare.connectivity</item>
+        <item>com.miui.notes</item>
+        <item>com.milink.service</item>
+        <item>com.xiaomi.mirror</item>
+     </string-array>
+     <!-- Size mismatch! Translated: 11, Original: 8 -->
+     <string-array name="process_static_white_list_base">
+        <item>com.lbe.security.miui</item>
+        <item>com.miui.virtualsim:authentication</item>
+        <item>com.miui.touchassistant:float</item>
+        <item>com.miui.tsmclient:daemon</item>
+        <item>com.miui.securitycore.remote</item>
+        <item>com.miui.securitycenter.remote</item>
+        <item>com.miui.greenguard</item>
+        <item>com.miui.aod</item>
+     </string-array>
+     <!-- Size mismatch! Translated: 79, Original: 53 -->
+     <string-array name="rt_boost_pkg_white_list">
+        <item>com.tencent.mm</item>
+        <item>com.sina.weibo</item>
+        <item>com.taobao.taobao</item>
+        <item>com.tencent.mobileqq</item>
+        <item>com.ss.android.ugc.aweme</item>
+        <item>com.ss.android.article.news</item>
+        <item>com.eg.android.AlipayGphone</item>
+        <item>com.xunmeng.pinduoduo</item>
+        <item>com.kuaishou.nebula</item>
+        <item>com.ss.android.ugc.aweme.lite</item>
+        <item>com.smile.gifmaker</item>
+        <item>com.tencent.mtt</item>
+        <item>com.baidu.searchbox</item>
+        <item>com.autonavi.minimap</item>
+        <item>com.jingdong.app.mall</item>
+        <item>tv.danmaku.bili</item>
+        <item>com.sankuai.meituan</item>
+        <item>com.alibaba.android.rimet</item>
+        <item>com.ss.android.article.lite</item>
+        <item>com.UCMobile</item>
+        <item>com.tencent.qqlive</item>
+        <item>com.kugou.android</item>
+        <item>com.netease.cloudmusic</item>
+        <item>com.tencent.qqmusic</item>
+        <item>com.dragon.read</item>
+        <item>com.baidu.BaiduMap</item>
+        <item>com.xingin.xhs</item>
+        <item>com.qiyi.video</item>
+        <item>com.tencent.news</item>
+        <item>com.zhihu.android</item>
+        <item>com.taobao.idlefish</item>
+        <item>com.miui.home</item>
+        <item>com.android.incallui</item>
+        <item>com.android.browser</item>
+        <item>com.sohu.inputmethod.sogou.xiaomi</item>
+        <item>com.android.systemui</item>
+        <item>com.android.deskclock</item>
+        <item>com.miui.gallery</item>
+        <item>com.miui.video</item>
+        <item>com.android.contacts</item>
+        <item>com.android.mms</item>
+        <item>com.miui.securitycenter</item>
+        <item>com.miui.calculator</item>
+        <item>com.miui.weather2</item>
+        <item>com.android.settings</item>
+        <item>com.xiaomi.market</item>
+        <item>com.miui.notes</item>
+        <item>com.android.calendar</item>
+        <item>com.xiaomi.shop</item>
+        <item>com.miui.player</item>
+        <item>com.android.thememanager</item>
+        <item>com.android.fileexplorer</item>
+        <item>com.miui.personalassistant</item>
+     </string-array>
+     <!-- Size mismatch! Translated: 5, Original: 4 -->
+     <string-array name="smart_power_package_white_list">
+        <item>com.xiaomi.xmsf</item>
+        <item>com.miui.mishare.connectivity</item>
+        <item>com.lbe.security.miui</item>
+        <item>com.miui.cloudbackup</item>
+     </string-array>
+     <!-- Size mismatch! Translated: 8, Original: 9 -->
+     <string-array name="smart_power_process_white_list">
+        <item>com.tencent.mm:push</item>
+        <item>com.tencent.wework:push</item>
+        <item>com.tencent.mobileqq:MSF</item>
+        <item>com.tencent.tim:MSF</item>
+        <item>com.eg.android.AlipayGphone:push</item>
+        <item>com.ss.android.lark.kami:wschannel</item>
+        <item>android.process.media</item>
+        <item>com.miui.misound</item>
+        <item>com.android.htmlviewer:remote</item>
+     </string-array>
+</resources>

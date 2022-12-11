@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="somepc_send_much_file_to_you_files">%1$s is sending more than 200 files to you…</string>
+</resources>

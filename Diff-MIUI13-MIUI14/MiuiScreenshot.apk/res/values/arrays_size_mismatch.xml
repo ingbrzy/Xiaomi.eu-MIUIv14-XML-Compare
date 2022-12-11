@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <!-- Size mismatch! Translated: 3, Original: 2 -->
+     <string-array name="config_forbidenLongScreenshot">
+        <item>com.tencent.map</item>
+        <item>com.android.chrome</item>
+     </string-array>
+</resources>

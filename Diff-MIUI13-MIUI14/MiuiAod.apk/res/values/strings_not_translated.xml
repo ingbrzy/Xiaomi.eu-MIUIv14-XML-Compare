@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="chip_text">Chip text</string>
+     <string name="label">Label</string>
+     <string name="m3_ref_typeface_brand_medium">sans-serif-medium</string>
+     <string name="m3_ref_typeface_brand_regular">sans-serif</string>
+     <string name="m3_ref_typeface_plain_medium">sans-serif-medium</string>
+     <string name="m3_ref_typeface_plain_regular">sans-serif</string>
+</resources>

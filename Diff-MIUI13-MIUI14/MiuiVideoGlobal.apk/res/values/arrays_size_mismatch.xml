@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <!-- Size mismatch! Translated: 25, Original: 23 -->
+     <string-array name="subtitle_language_codes">
+        <item>zh_CN</item>
+        <item>zh_HK</item>
+        <item>zh_TW</item>
+        <item>th_TH</item>
+        <item>ja_JP</item>
+        <item>ms_MY</item>
+        <item>pt_PT</item>
+        <item>it_IT</item>
+        <item>id_ID</item>
+        <item>ru_RU</item>
+        <item>sw_CD</item>
+        <item>ar_SA</item>
+        <item>de_DE</item>
+        <item>tl_PH</item>
+        <item>es_ES</item>
+        <item>ko_KR</item>
+        <item>fr_FR</item>
+        <item>vi_VN</item>
+        <item>en_GB</item>
+        <item>中en_GB双语</item>
+        <item>中文字幕</item>
+        <item>泰文</item>
+        <item>无字幕</item>
+     </string-array>
+     <!-- Size mismatch! Translated: 25, Original: 23 -->
+     <string-array name="subtitle_language_names">
+        <item>简体中文</item>
+        <item>繁體中文</item>
+        <item>繁體中文</item>
+        <item>ไทย</item>
+        <item>日本語</item>
+        <item>Melayu</item>
+        <item>Português</item>
+        <item>Italiano</item>
+        <item>Indonesia</item>
+        <item>Русский</item>
+        <item>kiswahili</item>
+        <item>العربية</item>
+        <item>Deutsch</item>
+        <item>Filipino</item>
+        <item>Español</item>
+        <item>한국어</item>
+        <item>Français</item>
+        <item>Tiếng Việt</item>
+        <item>English</item>
+        <item>中英双语</item>
+        <item>中文字幕</item>
+        <item>ไทย</item>
+        <item>无字幕</item>
+     </string-array>
+</resources>
