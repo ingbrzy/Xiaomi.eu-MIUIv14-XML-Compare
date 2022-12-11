@@ -1,1 +1,2 @@
 Removed: [sk] strings.xml: string/večer (invalid name)
+Removed: [uk] strings.xml: string/no_recent_activity (duplicate)

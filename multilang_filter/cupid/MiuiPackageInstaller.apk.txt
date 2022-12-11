@@ -1,6 +1,2 @@
-Removed: [ar] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)
-Removed: [el] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)
-Removed: [fa-rIR] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)
-Removed: [iw-rIL] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)
-Removed: [ru] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)
-Removed: [uk] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)
+Removed: [hr] plurals.xml: plurals/app_info_permission_count (format mismatch)
+Removed: [hr] plurals.xml: plurals/app_info_permission_count_ (format mismatch)
