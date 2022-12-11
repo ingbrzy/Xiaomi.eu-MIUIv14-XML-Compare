@@ -1,0 +1,7 @@
+Removed: [cs] arrays.xml: array/jarní_sezóna_název (invalid name)
+Removed: [cs] arrays.xml: array/magic_effects_video_titles (item mismatch)
+Removed: [cs] strings.xml: string/backup_pause_title (format mismatch)
+Removed: [cs] strings.xml: string/photo_editor_navigator_download_network_metered_msg (format mismatch)
+Removed: [sk] arrays.xml: array/magic_effects_video_titles (item mismatch)
+Removed: [sk] strings.xml: string/backup_pause_title (format mismatch)
+Removed: [sk] strings.xml: string/photo_editor_navigator_download_network_metered_msg (format mismatch)

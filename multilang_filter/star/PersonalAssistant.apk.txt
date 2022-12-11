@@ -1,0 +1,2 @@
+Removed: [cs] strings.xml: string/pa_accessibility_picker_home_widget_slected (format mismatch)
+Removed: [sk] strings.xml: string/pa_accessibility_picker_home_widget_slected (format mismatch)
