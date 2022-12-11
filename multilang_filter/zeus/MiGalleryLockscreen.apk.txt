@@ -1,0 +1,8 @@
+Removed: [ar] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)
+Removed: [cs] strings.xml: string/první_nodata (invalid name)
+Removed: [el] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)
+Removed: [fa-rIR] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)
+Removed: [iw-rIL] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)
+Removed: [ru] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)
+Removed: [sk] strings.xml: string/večer (invalid name)
+Removed: [uk] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)

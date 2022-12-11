@@ -1,0 +1,4 @@
+Removed: [cs] strings.xml: string/dolly_zoom_capture_tip1 (format mismatch)
+Removed: [cs] strings.xml: string/update_loading (format mismatch)
+Removed: [sk] strings.xml: string/dolly_zoom_capture_tip1 (format mismatch)
+Removed: [sk] strings.xml: string/update_loading (format mismatch)

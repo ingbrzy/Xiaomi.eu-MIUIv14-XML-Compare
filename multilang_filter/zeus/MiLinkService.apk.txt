@@ -1,0 +1,2 @@
+Removed: [cs] strings.xml: string/privacy_detail (format mismatch)
+Removed: [sk] strings.xml: string/privacy_detail (format mismatch)

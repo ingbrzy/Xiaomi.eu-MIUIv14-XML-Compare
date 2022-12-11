@@ -1,0 +1,6 @@
+Removed: [cs] arrays.xml: array/bluetooth_a2dp_codec_summaries (item mismatch)
+Removed: [cs] arrays.xml: array/bluetooth_a2dp_codec_titles (item mismatch)
+Removed: [cs] arrays.xml: array/bt_hci_snoop_log_entries (item mismatch)
+Removed: [sk] arrays.xml: array/bluetooth_a2dp_codec_summaries (item mismatch)
+Removed: [sk] arrays.xml: array/bluetooth_a2dp_codec_titles (item mismatch)
+Removed: [sk] arrays.xml: array/bt_hci_snoop_log_entries (item mismatch)

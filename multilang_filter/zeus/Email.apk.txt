@@ -1,0 +1,6 @@
+Removed: [bg] strings.xml: string/certificate_added (format mismatch)
+Removed: [bg] strings.xml: string/certificate_add_failed (format mismatch)
+Removed: [cs-rCZ] arrays.xml: array/signature_normal_string_array (item mismatch)
+Removed: [fa] strings.xml: string/att_file_not_exists (format mismatch)
+Removed: [fa] strings.xml: string/outbox_alert_description_cannot_authenticate (format mismatch)
+Removed: [fa] strings.xml: string/outbox_alert_description_reject_by_server (format mismatch)
