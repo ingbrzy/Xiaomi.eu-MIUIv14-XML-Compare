@@ -1296,6 +1296,7 @@ Send this code to the supervisor."</string>
     <string name="enable_secret_album_upload_message">All private items will be synced with the cloud after you turn this feature on. Turn on now?</string>
     <string name="enter_choice_mode">Entered Share dialog</string>
     <string name="enter_email_hint">Enter email address</string>
+    <string name="equivalent_focal_length">(Equivalent focal length %dmm)</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
     <string name="error_album_not_exist">"Album doesn't exist"</string>
