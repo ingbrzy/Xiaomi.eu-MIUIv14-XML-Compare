@@ -156,9 +156,9 @@
     <string name="app_drawer_guide_description">"Find what you're looking for in your favorite apps"</string>
     <string name="app_drawer_guide_title">App drawer</string>
     <string name="app_drawer_tip_title">"We've replaced Content feed with App drawer."</string>
+    <string name="app_edit_icon">Edit icon</string>
     <string name="app_install_state">Installed</string>
     <string name="app_name">smallWindow</string>
-    <string name="app_set_icon">Set icon</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="application_name">System launcher</string>
     <string name="apply">Set</string>
@@ -318,7 +318,7 @@
     <string name="close_multi_finger_slide_summary">These gestures will be ignored in some scenarios (e.g. games and videos playback)</string>
     <string name="close_multi_finger_slide_title">"Don't respond to three- and four-finger gestures"</string>
     <string name="cloud_app_restore_title">Pending</string>
-    <string name="com.crashlytics.android.build_id">d5e8169f7a704a24901d11e74162c1f9</string>
+    <string name="com.crashlytics.android.build_id">d90eff2b0b844c32927f3292cc5bdfed</string>
     <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
     <string name="common_home_search_delete">Removing search bar</string>
     <string name="common_home_search_delete_cancle">Cancel</string>
@@ -388,6 +388,8 @@
     <string name="dialog_work_profile_title">Work profile</string>
     <string name="disable_wallpaper_scroll">Turn side-scrolling off</string>
     <string name="discovery_data_constant_part_end">&amp;ref=com.miui.home&amp;senderPackageName=com.miui.home&amp;ext_xxx=com.miui.home &amp;show_cta=true&amp;overlayPosition=1&amp;startDownload=true&amp;showToast=true&amp;extInstallUIType=1</string>
+    <string name="dock_and_folder_not_edit_icon_tip">To edit, move the app out of the dock and folder first</string>
+    <string name="dock_not_edit_icon_tip">To edit, move the app out of the dock first</string>
     <string name="double_tap_to_lock_title">Double tap to lock screen</string>
     <string name="download_action">Download</string>
     <string name="drag_icon_to_homescreen_guide">Press and hold an app icon, then drag it to add a Home screen shortcut</string>
@@ -506,9 +508,11 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
+    <string name="fold_pair_install_shortcut_launcher_success">Created successfully</string>
     <string name="fold_pair_install_shortcut_long_click">Press and hold to add to Home screen</string>
     <string name="fold_pair_installed_shortcut_launcher">This shortcut already exists</string>
     <string name="folder_name">Folder</string>
+    <string name="folder_not_edit_icon_tip">To edit, move the app out of the folder first</string>
     <string name="folder_picker_big_text">Enlarged</string>
     <string name="folder_picker_default_text">Regular</string>
     <string name="folder_picker_options_tab_text">Size</string>
@@ -995,6 +999,8 @@ Enhanced security."</string>
     <string name="quick_search_guide_quick_search">Quick search</string>
     <string name="quick_search_guide_title">Select default mode</string>
     <string name="recent_apps">Recent</string>
+    <string name="recent_menu_item_add_pair">Create a Home screen shortcut for this Split screen combination</string>
+    <string name="recent_menu_item_add_pair_first_toast">Create a Home screen shortcut for this Split screen combination</string>
     <string name="recent_menu_item_info">Info</string>
     <string name="recent_menu_item_lock">Lock</string>
     <string name="recent_menu_item_multi_window">Split</string>
