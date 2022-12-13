@@ -1,2 +1,0 @@
-Removed: [pl] strings.xml: string/worker_authorization_message (duplicate)
-Removed: [pl] strings.xml: string/worker_connect_fail_message (duplicate)
