@@ -102,7 +102,7 @@
     <string name="chinese_symbol_animals_tiger">虎</string>
     <string name="clearable_edittext_clear_description">Clear</string>
     <string name="close">Off</string>
-    <string name="com.crashlytics.android.build_id">1546504ed78b47bfa8e7f590ea70bc3d</string>
+    <string name="com.crashlytics.android.build_id">6f50a5cbd75645e681bfb3c9dd387d1e</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -377,6 +377,14 @@
     <string name="refocus_type_static">Blur</string>
     <string name="refocus_type_video">Light trails</string>
     <string name="required_permissions">android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;android.permission.ACCESS_MEDIA_LOCATION;</string>
+    <string name="saf_operation_guide_1">"Gallery Editor needs your permission to be able to protect and manage your data. "</string>
+    <string name="saf_operation_guide_2">To grant the permission, tap \"%1$s\" and then select \"%2$s\".</string>
+    <string name="saf_operation_guide_param1">Next</string>
+    <string name="saf_operation_guide_param2">Access this folder</string>
+    <string name="saf_requester_cancel">Cancel</string>
+    <string name="saf_requester_title">Allow Gallery Editor to access \"%s\"</string>
+    <string name="saf_secret_album">Private album</string>
+    <string name="saf_secret_album_guide">This app needs permissions to display items from your private album.</string>
     <string name="saturday">Saturday</string>
     <string name="saturday_short">Sat</string>
     <string name="saturday_shortest">Sat</string>

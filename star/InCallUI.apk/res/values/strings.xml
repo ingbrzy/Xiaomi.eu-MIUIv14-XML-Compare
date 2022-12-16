@@ -592,9 +592,12 @@ Tap \"%1$s\" and then select \"%2$s\"."</string>
     <string name="video_call_downgrade_insufficient_bandwidth">Insufficient bandwidth, downgrade to voice call</string>
     <string name="video_conference_caller_info_name">"%1$s's video conference call"</string>
     <string name="video_crbt_title">Playing profile video…</string>
+    <string name="vilte_call">ViLTE</string>
+    <string name="viwifi_call">ViWifi</string>
     <string name="voice_control_deny_permission_msg">"Can't use voice controls now. Allow this app to record audio first."</string>
     <string name="voicemail">Voicemail</string>
-    <string name="volte_call">VoLTE call</string>
+    <string name="volte_call">"Vo
+LTE"</string>
     <string name="volume_boost_text">Boosted volume successfully</string>
     <string name="wait_prompt_str">"Send the following tones?
 "</string>
@@ -602,7 +605,8 @@ Tap \"%1$s\" and then select \"%2$s\"."</string>
     <string name="wednesday">Wednesday</string>
     <string name="wednesday_short">Wed</string>
     <string name="wednesday_shortest">Wed</string>
-    <string name="wifi_call">VoWifi call</string>
+    <string name="wifi_call">"Vo
+WiFi"</string>
     <string name="xiaoai_assistant">Mi AI Call Assistant</string>
     <string name="yesterday">Yesterday</string>
 </resources>

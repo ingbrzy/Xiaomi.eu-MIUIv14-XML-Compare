@@ -103,6 +103,7 @@
     <string name="date_picker_label_year" />
     <string name="default_lock_mi_wallpaper_path">/system/media/theme/default/lock_wallpaper</string>
     <string name="default_lock_wallpaper_path">/system/media/theme/default/lock_wallpaper</string>
+    <string name="default_wallpaper_type">default</string>
     <string name="early_morning">Morning</string>
     <string name="earth_coordinate_latitude_0">13.910°E</string>
     <string name="earth_coordinate_latitude_1">110.152°E</string>

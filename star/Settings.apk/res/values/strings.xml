@@ -2431,6 +2431,7 @@ If you install a CA certificate, the certificate owner could access your data, s
     <string name="close_fod">"You won't be able to unlock your device using your fingerprint when the screen is off. Fingerprint unlock will only work when the screen is on."</string>
     <string name="close_fod_aod">"You won't be able to unlock your device using your fingerprint when the screen is off. \"Always on mode\" won't be available as well. Fingerprint unlock will only work when the screen is on."</string>
     <string name="close_hotspot_hint">Turn off portable hotspot before casting</string>
+    <string name="close_lid_display_settings_title">After folding</string>
     <string name="close_miui_optimization_title">Turn off MIUI optimization</string>
     <string name="close_optimization_message">Text layout, accounts, and other parts of MIUI might be affected after you turn this feature off.</string>
     <string name="close_optimization_option">Turn off</string>
@@ -4822,6 +4823,8 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="insufficient_storage">Not enough storage space.</string>
     <string name="intelligence_suppression_summary">Dynamically adjust the size of the area near the edges where accidental touch will be ignored based on your grip</string>
     <string name="intelligence_suppression_title">Auto (Recommended)</string>
+    <string name="intelligent_keep_screen_on">Keep screen on when necessary</string>
+    <string name="intelligent_keep_screen_on_summary">"Keep outer screen on when it's facing upwards"</string>
     <string name="intent_sender_account_label">Account:</string>
     <string name="intent_sender_action_label">Action:</string>
     <string name="intent_sender_data_label">Data:</string>
@@ -4871,7 +4874,7 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="kddi_nfc_secure_settings_title">Lock while on Lock screen</string>
     <string name="kddi_nfc_secure_toggle_summary">Keep NFC/Osaifu-keitai on only when the device is unlocked</string>
     <string name="keep_legacy_fingerprint">Keep</string>
-    <string name="keep_screen_on">"Don't lock screen"</string>
+    <string name="keep_screen_on">Keep screen on</string>
     <string name="keep_screen_on_after_folding_off_summary">Keep outer screen on after folding during calls or when camera is being used</string>
     <string name="keep_screen_on_after_folding_on_summary">Keep outer screen on after folding to continue with your current tasks</string>
     <string name="keep_screen_on_after_folding_text">Keep outer screen on after folding to continue with your current tasks</string>
@@ -5350,6 +5353,7 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="lock_screen_notifs_show_all_summary">Show conversations, default, and silent</string>
     <string name="lock_screen_notifs_show_none">Don’t show any notifications</string>
     <string name="lock_screen_notifs_title">Notifications on lock screen</string>
+    <string name="lock_screen_now">Lock screen</string>
     <string name="lock_screen_password_skip_biometrics_message">"A password is required to set up Face Unlock and Fingerprint Unlock.
 
 A password protects the phone if it’s lost or stolen."</string>
@@ -6143,7 +6147,7 @@ Continue to access additional settings."</string>
     <string name="miui_sos_exit_emergency_title">Turn off</string>
     <string name="miui_sos_exit_send_location_title">Sharing your location with emergency contacts in real time</string>
     <string name="miui_sos_green_guard_summary">Share location info in real time</string>
-    <string name="miui_sos_green_guard_title">Parental controls</string>
+    <string name="miui_sos_green_guard_title">Family Guard</string>
     <string name="miui_sos_hospital_card">Medical card</string>
     <string name="miui_sos_hospital_card_important_info">Your critical medical information for first responders</string>
     <string name="miui_sos_launch_error">"Couldn't activate Emergency SOS"</string>
@@ -7911,7 +7915,7 @@ This setting affects all users on this phone."</string>
     <string name="rx_link_speed">%1$d Mbps</string>
     <string name="rx_link_speed_label">Receive link speed:</string>
     <string name="rx_wifi_speed">Receive link speed</string>
-    <string name="safe_install_mode_settings">Secure mode</string>
+    <string name="safe_install_mode_settings">Mi Protect</string>
     <string name="safety_and_regulatory_info">Safety &amp; regulatory manual</string>
     <string name="safety_center_summary">App security, device lock, permissions</string>
     <string name="safety_center_title">Security &amp; privacy</string>
@@ -9648,6 +9652,8 @@ Try using a faster ^3, or use this ^4 for portable storage instead."</string>
     <string name="swipe_direction_ltr">Swipe right to dismiss, left to show menu</string>
     <string name="swipe_direction_rtl">Swipe left to dismiss, right to show menu</string>
     <string name="swipe_direction_title">Swipe actions</string>
+    <string name="swipe_up_to_continue_using">Swipe up to continue</string>
+    <string name="swipe_up_to_continue_using_summary">Lock after %d secs of inactivity</string>
     <string name="swipe_up_to_switch_apps_suggestion_summary">Turn on the new gesture to switch apps</string>
     <string name="swipe_up_to_switch_apps_suggestion_title">Try the new Home button</string>
     <string name="swipe_up_to_switch_apps_summary">To switch apps, swipe up on the Home button. To see all apps, swipe up again. To go back, tap the back button.</string>
