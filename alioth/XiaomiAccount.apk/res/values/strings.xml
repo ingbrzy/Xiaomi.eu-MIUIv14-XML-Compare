@@ -210,6 +210,11 @@ You can sign in to your Xiaomi Account using %s now."</string>
     <string name="cloud_member_vipname_premium">Premium</string>
     <string name="cloud_member_vipname_ultra">Ultra</string>
     <string name="cloud_service">Xiaomi Cloud</string>
+    <string name="cloud_service_cloud_open">Turn on</string>
+    <string name="cloud_service_space_full">Storage full</string>
+    <string name="cloud_service_space_not_enough">Insufficient storage</string>
+    <string name="cloud_service_space_used">Occupied</string>
+    <string name="cloud_service_state_error">"Couldn't load"</string>
     <string name="cloud_service_status_backup_not_open">Backup is off</string>
     <string name="cloud_service_status_cloud_not_open">Off</string>
     <string name="cloud_service_status_storage_full">Storage is full</string>
@@ -289,6 +294,8 @@ You can sign in to your Xiaomi Account using %s now."</string>
     <string name="diagnosis_log_sent_format">"Sent log successfully.
 ID:%s
 Send this code to the supervisor."</string>
+    <string name="dind_device_service_not_open">Off</string>
+    <string name="dind_device_service_opened">On</string>
     <string name="download_file">Downloading %s…</string>
     <string name="early_morning">Morning</string>
     <string name="earthly_branches_chen">辰</string>
@@ -322,6 +329,7 @@ Send this code to the supervisor."</string>
     <string name="facebook_login">Sign in with Facebook</string>
     <string name="failed_dup_secure_phone_number">This phone number is already associated with another Xiaomi Account</string>
     <string name="family_service">Family services</string>
+    <string name="family_service_not_open">Invite members</string>
     <string name="family_share">Family sharing</string>
     <string name="fb_login_protocol_scheme">fb2263965750590514</string>
     <string name="find_device">Find device</string>
@@ -474,7 +482,8 @@ Send this code to the supervisor."</string>
     <string name="login_with_other">More options</string>
     <string name="logout_account">Sign out</string>
     <string name="logout_failed">"Can't sign out"</string>
-    <string name="marketSdkVersion">3.2.12</string>
+    <string name="marketSdkVersion">3.2.22</string>
+    <string name="mi_account">My account</string>
     <string name="mi_account_identity_title">Verify your identity</string>
     <string name="mi_finance">My finances</string>
     <string name="mi_finance_info">Bonuses for new users</string>
@@ -886,6 +895,11 @@ Send this code to the supervisor."</string>
     <string name="push_notify_dialog_title">Account verification</string>
     <string name="pwd_width_phone_number_or_mail_num">"Password can't contain your phone number, email, or Xiaomi Account ID"</string>
     <string name="qq">QQ</string>
+    <string name="qrcode_login_entry_text"><Data>Signed in on a different device? Use &lt;a href=>quick sign-in&lt;/a></Data></string>
+    <string name="qrcode_login_load_refresh"><Data>This QR code expired. Tap to &lt;a href=>refresh&lt;/a>.</Data></string>
+    <string name="qrcode_login_load_retry"><Data>"Couldn't load. &lt;a href=>Try again&lt;/a>."</Data></string>
+    <string name="qrcode_login_message">"Scan with your Xiaomi phone or tablet's Scanner app, Mi Home, or another Xiaomi app to sign in"</string>
+    <string name="qrcode_login_title">Scan to sign in</string>
     <string name="recycle_phone_notification_msg">Looks like your phone number has been recycled. Tap to update.</string>
     <string name="recycle_phone_notification_title">Xiaomi Account security risk</string>
     <string name="removing_account">Signing out…</string>
@@ -1045,6 +1059,8 @@ Send this code to the supervisor."</string>
     <string name="two_factor_auth_need_code_summary">"You'll see a code on other connected Mi devices. Enter this code on a new device to sign in."</string>
     <string name="two_factor_auth_summary">"When you try to sign in on a new device or in a new location, you'll be notified about this on other connected devices. You'll have to confirm whether such sign-in attempts are authorized by you."</string>
     <string name="unbind_sns_description">"After you disconnect this account, you won't be able to use your %s Account info to sign to your Xiaomi Account."</string>
+    <string name="unit_gb">" GB"</string>
+    <string name="unit_mb">" MB"</string>
     <string name="unknown_error_info">Unknown error</string>
     <string name="unlock_help_notice">"Help:
 1. If you forgot your password, go to id.mi.com to reset it.
@@ -1071,15 +1087,23 @@ Send this code to the supervisor."</string>
     <string name="user_instruction_all_purpose">Welcome to Xiaomi Account! You can use your account to access services provided by Xiaomi and its affiliated companies, such as Mi.com, Xiaomi Cloud, and GetApps. You can get Mi Coins, buy virtual goods, and enjoy value-added services including games, themes, and ebooks.</string>
     <string name="user_instruction_tip">To be able to sign in, read and agree to terms and conditions.</string>
     <string name="user_license_with_3rd_app"><Data>"By signing in with my Xiaomi Account, I confirm I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and Xiaomi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>."</Data></string>
-    <string name="user_license_with_3rd_app_mobile"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Xiaomi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of China Mobile verification services&lt;/a>."</Data></string>
-    <string name="user_license_with_3rd_app_no_operator"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and Xiaomi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>."</Data></string>
-    <string name="user_license_with_3rd_app_telcom"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Xiaomi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
-    <string name="user_license_with_3rd_app_unicom"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Xiaomi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of China Unicom verification services&lt;/a>."</Data></string>
-    <string name="user_license_with_out_3rd_app_no_operator"><Data>"I've read and agreed to Xiaomi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>."</Data></string>
+    <string name="user_license_with_3rd_app_mobile"><Data>"I've read and agreed to this app's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, the Xiaomi Account &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, and the &lt;a href=%5$s>China Mobile Authentication Terms of Service&lt;/a>.
+"</Data></string>
+    <string name="user_license_with_3rd_app_no_operator"><Data>"I've read and agreed to this app's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and the Xiaomi Account &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>.
+"</Data></string>
+    <string name="user_license_with_3rd_app_telcom"><Data>"I've read and agreed to this app's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, the Xiaomi Account &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, and the &lt;a href=%5$s>China Telecom Authentication Terms of Service&lt;/a>.
+"</Data></string>
+    <string name="user_license_with_3rd_app_unicom"><Data>"I've read and agreed to this app's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, the Xiaomi Account &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, and the &lt;a href=%5$s>China Unicom Authentication Terms of Service&lt;/a>.
+"</Data></string>
+    <string name="user_license_with_out_3rd_app_no_operator"><Data>"I've read and agreed to the Xiaomi Account &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>.
+"</Data></string>
     <string name="user_license_without_3rd_app"><Data>"I've read and agreed to Xiaomi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>."</Data></string>
-    <string name="user_license_without_3rd_mobile"><Data>"I've read and agreed to Xiaomi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of China Mobile verification services&lt;/a>."</Data></string>
-    <string name="user_license_without_3rd_telcom"><Data>"I've read and agreed to Xiaomi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
-    <string name="user_license_without_3rd_unicom"><Data>"I've read and agreed to Xiaomi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of China Unicom verification services&lt;/a>."</Data></string>
+    <string name="user_license_without_3rd_mobile"><Data>"I've read and agreed to the Xiaomi Account &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and the &lt;a href=%3$s>China Mobile Authentication Terms of Service&lt;/a>.
+"</Data></string>
+    <string name="user_license_without_3rd_telcom"><Data>"I've read and agreed to the Xiaomi Account &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and the &lt;a href=%3$s>China Telecom Authentication Terms of Service&lt;/a>.
+"</Data></string>
+    <string name="user_license_without_3rd_unicom"><Data>"I've read and agreed to the Xiaomi Account &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and the &lt;a href=%3$s>China Unicom Authentication Terms of Service&lt;/a>.
+"</Data></string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
     <string name="vip_account_settings">VIP Settings</string>
@@ -1090,6 +1114,7 @@ Send this code to the supervisor."</string>
     <string name="weixin">WeChat</string>
     <string name="weixin_login">Sign in with WeChat</string>
     <string name="xiao_mi_vip">Mi VIP</string>
+    <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Not now</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Update</string>
     <string name="xiaomi_market_sdk_update_dialog_title">An update is available</string>
