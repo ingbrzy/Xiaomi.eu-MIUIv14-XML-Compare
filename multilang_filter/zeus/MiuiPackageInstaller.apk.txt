@@ -1,2 +1,2 @@
-Removed: [hr] plurals.xml: plurals/app_info_permission_count (format mismatch)
-Removed: [hr] plurals.xml: plurals/app_info_permission_count_ (format mismatch)
+Removed: [hr] strings.xml: string/material_timepicker_select_time (duplicate)
+Removed: [hr] strings.xml: string/material_timepicker_text_input_mode_description (duplicate)

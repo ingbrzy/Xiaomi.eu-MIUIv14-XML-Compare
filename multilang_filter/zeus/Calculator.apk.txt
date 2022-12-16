@@ -1,5 +1,4 @@
 Removed: [cs] arrays.xml: array/unit_data_order_currency_ (item mismatch)
-Removed: [hr] plurals.xml: plurals/godina_držanja (invalid name)
 Removed: [ko] strings.xml: plurals/tenure_years (unexpected type)
 Removed: [sk] arrays.xml: array/unit_data_order_currency_ (item mismatch)
 Removed: [tr] arrays.xml: array/unit_data_order_currency_ (item mismatch)
