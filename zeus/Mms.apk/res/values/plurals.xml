@@ -87,6 +87,26 @@
         <item quantity="other">Marked as %2$s by %1$d people</item>
         <item quantity="one">Marked as %2$s by %1$d people</item>
     </plurals>
+    <plurals name="max_audio_length">
+        <item quantity="other">Audio messages can be up to %1$4d secs long</item>
+        <item quantity="one">Audio messages can be up to %1$4d sec long</item>
+    </plurals>
+    <plurals name="max_file_size">
+        <item quantity="other">Send files up to %1$4d MB</item>
+        <item quantity="one">Send files up to %1$4d MB</item>
+    </plurals>
+    <plurals name="max_recipients_size">
+        <item quantity="other">Send message to up to %1$4d contacts</item>
+        <item quantity="one">Send message to up to %1$4d contact</item>
+    </plurals>
+    <plurals name="max_text_size">
+        <item quantity="other">Messages can contain up to %1$4d characters</item>
+        <item quantity="one">Messages can contain up to %1$4d character</item>
+    </plurals>
+    <plurals name="max_video_length">
+        <item quantity="other">Videos can be up to %1$4d secs long</item>
+        <item quantity="one">Videos can be up to %1$4d sec long</item>
+    </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s messages</item>
         <item quantity="one">%1$s message</item>

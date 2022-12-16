@@ -311,7 +311,6 @@ your devices?"</string>
     <string name="config_wifi_label_china">Xiaomi Conference Tapcast Wi-Fi</string>
     <string name="config_wifi_label_global">Xiaomi Conference Tapcast Wi-Fi</string>
     <string name="connect_device_fail">"Couldn't connect to device"</string>
-    <string name="connect_success">%1$s connected</string>
     <string name="console_guide_btn_got_it">Got it</string>
     <string name="console_guide_subtitle_hang_up">You can keep casting when the screen of your device is turned off. This feature decreases power consumption.</string>
     <string name="console_guide_subtitle_private">"Don't display floating notifications, incoming calls, and other private items on external monitors"</string>
@@ -323,6 +322,10 @@ your devices?"</string>
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Chinese Traditional Calendar</string>
     <string name="date_time_picker_dialog_title">Set date and time</string>
+    <string name="dc_network_err">当前网络不可用, 请检查网络后重试</string>
+    <string name="dc_retry_upgrade">点击重试</string>
+    <string name="dc_upgrade_first">"请升级妙享中心服务
+体验最新功能"</string>
     <string name="debug_mode_idm_version">IDM版本</string>
     <string name="debug_mode_list_desc">默认仅显示设备名称</string>
     <string name="debug_mode_list_title">设备列表显示详细数据</string>
@@ -523,6 +526,7 @@ View help if you have problems connecting."</string>
     <string name="hang_up_alert_dialog_neg">Cancel</string>
     <string name="hang_up_alert_dialog_pos">OK</string>
     <string name="hang_up_alert_dialog_title">About to cast with screen off…</string>
+    <string name="headset_circulate_connect_success">connected</string>
     <string name="heavenly_stems_bing">丙</string>
     <string name="heavenly_stems_ding">丁</string>
     <string name="heavenly_stems_geng">庚</string>

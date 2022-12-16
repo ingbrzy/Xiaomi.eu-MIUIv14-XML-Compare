@@ -65,6 +65,12 @@
     <string name="calculator_introduction">You can use this app for calculations, converting units and currencies, and estimating your mortgage repayments.</string>
     <string name="camera_application_introduction">You can use this app to take photos and videos.</string>
     <string name="camera_introduction">You can use Camera to take photos and shoot videos.</string>
+    <string name="carousel_cookies_content"><Data>When you tap images and stories in Wallpaper Carousel, their full versions will be opened in your browser. Our trusted third party content provider can then recommend additional content and ads that are tailored to your interests. If you agree to activate this feature, they will place cookies in your browser, as described in this &lt;a href=\"%1$s\">Cookie Policy&lt;/a>. If you decline cookies, Wallpaper Carousel will still work but its content and recommendations might stop being relevant to you. You can always change your preferences in Settings.</Data></string>
+    <string name="carousel_cookies_subtitle">Cookies allow us to personalize your Lock screen experience.</string>
+    <string name="carousel_cookies_title">Personalized content and cookies</string>
+    <string name="carousel_privacy"><Data>"Read and agree to our trusted third party service provider's &lt;a href=\"%1$s\">Privacy Policy&lt;/a> and &lt;a href=\"%2$s\">User Agreement&lt;/a> before using Wallpaper Carousel."</Data></string>
+    <string name="carousel_setting">Set up your Lock screen</string>
+    <string name="carousel_setting_sub">Wallpaper Carousel will show you fresh stories every time you unlock your device</string>
     <string name="carrier_introduction_china">"In order to provide you with better services, processes running on your device (including SystemHelper, RegService, and Carrier Services) may periodically send the information related to your device and SIM card (including IMEI, IMSI, MSISDN, MEID, ICCID, MAC address, MIUI version, Android version, device model, and basic hardware specifications), as well as approximate location information (including region, coordinates, area identifier, and base station ID) to the carrier via Wi-Fi, mobile data network, or free SMS. The carrier promises to analyze relevant information only to improve the quality of services or to provide customized services or technologies, and won't disclose relevant information to third parties in any form that identifies you personally. The specific carrier statement shall prevail. Consult your carrier regarding the cost of using this service."</string>
     <string name="check_box_label"><Data>"By turning on this feature, you're agreeing to &lt;a href=%1$s>Xiaomi Interconnectivity Services Privacy Policy&lt;/a >."</Data></string>
     <string name="chinese_day_1">初一</string>
@@ -150,7 +156,7 @@
     <string name="congratulation_swipe">Swipe up to enter the system</string>
     <string name="congratulation_title">Setup complete</string>
     <string name="content_description_complete">Complete</string>
-    <string name="content_description_miui_version">MIUI 13</string>
+    <string name="content_description_miui_version">MIUI 14</string>
     <string name="content_description_start">Start</string>
     <string name="content_introduction">Content Center aggregates content and services from multiple channels. Here you can read articles, watch videos, view daily featured items, and receive content recommendations.</string>
     <string name="continue_to_enable_accessibility">Keep holding down two fingers to enable accessibility.</string>
