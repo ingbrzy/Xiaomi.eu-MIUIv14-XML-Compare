@@ -6141,7 +6141,7 @@ Continue to access additional settings."</string>
     <string name="miui_sos_exit_emergency_title">Turn off</string>
     <string name="miui_sos_exit_send_location_title">Sharing your location with emergency contacts in real time</string>
     <string name="miui_sos_green_guard_summary">Share location info in real time</string>
-    <string name="miui_sos_green_guard_title">Parental controls</string>
+    <string name="miui_sos_green_guard_title">Family Guard</string>
     <string name="miui_sos_hospital_card">Medical card</string>
     <string name="miui_sos_hospital_card_important_info">Your critical medical information for first responders</string>
     <string name="miui_sos_launch_error">"Couldn't activate Emergency SOS"</string>
@@ -7909,7 +7909,7 @@ This setting affects all users on this phone."</string>
     <string name="rx_link_speed">%1$d Mbps</string>
     <string name="rx_link_speed_label">Receive link speed:</string>
     <string name="rx_wifi_speed">Receive link speed</string>
-    <string name="safe_install_mode_settings">Secure mode</string>
+    <string name="safe_install_mode_settings">Mi Protect</string>
     <string name="safety_and_regulatory_info">Safety &amp; regulatory manual</string>
     <string name="safety_center_summary">App security, device lock, permissions</string>
     <string name="safety_center_title">Security &amp; privacy</string>
