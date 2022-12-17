@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_airplane_mode">Режим польоту</string>
+    <string name="label_silent_mode">Без звуку</string>
+    <string name="label_reboot">Перезавантаження</string>
+    <string name="label_shutdown">Вимкнення</string>
+    <string name="label_alert_reboot">Перезавантаження</string>
+    <string name="label_alert_recovery">Режим Recovery</string>
+    <string name="label_alert_fastboot">Режим Fastboot</string>
+    <string name="label_alert_shutdown">Вимкнення</string>
+    <string name="label_blank">Назад</string>
+</resources>
