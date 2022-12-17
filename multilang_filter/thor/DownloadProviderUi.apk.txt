@@ -1,0 +1,4 @@
+Removed: [cs] arrays.xml: array/prefEntries_max_bytes_limit (item mismatch)
+Removed: [cs] arrays.xml: array/prefValues_max_bytes_limit (item mismatch)
+Removed: [sk] arrays.xml: array/prefEntries_max_bytes_limit (item mismatch)
+Removed: [sk] arrays.xml: array/prefValues_max_bytes_limit (item mismatch)

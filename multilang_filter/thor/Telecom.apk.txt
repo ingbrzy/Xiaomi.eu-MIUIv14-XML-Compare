@@ -1,0 +1,1 @@
+Removed: [ko] strings.xml: string/취소 (invalid name)
