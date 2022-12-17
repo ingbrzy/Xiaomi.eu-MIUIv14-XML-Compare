@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="date_time">EEE, d 'de' MMMM"</string>
+    <string name="date_time_12">EEE, d 'de' MMMM"</string>
+    <string name="desc_date_format">EEEE, d 'de' MMMM"</string>
+    <string name="desc_date_format_12">EEEE, d 'de' MMMM"</string>
+    <string name="desc_time">'hora atual' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', toque duas vezes para abrir o Relógio'</string>
+</resources>
