@@ -1,0 +1,1 @@
+Removed: [it] strings.xml: string/superpower_progress_battery_last (format mismatch)
