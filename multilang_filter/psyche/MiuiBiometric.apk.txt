@@ -1,0 +1,4 @@
+Removed: [it] arrays.xml: array/device_need_operating_mode (item mismatch)
+Removed: [it] arrays.xml: array/device_use_cameraone (item mismatch)
+Removed: [it] arrays.xml: array/get_frame_nonsequence (item mismatch)
+Removed: [it] arrays.xml: array/retry_connect_camera (item mismatch)
