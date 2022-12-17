@@ -30,6 +30,7 @@
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="about_pure_mode">About Secure mode</string>
     <string name="about_safe_mode">Learn more about Secure mode</string>
+    <string name="access_denied_info">Too many attempts. Wait a minute or two and try again.</string>
     <string name="actionbar_button_up_description">Back</string>
     <string name="ad_permissions">&lt;u>Permissions&lt;u/></string>
     <string name="ad_privacy">&lt;u>Privacy&lt;u/></string>
@@ -96,6 +97,8 @@
     <string name="child_account_install_tips_content">为保护您的个人信息安全和系统安全，暂无法直接安装未知来源应用。请验证家长账号密码后安装。</string>
     <string name="child_account_install_tips_title">暂无法安装未知来源应用</string>
     <string name="child_identity_verify">未成年人账号验证</string>
+    <string name="child_open_safe_mode_click_tips">安全守护</string>
+    <string name="child_open_safe_mode_tips">请先开启安全守护，并验证家长账号密码后继续安装</string>
     <string name="chinese_day_1">初一</string>
     <string name="chinese_day_10">初十</string>
     <string name="chinese_day_11">十一</string>
@@ -169,7 +172,6 @@
     <string name="clearable_edittext_clear_description">Clear</string>
     <string name="close">Close</string>
     <string name="close_mi_protect_lockscreen_authorize_cancel">取消</string>
-    <string name="close_mi_protect_lockscreen_authorize_msg">锁屏密码验证授权</string>
     <string name="close_mi_protect_lockscreen_authorize_ok">确认</string>
     <string name="close_safe_mode">Turn off</string>
     <string name="comment_count_wan">%1$s万reviews</string>
@@ -385,7 +387,6 @@
     <string name="label">Label</string>
     <string name="learn_more">Learn more</string>
     <string name="lock_finger">Verify fingerprint to install</string>
-    <string name="lock_screen_authrioze_subtitle_fingerprint">验证指纹信息</string>
     <string name="lock_screen_authrioze_subtitle_password">锁屏密码授权</string>
     <string name="lock_screen_password_authrioze">Verify screen lock to install</string>
     <string name="lock_screen_risk">Screen lock</string>
@@ -473,7 +474,7 @@
     <string name="miui_install_fail_reason">Reason</string>
     <string name="miui_install_failed_reason">"This app isn't compatible with your device"</string>
     <string name="miui_install_failed_suggestion">Use a compatible version of this app</string>
-    <string name="miui_install_source_unkown">Unknown</string>
+    <string name="miui_install_source_unkown">unknown</string>
     <string name="miui_install_success">Installed successfully</string>
     <string name="miui_no_perms">No permissions required</string>
     <string name="miui_not_uninstall_system_app">"Can't uninstall system apps"</string>
@@ -590,6 +591,8 @@
     <string name="mtrl_timepicker_confirm">OK</string>
     <string name="net_work_error_msg">"Couldn't connect to the network to run a security check"</string>
     <string name="net_work_error_retry">Try again</string>
+    <string name="network_error_info">A network error occurred. Check your network settings and try again.</string>
+    <string name="network_timeout_info">"Couldn't connect to the network. Try again."</string>
     <string name="night">Evening</string>
     <string name="no_check_risk">No risks detected</string>
     <string name="no_install_permission_tip">"%1$s doesn't have permission to install"</string>
@@ -603,6 +606,7 @@
     <string name="open_app_install_safe_check">Check apps before installation</string>
     <string name="open_app_install_safe_des">Check apps for possible risks and security issues before installation</string>
     <string name="open_now">Turn on</string>
+    <string name="open_pure_mode_continue_install">开启并继续安装</string>
     <string name="open_pure_mode_sucess_toast">Secure mode is on. Changes will be applied during the next installation.</string>
     <string name="open_to_pure_mode">Turn on</string>
     <string name="passed_security_test">Passed Xiaomi security tests</string>
@@ -679,6 +683,7 @@
     <string name="pref_key_about_privacy_title">Privacy Policy</string>
     <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
     <string name="prepare_install">Preparing installation…</string>
+    <string name="progressbar_title">Checking for security issues…</string>
     <string name="prohibit_isntall">禁止安装</string>
     <string name="pure_function_introduction">Secure mode features</string>
     <string name="pure_guarding">Turned on</string>
@@ -708,6 +713,7 @@
     <string name="pure_mode_tip_dialog_title">%1$s正在尝试安装应用</string>
     <string name="pure_mode_title">Neutralize risks during installation</string>
     <string name="pure_tip_virus">This app contains viruses: %1$s</string>
+    <string name="report_text">举报</string>
     <string name="resolve_suggestion_title">Suggestion</string>
     <string name="risk_app">Poses risks</string>
     <string name="risk_app_go_to_browser_download">可前往浏览器继续下载该应用</string>
@@ -724,6 +730,8 @@
     <string name="risk_app_install_source">来源：%1$s</string>
     <string name="risk_app_installing_not_allow">已禁止风险来源的安装请求</string>
     <string name="risk_app_no_trust">未信任</string>
+    <string name="risk_app_open_pure_mode_description">%1$s为风险应用，为保护您的设备安全、隐私安全、财产安全，需先开启安全守护，开启后，可继续安装。</string>
+    <string name="risk_app_open_pure_mode_title">应用存在风险，请先开启安全守护</string>
     <string name="risk_app_prohibit_download">禁止下载该应用</string>
     <string name="risk_app_trust">信任风险应用</string>
     <string name="risk_app_trust_and_exit">完成并退出</string>
@@ -737,6 +745,8 @@
     <string name="risk_close_tip_des">"If you turn this feature off, any apps you're trying to install will no longer be checked for security issues and risky apps will be installed directly without your authorization. We'll have to verify your screen lock or fingerprint if you've set them previously."</string>
     <string name="risk_install_already_open">On</string>
     <string name="risk_install_no_open">Off</string>
+    <string name="risk_verification">风险验证</string>
+    <string name="risk_verification_des">该应用安装过于频繁，为了安全着想，请先进行风险验证，通过后可继续安装。</string>
     <string name="rist_app_introduce">About risky apps</string>
     <string name="safe_guard_title_text">为了安全着想，请开启安全守护</string>
     <string name="safe_guarding">安全守护中</string>
@@ -770,9 +780,6 @@
     <string name="secure_mode_security_verify">应用安全验证</string>
     <string name="secure_verify_close_tip_des">关闭后，系统无法对应用进行安全检查，所有应用无需任何授权即可直接安装，您须自行承担因此产生的任何风险。关闭需通过您当前设置的授权方式进行验证。</string>
     <string name="secure_verify_close_title">关闭应用安全验证</string>
-    <string name="secure_verify_face_authorize_msg">人脸验证授权</string>
-    <string name="secure_verify_subtitle_face">验证人脸信息</string>
-    <string name="secure_verify_subtitle_lock_screen">验证锁屏密码信息</string>
     <string name="security_auth">验证身份</string>
     <string name="security_auth_msg">Verify your identity</string>
     <string name="security_mode_close_feedback">Thank you for using Secure mode</string>
@@ -800,7 +807,7 @@
     <string name="security_mode_open_guide_elder_title">开启为长辈设计的安全守护</string>
     <string name="security_mode_open_notification_action_button">详细了解</string>
     <string name="security_mode_open_notification_msg">安全守护将持续保护你的设备</string>
-    <string name="security_mode_open_notification_title">安全守护以启用</string>
+    <string name="security_mode_open_notification_title">安全守护已启用</string>
     <string name="security_mode_renamed">纯净模式已升级为</string>
     <string name="security_mode_renamed_ok">知道了</string>
     <string name="send">Send</string>
@@ -896,6 +903,7 @@
     <string name="sunday_shortest">Sun</string>
     <string name="sure_install">确认安装吗？</string>
     <string name="sure_ok">Got it</string>
+    <string name="system_error_info">System is busy. Wait a minute or two and try again.</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
     <string name="the_anti_aggression_day">Anti-Aggression Day</string>
     <string name="the_arbor_day">Arbor Day</string>
@@ -969,6 +977,7 @@
     <string name="uninstall_update_text_multiuser">Replace this app with the factory version? All data will be removed. This affects all users of this device, including those with work profiles.</string>
     <string name="uninstall_update_title">Uninstall update</string>
     <string name="unknown_apps_admin_dlg_text">"Your administrator doesn't allow installation of apps obtained from unknown sources."</string>
+    <string name="unknown_error_info">Unknown error</string>
     <string name="unknown_source_allow">Allow</string>
     <string name="unknown_source_forbidden">Restrict</string>
     <string name="unknown_source_risk_not_credible">安装来源存在安全风险</string>
@@ -982,6 +991,7 @@
     <string name="user_is_not_allowed_dlg_text">The current user is not allowed to perform this uninstallation.</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
+    <string name="verification_word">验证</string>
     <string name="verify_account_close_title">Turn off</string>
     <string name="verify_account_default_title">Verify your identity</string>
     <string name="verify_account_title">Verify your identity</string>

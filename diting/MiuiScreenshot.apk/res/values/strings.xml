@@ -254,7 +254,7 @@
     <string name="image_decode_failed">"Couldn't decode image"</string>
     <string name="image_not_found">"Couldn't find image"</string>
     <string name="lenovo">Lenovo</string>
-    <string name="lenovo_phone">Lenovo phone</string>
+    <string name="lenovo_phone">Lenovo</string>
     <string name="loading_text_format" formatted="false">Removing private info from photos (%d/%d)…</string>
     <string name="long_screenshot_error">An error occurred. Try again.</string>
     <string name="long_screenshot_guide_text">"Tap to make
@@ -437,7 +437,7 @@ a scrolling screenshot"</string>
     <string name="rog">ROG</string>
     <string name="rog_phone">ROG</string>
     <string name="samsung">Samsung</string>
-    <string name="samsung_phone">Samsung phone</string>
+    <string name="samsung_phone">Samsung</string>
     <string name="saturday">Saturday</string>
     <string name="saturday_short">Sat</string>
     <string name="saturday_shortest">Sat</string>

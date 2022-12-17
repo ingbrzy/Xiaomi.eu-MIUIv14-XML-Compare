@@ -267,6 +267,8 @@ Send this code to the supervisor."</string>
     <string name="facebook_login_btn_content_description">Sign in with Facebook</string>
     <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="failed_to_fetch_fql">"Couldn't get FAQ info, check network connection"</string>
+    <string name="feedback_account_inconsistent_login_hint">Looks like you switched accounts. Sign in to your previous Xiaomi Account.</string>
+    <string name="feedback_account_login_hint">Sign in to your Xiaomi Account first</string>
     <string name="feedback_answer_detail_feedback_resolved">Yes</string>
     <string name="feedback_answer_detail_feedback_result">Thanks for your feedback!</string>
     <string name="feedback_answer_detail_feedback_title">Was this helpful?</string>
@@ -493,6 +495,7 @@ Send this code to the supervisor."</string>
     <string name="login_by_local_phone_long_text">Sign in now</string>
     <string name="login_by_local_phone_short_text">Sign in</string>
     <string name="login_other">Another Mi Account</string>
+    <string name="login_out">Sign out</string>
     <string name="login_register_by_local_phone_long_text">Create account</string>
     <string name="login_with_sns">Other ways to sign in</string>
     <string name="logo_title">Feedback</string>

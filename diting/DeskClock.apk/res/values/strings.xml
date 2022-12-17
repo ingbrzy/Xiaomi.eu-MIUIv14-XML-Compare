@@ -325,6 +325,8 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
+    <string name="force_start_permission_desc">"Allow alarms to function normally even when you've closed the app"</string>
+    <string name="force_start_permission_title">Autostart</string>
     <string name="force_touch_add_alarm">Add alarm</string>
     <string name="force_touch_enter_stopwatch">Stopwatch</string>
     <string name="force_touch_enter_timer">Timer</string>
