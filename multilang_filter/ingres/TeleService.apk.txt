@@ -1,0 +1,1 @@
+Removed: [vi] strings.xml: string/ hide_error_from_network_text (invalid name)
