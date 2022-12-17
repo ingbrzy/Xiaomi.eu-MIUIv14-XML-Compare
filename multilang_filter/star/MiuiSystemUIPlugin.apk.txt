@@ -1,1 +1,0 @@
-Removed: [hr] strings.xml: string/wireless_charging_low_battery_level_message (format mismatch)
