@@ -468,6 +468,22 @@ Open WeChat and go to Me > Settings > General > Back up &amp; migrate chats."</s
     <string name="lack_perm_msg">Mi Mover needs the following permissions to work normally: &lt;b>%s&lt;/b>.</string>
     <string name="lack_perm_title">Permissions required</string>
     <string name="launcher">Home screen layout</string>
+    <string name="league_acquire_accept">Agree</string>
+    <string name="league_acquire_message1">To be able to transfer third party apps and their data from this device to your new %s device, the following permissions are required:</string>
+    <string name="league_acquire_message2">Allow Mi Mover to access third party app data</string>
+    <string name="league_acquire_message3">This is a one-time permission used only to transfer data. Once the transfer is finished, Mi Mover will automatically stop using this permission.</string>
+    <string name="league_acquire_message4">"If you don't agree to grant this permission, you won't be able to transfer third party apps and their data."</string>
+    <string name="league_acquire_refuse">"Don't agree"</string>
+    <string name="league_acquire_title">Permissions required</string>
+    <string name="league_check_service_content">"Mi Mover is providing transfer services for %s and isn't available at this time."</string>
+    <string name="league_check_service_title">Transfer using %s</string>
+    <string name="league_client_acquire">Open %s</string>
+    <string name="league_client_hint_text">The Cloning Alliance can help transfer third party app data (e.g. WeChat and QQ chat histories). Tap \"%s\" to continue with us, or tap \"Not now\" to continue without transferring third-party apps and data.</string>
+    <string name="league_client_install">Install %s</string>
+    <string name="league_client_title">Transfer with Mi Mover</string>
+    <string name="league_client_traditional">Not now</string>
+    <string name="league_client_update">Update %s</string>
+    <string name="league_mi_device">Xiaomi</string>
     <string name="less_than_1_minute">Less than 1 minute</string>
     <string name="loading_data">Just a sec…</string>
     <string name="location_permission_desc">For finding devices nearby</string>
@@ -758,6 +774,7 @@ Open WeChat and go to Me > Settings > General > Back up &amp; migrate chats."</s
 - Text messages
 - Storage"</string>
     <string name="request_all_permission_title">Permissions required</string>
+    <string name="request_permission">Allow</string>
     <string name="required_permissions">;</string>
     <string name="restore_data_to_device_content">"Your items were synced with Xiaomi Cloud.
 Sign in to your Xiaomi Account to restore them."</string>
