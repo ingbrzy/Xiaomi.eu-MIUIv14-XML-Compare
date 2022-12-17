@@ -1,0 +1,1 @@
+Removed: [de] strings.xml: string/low_battery_notification_content (format mismatch)
