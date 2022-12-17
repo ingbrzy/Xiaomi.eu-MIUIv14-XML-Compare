@@ -1,0 +1,5 @@
+Removed: [cs] strings.xml: string/večer (invalid name)
+Removed: [ko] strings.xml: string/author_dynamic_no_resource  (invalid name)
+Removed: [sk] strings.xml: string/večer (invalid name)
+Removed: [uk] strings.xml: string/error_icon_content_description (duplicate)
+Removed: [uk] strings.xml: string/server_internal_error (duplicate)
