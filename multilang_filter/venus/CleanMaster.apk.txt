@@ -1,5 +1,4 @@
 Removed: [it] plurals.xml: plurals/wechat_empty_files (format mismatch)
-Removed: [pl] plurals.xml: plurals/view_num (format mismatch)
 Removed: [uk] strings.xml: string/columbus_ad_flag_text (duplicate)
 Removed: [uk] strings.xml: string/columbus_skip_ad (duplicate)
 Removed: [uk] strings.xml: string/common_google_play_services_enable_button (duplicate)
