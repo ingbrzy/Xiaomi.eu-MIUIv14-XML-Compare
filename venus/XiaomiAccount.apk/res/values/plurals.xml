@@ -33,6 +33,10 @@
         <item quantity="other">Found %d results</item>
         <item quantity="one">Found %d result</item>
     </plurals>
+    <plurals name="family_service_member_count">
+        <item quantity="other">%d people</item>
+        <item quantity="one">%d person</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Half an hour ago</item>
     </plurals>

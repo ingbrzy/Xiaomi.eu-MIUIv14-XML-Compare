@@ -489,6 +489,7 @@ You can also track express delivery on the official websites of courier services
     <string name="pa_express_provider_banner">Provided by %s</string>
     <string name="pa_express_provider_cainiao">Guoguo</string>
     <string name="pa_express_provider_jingdong">JD</string>
+    <string name="pa_express_provider_jitu">极兔快递</string>
     <string name="pa_express_provider_kuaidi100">Kuaidi 100</string>
     <string name="pa_express_provider_miguo">Mi Express</string>
     <string name="pa_express_provider_mimall">Mi Store</string>
@@ -796,6 +797,7 @@ to show widgets."</string>
     <string name="pa_shopping_page_product_action_bar_title">All products</string>
     <string name="pa_shopping_page_product_delete_bar_desc">Delete products</string>
     <string name="pa_shopping_page_product_delete_error">An error occurred. Check your network settings and try again.</string>
+    <string name="pa_shopping_page_product_delete_limit">已达到删除上限，无法继续勾选。</string>
     <string name="pa_shopping_page_product_item_icon_tag_new">猜你喜欢</string>
     <string name="pa_shopping_page_product_jump_setting_error">An error occurred. Check your network settings and try again.</string>
     <string name="pa_shopping_page_setting_source_desc">Get discounts and deals on products</string>
@@ -810,7 +812,10 @@ to show widgets."</string>
     <string name="pa_shopping_widget_no_cta_content_desc">Tap to give permissions to use Shopping</string>
     <string name="pa_shopping_widget_no_network_content_desc">"Couldn't connect to the network"</string>
     <string name="pa_shopping_widget_no_privacy_content_desc">Agree to the Shopping Privacy Policy to be able to use this feature. Tap to view.</string>
+    <string name="pa_shopping_widget_no_privacy_content_main_desc">Shopping</string>
+    <string name="pa_shopping_widget_no_privacy_content_sub_desc">Grant this widget permissions to get coupons and offers for your favorite e-commerce platforms</string>
     <string name="pa_shopping_widget_no_setting_content_desc">Settings</string>
+    <string name="pa_shopping_widget_np_privacy_bottom_text">Grant</string>
     <string name="pa_shopping_widget_title">Shopping</string>
     <string name="pa_shortcut_accessibility_description">"App vault provides shortcuts for selected third party apps. These shortcuts won't work if you turn the feature off."</string>
     <string name="pa_shortcut_accessibility_service">App vault</string>

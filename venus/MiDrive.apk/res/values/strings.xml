@@ -380,7 +380,7 @@
     <string name="load_metered_network_dialog_ok">Load</string>
     <string name="load_metered_network_dialog_title">Using mobile data</string>
     <string name="loading">Just a sec…</string>
-    <string name="marketSdkVersion">3.2.12</string>
+    <string name="marketSdkVersion">3.2.22</string>
     <string name="member_menu_vipname_free">Free</string>
     <string name="member_menu_vipname_mega">Mega</string>
     <string name="member_menu_vipname_premium">Premium</string>
@@ -657,6 +657,8 @@ Make sure you're using the current Mi Account as your MIUI system account."</str
     <string name="sunday">Sunday</string>
     <string name="sunday_short">Sun</string>
     <string name="sunday_shortest">Sun</string>
+    <string name="talkback_close">Close</string>
+    <string name="talkback_close_open_picture">Cancel</string>
     <string name="talkback_continue">Resume</string>
     <string name="talkback_doc_filter">Filter button</string>
     <string name="talkback_list_play">Play all</string>
