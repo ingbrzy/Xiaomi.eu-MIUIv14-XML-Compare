@@ -1,4 +1,5 @@
 Removed: [cs] strings.xml: string/privacy_detail (format mismatch)
+Removed: [cs] strings.xml: string/večer (invalid name)
 Removed: [hu] strings.xml: string/privacy_detail (format mismatch)
 Removed: [it] strings.xml: string/privacy_detail (format mismatch)
 Removed: [ko] strings.xml: string/privacy_detail (format mismatch)
