@@ -23,6 +23,5 @@
     <string name="holiday_update_summary">Tap to update calendar info.</string>
     <string name="holiday_update_title">Update available</string>
     <string name="provider_label">Calendar</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="upgrade_msg">"Updating Calendar's database…"</string>
 </resources>
