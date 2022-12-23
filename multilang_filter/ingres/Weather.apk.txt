@@ -1,1 +1,0 @@
-Removed: [ru] strings.xml: string/update_night_setting_summary_text (format mismatch)
