@@ -305,10 +305,22 @@
         <item>Mic</item>
         <item>System sounds</item>
     </string-array>
+    <string-array name="screenrecorder_settings_sound_native">
+        <item>None</item>
+        <item>Microphone</item>
+        <item>System</item>
+        <item>Both</item>
+    </string-array>
     <string-array name="screenrecorder_settings_sound_values">
         <item>0</item>
         <item>1</item>
         <item>2</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_sound_values_native">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
     </string-array>
     <string-array name="screenrecorder_settings_storage_location">
         <item>Internal storage</item>
