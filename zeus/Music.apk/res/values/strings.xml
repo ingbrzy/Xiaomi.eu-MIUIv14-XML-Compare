@@ -418,8 +418,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">9d5d115ad6364f5c881242e8af0d5725</string>
-    <string name="com.miapm.build_id">093c2ef3ff0848a8be8ff496650ac340</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">06322ef474d04ec0bb33a1ab15c1c434</string>
+    <string name="com.miapm.build_id">cbb11245fbcf4de888e79f73d4c58e15</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="commit">Submit</string>
     <string name="commit_frequently">Submit too frequently, please try again later</string>
@@ -2940,4 +2940,5 @@ Delta update size: %2$s"</string>
     <string name="you_may_like">You may also like</string>
     <string name="youtube_play_history">Playback history</string>
     <string name="youtube_restricted_mode_enabled">youtube_restricted_mode_enabled</string>
+    <string name="youtube_share_guide_tip">You can now share videos with friends</string>
 </resources>
