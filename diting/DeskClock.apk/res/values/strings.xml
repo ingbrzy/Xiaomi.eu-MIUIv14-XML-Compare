@@ -78,7 +78,7 @@
     <string name="analog_gadget">Analog clock</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="app_label">Clock</string>
-    <string name="app_name">MiuiSettingsCommonLib</string>
+    <string name="app_name">miuiclock</string>
     <string name="auto_silence_never">Never</string>
     <string name="auto_silence_summary">Set time after which alarms and timers will be silenced</string>
     <string name="auto_silence_title">Auto-silence</string>
@@ -410,6 +410,24 @@
     <string name="menu_item_sort_by_gmt_offset">Sort by time</string>
     <string name="menu_item_sort_by_name">Sort by name</string>
     <string name="midnight">Night</string>
+    <string name="miui_clock_city_name_local">Local</string>
+    <string name="miui_clock_city_name_second">Second clock</string>
+    <string name="miui_clock_fancy_colon"></string>
+    <string name="miui_digital_clock_dot">:</string>
+    <string name="miui_lock_screen_date">EEE, MMM dd</string>
+    <string name="miui_lock_screen_date_12">EEE, MMM dd</string>
+    <string name="miui_lock_screen_date_two_lines">"MMM dd
+EEE"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"MMM dd
+EEE"</string>
+    <string name="miui_lock_screen_large_date">"EEE
+M/d"</string>
+    <string name="miui_lock_screen_large_date_12">"EEE
+M/d"</string>
+    <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+    <string name="miui_vertical_time_format_24">"HH
+mm"</string>
     <string name="miuix_access_state_desc">Selected</string>
     <string name="miuix_alphabet_indexer_name">Index bar</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselect</string>
