@@ -3752,6 +3752,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="pc_hidemode_power_save">Save battery</string>
     <string name="pc_high_temp_protection_noti_bt_text">Got it</string>
     <string name="pc_high_temp_protection_noti_summary">"Can't use hotspots, mobile data, and location services now"</string>
+    <string name="pc_high_temp_protection_noti_summary2">"Can't use hotspots now"</string>
     <string name="pc_high_temp_protection_noti_tile">Your device is overheated</string>
     <string name="pc_install_manager">Install via USB</string>
     <string name="pc_main_activity_back">Back</string>
