@@ -155,10 +155,10 @@
     <string name="config_bodyFontFamilyMedium">sans-serif-medium</string>
     <string name="control_center_notification_switch_guide">Swipe to switch between Control center and Notification shade</string>
     <string name="control_quick_settings_tiles_super_save">gps,nfc,screenshot,vibrate</string>
-    <string name="controls_add_device_guide">No devices here yet</string>
-    <string name="controls_click_to_add_device">Add devices</string>
+    <string name="controls_add_device_guide">"You haven't added any smart home devices yet"</string>
+    <string name="controls_click_to_add_device">Add</string>
     <string name="controls_confirmation_message">Confirm change for %s</string>
-    <string name="controls_default_structure">Smart home devices</string>
+    <string name="controls_default_structure">Smart home</string>
     <string name="controls_dialog_confirmation">Controls updated</string>
     <string name="controls_dialog_message">%s suggested this control to add to your favorites.</string>
     <string name="controls_dialog_ok">Add to favorites</string>
@@ -171,8 +171,8 @@
     <string name="controls_dismiss_dialog_message_international">"Remove \"Smart home\" card now? You'll be able to restore it in Settings > Control center."</string>
     <string name="controls_dismiss_dialog_title">Smart home devices</string>
     <string name="controls_dismiss_dialog_title_international">Remove card</string>
-    <string name="controls_edit_add_device_guide">No available devices to add</string>
-    <string name="controls_edit_added_subtitle">Drag items to rearrange</string>
+    <string name="controls_edit_add_device_guide">No devices here yet</string>
+    <string name="controls_edit_added_subtitle">Drag items to rearrange them</string>
     <string name="controls_edit_added_title">Added</string>
     <string name="controls_edit_done_button">Done</string>
     <string name="controls_edit_go_to_app_guide">Open</string>
@@ -194,7 +194,7 @@
     <string name="controls_favorite_removed">All controls removed</string>
     <string name="controls_favorite_subtitle">Choose controls to access from the power menu</string>
     <string name="controls_favorite_toast_no_changes">Changes not saved</string>
-    <string name="controls_loading_device">Switching locations</string>
+    <string name="controls_loading_device">Switching locations…</string>
     <string name="controls_media_title">Media</string>
     <string name="controls_menu_add">Add controls</string>
     <string name="controls_menu_edit">controls_menu_edit</string>
@@ -204,8 +204,8 @@
     <string name="controls_no_device_subtitle">Add devices in %s first.</string>
     <string name="controls_no_device_title">"Couldn't find devices"</string>
     <string name="controls_no_favorites_title">Select apps to manage smart home devices here</string>
-    <string name="controls_not_found_device_toast">This item was removed in the app</string>
-    <string name="controls_not_found_device_toast_mihome">This item was removed in the app</string>
+    <string name="controls_not_found_device_toast">This item has already been deleted in the app</string>
+    <string name="controls_not_found_device_toast_mihome">This item has already been deleted in the app</string>
     <string name="controls_offline_device_toast">This device is offline. Press and hold to open the app.</string>
     <string name="controls_open_app">controls_open_app</string>
     <string name="controls_pin_instructions">Enter PIN</string>
@@ -217,7 +217,7 @@
     <string name="controls_removed">removed</string>
     <string name="controls_seeding_in_progress">Loading recommendations</string>
     <string name="controls_structure_tooltip">Swipe to see more</string>
-    <string name="controls_unsupport_toggle_toast">"Can't control this device from here. Press and hold to open the app."</string>
+    <string name="controls_unsupport_toggle_toast">"This device doesn't support quick actions. Press and hold to open the app."</string>
     <string name="copy">Copy</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
