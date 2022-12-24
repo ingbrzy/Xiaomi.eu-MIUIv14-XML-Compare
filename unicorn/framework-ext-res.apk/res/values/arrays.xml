@@ -7201,7 +7201,9 @@
         <item>hy_AM</item>
         <item>iw_IL</item>
         <item>ur_IN</item>
+        <item>ur_IN_#u-nu-latn</item>
         <item>ur_PK</item>
+        <item>ur_PK_#u-nu-arabext</item>
         <item>ar_EG</item>
         <item>ar_EG_#u-nu-latn</item>
         <item>fa_IR</item>
@@ -7229,6 +7231,9 @@
         <item>zh_CN</item>
         <item>zh_TW</item>
         <item>zh_HK</item>
+    </string-array>
+    <string-array name="override_brightness_app_black_list">
+        <item>com.tencent.mm</item>
     </string-array>
     <string-array name="package_static_white_list">
         <item>com.miui.personalassistant</item>
@@ -9188,4 +9193,24 @@
         <item>com.play.rosea</item>
     </string-array>
     <array name="white_list_pass_through_app" />
+    <string-array name="wifi_calling_package_should_convert">
+        <item>com.kugou.android</item>
+    </string-array>
+    <string-array name="wifi_scan_background_white_lists">
+        <item>com.xiaomi.metoknlp</item>
+        <item>com.autonavi.minimap</item>
+        <item>com.autonavi.amapauto</item>
+        <item>com.baidu.BaiduMap</item>
+        <item>com.tencent.map</item>
+        <item>com.sogou.map.android.maps</item>
+        <item>com.miui.huanji</item>
+    </string-array>
+    <string-array name="wifi_scan_foreground_white_lists">
+        <item>com.xiaomi.metoknlp</item>
+        <item>com.autonavi.minimap</item>
+        <item>com.autonavi.amapauto</item>
+        <item>com.baidu.BaiduMap</item>
+        <item>com.tencent.map</item>
+        <item>com.sogou.map.android.maps</item>
+    </string-array>
 </resources>

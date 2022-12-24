@@ -330,6 +330,7 @@ Tap to view"</string>
     <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
     <string name="privacy_settings">Privacy</string>
     <string name="quit_recording">Quit Screen Recorder</string>
+    <string name="record_time_too_short">Recorded video is too short</string>
     <string name="recording_failure">"Couldn't record, start over"</string>
     <string name="recording_max_size">"Recording was stopped and saved because the video file reached its size limit. Start recording from where you left off if you haven't finished yet."</string>
     <string name="recording_without_mic">"Microphone is busy and can't record sound now."</string>
