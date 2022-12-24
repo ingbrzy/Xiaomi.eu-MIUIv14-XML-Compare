@@ -41,7 +41,9 @@
     <string name="cast_mcc_tips_button_cancel">Ignore</string>
     <string name="cast_mcc_tips_button_ok">Settings</string>
     <string name="cast_mcc_tips_message">To avoid delays while using MIUI+, connect both devices to the same Wi-Fi network.</string>
+    <string name="cast_mcc_tips_message_china">To avoid delays while using MIUI+, connect both devices to the same Wi-Fi network.</string>
     <string name="cast_mcc_tips_title">Change Wi-Fi settings</string>
+    <string name="cast_mcc_tips_title_china">Change Wi-Fi settings</string>
     <string name="chinese_day_1">初一</string>
     <string name="chinese_day_10">初十</string>
     <string name="chinese_day_11">十一</string>
@@ -120,7 +122,9 @@
     <string name="circulate_cta_premission_storage_subtitle">For sending and receiving transferred files</string>
     <string name="circulate_cta_premission_storage_title">Access and save items to storage</string>
     <string name="circulate_cta_premission_wlan_subtitle">For transferring items and connecting devices via Wi-Fi</string>
+    <string name="circulate_cta_premission_wlan_subtitle_china">For transferring items and connecting devices via Wi-Fi</string>
     <string name="circulate_cta_premission_wlan_title">Turn Wi-Fi on and off</string>
+    <string name="circulate_cta_premission_wlan_title_china">Turn Wi-Fi on and off</string>
     <string name="circulate_cta_user_agreement">Read and agree to our &lt;txt href=\"%1$s\">User Agreement&lt;/txt> and &lt;txt href=\"%2$s\">Privacy Policy&lt;/txt> before you continue.</string>
     <string name="clearable_edittext_clear_description">Clear</string>
     <string name="clipboard_tip">Copied from %1$s</string>
@@ -170,6 +174,7 @@
     <string name="enable_wifi_alert_cancel">Cancel</string>
     <string name="enable_wifi_alert_message">MIUI+ connects devices using Wi-Fi. Turn on Wi-Fi now?</string>
     <string name="enable_wifi_alert_message_china">MIUI+ connects devices using Wi-Fi. Turn on Wi-Fi now?</string>
+    <string name="enable_wifi_alert_message_for_photo_relay">MIUI+ allows you to seamlessly switch between devices when you need to edit the photos taken with your phone on your tablet. Turn on Wi-Fi to use handoff?</string>
     <string name="enable_wifi_alert_message_for_photo_relay_china">MIUI+ allows you to seamlessly switch between devices when you need to edit the photos taken with your phone on your tablet. Turn on Wi-Fi to use handoff?</string>
     <string name="enable_wifi_alert_ok">Turn on</string>
     <string name="enable_wifi_alert_title">Turn on Wi-Fi</string>
@@ -245,6 +250,12 @@
     <string name="generic_error_no_device_credential">No PIN, pattern, or password set.</string>
     <string name="generic_error_no_keyguard">This device does not support PIN, pattern, or password.</string>
     <string name="generic_error_user_canceled">Authentication canceled by user.</string>
+    <string name="global_cta_agree">Agree</string>
+    <string name="global_cta_desc">Welcome to %s! Our app provides the following services:</string>
+    <string name="global_cta_exit">"Don't agree"</string>
+    <string name="global_cta_feature_connect">Connecting phones and tablets using your Xiaomi Account</string>
+    <string name="global_cta_feature_control">Viewing and using smartphone apps on your tablet</string>
+    <string name="global_cta_user_agreement">Before using %1$s, read and agree to our &lt;txt href=\"%2$s\">User Agreement&lt;/txt> and &lt;txt href=\"%3$s\">Privacy Policy&lt;/txt>.</string>
     <string name="guide_window_btn_know">Got it</string>
     <string name="guide_window_operation">Slide from the side to the center of the screen</string>
     <string name="guide_window_title">Go back</string>
@@ -272,9 +283,16 @@ Close this page and try again."</string>
     <string name="loading_view_load_timeout_close">Got it</string>
     <string name="loading_view_load_timeout_sub">"Make sure Wi-Fi is turned on on both devices and they are close to each other.
 You can start another session on your computer."</string>
+    <string name="loading_view_load_timeout_sub_china">"Make sure Wi-Fi is turned on on both devices and they are close to each other.
+You can start another session on your computer."</string>
     <string name="lock_layout_sub">Unlock to continue</string>
     <string name="lock_layout_title">Computer is locked</string>
     <string name="log_warning">"Toggling log switches might increase security risks and affect performance. Use these toggles only when it's necessary."</string>
+    <string name="login_xiaomi_account_cancel">Cancel</string>
+    <string name="login_xiaomi_account_goto_login">Sign in</string>
+    <string name="login_xiaomi_account_summary_pad">To be able to connect to other phones, use the same Xiaomi Account on both connected devices. Sign in now?</string>
+    <string name="login_xiaomi_account_summary_phone">To be able to connect to other tablets, use the same Xiaomi Account on both connected devices. Sign in now?</string>
+    <string name="login_xiaomi_account_title">Sign in to Xiaomi Account</string>
     <string name="low_battery_notification_action">Turn on</string>
     <string name="low_battery_notification_content">Less than %2$d%% of battery remaining on %1$s. Turn on Battery saver.</string>
     <string name="low_battery_notification_title">Low battery</string>
@@ -357,6 +375,9 @@ You can start another session on your computer."</string>
     <string name="not_set">Not set</string>
     <string name="notification_channel_description_download">Show download progress in the Notification shade</string>
     <string name="notification_channel_name_download">Show download progress</string>
+    <string name="notification_state_cancel">Disconnect</string>
+    <string name="notification_state_content">"This device is connected to %1$s's computer. You can share input devices, files, and images now."</string>
+    <string name="notification_state_title">Connected successfully</string>
     <string name="notify_clip_action_browser">Visit</string>
     <string name="notify_clip_action_call">Call</string>
     <string name="notify_clip_action_navigation">Navigate</string>
@@ -371,6 +392,7 @@ You can start another session on your computer."</string>
     <string name="pad_mirror_device_locked_tips_3">Double tap to wake</string>
     <string name="pad_mirror_disconnect_tips_1">Connection lost</string>
     <string name="pad_mirror_disconnect_tips_2">Make sure Wi-Fi and Bluetooth are turned on on both devices and try again.</string>
+    <string name="pad_mirror_disconnect_tips_2_china">Make sure Wi-Fi and Bluetooth are turned on on both devices and try again.</string>
     <string name="pad_pc_app_introduction_summary">Use tablet apps on your computer</string>
     <string name="pad_pc_app_introduction_title">Apps</string>
     <string name="pad_pc_extend_introduction_summary">Extend your computer screen to your tablet</string>
@@ -379,6 +401,8 @@ You can start another session on your computer."</string>
     <string name="pad_pc_message_introduction_title">Shared clipboard</string>
     <string name="pad_pc_mirror_introduction_summary">Mirror computer screen on your tablet</string>
     <string name="pad_pc_mirror_introduction_title">Mirror screen</string>
+    <string name="pad_pc_share_introduction_summary">"Use your computer's mouse and keyboard with this tablet"</string>
+    <string name="pad_pc_share_introduction_title">Input devices</string>
     <string name="pad_settings_bluetooth_enable_summary">Turn on Bluetooth to be able to find devices nearby. Turn on now?</string>
     <string name="pad_settings_bluetooth_enable_title">Turn on Bluetooth</string>
     <string name="pad_settings_click_toast_msg">Connect using Mi Smart Hub on your computer</string>
@@ -441,6 +465,7 @@ You can start another session on your computer."</string>
     <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
     <string name="privacy_all_purpose">Welcome to MIUI+ Beta! You can use this app to connect your phone to a computer and combine two devices into one working station.</string>
     <string name="privacy_describe_change_wifi_state">For connecting devices and transferring files using Wi-Fi</string>
+    <string name="privacy_describe_change_wifi_state_china">For connecting devices and transferring files using Wi-Fi</string>
     <string name="privacy_describe_location">For finding computers nearby and transferring files</string>
     <string name="privacy_describe_record_audio">For redirecting audio playback to your computer</string>
     <string name="privacy_describe_storage">For sending and receiving files</string>
@@ -513,6 +538,17 @@ You can start another session on your computer."</string>
     <string name="settings_trusted_device_none">No devices here</string>
     <string name="settings_trusted_tips">Connect to selected nearby devices automatically when Bluetooth and Wi-Fi are on</string>
     <string name="settings_trusted_tips_china">Connect to selected nearby devices automatically when Bluetooth and Wi-Fi are on</string>
+    <string name="share_pc_abort_dialog_message">Make sure Bluetooth and Wi-Fi are turned on on both devices and start the session again on your computer.</string>
+    <string name="share_pc_abort_dialog_message_china">Make sure Bluetooth and Wi-Fi are turned on on both devices and start the session again on your computer.</string>
+    <string name="share_pc_abort_dialog_ok">Got it</string>
+    <string name="share_pc_abort_dialog_title">Connection was interrupted</string>
+    <string name="share_pc_file_transfer_finish">Transferred successfully</string>
+    <string name="share_pc_folder_error_dialog_message">"Dragging folders to transfer them isn't currently supported."</string>
+    <string name="share_pc_folder_error_dialog_ok">Got it</string>
+    <string name="share_pc_folder_error_dialog_title">"Couldn't transfer"</string>
+    <string name="share_pc_folder_multi_error_dialog_message">"Transferred selected files successfully. Transferring folders isn't currently supported."</string>
+    <string name="share_pc_folder_multi_error_dialog_ok">Got it</string>
+    <string name="share_pc_folder_multi_error_dialog_title">"Couldn't transfer all items"</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>
@@ -558,9 +594,12 @@ to continue"</string>
     <string name="switch_wlan_action">Connect</string>
     <string name="switch_wlan_failed">"Couldn't connect"</string>
     <string name="switch_wlan_failed_desc">"Couldn't connect to this Wi-Fi network automatically. Try connecting manually in Settings."</string>
+    <string name="switch_wlan_failed_desc_china">"Couldn't connect to this Wi-Fi network automatically. Try connecting manually in Settings."</string>
     <string name="switch_wlan_success">Connected successfully</string>
     <string name="switch_wlan_tips">Connect to the same network</string>
+    <string name="switch_wlan_tips_china">Connect to the same network</string>
     <string name="switch_wlan_tips_desc">You can connect to the same Wi-Fi network as the other device for better experience. Connect now?</string>
+    <string name="switch_wlan_tips_desc_china">You can connect to the same Wi-Fi network as the other device for better experience. Connect now?</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
     <string name="the_anti_aggression_day">Anti-Aggression Day</string>
     <string name="the_arbor_day">Arbor Day</string>
