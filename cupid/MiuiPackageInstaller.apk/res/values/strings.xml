@@ -69,6 +69,8 @@
     <string name="app_store_has_safe_version">Download secure version from GetApps</string>
     <string name="app_version_format">Version: %1$s</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="auth_type_human_verify">风险验证</string>
+    <string name="auth_type_security_verify">身份验证</string>
     <string name="authorize_this_once_install">授权本次安装</string>
     <string name="authorize_to_install">allow</string>
     <string name="background_install_task_create">已开始安装“%1$s”</string>
@@ -996,6 +998,7 @@
     <string name="verify_account_default_title">Verify your identity</string>
     <string name="verify_account_title">Verify your identity</string>
     <string name="verify_and_install">Install</string>
+    <string name="verify_failed">验证失败</string>
     <string name="verify_to_sure_close">Turn off</string>
     <string name="virus_install_confirm_cancel">Cancel</string>
     <string name="virus_install_confirm_install">Install</string>

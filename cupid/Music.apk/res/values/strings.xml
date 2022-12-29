@@ -271,6 +271,9 @@
     <string name="cancel_apply_queue">Cancel mic row</string>
     <string name="cancel_running_download">Cancel</string>
     <string name="cannot_download_to_sdcard_hint">"Can't download items to SD card due to copyright restrictions. Items will be downloaded to internal storage instead."</string>
+    <string name="cgi_url_adinfo_dev">https://test.out.wechat.com/tia_dev/retrieval/getJooxSDKAdInfo</string>
+    <string name="cgi_url_adinfo_production">https://hk.app.joox.com/retrieval/getJooxSdkAdInfo</string>
+    <string name="cgi_url_adinfo_test">https://test.out.wechat.com/tia_gray/retrieval/getJooxSDKAdInfo</string>
     <string name="change_activate_email">Change email address</string>
     <string name="change_download_quality">Change download quality</string>
     <string name="change_password">Change password</string>
@@ -418,8 +421,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">06322ef474d04ec0bb33a1ab15c1c434</string>
-    <string name="com.miapm.build_id">cbb11245fbcf4de888e79f73d4c58e15</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">5d8c0c50536c42f6922c7596e0273c84</string>
+    <string name="com.miapm.build_id">57ceefb7151842898621fd9962b5b3e7</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="commit">Submit</string>
     <string name="commit_frequently">Submit too frequently, please try again later</string>
@@ -2157,6 +2160,7 @@ Go and chat with them!"</string>
     <string name="pm">PM</string>
     <string name="popup_exit_hint">Leave the family? Note: After you leave the family, you can only apply to join again after 24 hours.</string>
     <string name="power_save_mode_dialog_msg">Battery saver is on. Start downloading now?</string>
+    <string name="pre_watched">Watched</string>
     <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
     <string name="preset_music_playlist">Mi Music playlist</string>
     <string name="priority_storage">Use external SD card</string>
@@ -2371,6 +2375,7 @@ Be Happy"</string>
     <string name="search_instant_online_music">Online</string>
     <string name="search_menu_title">Search</string>
     <string name="search_more">More</string>
+    <string name="search_recommend">Recommended</string>
     <string name="search_result_local_songs">Local</string>
     <string name="search_result_online_songs">Online</string>
     <string name="search_songs">Search for songs</string>
