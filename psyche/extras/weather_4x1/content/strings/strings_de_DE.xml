@@ -5,7 +5,7 @@
     <string name="air_quality3">\' LQI \'+#aqi</string>
     <string name="air_quality4">\' LQI \'+#aqi</string>
     <string name="air_quality5">\' LQI \'+#aqi</string>
-    <string name="weather_null">Tippen, um Wetterinfos zu erhalten</string>
+    <string name="weather_null">Tippen, um Wetterdaten zu erhalten</string>
     <string name="weather_location_null">Keine Standortdaten</string>
     <string name="desc_weather_aqi">@weather_description+' '+ @air_quality</string>
     <string name="weather_type_0">Klar</string>
