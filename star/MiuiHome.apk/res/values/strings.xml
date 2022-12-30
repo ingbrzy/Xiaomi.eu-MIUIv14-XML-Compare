@@ -318,7 +318,7 @@
     <string name="close_multi_finger_slide_summary">These gestures will be ignored in some scenarios (e.g. games and videos playback)</string>
     <string name="close_multi_finger_slide_title">"Don't respond to three- and four-finger gestures"</string>
     <string name="cloud_app_restore_title">Pending</string>
-    <string name="com.crashlytics.android.build_id">d90eff2b0b844c32927f3292cc5bdfed</string>
+    <string name="com.crashlytics.android.build_id">3277a4e5798d413cb98570e9649c3a93</string>
     <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
     <string name="common_home_search_delete">Removing search bar</string>
     <string name="common_home_search_delete_cancle">Cancel</string>

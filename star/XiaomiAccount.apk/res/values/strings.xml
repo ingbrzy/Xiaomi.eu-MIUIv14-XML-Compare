@@ -263,6 +263,8 @@ You can sign in to your Xiaomi Account using %s now."</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
     <string name="completed">All set!</string>
     <string name="confirm_activate_email">Verified</string>
+    <string name="confirm_bundled_phone_dialog_confirm">Confirm</string>
+    <string name="confirm_bundled_phone_dialog_confirm_timer">Confirm (%ds)</string>
     <string name="confirm_bundled_phone_dialog_title">Confirm associated phone number</string>
     <string name="confirm_new_pwd">Confirm new password</string>
     <string name="confirm_phone_number_dialog_message">Verification code will be sent to %s.</string>
