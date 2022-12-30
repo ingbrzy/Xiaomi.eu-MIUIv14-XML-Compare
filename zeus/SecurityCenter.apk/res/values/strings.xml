@@ -354,7 +354,7 @@
     <string name="app_behavior_monitor_tips_if_trust">You can turn off notifications about sensitive actions if you trust this app</string>
     <string name="app_behavior_monitor_tips_key">Notifications about sensitive actions</string>
     <string name="app_behavior_monitor_tips_summary">You can receive notifications when apps record audio, access your location, or perform other sensitive actions in the background.</string>
-    <string name="app_behavior_no_recorder">"Couldn't find results"</string>
+    <string name="app_behavior_no_recorder">No items here yet</string>
     <string name="app_behavior_notification_audio_now_one">%1s is recording audio</string>
     <string name="app_behavior_notification_audio_now_two" formatted="false">%1s and %2s are recording audio</string>
     <string name="app_behavior_notification_camera_one">%1s is taking photos</string>
@@ -391,11 +391,18 @@
     <string name="app_behavior_read_clipboard_bg">%1s accessed items in the clipboard in the background</string>
     <string name="app_behavior_recognition">%1s accessed your activity info</string>
     <string name="app_behavior_recognition_single">This app accessed your activity info</string>
+    <string name="app_behavior_record_cancel">Cancel</string>
+    <string name="app_behavior_record_close">Turn off</string>
+    <string name="app_behavior_record_close_title">Turn off</string>
+    <string name="app_behavior_record_hide_system">Hide system apps</string>
+    <string name="app_behavior_record_open">Turn on</string>
+    <string name="app_behavior_record_open_content_text">App behavior records show what apps do and help you avoid security risks.</string>
     <string name="app_behavior_record_setting_button_title">Show behavior of system services</string>
     <string name="app_behavior_record_setting_show_system">Show behavior of system services</string>
     <string name="app_behavior_record_setting_show_system_desc">"Turn on to view the behavior of basic system services. To ensure the stability of the system, these services will use the required permissions some of which can't be restricted."</string>
     <string name="app_behavior_record_setting_show_system_title">Show behavior of system services</string>
     <string name="app_behavior_record_setting_title">Behavior records</string>
+    <string name="app_behavior_record_show_system">Show system apps</string>
     <string name="app_behavior_search">Search</string>
     <string name="app_behavior_sensor">%1s accessed sensor data</string>
     <string name="app_behavior_sensor_single">This app accessed sensor data</string>
@@ -2627,6 +2634,11 @@ of your gaming sessions"</string>
     <string name="get_sys_info">Getting info…</string>
     <string name="gigabyteShort">GB</string>
     <string name="give_lucky_money">红包大派送</string>
+    <string name="global_dock_guide_desc_with_split_screen">"· Tap an app on the sidebar to open it in a floating window.
+· Drag an app to the center of the screen to open it in a floating window or to the side to use Split screen.
+· Press and hold the indicator to move the window around."</string>
+    <string name="global_dock_guide_desc_without_split_screen">"· Tap an app on the sidebar to open it in a floating window.
+· Press and hold the indicator to move the window around."</string>
     <string name="global_satisfaction_notification_button">Rate</string>
     <string name="global_satisfaction_notification_subhead">Tell us about your experience</string>
     <string name="global_satisfaction_notification_title">Rate this device</string>
