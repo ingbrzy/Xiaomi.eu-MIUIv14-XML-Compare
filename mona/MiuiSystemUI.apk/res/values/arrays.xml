@@ -1208,6 +1208,7 @@
         <item>volume</item>
         <item>alarm_clock</item>
         <item>vpn</item>
+        <item>hd</item>
         <item>ethernet</item>
         <item>no_sim</item>
         <item>mobile</item>
@@ -1253,6 +1254,7 @@
         <item>9</item>
         <item>10</item>
         <item>11</item>
+        <item>12</item>
     </integer-array>
     <string-array name="data_type_name_default_value">
         <item></item>
@@ -1265,6 +1267,7 @@
         <item>4G+</item>
         <item></item>
         <item>LTE</item>
+        <item>5G</item>
         <item>5G</item>
         <item>5G+</item>
     </string-array>
