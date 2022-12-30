@@ -107,6 +107,7 @@
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Chinese Traditional Calendar</string>
     <string name="date_time_picker_dialog_title">Set date and time</string>
+    <string name="default_web_client_id">810933016627-eeic8fts45vhh9nf5qofflnnod8i7ic4.apps.googleusercontent.com</string>
     <string name="early_morning">Morning</string>
     <string name="earthly_branches_chen">辰</string>
     <string name="earthly_branches_chou">丑</string>
@@ -180,6 +181,11 @@
     <string name="friday">Friday</string>
     <string name="friday_short">Fri</string>
     <string name="friday_shortest">Fri</string>
+    <string name="gcm_defaultSenderId">810933016627</string>
+    <string name="google_api_key">AIzaSyAieDyd1HJGGzRh8EnQDpvDnU9saCtY3is</string>
+    <string name="google_app_id">1:810933016627:android:e9fcaea7c041d3f31c6b46</string>
+    <string name="google_crash_reporting_api_key">AIzaSyAieDyd1HJGGzRh8EnQDpvDnU9saCtY3is</string>
+    <string name="google_storage_bucket">feedback-a76f1.appspot.com</string>
     <string name="heavenly_stems_bing">丙</string>
     <string name="heavenly_stems_ding">丁</string>
     <string name="heavenly_stems_geng">庚</string>
@@ -278,7 +284,6 @@
     <string name="miui_feedback_edit_toast_module_required">Select item</string>
     <string name="miui_feedback_edit_toast_more_desc_required">Your description should be longer</string>
     <string name="miui_feedback_edit_toast_problem_class_required">Select category</string>
-    <string name="miui_feedback_edit_toast_screenshot_too_large">"Can't upload images or videos bigger than 100MB"</string>
     <string name="miui_feedback_edit_toast_third_packagename_required">Enter app name</string>
     <string name="miui_feedback_main_answer_title">"There's an answer to this question"</string>
     <string name="miui_feedback_main_customer_service_onfo_for_jp">"Service hotline: 0120-300-521
@@ -456,6 +461,7 @@ Email: service.jp@xiaomi.com"</string>
 %2$s
 Read and agree to the new version of %3$s before you continue."</string>
     <string name="privacy_policy_update_title">Updated Privacy Policy</string>
+    <string name="project_id">feedback-a76f1</string>
     <string name="public_authorize_now">Settings</string>
     <string name="public_loading_text">Just a sec…</string>
     <string name="public_net_error_retry">Try again</string>
