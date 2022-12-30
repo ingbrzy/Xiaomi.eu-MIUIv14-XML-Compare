@@ -97,6 +97,10 @@
         <item quantity="other">"You'll be notified about sensitive actions performed by %1$d apps"</item>
         <item quantity="one">"You'll be notified about sensitive actions performed by %1$d app"</item>
     </plurals>
+    <plurals name="app_behavior_record_close_content_text">
+        <item quantity="other">App behavior records are stored on this device for %d days. If you turn this feature off, new records will no longer appear and the old ones will be deleted. Turn off anyway?</item>
+        <item quantity="one">App behavior records are stored on this device for %d day. If you turn this feature off, new records will no longer appear and the old ones will be deleted. Turn off anyway?</item>
+    </plurals>
     <plurals name="app_behavior_wakepath_multiple">
         <item quantity="other">%1$1s launched %2$d apps</item>
         <item quantity="one">%1$1s launched %2$d app</item>
