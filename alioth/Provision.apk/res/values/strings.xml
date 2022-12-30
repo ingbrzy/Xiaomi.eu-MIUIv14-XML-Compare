@@ -153,6 +153,8 @@
     <string name="config_show_default_language" />
     <string name="config_show_home_cell_size" />
     <string name="congratulation_label">"You're ready to rock!​"</string>
+    <string name="congratulation_pre_label">Just a sec…</string>
+    <string name="congratulation_pre_title">Preparing system…</string>
     <string name="congratulation_swipe">Swipe up to enter the system</string>
     <string name="congratulation_title">Setup complete</string>
     <string name="content_description_complete">Complete</string>
