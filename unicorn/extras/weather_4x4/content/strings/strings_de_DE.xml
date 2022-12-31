@@ -1,5 +1,5 @@
 <resources>
-    <string name="weather_null">Tippen, um Wetterinfos zu erhalten</string>
+    <string name="weather_null">Tippen, um Wetterdaten zu erhalten</string>
     <string name="date_format">EEEE, d. MMMM</string>
     <string name="today">Heute</string>
     <string name="tomorrow">Morgen</string>
