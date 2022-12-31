@@ -213,6 +213,7 @@
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Chinese Traditional Calendar</string>
     <string name="date_time_picker_dialog_title">Set date and time</string>
+    <string name="default_web_client_id">810933016627-eeic8fts45vhh9nf5qofflnnod8i7ic4.apps.googleusercontent.com</string>
     <string name="description">Describe the issue</string>
     <string name="diagnosis_log_send_failed">"Couldn't send logs. Try again."</string>
     <string name="diagnosis_log_sent_format">"Sent logs successfully.
@@ -440,10 +441,15 @@ Send this code to the supervisor."</string>
     <string name="friday">Friday</string>
     <string name="friday_short">Fri</string>
     <string name="friday_shortest">Fri</string>
+    <string name="gcm_defaultSenderId">810933016627</string>
     <string name="get_phone_verifycode_exceed_limit">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
     <string name="getverifycode_seconde">s</string>
+    <string name="google_api_key">AIzaSyAieDyd1HJGGzRh8EnQDpvDnU9saCtY3is</string>
+    <string name="google_app_id">1:810933016627:android:5350c1161cbcd03d1c6b46</string>
     <string name="google_application_id" />
+    <string name="google_crash_reporting_api_key">AIzaSyAieDyd1HJGGzRh8EnQDpvDnU9saCtY3is</string>
     <string name="google_login_btn_content_description">Sign in with Google</string>
+    <string name="google_storage_bucket">feedback-a76f1.appspot.com</string>
     <string name="goon_feedback_main">Continue</string>
     <string name="header_help">Help</string>
     <string name="heavenly_stems_bing">丙</string>
@@ -729,6 +735,7 @@ Send this code to the supervisor."</string>
     <string name="passport_user_id_hint">Email/phone number/Xiaomi Account ID</string>
     <string name="passport_user_id_intro">Enter password for %1$s</string>
     <string name="passport_user_password_hint">Password</string>
+    <string name="passport_vcode_what_app_send_prompt">Your WhatsApp verification code will be sent to your recovery phone (&lt;font color=#1F93FF>%s&lt;/font>).</string>
     <string name="passport_wechat_not_install">Install WeChat first</string>
     <string name="passport_wrong_captcha">The code you entered is incorrect</string>
     <string name="passport_wrong_phone_number_format">The format of the phone number you entered is invalid</string>
@@ -748,6 +755,7 @@ Send this code to the supervisor."</string>
 Read and agree to the new version of %3$s before you continue."</string>
     <string name="privacy_policy_update_title">Updated Privacy Policy</string>
     <string name="progressbar_title">Checking for security issues…</string>
+    <string name="project_id">feedback-a76f1</string>
     <string name="protocal_dialog_confirm">Agree</string>
     <string name="protocal_dialog_title">Attention</string>
     <string name="qq_application_id" />
@@ -936,17 +944,17 @@ Size: %2$s"</string>
     <string name="update_email_address_dialog_message">You need to verify your identity before you update the recovery email.</string>
     <string name="update_email_address_dialog_title">Update recovery email</string>
     <string name="upload_log_failed">"Couldn't send logs"</string>
-    <string name="user_agreement_hint_3rd_app"><Data>"I've read and agreed to &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a> and Mi Account's &lt;a href=\"%3$s\">User Agreement&lt;/a> and &lt;a href=\"%4$s\">Privacy Policy&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_3rd_app_mobile"><Data>"I've read and agreed to &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>, Mi Account's &lt;a href=\"%3$s\">User Agreement&lt;/a> and &lt;a href=\"%4$s\">Privacy Policy&lt;/a>, as well as &lt;a href=\"%5$s\">Terms and conditions of China Mobile verification services&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"I've read and agreed to &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>, Mi Account's &lt;a href=\"%3$s\">User Agreement&lt;/a> and &lt;a href=\"%4$s\">Privacy Policy&lt;/a>, as well as &lt;a href=\"%5$s\">Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"I've read and agreed to &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>, Mi Account's &lt;a href=\"%3$s\">User Agreement&lt;/a> and &lt;a href=\"%4$s\">Privacy Policy&lt;/a>, as well as &lt;a href=\"%5$s\">Terms and conditions of China Unicom verification services&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_default"><Data>"I've read and agreed to Mi Account's &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_default_1"><Data>Read and agreed to the &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy.&lt;/a></Data></string>
-    <string name="user_agreement_hint_default_extra"><Data>"I've read and agreed to the &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy.&lt;/a> The first login will automatically create a Xiaomi account"</Data></string>
+    <string name="user_agreement_hint_3rd_app"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_mobile"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of China Mobile verification services&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of China Unicom verification services&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_default"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_default_1"><Data>Read and agreed to the &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy.&lt;/a></Data></string>
+    <string name="user_agreement_hint_default_extra"><Data>"I've read and agreed to the &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy.&lt;/a> The first login will automatically create a Xiaomi account"</Data></string>
     <string name="user_agreement_hint_first_login">"We'll create an account automatically if you're using your phone number for the first time."</string>
-    <string name="user_agreement_hint_with_mobile"><Data>"I've read and agreed to Mi Account's &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>, as well as &lt;a href=\"%3$s\">Terms and conditions of China Mobile verification services&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_with_telecom"><Data>"I've read and agreed to Mi Account's &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>, as well as &lt;a href=\"%3$s\">Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_with_unicom"><Data>"I've read and agreed to Mi Account's &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>, as well as &lt;a href=\"%3$s\">Terms and conditions of China Unicom verification services&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_mobile"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of China Mobile verification services&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_telecom"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_unicom"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of China Unicom verification services&lt;/a>."</Data></string>
     <string name="user_avatar_update_title">Change profile photo</string>
     <string name="user_avatar_uploading">Just a sec…</string>
     <string name="user_must_known">Attention</string>
