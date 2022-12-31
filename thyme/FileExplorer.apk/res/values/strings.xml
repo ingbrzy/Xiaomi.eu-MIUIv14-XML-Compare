@@ -492,6 +492,9 @@ Try moving files from your device to Mi Drive."</string>
     <string name="image_loading_error">"Couldn't load image"</string>
     <string name="imm_str_storage">Storage</string>
     <string name="import_files_from_old_phones">Import from old device</string>
+    <string name="install_media_editor_button_text">Download</string>
+    <string name="install_media_editor_message">To be able to edit items, download the plug-in first. Download now?</string>
+    <string name="install_media_editor_title">Plug-in required</string>
     <string name="instruction">Enter the following address into FTP client: </string>
     <string name="instruction_pre_pad">Manage files on this device using a computer</string>
     <string name="instruction_pre_phone">Manage files on this device using a computer</string>
