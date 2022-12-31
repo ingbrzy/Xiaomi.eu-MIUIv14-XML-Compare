@@ -1,1 +1,0 @@
-Removed: [hr] strings.xml: string/callrecordview_menu_delete_ called (invalid name)
