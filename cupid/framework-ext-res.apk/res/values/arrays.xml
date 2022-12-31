@@ -7555,13 +7555,9 @@
     <string-array name="smart_power_alarm_package_white_list">
         <item>com.android.calendar</item>
         <item>com.android.deskclock</item>
-        <item>com.tencent.mm</item>
-        <item>com.tencent.mobileqq</item>
-        <item>com.eg.android.AlipayGphone</item>
     </string-array>
     <string-array name="smart_power_broadcast_black_list">
         <item>android.intent.action.BATTERY_CHANGED</item>
-        <item>android.intent.action.BOOT_COMPLETED</item>
         <item>android.intent.action.CLOSE_SYSTEM_DIALOGS</item>
         <item>android.intent.action.SCREEN_OFF</item>
         <item>android.intent.action.SCREEN_ON</item>
@@ -7578,10 +7574,16 @@
         <item>android.net.wifi.WIFI_STATE_CHANGED</item>
         <item>android.net.wifi.SCAN_RESULTS</item>
         <item>com.apm.setting.update.action</item>
+        <item>com.tencent.mm.plugin.report.service.KVCommCrossProcessReceiver</item>
+    </string-array>
+    <string-array name="smart_power_broadcast_proc_white_list">
+        <item>com.android.fileexplorerandroid.net.conn.CONNECTIVITY_CHANGE</item>
+        <item>com.tencent.mmandroid.intent.action.SCREEN_ON</item>
+        <item>com.ss.android.lark.kamiandroid.intent.action.SCREEN_ON</item>
+        <item>com.android.calendarandroid.intent.action.TIME_TICK</item>
     </string-array>
     <string-array name="smart_power_broadcast_white_list">
-        <item>android.appwidget.action.APPWIDGET_UPDATE</item>
-        <item>android.appwidget.action.APPWIDGET_ENABLED</item>
+        <item>android.intent.action.EVENT_REMINDER</item>
     </string-array>
     <string-array name="smart_power_package_white_list">
         <item>com.xiaomi.xmsf</item>
@@ -7600,9 +7602,22 @@
         <item>android.process.media</item>
         <item>com.miui.misound</item>
     </string-array>
+    <string-array name="smart_power_provider_package_white_list">
+        <item>com.tencent.mm</item>
+        <item>com.tencent.mobileqq</item>
+        <item>com.android.calendar</item>
+        <item>com.android.providers.calendar</item>
+        <item>com.miui.notes</item>
+        <item>com.milink.service</item>
+        <item>com.xiaomi.mirror</item>
+    </string-array>
     <string-array name="smart_power_service_package_white_list">
         <item>com.tencent.mm</item>
         <item>com.tencent.mobileqq</item>
+        <item>com.android.calendar</item>
+        <item>com.miui.notes</item>
+        <item>com.milink.service</item>
+        <item>com.xiaomi.mirror</item>
     </string-array>
     <string-array name="start_from_freeform_black_list_activity">
         <item>com.tencent.qqmusic/.business.lockscreennew.LockScreenActivity</item>
