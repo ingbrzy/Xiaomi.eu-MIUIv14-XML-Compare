@@ -1,4 +1,0 @@
-Removed: [vi] strings.xml: string/external_sources_settings_negative (duplicate)
-Removed: [vi] strings.xml: string/risk_app_install_item_des (duplicate)
-Removed: [vi] strings.xml: string/risk_close_tip_des (duplicate)
-Removed: [vi] strings.xml: string/security_mode_on_suggestion_msg (duplicate)
