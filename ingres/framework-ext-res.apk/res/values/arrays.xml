@@ -7083,6 +7083,68 @@
         <item>com.sup.android.superb</item>
         <item>com.xiaomi.gamecenter</item>
     </string-array>
+    <string-array name="miui_resize_black_list_for_fold">
+        <item>air.tv.douyu.android</item>
+        <item>com.lalamove.huolala.client</item>
+        <item>com.dianping.v1</item>
+        <item>com.tmall.wireless</item>
+        <item>com.qqgame.hlddz</item>
+        <item>com.minitech.miniworld.TMobile.mi</item>
+        <item>com.happyelements.AndroidAnimal</item>
+        <item>com.android.bankabc</item>
+        <item>com.tencent.tmgp.sgame</item>
+        <item>com.puzzlespeppapigaa.bymmzzza.dbzq.m</item>
+        <item>com.dingogames.tastyplanet4.mt</item>
+        <item>com.kleientertainment.doNotStarveShipwrecked.mt</item>
+        <item>com.hskj.palmmetro</item>
+        <item>com.tencent.ttpic</item>
+        <item>com.wb.xqgs.mi</item>
+        <item>com.careate.qyi</item>
+        <item>com.ichoice.wemay</item>
+        <item>com.ximi.weightrecord</item>
+        <item>cn.com.njcb.android.mobilebank</item>
+        <item>cn.cntvnews</item>
+        <item>com.taobao.idlefish</item>
+        <item>com.qysoft.cyjlx</item>
+        <item>com.xiangzi.jukandian</item>
+        <item>com.csii.cib</item>
+        <item>com.block.puzzle.game.hippo.mi</item>
+        <item>com.tencent.gamehelper.smoba</item>
+        <item>com.tencent.tmgp.pubgmhd</item>
+        <item>com.happyelements.AndroidClover.mob</item>
+        <item>com.sup.android.superb</item>
+    </string-array>
+    <string-array name="miui_resize_black_list_for_pad">
+        <item>air.tv.douyu.android</item>
+        <item>com.lalamove.huolala.client</item>
+        <item>com.dianping.v1</item>
+        <item>com.tmall.wireless</item>
+        <item>com.qqgame.hlddz</item>
+        <item>com.minitech.miniworld.TMobile.mi</item>
+        <item>com.happyelements.AndroidAnimal</item>
+        <item>com.android.bankabc</item>
+        <item>com.tencent.tmgp.sgame</item>
+        <item>com.puzzlespeppapigaa.bymmzzza.dbzq.m</item>
+        <item>com.dingogames.tastyplanet4.mt</item>
+        <item>com.kleientertainment.doNotStarveShipwrecked.mt</item>
+        <item>com.hskj.palmmetro</item>
+        <item>com.tencent.ttpic</item>
+        <item>com.wb.xqgs.mi</item>
+        <item>com.careate.qyi</item>
+        <item>com.ichoice.wemay</item>
+        <item>com.ximi.weightrecord</item>
+        <item>cn.com.njcb.android.mobilebank</item>
+        <item>cn.cntvnews</item>
+        <item>com.taobao.idlefish</item>
+        <item>com.qysoft.cyjlx</item>
+        <item>com.xiangzi.jukandian</item>
+        <item>com.csii.cib</item>
+        <item>com.block.puzzle.game.hippo.mi</item>
+        <item>com.tencent.gamehelper.smoba</item>
+        <item>com.tencent.tmgp.pubgmhd</item>
+        <item>com.happyelements.AndroidClover.mob</item>
+        <item>com.sup.android.superb</item>
+    </string-array>
     <string-array name="miui_resize_white_list">
         <item>com.android.camera</item>
     </string-array>
@@ -7185,6 +7247,8 @@
         <item>com.tencent.mm</item>
     </string-array>
     <string-array name="package_static_white_list">
+        <item>com.android.updater</item>
+        <item>com.miui.misightservice</item>
         <item>com.miui.personalassistant</item>
     </string-array>
     <string-array name="package_static_white_list_base">
@@ -7213,7 +7277,6 @@
         <item>com.qti.snapdragon.sdk.display</item>
         <item>com.xiaomi.bluetooth</item>
         <item>com.xiaomi.metoknlp</item>
-        <item>com.android.updater</item>
         <item>com.xiaomi.location.fused</item>
         <item>android.process.acore</item>
         <item>com.miui.wmsvc</item>
@@ -7222,7 +7285,10 @@
         <item>com.magiear.handsfree.assistant</item>
         <item>com.xiaomi.mi_connect_service</item>
     </string-array>
-    <array name="package_static_white_list_lite" />
+    <string-array name="package_static_white_list_lite">
+        <item>com.android.updater</item>
+        <item>com.miui.misightservice</item>
+    </string-array>
     <string-array name="process_disable_force_stop_list">
         <item>com.miui.securitycore</item>
     </string-array>
@@ -7426,6 +7492,7 @@
         <item>com.miui.screenrecorder</item>
         <item>com.android.soundrecorder</item>
         <item>com.android.deskclock</item>
+        <item>com.miui.voiceassist</item>
         <item>com.xiaomi.drivemode</item>
         <item>com.caiharbor.esim</item>
         <item>com.miui.backup</item>
@@ -7441,7 +7508,9 @@
         <item>com.xiaomi.channel</item>
         <item>com.xiaomi.channel:remote</item>
     </string-array>
-    <array name="process_static_white_list" />
+    <string-array name="process_static_white_list">
+        <item>com.android.mms:mms_service</item>
+    </string-array>
     <string-array name="process_static_white_list_base">
         <item>com.lbe.security.miui</item>
         <item>com.miui.virtualsim:authentication</item>
@@ -7451,11 +7520,14 @@
         <item>com.miui.securitycenter.remote</item>
         <item>com.miui.greenguard</item>
         <item>com.miui.aod</item>
+        <item>com.miui.voiceassist:core</item>
+        <item>com.miui.voicetrigger</item>
+    </string-array>
+    <string-array name="process_static_white_list_lite">
         <item>com.android.mms:mms_service</item>
         <item>com.miui.voiceassist:core</item>
         <item>com.miui.voicetrigger</item>
     </string-array>
-    <array name="process_static_white_list_lite" />
     <string-array name="rt_boost_pkg_white_list">
         <item>com.tencent.mm</item>
         <item>com.sina.weibo</item>

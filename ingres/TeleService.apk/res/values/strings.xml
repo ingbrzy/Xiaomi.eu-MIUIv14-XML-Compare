@@ -1519,6 +1519,7 @@ Using preferred network instead."</string>
 Please contact your operators"</string>
     <string name="no_vm_number">Missing voicemail number</string>
     <string name="no_vm_number_msg">No voicemail number is stored on the SIM card.</string>
+    <string name="no_voice_capability">"Couldn't reach carrier. Wait a minute or two and try again."</string>
     <string name="no_voip">"SIP calling isn't supported"</string>
     <string name="no_volte_call_service_notification_content2_for_cbn">"Can't make calls. HD voice service isn't registered for SIM %d (China Broadnet)."</string>
     <string name="no_volte_call_service_notification_content_for_cbn">"Can't make calls. HD voice service isn't registered for China Broadnet SIM."</string>
