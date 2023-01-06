@@ -1,0 +1,2 @@
+Removed: [hr-rHR] strings.xml: string/congratulation_pre_label (duplicate)
+Removed: [hr-rHR] strings.xml: string/congratulation_pre_title (duplicate)
