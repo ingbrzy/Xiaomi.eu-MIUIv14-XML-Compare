@@ -275,6 +275,7 @@ You can sign in to your Xiaomi Account using %s now."</string>
     <string name="copy">Copy</string>
     <string name="copy_link">Copy URL</string>
     <string name="copy_to_clipboard_successful">Copied successfully</string>
+    <string name="current_account_can_use_pwd_login">Enter your password to sign in</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -458,6 +459,7 @@ Send this code to the supervisor."</string>
     <string name="input_new_pwd">Enter new password</string>
     <string name="io_error_title">Confirm your network</string>
     <string name="just_a_second">Just a sec…</string>
+    <string name="keep_phone_ticket_login">Sign in with verification code</string>
     <string name="kr_license_desc">You must agree to our User Agreement and Privacy Policy before using Xiaomi Account and Xiaomi Cloud services.</string>
     <string name="kr_permission_contacts_desc">For accessing contact info</string>
     <string name="kr_permission_desc">Permissions required</string>
@@ -485,6 +487,7 @@ Send this code to the supervisor."</string>
     <string name="logout_account">Sign out</string>
     <string name="logout_failed">"Can't sign out"</string>
     <string name="marketSdkVersion">3.2.22</string>
+    <string name="messenger_send_button_text">Send</string>
     <string name="mi_account">My account</string>
     <string name="mi_account_identity_title">Verify your identity</string>
     <string name="mi_finance">My finances</string>
@@ -880,6 +883,8 @@ Send this code to the supervisor."</string>
     <string name="personal_info_desc">Photo, nickname, and more</string>
     <string name="phone_num_use_for">Phone number is used for:</string>
     <string name="phone_register">Use phone number</string>
+    <string name="phone_ticket_login">Sign in with verification code</string>
+    <string name="phone_ticket_register">Create account with phone number</string>
     <string name="photoPickerNotFoundText">No photos available.</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
@@ -1074,6 +1079,7 @@ Send this code to the supervisor."</string>
     <string name="update_email_address_dialog_title">Update Email</string>
     <string name="update_phone_notice">Change security settings</string>
     <string name="update_phone_number_notice_message">You need to verify your identity before you can update phone number.</string>
+    <string name="use_google_account_login">Sign in with Google</string>
     <string name="used_cloud_storage_info">Used %s</string>
     <string name="user_agreement_device_permission_desc">For ensuring the security of the sign-in environment</string>
     <string name="user_agreement_device_permission_title">Access device info</string>
