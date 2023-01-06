@@ -1,0 +1,4 @@
+Removed: [pl] strings.xml: string/app_installing_not_allow (duplicate)
+Removed: [pl] strings.xml: string/no_install_permission_tip (duplicate)
+Removed: [pl] strings.xml: string/no_set_lock_screen_tip (duplicate)
+Removed: [pl] strings.xml: string/settings_security_mode_service_list_title_off_msg (duplicate)
