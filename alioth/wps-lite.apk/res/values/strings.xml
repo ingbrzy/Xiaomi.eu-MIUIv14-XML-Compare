@@ -174,6 +174,8 @@
     <string name="go_to_download">去下载</string>
     <string name="help_send_editing_file">Send %s for helping developer to location the problem.</string>
     <string name="highlight">Highlight</string>
+    <string name="kslite_sign_url" />
+    <string name="kslite_sign_url_test" />
     <string name="online_security_error_code_no_operation_permission">权限不足，无法进行本次操作</string>
     <string name="oppo_app_packageName">OPPO文档查看器（WPS定制）</string>
     <string name="oppo_scre_dialog_message" formatted="false"><Data>“WPS文档查看器”是用于查看用户办公文档的软件，需要您提供文件存储的权限才能正常使用。为了更好的改进产品体验，WPS Office会收集功能使用信息，并将严格按照&lt;a href=\"%s\">《最终用户许可协议》&lt;/a>和&lt;a href=\"%s\">《隐私政策》&lt;/a>的说明，保护您的信息安全。</Data></string>
@@ -223,6 +225,7 @@
     <string name="public_app_language">2052</string>
     <string name="public_bad_doc_to_process">"Invalid document, can't complete operation"</string>
     <string name="public_bookmark">Bookmark</string>
+    <string name="public_bottombar_mark">标记</string>
     <string name="public_cancel">Cancel</string>
     <string name="public_chart_category">Categories</string>
     <string name="public_chart_series">Series</string>
@@ -249,10 +252,12 @@
     <string name="public_default_sheet_lable_name">WPS表格查看器</string>
     <string name="public_default_writer_lable_name">WPS文字查看器</string>
     <string name="public_displayPasswd">Show password</string>
+    <string name="public_display_privacy_policy">View Privacy Policy</string>
     <string name="public_doc_end_preview_tip">Powered by WPS Office</string>
     <string name="public_download_message_tip">未安装WPS，可去软件商场下载应用</string>
     <string name="public_edit">Edit</string>
     <string name="public_edit_with_wps">使用WPS编辑</string>
+    <string name="public_enter_now">立即进入</string>
     <string name="public_enter_phonemode">Enter mobile view</string>
     <string name="public_entry_browser">进入浏览器</string>
     <string name="public_error_email_parse_path_toast">缺少读取邮件权限，请在设置中打开允许邮件读取权限</string>
@@ -278,6 +283,7 @@
     <string name="public_inputPasswd">Enter password to open file</string>
     <string name="public_isSaveOrNot">"Save the changes you've made to the document?"</string>
     <string name="public_is_download_wps">是否下载WPS?</string>
+    <string name="public_is_jump_wps_pen_mode">是否进入标记模式?</string>
     <string name="public_jump_to_tips">Tap here and enter a page number to switch</string>
     <string name="public_keep_format">Keep format</string>
     <string name="public_kitkat_file_cant_write_tips">"The current version of Android doesn't allow the apps to write in \"SD Card (%1$s)\" now. The file must be saved to \"SD Card (%2$s)\" as a new file. Save it now?"</string>
@@ -287,6 +293,7 @@
     <string name="public_lite_update_cloud_dialog_message">Update WPS Office,enjoy %s service</string>
     <string name="public_lite_update_right_now">Update now</string>
     <string name="public_lite_use_right_now">Use now</string>
+    <string name="public_loadDocumentError">"File doesn't exist or can't be opened"</string>
     <string name="public_loadDocumentFormatError">"File format error, can't open the file."</string>
     <string name="public_loadDocumentLackOfStorageError">"Not enough storage, can't open the file."</string>
     <string name="public_loadDocumentOutOfMemoryError">"Not enough storage, can't open the file."</string>
@@ -328,11 +335,13 @@
     <string name="public_pdf_print_converting">Preparing to print…</string>
     <string name="public_pdf_print_fail">"Couldn't print document"</string>
     <string name="public_pdf_print_title">Print</string>
+    <string name="public_penmode_download_message_tip">配合使用触控笔，在 WPS Office 对文档进行自由标注</string>
     <string name="public_permission_request">Grant the required permissions in the Settings to be able to work with documents.</string>
     <string name="public_permission_storage_disallow_msg">"You won't be able to work with documents after you revoke authorization."</string>
     <string name="public_picture_savefail">图片损坏，无法保存</string>
     <string name="public_play">Play</string>
     <string name="public_ppt_label">Mi Presentation Viewer</string>
+    <string name="public_privacy_update">&lt;Data>To fully understand your rights as a user as well as the ways in which we use your data, read and agree to the new version of our &lt;a href=\"%s\">Privacy Policy&lt;/a> before you continue.&lt;/Data></string>
     <string name="public_re_licensing">Grant authorization</string>
     <string name="public_readOnlyMode">Read only</string>
     <string name="public_recory_edit_not_save_tips">Already recovered unsaved content for you.</string>
@@ -341,6 +350,10 @@
     <string name="public_refuse_jurisdiction">Permissions required</string>
     <string name="public_replace">Replace</string>
     <string name="public_request_senior_password">Enter the password of highest permission</string>
+    <string name="public_revoke">Withdraw%s</string>
+    <string name="public_revoke_privacy_content">"If you continue, you'll withdraw your consent to the Privacy Policy of Mi Doc Viewer (Powered by WPS). We will cease to collect your personal information, and the personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. Your withdrawal of consent will be seen as a refusal to accept the services provided by Mi Doc Viewer (Powered by WPS)."</string>
+    <string name="public_revoke_privacy_desc">Withdraw your consent to the Privacy Policy of Mi Doc Viewer (Powered by WPS)</string>
+    <string name="public_revoke_privacy_title">Withdrawal of consent</string>
     <string name="public_ribbon_font">Font</string>
     <string name="public_rotate">旋转屏幕</string>
     <string name="public_save">Save</string>
@@ -364,7 +377,7 @@
     <string name="public_sensor_ratation_land_tip">Landscape orientation</string>
     <string name="public_sensor_ratation_port_tip">Portrait orientation</string>
     <string name="public_service_disable_error_tips">"This feature can't be used since related service has been disabled."</string>
-    <string name="public_share">分享</string>
+    <string name="public_share">Share</string>
     <string name="public_share_no_network">"Couldn't connect to the network"</string>
     <string name="public_share_retry">Try again</string>
     <string name="public_share_to_tv">投影到电视</string>
@@ -420,7 +433,7 @@
     <string name="ss_toolbar_sheets_unhided">全部工作表</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="wps_lite_app_svn">svn</string>
-    <string name="wps_lite_app_version">3.0.0</string>
+    <string name="wps_lite_app_version">3.1.0</string>
     <string name="wps_lite_xiaomi_app_packageName">Mi Doc Viewer (Powered by WPS)</string>
     <string name="writer_characters">Characters (no spaces)</string>
     <string name="writer_characters_with_spaces">Characters (with spaces)</string>
