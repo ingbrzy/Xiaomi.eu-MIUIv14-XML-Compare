@@ -165,9 +165,9 @@
         <item quantity="other">%d items selected</item>
         <item quantity="one">%d item selected</item>
     </plurals>
-    <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">Delete %d burst shots from Xiaomi Cloud and all synced devices?</item>
-        <item quantity="one">Delete %d burst shot from Xiaomi Cloud and all synced devices?</item>
+    <plurals name="delete_brust_title">
+        <item quantity="other">Delete %d burst shots?</item>
+        <item quantity="one">Delete %d burst shot?</item>
     </plurals>
     <plurals name="delete_burst_photo_from_local">
         <item quantity="other">Delete %d burst shots?</item>
@@ -185,17 +185,13 @@
         <item quantity="other">Delete %d items?</item>
         <item quantity="one">Delete %d item?</item>
     </plurals>
-    <plurals name="delete_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">Delete %d photos from all devices and Xiaomi Cloud?</item>
-        <item quantity="one">Delete %d photo from all devices and Xiaomi Cloud?</item>
+    <plurals name="delete_media_title">
+        <item quantity="other">Delete %d items?</item>
+        <item quantity="one">Delete %d item?</item>
     </plurals>
     <plurals name="delete_third_party_burst_photo">
         <item quantity="other">Delete %d burst shots from your device?</item>
         <item quantity="one">Delete %d burst shot from your device?</item>
-    </plurals>
-    <plurals name="delete_video_from_all_devices_and_cloud_msg">
-        <item quantity="other">Delete %d videos from all devices and Xiaomi Cloud?</item>
-        <item quantity="one">Delete %d video from all devices and Xiaomi Cloud?</item>
     </plurals>
     <plurals name="download_error">
         <item quantity="other">"Couldn't download %1$d files"</item>
