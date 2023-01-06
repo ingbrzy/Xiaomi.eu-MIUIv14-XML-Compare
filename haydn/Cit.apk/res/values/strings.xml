@@ -886,6 +886,8 @@ After calibrate success, control the fixture close and away from the device"</st
     <string name="sar_sensor_test_timeout">Sar Sensor test timeout</string>
     <string name="search_menu_title">Search</string>
     <string name="set_dsi_tips">Set DSI</string>
+    <string name="sidebottom_mic_check_record_tip">Recording, please say something to MIC at the sidebottom of the device</string>
+    <string name="sidetop_mic_check_record_tip">Recording, please say something to MIC at the sidetop of the device</string>
     <string name="slave_battery_authentic">Secondary Battery Authentic</string>
     <string name="soft_light_title">Soft Light</string>
     <string name="speak_from_mic">Speaking to the MIC, the speaker playback. Judge whether there is sound.</string>
@@ -896,6 +898,8 @@ After calibrate success, control the fixture close and away from the device"</st
     <string name="test_bottom_speaker">bottom_speaker</string>
     <string name="test_front_mic">Front MIC</string>
     <string name="test_main_mic">Main MIC</string>
+    <string name="test_sidebottom_mic">SideBottom MIC</string>
+    <string name="test_sidetop_mic">SideTop MIC</string>
     <string name="test_speaker">speaker</string>
     <string name="test_speaker_summary">"You will hear two random numbers
 Please click the appropriate button according to the number you hear"</string>
