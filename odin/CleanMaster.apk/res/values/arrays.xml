@@ -352,6 +352,42 @@
         <item>@string/solar_term_heavy_snow</item>
         <item>@string/solar_term_winter_solstice</item>
     </string-array>
+    <string-array name="suggest_lock_app">
+        <item>com.tencent.mm</item>
+        <item>com.tencent.mobileqq</item>
+        <item>com.android.mms</item>
+        <item>com.miui.gallery</item>
+        <item>com.android.contacts</item>
+        <item>com.eg.android.AlipayGphone</item>
+        <item>com.android.fileexplorer</item>
+        <item>com.taobao.taobao</item>
+        <item>com.tmall.wireless</item>
+        <item>com.jingdong.app.mall</item>
+        <item>com.baidu.tieba</item>
+        <item>com.miui.notes</item>
+        <item>com.UCMobile</item>
+        <item>com.android.browser</item>
+        <item>com.mi.globalbrowser</item>
+        <item>com.sina.weibo</item>
+        <item>com.xiaomi.channel</item>
+        <item>com.baidu.netdisk</item>
+        <item>com.qzone</item>
+        <item>com.alibaba.mobileim</item>
+        <item>com.immomo.momo</item>
+        <item>com.xiaomi.account</item>
+        <item>com.mipay.wallet</item>
+        <item>com.xiaomi.pass</item>
+        <item>com.android.email</item>
+        <item>com.miui.backup</item>
+        <item>com.wumii.android.mimi</item>
+        <item>com.facebook.katana</item>
+        <item>com.facebook.orca</item>
+        <item>jp.naver.line.android</item>
+        <item>com.whatsapp</item>
+        <item>com.renren.mobile.android</item>
+        <item>cn.wps.moffice_eng</item>
+        <item>com.qihoo.yunpan</item>
+    </string-array>
     <string-array name="uninstalled_app_sort_type">
         <item>Size</item>
         <item>Usage frequency</item>
