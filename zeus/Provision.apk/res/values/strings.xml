@@ -153,6 +153,8 @@
     <string name="config_show_default_language" />
     <string name="config_show_home_cell_size" />
     <string name="congratulation_label">"You're ready to rock!​"</string>
+    <string name="congratulation_pre_label">Just a sec…</string>
+    <string name="congratulation_pre_title">Preparing system…</string>
     <string name="congratulation_swipe">Swipe up to enter the system</string>
     <string name="congratulation_title">Setup complete</string>
     <string name="content_description_complete">Complete</string>
@@ -359,6 +361,8 @@ Features are subject to change. Some of the features above may not be available 
     <string name="midnight">Night</string>
     <string name="mint_keyboard_oobe_checkbox">"I've read and agreed to Mint Keyboard Privacy Policy"</string>
     <string name="mint_keyboard_oobe_terms">Mint Keyboard Privacy Policy</string>
+    <string name="miui14_global_start_up_slogan" />
+    <string name="miui14_start_up_slogan">Ready. Steady. Live.</string>
     <string name="miui_privacy_policy_no_network">"You don't have an internet connection. View the Privacy Policy at %s."</string>
     <string name="miui_provision">Initial setup</string>
     <string name="miui_terms_no_network">"You don't have an internet connection. View the User Agreement at %s."</string>
