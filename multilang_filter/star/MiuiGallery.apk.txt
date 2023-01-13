@@ -1,5 +1,3 @@
-Removed: [cs] plurals.xml: plurals/trash_purge_dialog_message_cloud (missing quantity)
-Removed: [cs] plurals.xml: plurals/trash_purge_dialog_message_local (missing quantity)
 Removed: [fr] plurals.xml: plurals/share_album_detail_photo_count (missing quantity)
 Removed: [fr] plurals.xml: plurals/share_album_home_pref_rooms (missing quantity)
 Removed: [fr] plurals.xml: plurals/share_album_home_pref_screens (missing quantity)
