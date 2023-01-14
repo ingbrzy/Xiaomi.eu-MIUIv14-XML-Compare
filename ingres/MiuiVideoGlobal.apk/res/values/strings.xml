@@ -304,8 +304,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">e8628144771b4ab596db60e7dd8ffe79</string>
-    <string name="com.miapm.build_id">a62c59b11e7e46398061397e417d3b7a</string>
+    <string name="com.crashlytics.android.build_id">c7d228b301fb4ce9863aeb07534ada76</string>
+    <string name="com.miapm.build_id">23efdec6436d41f4998329442ab024c9</string>
     <string name="com_permission_desc">"Mi Video can't access videos on your device. Allow access in the Settings."</string>
     <string name="com_permission_title">Permissions required</string>
     <string name="comment_model_add_comment">Add a comment</string>
@@ -980,6 +980,8 @@ for videos"</string>
     <string name="local_play_end_download_drag_up_guide">Tap or swipe to download</string>
     <string name="local_play_end_download_title">Try downloading your favorite videos</string>
     <string name="local_play_end_drag_up_guide">Tap or swipe up to play Shorts</string>
+    <string name="local_play_recommend_guide_card_bottom">More videos</string>
+    <string name="local_play_recommend_guide_card_title">Recommended</string>
     <string name="local_play_tip">Playing local video</string>
     <string name="local_push_setting_power_tag">Notifications about local videos</string>
     <string name="local_push_title">Popular today</string>
@@ -2359,13 +2361,16 @@ Increase the security of your account."</string>
     <string name="yandex_ads_internal_go">Перейти</string>
     <string name="yandex_ads_internal_install">Установить</string>
     <string name="yandex_ads_internal_install_from_google_play">Установить из Google Play</string>
+    <string name="yandex_ads_internal_instream_ad_position">%1$d из %2$d</string>
     <string name="yandex_ads_internal_instream_advertiser_social">Социальная реклама</string>
     <string name="yandex_ads_internal_instream_advertiser_yandex">Реклама</string>
+    <string name="yandex_ads_internal_instream_skip">Пропустить</string>
     <string name="yandex_ads_internal_rewarded_close_verification_button_close">Закрыть</string>
     <string name="yandex_ads_internal_rewarded_close_verification_button_dismiss">Досмотреть</string>
     <string name="yandex_ads_internal_rewarded_close_verification_text">Если закрыть рекламу до окончания таймера, награда за просмотр не будет начислена</string>
     <string name="yandex_ads_internal_rewarded_close_verification_title">Закрыть рекламу?</string>
     <string name="yandex_ads_internal_text_divider">·</string>
+    <string name="yandex_ads_internal_text_divider_with_space">·</string>
     <string name="yandex_ads_internal_tools_age_text">3+</string>
     <string name="yandex_ads_internal_tools_app_install_call_to_action_text">Установить</string>
     <string name="yandex_ads_internal_tools_app_install_call_to_action_text_large">Установить из Google Play</string>
@@ -2378,6 +2383,7 @@ Increase the security of your account."</string>
     <string name="yandex_ads_internal_tools_sponsored_text">sponsored</string>
     <string name="yandex_ads_internal_tools_title_text">Покупка и продажа элитных и дешёвых машин на Авто.ру</string>
     <string name="yandex_ads_internal_tools_warning_text">Есть противопоказания. Обратитесь к специалисту Есть противопоказания. Обратитесь к специалисту</string>
+    <string name="yandex_mobileads_age_restricted_user">com.yandex.mobile.ads.AGE_RESTRICTED_USER</string>
     <string name="yandex_mobileads_automatic_sdk_initialization">com.yandex.mobile.ads.AUTOMATIC_SDK_INITIALIZATION</string>
     <string name="year">year</string>
     <string name="yesterday">Yesterday</string>
