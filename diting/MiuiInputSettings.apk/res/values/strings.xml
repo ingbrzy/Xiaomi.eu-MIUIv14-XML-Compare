@@ -337,6 +337,11 @@ You can view generated logs in File Manager."</string>
     <string name="ks_screenshot">Screenshot</string>
     <string name="ks_search_summary">Search</string>
     <string name="ks_title">Keyboard shortcuts</string>
+    <string name="launch_accessibility_environmental_speech_recognition">Ambient sound recognition</string>
+    <string name="launch_accessibility_hear_sound">Mi Ditto</string>
+    <string name="launch_accessibility_hear_sound_subtitle">Mi Ditto subtitles</string>
+    <string name="launch_accessibility_talkback">TalkBack</string>
+    <string name="launch_accessibility_voice_control">Voice controls</string>
     <string name="launch_ai_shortcut">Mi AI shortcut</string>
     <string name="launch_alipay_health_code">Alipay health code</string>
     <string name="launch_alipay_health_code_auto_close">Alipay health code shortcut is no longer available. You can switch to a different shortcut.</string>
@@ -509,6 +514,7 @@ You can view generated logs in File Manager."</string>
     <string name="navigation_type_title">System navigation</string>
     <string name="night">Evening</string>
     <string name="no_media_button_receiver">No</string>
+    <string name="none">None</string>
     <string name="noon">Midday</string>
     <string name="not_set">Not set</string>
     <string name="other_advanced_settings">Additional settings</string>
