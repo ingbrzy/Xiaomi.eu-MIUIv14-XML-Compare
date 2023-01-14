@@ -231,6 +231,7 @@
     <string name="bgmlist_select_playmode_loop">Switched to list loop playback</string>
     <string name="bgmlist_select_playmode_repeat">Switched to single loop playback</string>
     <string name="bgmlist_title">Background music</string>
+    <string name="billion_char">%sB</string>
     <string name="bind_phone_popup_gift">Top up now to get the exclusive gift that is worth 99 coins</string>
     <string name="binddate_dialog_agree">agree</string>
     <string name="binddate_dialog_refuse">Refuse</string>
@@ -421,8 +422,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">82454d98c14b4dcab8c16c64fb03c17d</string>
-    <string name="com.miapm.build_id">1fb3e760db724bdab312fe8b99ea81ec</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">c1bc976001384d42b1fc350a02dd289a</string>
+    <string name="com.miapm.build_id">9510f6bf1be94ebea4504c779c2e4e3f</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="commit">Submit</string>
     <string name="commit_frequently">Submit too frequently, please try again later</string>
@@ -1651,6 +1652,7 @@ Go and chat with them!"</string>
     <string name="middle_sound_quality">Standard</string>
     <string name="midnight">Night</string>
     <string name="milink_unavaliable_please_update">"Mi Link isn't available. Update MIUI."</string>
+    <string name="million_char">%sM</string>
     <string name="millions_songs">Millions of songs</string>
     <string name="min_sleep_time">%d</string>
     <string name="mishop_login_other">Another Account</string>
@@ -2622,6 +2624,7 @@ Be Happy"</string>
     <string name="the_valentines_day">"Valentine's Day"</string>
     <string name="the_water_lantern_festival">Water Lantern Festival</string>
     <string name="this_version_is_old">This room type is not supported, please update to the latest version~</string>
+    <string name="thousand_char">%sK</string>
     <string name="thursday">Thursday</string>
     <string name="thursday_short">Thu</string>
     <string name="thursday_shortest">Thu</string>
@@ -2968,7 +2971,17 @@ Delta update size: %2$s"</string>
     <string name="you">you</string>
     <string name="you_can_switch_mode_in_settings">You can switch between modes in the Settings</string>
     <string name="you_may_like">You may also like</string>
+    <string name="youtube_download_canl">Cancel</string>
+    <string name="youtube_download_fail_net">"Couldn't connect to the network. Check your network settings and try again."</string>
+    <string name="youtube_download_fail_source">An error occurred. Wait a minute or two and try again.</string>
+    <string name="youtube_download_fail_space">"Couldn't download. Not enough storage space."</string>
+    <string name="youtube_download_fail_unknown">An error occurred. Wait a minute or two and try again.</string>
+    <string name="youtube_download_hint">The audio from this video will be stored on your device in MP3 format with the video title as the file name. Download now?</string>
+    <string name="youtube_download_ing">Just a sec…</string>
+    <string name="youtube_download_start">Download</string>
+    <string name="youtube_download_suc">Downloaded successfully</string>
     <string name="youtube_play_history">Playback history</string>
     <string name="youtube_restricted_mode_enabled">youtube_restricted_mode_enabled</string>
     <string name="youtube_share_guide_tip">You can now share videos with friends</string>
+    <string name="youtube_tab_explore">Discover</string>
 </resources>

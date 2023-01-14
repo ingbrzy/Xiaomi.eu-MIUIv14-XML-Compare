@@ -729,7 +729,7 @@
     <string name="unit">Units</string>
     <string name="unit_temperature">Temperature units</string>
     <string name="unit_wind">Wind speed units</string>
-    <string name="update_night_setting_summary_text">Update weather info between %1$s and %1$s</string>
+    <string name="update_night_setting_summary_text">Update weather info between %1$s and %2$s</string>
     <string name="update_night_setting_title_text">Update at night automatically</string>
     <string name="update_notification_info">Updating data in the background…</string>
     <string name="updated_a_moment_ago">Updated a moment ago</string>
