@@ -151,6 +151,7 @@
     <string name="card_loading">Just a sec…</string>
     <string name="card_no_network">"Couldn't connect to the network. Check your network settings and try again."</string>
     <string name="card_retry">Try again</string>
+    <string name="category_wallpaper_rank">w,124:248</string>
     <string name="change_host_hint">Change host</string>
     <string name="change_wallpaper">Wallpaper</string>
     <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
@@ -601,6 +602,7 @@
     <string name="hide_pull_down_negative">"Don't hide"</string>
     <string name="hide_pull_down_positive">Hide</string>
     <string name="hide_retract_button">Hide</string>
+    <string name="historical_wallpaper">Previously used</string>
     <string name="home_apply_failured">"Can't apply Home screen wallpaper"</string>
     <string name="home_apply_success">Home screen wallpaper applied</string>
     <string name="home_daily">Daily highlights</string>

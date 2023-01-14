@@ -128,8 +128,12 @@
     <string name="cloud_find_device_off">Off</string>
     <string name="cloud_find_device_on">On</string>
     <string name="cloud_lab_title">Lab</string>
+    <string name="cloud_manage_storage_text">Manage cloud storage</string>
     <string name="cloud_service_open_authorization">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your notes, photos and videos, recordings, and other items from system apps across all connected devices. Home screen layout backups will also be stored in Xiaomi Cloud. You'll be able to view all synced items on i.mi.com."</string>
+    <string name="cloud_storage_almost_full_upgrade_text">Storage is almost full. May not be able to sync photos.</string>
+    <string name="cloud_storage_common_functions_text">Frequently used</string>
     <string name="cloud_storage_default_title">Cloud storage</string>
+    <string name="cloud_storage_full_upgrade_default_text">"Insufficient storage. Couldn't sync photos."</string>
     <string name="cloud_storage_info_type_drive">Mi Drive</string>
     <string name="cloud_storage_info_type_duokan">Duokan</string>
     <string name="cloud_storage_info_type_family">Family</string>
@@ -138,6 +142,10 @@
     <string name="cloud_storage_loading_data">Just a sec…</string>
     <string name="cloud_storage_manage_title">Manage storage</string>
     <string name="cloud_storage_no_data">No items in the cloud yet</string>
+    <string name="cloud_storage_sufficient_text">Upgrade to get up to %d TB of storage</string>
+    <string name="cloud_storage_upgrade_text">Upgrade</string>
+    <string name="cloud_storage_upgrade_text_now">Upgrade</string>
+    <string name="cloud_storage_zero_upgrade_button_text_now">Upgrade for free</string>
     <string name="confirm_save">Keep</string>
     <string name="connect_network">Connect to Wi-Fi or insert a SIM card</string>
     <string name="connect_network_china">Connect to Wi-Fi or insert a SIM card</string>
@@ -147,6 +155,7 @@
     <string name="copy">Copy</string>
     <string name="cta_notification_content_text">Allow %s to connect to the internet to be able to restore items</string>
     <string name="cta_notification_content_title">"Can't restore items from %s"</string>
+    <string name="customize_notification_btn_text">Upgrade</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">This account is also used on another device. Merge the items from multiple apps (including %1$s and %2$s) with the items on this device?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_one">This account is also used on another device. Merge the items from %s with the items on this device?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_two">This account is also used on another device. Merge the items from %1$s and %2$s with the items on this device?</string>
@@ -163,6 +172,7 @@
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Chinese Traditional Calendar</string>
     <string name="date_time_picker_dialog_title">Set date and time</string>
+    <string name="default_noti_quota_full_title">Cloud storage is full</string>
     <string name="detect_sim_card">Search for SIM card</string>
     <string name="device_activation_card_cannot_get_yet">"Couldn't get info. Try again in 3-5 days."</string>
     <string name="device_activation_card_description">"First activation is registered when a device connects to the network (including but not limited to Wi-Fi and mobile networks) for the first time. It normally takes a while to register first activation, so it's better to wait for 3-5 days after connecting to the network before checking activation status.&lt;br>&lt;br>Device activation is the main factor in determining the validity period of our extended warranty. Check our &lt;a href=%1$s>Return, Exchange, and Repair Policy&lt;/a> for more details.&lt;br>&lt;br>Feel free to call our customer support hotline if you have any questions: 400-100-5678."</string>
@@ -383,7 +393,7 @@
     <string name="loading_server_key_info">Loading items…</string>
     <string name="low_battery_locate_summary">Automatically report location info when the battery is low</string>
     <string name="low_battery_locate_title">Report location when battery is low</string>
-    <string name="marketSdkVersion">3.2.12</string>
+    <string name="marketSdkVersion">3.2.22</string>
     <string name="master_alert_notif_content">Back up items regularly not to lose anything important.</string>
     <string name="master_alert_notif_title">Turn on Xiaomi Cloud</string>
     <string name="member_menu_vipname_free">Free</string>
@@ -685,11 +695,12 @@
     <string name="noti_quota_button_text">Upgrade</string>
     <string name="noti_quota_full_sum">Upgrade your storage plan to continue syncing items.</string>
     <string name="noti_quota_full_sum_without_button">Get more storage space to continue syncing items.</string>
-    <string name="noti_quota_full_title">Cloud storage is full</string>
+    <string name="noti_quota_full_title">Cloud storage is &lt;font color=#F22424>full&lt;/font></string>
     <string name="noti_quota_full_title_without_button">Cloud storage is full</string>
     <string name="noti_quota_low_sum">Upgrade your storage plan to continue syncing items.</string>
     <string name="noti_quota_low_sum_without_button">Get more storage space to continue syncing items.</string>
     <string name="noti_quota_low_title">Not enough cloud storage</string>
+    <string name="noti_quota_low_title_with_storage">&lt;font color=#F22424>Less than &lt;xliff:g id=remaining_storage_space example=0.5>%s&lt;/xliff:g> GB&lt;/font> of cloud storage remaining</string>
     <string name="noti_quota_low_title_without_button">Not enough cloud storage</string>
     <string name="notification_sync_fail_title">"Couldn't sync passwords"</string>
     <string name="notification_update_key_text">Password manager passcode changed. Verify the new passcode.</string>
@@ -760,7 +771,7 @@ Location info might not be reported when network connection is poor."</string>
     <string name="privacy_runtime_perm_call_log_title">Access and edit call records</string>
     <string name="privacy_runtime_perm_contacts_desc">For syncing contacts</string>
     <string name="privacy_runtime_perm_contacts_title">Access and edit contacts</string>
-    <string name="privacy_runtime_perm_external_storage_desc">For syncing contact profile photos and message attachments</string>
+    <string name="privacy_runtime_perm_external_storage_desc">For syncing contact profile photos</string>
     <string name="privacy_runtime_perm_external_storage_title">Access storage</string>
     <string name="privacy_runtime_perm_phone_state_desc">For accessing phone number and device status</string>
     <string name="privacy_runtime_perm_phone_state_title">Access device info</string>
