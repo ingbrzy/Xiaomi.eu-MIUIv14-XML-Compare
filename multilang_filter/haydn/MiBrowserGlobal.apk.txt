@@ -8,8 +8,6 @@ Removed: [fr] plurals.xml: plurals/reading__chapter_wait_unlock_tips_chances_lef
 Removed: [fr] plurals.xml: plurals/reading__wait_to_unlock_rule (missing quantity)
 Removed: [fr] plurals.xml: plurals/revenu_dépenses_bonus (invalid name)
 Removed: [fr] plurals.xml: plurals/revenu_dépenses_pièces (invalid name)
-Removed: [hu] arrays.xml: array/nf_feedback_reason (item mismatch)
-Removed: [hu] plurals.xml: plurals/le_notification_download_completed (format mismatch)
 Removed: [ko] arrays.xml: array/nf_feedback_reason (item mismatch)
 Removed: [ko] plurals.xml: plurals/le_notification_download_completed (format mismatch)
 Removed: [sl] plurals.xml: plurals/le_notification_download_completed (format mismatch)
