@@ -1,0 +1,8 @@
+Removed: [ar] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)
+Removed: [el] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)
+Removed: [fa-rIR] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)
+Removed: [iw-rIL] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)
+Removed: [ro] strings.xml: string/user_agreement_hint_3rd_app (format mismatch)
+Removed: [ro] strings.xml: string/user_agreement_hint_3rd_app_mobile (format mismatch)
+Removed: [ro] strings.xml: string/user_agreement_hint_3rd_app_with_telecom (format mismatch)
+Removed: [ro] strings.xml: string/user_agreement_hint_3rd_app_with_unicom (format mismatch)
