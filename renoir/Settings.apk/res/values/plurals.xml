@@ -358,11 +358,11 @@
         <item quantity="one">%d category turned off</item>
     </plurals>
     <plurals name="notifications_sent_daily">
-        <item quantity="other">~%,d notifications per day</item>
+        <item quantity="other">~%d notifications per day</item>
         <item quantity="one">~%d notification per day</item>
     </plurals>
     <plurals name="notifications_sent_weekly">
-        <item quantity="other">~%,d notifications per week</item>
+        <item quantity="other">~%d notifications per week</item>
         <item quantity="one">~%d notification per week</item>
     </plurals>
     <plurals name="num_minutes_ago">

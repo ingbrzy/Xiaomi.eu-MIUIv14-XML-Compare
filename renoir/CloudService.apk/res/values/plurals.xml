@@ -29,6 +29,10 @@
         <item quantity="other">%d mins ago</item>
         <item quantity="one">1 min ago</item>
     </plurals>
+    <plurals name="cloud_storage_full_upgrade_text">
+        <item quantity="other">"Insufficient storage. Couldn't sync %d photos."</item>
+        <item quantity="one">"Insufficient storage. Couldn't sync %d photo."</item>
+    </plurals>
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d blocklist entries</item>
         <item quantity="one">%d blocklist entry</item>
@@ -101,6 +105,10 @@
         <item quantity="other">Try again in %d seconds</item>
         <item quantity="one">Try again in %d second</item>
     </plurals>
+    <plurals name="gallery_auto_sync_fail_noti_red_title">
+        <item quantity="other">"Couldn't sync &lt;font color=#F22424>%s items&lt;/font>"</item>
+        <item quantity="one">"Couldn't sync &lt;font color=#F22424>%s item&lt;/font>"</item>
+    </plurals>
     <plurals name="gallery_auto_sync_fail_noti_title">
         <item quantity="other">"Couldn't sync %s items"</item>
         <item quantity="one">"Couldn't sync %s item"</item>
@@ -143,6 +151,10 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d items selected</item>
         <item quantity="one">%d item selected</item>
+    </plurals>
+    <plurals name="noti_quota_full_title_with_icon_text">
+        <item quantity="other">"Storage is full. Couldn't sync &lt;font color=#F22424>%d apps&lt;/font>"</item>
+        <item quantity="one">"Storage is full. Couldn't sync &lt;font color=#F22424>%d app&lt;/font>"</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minutes ago</item>
