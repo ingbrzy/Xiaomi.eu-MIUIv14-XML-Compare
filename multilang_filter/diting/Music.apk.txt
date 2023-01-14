@@ -1,3 +1,5 @@
+Removed: [ar] strings.xml: string/family_create_use_gold (format mismatch)
+Removed: [ar] strings.xml: string/newcreateroom_create_gold (format mismatch)
 Removed: [cs] plurals.xml: plurals/abbrev_a_hour_ago (missing quantity)
 Removed: [cs] plurals.xml: plurals/abbrev_in_num_minutes (missing quantity)
 Removed: [cs] plurals.xml: plurals/abbrev_num_minutes_ago (missing quantity)
