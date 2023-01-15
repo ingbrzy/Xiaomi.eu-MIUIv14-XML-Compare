@@ -323,6 +323,7 @@
     <string name="heavenly_stems_wu">戊</string>
     <string name="heavenly_stems_xin">辛</string>
     <string name="heavenly_stems_yi">乙</string>
+    <string name="high_temperature_toast">In high temperature protection, the function is temporarily unavailable</string>
     <string name="inCallLabel">Phone</string>
     <string name="incall_bubble_hangup_click_hint">Tap again to go back to call</string>
     <string name="incall_call_type_label_sip">Internet call</string>

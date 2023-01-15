@@ -3532,6 +3532,7 @@ You can view generated logs in File Manager."</string>
     <string name="effect_preview">Preview</string>
     <string name="eighthours">8 hours</string>
     <string name="elastic_text">Prompts and dropdown menus appear with an elastic pop that brings more focus on these objects</string>
+    <string name="embedded_window_guide_text">When the screen is displaying horizontally, apps will display parallel to each other. Apps will be centered when this feature is turned off.</string>
     <string name="emergency_address_summary">Used as your location when you make an emergency call over Wi‑Fi</string>
     <string name="emergency_address_title">Emergency address</string>
     <string name="emergency_dashboard_summary">Emergency SOS, medical info, alerts</string>
@@ -5625,7 +5626,7 @@ Connect at least 4 dots."</string>
     <string name="m3_sys_motion_easing_standard_decelerate">cubic-bezier(0.0, 0.0, 0.0, 1.0)</string>
     <string name="macaddr_label">MAC addr:</string>
     <string name="magic_list_empty_text_pad">No apps compatible with this feature now</string>
-    <string name="magic_window_name_pad">Landscape view optimization</string>
+    <string name="magic_window_name_pad">Parallel windows</string>
     <string name="mah">%d mAh</string>
     <string name="main_clear_accounts">"
 
