@@ -1,1 +1,3 @@
+Removed: [el] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)
+Removed: [iw-rIL] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)
 Removed: [ko] strings.xml: string/취소 (invalid name)
