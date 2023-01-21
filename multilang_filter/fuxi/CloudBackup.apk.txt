@@ -1,0 +1,4 @@
+Removed: [ko] strings.xml: string/restore_network_pause (format mismatch)
+Removed: [uk] strings.xml: string/abc_menu_Видалити_shortcut_label (invalid name)
+Removed: [uk] strings.xml: string/abc_menu_пробіл_shortcut_label (invalid name)
+Removed: [uk] strings.xml: string/abc_menu_увійти_shortcut_label (invalid name)
