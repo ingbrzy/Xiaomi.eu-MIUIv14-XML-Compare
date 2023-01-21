@@ -143,6 +143,10 @@ Note: File will be deleted from this device as well."</item>
         <item quantity="other">Rewind %d seconds</item>
         <item quantity="one">Rewind %d second</item>
     </plurals>
+    <plurals name="feed_play_times">
+        <item quantity="other">%s views</item>
+        <item quantity="one">%s view</item>
+    </plurals>
     <plurals name="free_downloads_num_hint">
         <item quantity="other">%d free downloads left</item>
         <item quantity="one">%d free download left</item>
