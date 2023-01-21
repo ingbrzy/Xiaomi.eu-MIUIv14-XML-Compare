@@ -96,6 +96,10 @@
         <item quantity="other">%d minutes ago</item>
         <item quantity="one">1 minute ago</item>
     </plurals>
+    <plurals name="number_unit_seconds_split">
+        <item quantity="other">%ds</item>
+        <item quantity="one">%ds</item>
+    </plurals>
     <plurals name="pad_ccc_temperature_warning_msg">
         <item quantity="other">Your device is overheated. Camera will be closed in %d seconds. Your photos or videos will be saved automatically.</item>
         <item quantity="one">Your device is overheated. Camera will be closed in %d second. Your photos or videos will be saved automatically.</item>
