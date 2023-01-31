@@ -199,7 +199,6 @@ Removed: [pt-rBR] arrays.xml: array/bluetooth_a2dp_codec_sample_rate_summaries (
 Removed: [pt-rBR] arrays.xml: array/bluetooth_a2dp_codec_sample_rate_titles (item mismatch)
 Removed: [pt-rBR] arrays.xml: array/bluetooth_a2dp_codec_summaries (item mismatch)
 Removed: [pt-rBR] arrays.xml: array/bluetooth_a2dp_codec_titles (item mismatch)
-Removed: [pt-rBR] arrays.xml: array/bt_hci_snoop_log_entries (item mismatch)
 Removed: [pt-rBR] arrays.xml: array/mvno_type_entries (item mismatch)
 Removed: [pt-rBR] strings.xml: string/battery_saver_sticky_description_new (format mismatch)
 Removed: [pt-rBR] strings.xml: string/complete_parameters_new (duplicate)
