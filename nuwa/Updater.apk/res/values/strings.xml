@@ -8,6 +8,7 @@
     <string name="btn_error">Error occurred, try again?</string>
     <string name="btn_install">Check MD5 &amp; Install</string>
     <string name="btn_no">Cancel</string>
+    <string name="btn_not">Not</string>
     <string name="btn_ok">OK</string>
     <string name="btn_pause">Pause</string>
     <string name="btn_share">Share</string>
@@ -33,6 +34,7 @@
     <string name="download_fail_desc">MD5 Sum does not match…</string>
     <string name="downloading">Downloading:</string>
     <string name="downloading_desc">Downloading in progress, check status in notification area.</string>
+    <string name="fastboot_mode">You are now in Fastboot mode, you can only flash ROMs with Terminal on PC!</string>
     <string name="fastboot_update_warning">This update is for fastboot installation only!</string>
     <string name="fetch_notification_default_channel_id">fetch_downloads_channel_id</string>
     <string name="fetch_notification_default_channel_name">Downloads</string>
@@ -53,8 +55,10 @@
 Data will not be wiped."</string>
     <string name="install_title">Are you sure to continue?</string>
     <string name="menu_title_current_version_log">What is new?</string>
+    <string name="menu_title_fastboot_mode">Switch to Fastboot mode</string>
     <string name="menu_title_pick_rom_file">Choose update package</string>
     <string name="menu_title_recovery">Reboot to Recovery mode</string>
+    <string name="menu_title_recovery_mode">Switch to Recovery mode</string>
     <string name="menu_title_show_notifications">Show notifications</string>
     <string name="message">%1$s</string>
     <string name="message_checkbox">Hide future messages from Xiaomi.eu team</string>
@@ -81,11 +85,13 @@ Updates are not available for you!"</string>
     <string name="pick_not_found">No suitable File Manager was found.</string>
     <string name="pick_title">Pick using:</string>
     <string name="recovery_desc">Device will reboot to Recover mode now if you are not familiar with the mode cancel future actions. Continue?</string>
+    <string name="recovery_mode">You are now in Recovery mode, you can flash ROMs in Updater!</string>
     <string name="server_error">Server not responding, application might not work properly!</string>
     <string name="share_desc">Your MIUI version has been updated to %1$s, check latest changelog at: %2$s</string>
     <string name="share_title">Share with</string>
     <string name="stable">Stable</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="twrp_update_warning">To be able to use OTA you need to select whether or not you have TWRP installed on your device:</string>
     <string name="version">Currently installed:</string>
     <string name="weekly">Beta</string>
     <string name="wifi_recommended">No WiFi connection to start download safely!</string>
