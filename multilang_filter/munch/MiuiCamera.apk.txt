@@ -1,5 +1,6 @@
 Removed: [es] strings.xml: string/dolly_zoom_capture_tip1 (format mismatch)
 Removed: [ko] strings.xml: string/update_loading (format mismatch)
 Removed: [ru] strings.xml: string/video_prompter_edit_total_words (format mismatch)
+Removed: [sl] strings.xml: string/video_prompter_edit_total_words (format mismatch)
 Removed: [uk] strings.xml: string/update_loading (format mismatch)
 Removed: [vi] strings.xml: string/update_loading (format mismatch)
