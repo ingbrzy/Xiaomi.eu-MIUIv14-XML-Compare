@@ -7656,6 +7656,7 @@
     </string-array>
     <string-array name="smart_power_broadcast_white_list">
         <item>android.intent.action.EVENT_REMINDER</item>
+        <item>com.google.android.c2dm.intent.RECEIVE</item>
     </string-array>
     <string-array name="smart_power_package_white_list">
         <item>com.xiaomi.xmsf</item>
@@ -7673,6 +7674,7 @@
         <item>com.ss.android.lark.kami:wschannel</item>
         <item>android.process.media</item>
         <item>com.miui.misound</item>
+        <item>com.google.android.gms.persistent</item>
     </string-array>
     <string-array name="smart_power_provider_package_white_list">
         <item>com.tencent.mm</item>
