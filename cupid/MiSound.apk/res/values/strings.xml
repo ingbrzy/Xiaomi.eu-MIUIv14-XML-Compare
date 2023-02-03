@@ -31,6 +31,7 @@
     <string name="add_sound">Add custom preset</string>
     <string name="afternoon">Afternoon</string>
     <string name="am">AM</string>
+    <string name="app_disable_description_title">Disable this app?</string>
     <string name="app_name">Earphones</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="apply_sound">Apply</string>

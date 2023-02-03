@@ -321,13 +321,13 @@ Send this code to the supervisor."</string>
     <string name="feedback_evaluation_success_dialog_content">Thanks for your feedback!</string>
     <string name="feedback_evaluation_success_dialog_title">Rated successfully</string>
     <string name="feedback_guess">Our guess:</string>
-    <string name="feedback_history_remind_login_desc">"Sign in with your Mi Account to view details and your report's progress"</string>
+    <string name="feedback_history_remind_login_desc">"Sign in with your Xiaomi Account to view details and your report's progress"</string>
     <string name="feedback_id">ID: %d</string>
     <string name="feedback_jira_key">JIRA Key: %s</string>
     <string name="feedback_jira_key_place_holder">Creating a Jira…</string>
     <string name="feedback_package_log_failed">"Couldn't compress logs"</string>
     <string name="feedback_remind_login_btn">Sign in</string>
-    <string name="feedback_report_remind_login_desc">Sign in with your Mi Account so that our engineers could contact you.</string>
+    <string name="feedback_report_remind_login_desc">Sign in with your Xiaomi Account so that our engineers could contact you.</string>
     <string name="feedback_report_remind_login_desc2">"You can also view your report's progress in My feedback."</string>
     <string name="feedback_reproductivity_everytime">Every time</string>
     <string name="feedback_reproductivity_occasionally">Occasionally</string>
@@ -473,7 +473,7 @@ Send this code to the supervisor."</string>
     <string name="jump_full_log_dialog_title">Generate logs</string>
     <string name="kr_authorization_agree">Accept</string>
     <string name="kr_authorization_contact">Accounts</string>
-    <string name="kr_authorization_contact_desc">For accessing Mi Account info in order to identify device</string>
+    <string name="kr_authorization_contact_desc">For accessing Xiaomi Account info in order to identify device</string>
     <string name="kr_authorization_exit">Exit</string>
     <string name="kr_authorization_function">Submitting feedback, generating logs, viewing frequently asked questions</string>
     <string name="kr_authorization_log_protocol">Log Protocol (optional)</string>
@@ -828,7 +828,7 @@ Read and agree to the new version of %3$s before you continue."</string>
     <string name="stop_full_log_dialog_title">Generating logs…</string>
     <string name="submit_dialog_cancel">"Don't agree"</string>
     <string name="submit_dialog_confirm">Agree</string>
-    <string name="submit_dialog_content"><Data>"Read and agree to our &lt;a href=\"%1$s\">Privacy Policy&lt;/a> and &lt;a href=\"%2$s\">User Agreement&lt;/a> before submitting feedback. The issues you report along with the items you attach (including the logs which might contain personal information, as well as the information about your device and network) will be uploaded to MIUI's servers. This will help us locate and solve the problems you report. If you report problems related to multiple devices, the logs from other devices where your Mi Account is used will also be uploaded."</Data></string>
+    <string name="submit_dialog_content"><Data>"Read and agree to our &lt;a href=\"%1$s\">Privacy Policy&lt;/a> and &lt;a href=\"%2$s\">User Agreement&lt;/a> before submitting feedback. The issues you report along with the items you attach (including the logs which might contain personal information, as well as the information about your device and network) will be uploaded to MIUI's servers. This will help us locate and solve the problems you report. If you report problems related to multiple devices, the logs from other devices where your Xiaomi Account is used will also be uploaded."</Data></string>
     <string name="submit_dialog_content_global"><Data>"Your feedback, along with attachments (if any) and logs (you can uncheck the corresponding boxes for the items you don't want to upload) will be sent to MIUI's servers. Logs may contain personal info and your location data. Selecting \"Agree\" means that you've read and agreed to our &lt;a href=\"%1$s\">Privacy Policy&lt;/a> and &lt;a href=\"%2$s\">User Agreement&lt;/a>."</Data></string>
     <string name="submit_dialog_content_global_with_contactinfo"><Data>"Your feedback, along with attachments (if any), logs (you can uncheck the corresponding boxes for the items you don't want to upload), phone number or email will be sent to MIUI's servers. Logs may contain personal info and your location data. Selecting \"Agree\" means that you've read and agreed to our &lt;a href=\"%1$s\">Privacy Policy&lt;/a> and &lt;a href=\"%2$s\">User Agreement&lt;/a>."</Data></string>
     <string name="submit_dialog_not_show_again">"Don't show again"</string>
