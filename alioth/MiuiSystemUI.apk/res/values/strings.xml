@@ -2205,9 +2205,9 @@ If you have questions, contact %2$s."</string>
     <string name="reboot_to_bootloader_title">Fastboot mode</string>
     <string name="reboot_to_recovery_title">Recovery mode</string>
     <string name="recent_conversations">Recent conversations</string>
-    <string name="recent_used_camera">This app used camera</string>
-    <string name="recent_used_camera_and_microphone">This app recorded audio and used camera</string>
-    <string name="recent_used_microphone">This app recorded audio</string>
+    <string name="recent_used_camera">This app accessed camera</string>
+    <string name="recent_used_camera_and_microphone">This app accessed camera and microphone</string>
+    <string name="recent_used_microphone">This app accessed microphone</string>
     <string name="remaining_length_format">%1$s left</string>
     <string name="remote_input_image_insertion_text">sent an image</string>
     <string name="remove_from_settings">Remove from Settings</string>
@@ -2678,9 +2678,9 @@ Any user can update apps for all other users."</string>
     <string name="user_setup_dialog_title">Set up user now?</string>
     <string name="user_setup_profile_dialog_message">Set up profile now?</string>
     <string name="user_switch_to_user">Switch to %s</string>
-    <string name="using_camera">This app is using camera</string>
-    <string name="using_camera_and_microphone">This app is recording audio and using camera</string>
-    <string name="using_microphone">This app is recording audio</string>
+    <string name="using_camera">This app is accessing camera</string>
+    <string name="using_camera_and_microphone">This app is accessing camera and microphone</string>
+    <string name="using_microphone">This app is accessing microphone</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
     <string name="verify_apps_over_usb_summary">Check apps installed via ADB/ADT for harmful behavior.</string>

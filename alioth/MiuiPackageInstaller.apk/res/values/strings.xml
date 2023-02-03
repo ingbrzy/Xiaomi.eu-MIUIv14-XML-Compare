@@ -395,6 +395,15 @@
     <string name="item_view_role_description">Tab</string>
     <string name="label">Label</string>
     <string name="learn_more">Learn more</string>
+    <string name="library_android_database_sqlcipher_author">Zetetic, LLC</string>
+    <string name="library_android_database_sqlcipher_authorWebsite">https://www.zetetic.net/sqlcipher/</string>
+    <string name="library_android_database_sqlcipher_isOpenSource">true</string>
+    <string name="library_android_database_sqlcipher_libraryDescription">Android SQLite API based on SQLCipher</string>
+    <string name="library_android_database_sqlcipher_libraryName">SQLCipher for Android</string>
+    <string name="library_android_database_sqlcipher_libraryVersion">${clientVersionNumber}</string>
+    <string name="library_android_database_sqlcipher_libraryWebsite">https://www.zetetic.net/sqlcipher/</string>
+    <string name="library_android_database_sqlcipher_licenseLink">https://www.zetetic.net/sqlcipher/license/</string>
+    <string name="library_android_database_sqlcipher_repositoryLink">https://github.com/sqlcipher/android-database-sqlcipher</string>
     <string name="lock_finger">Verify fingerprint to install</string>
     <string name="lock_screen_authrioze_subtitle_password">Authorize with screen lock</string>
     <string name="lock_screen_password_authrioze">Verify screen lock to install</string>

@@ -45,6 +45,7 @@
     <string name="backup_action_buy_cloud_space">Get more storage space</string>
     <string name="backup_action_check_network">Check network settings</string>
     <string name="backup_action_clean_disk_space">Free up space</string>
+    <string name="backup_action_long_time_not_auto_backup_title">Back up your items</string>
     <string name="backup_action_long_time_not_backup_action">Back up</string>
     <string name="backup_action_long_time_not_backup_title">No recent backups</string>
     <string name="backup_action_no_space_with_wechat_off_content">Not enough cloud storage space to back up items from this device. Tap to view cloud storage options available to you.</string>
@@ -220,6 +221,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_state_summary_china">Device must be connected to Wi-Fi, charging, and locked</string>
     <string name="cloud_backup_detail_time">Last backup: %1$s</string>
     <string name="cloud_backup_detail_title">Back up items</string>
+    <string name="cloud_backup_get_installed_apps_summary">For backing up and restoring Home screen apps</string>
+    <string name="cloud_backup_get_installed_apps_title">Access the list of apps installed on this device</string>
     <string name="cloud_backup_have_data">Found a backup in Xiaomi Cloud</string>
     <string name="cloud_backup_in_cancel">Cancel</string>
     <string name="cloud_backup_in_process">Backing up</string>
@@ -239,6 +242,9 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="confirm_restore_summary">Your Home screen will be relaunched. Backed up apps will be downloaded automatically.</string>
     <string name="confirm_restore_title">Restore</string>
     <string name="copy">Copy</string>
+    <string name="cta_dialog_all_purpose">"Welcome to Cloud backup! You can use this app to back up your Home screen layout, apps, system settings, and WeChat data to the cloud. Make sure you're using the latest version to be able to take advantage of all our features."</string>
+    <string name="cta_dialog_permission_description_get_installed_apps">For backing up and restoring apps</string>
+    <string name="cta_dialog_permission_description_storage">For backing up and restoring items</string>
     <string name="customization"><u>Customize</u></string>
     <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
     <string name="date_picker_label_day" />
@@ -260,6 +266,10 @@ Please send this code to the technician."</string>
     <string name="dialog_app_usage_consent_message">This feature needs to access app usage data to be able to estimate the size of WeChat backups.</string>
     <string name="dialog_app_usage_consent_title">Allow accessing app usage data</string>
     <string name="dialog_app_usage_denied">Give Backup \"Usage access\" permission in the Settings to be able to back up items.</string>
+    <string name="dialog_auto_backup_condition_normal_content">To be able to regularly back up all important items automatically, make sure that you have enough cloud storage space, and that this device is locked, has over %s battery, and is connected to Wi-Fi at night. You can also back up manually at any time.</string>
+    <string name="dialog_auto_backup_condition_normal_content_china">To be able to regularly back up all important items automatically, make sure that you have enough cloud storage space, and that this device is locked, has over %s battery, and is connected to Wi-Fi at night. You can also back up manually at any time.</string>
+    <string name="dialog_auto_backup_condition_normal_positive">Got it</string>
+    <string name="dialog_auto_backup_condition_normal_title">Back up your items</string>
     <string name="dialog_backup_failed">"Couldn't back up"</string>
     <string name="dialog_btn_cancel_backup">Cancel</string>
     <string name="dialog_btn_confirm2">Got it</string>
@@ -285,6 +295,11 @@ Please send this code to the technician."</string>
     <string name="dialog_negative_btn_cancel_restore">Stop restoring</string>
     <string name="dialog_positive_btn_cancel_backup">"Don't cancel"</string>
     <string name="dialog_positive_btn_cancel_restore">"Don't stop"</string>
+    <string name="dialog_recommend_wechat_backup_content">You can now back up WeChat conversations and other data to Xiaomi Cloud. To be able to back up your items, make sure you have enough cloud storage space, and that this device is locked, has over %s battery, and is connected to Wi-Fi at night. You can also back up manually at any time.</string>
+    <string name="dialog_recommend_wechat_backup_content_china">You can now back up WeChat conversations and other data to Xiaomi Cloud. To be able to back up your items, make sure you have enough cloud storage space, and that this device is locked, has over %s battery, and is connected to Wi-Fi at night. You can also back up manually at any time.</string>
+    <string name="dialog_recommend_wechat_backup_negative">Got it</string>
+    <string name="dialog_recommend_wechat_backup_positive">Learn more</string>
+    <string name="dialog_recommend_wechat_backup_title">Back up WeChat data</string>
     <string name="dialog_title_cancel_backup">Cancel backup</string>
     <string name="dialog_title_cancel_restore">Stop restoring</string>
     <string name="dialog_title_require_wlan">Connect to Wi-Fi</string>
@@ -532,7 +547,9 @@ Please send this code to the technician."</string>
     <string name="remove_task_in_process">Removing…</string>
     <string name="remove_task_unfinished">Not finished removing</string>
     <string name="remove_unfinished">Removing, try again later</string>
-    <string name="required_permissions">android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE</string>
+    <string name="repeat_recommend_wechat_backup_notification_content">You can now back up WeChat data. Tap for details.</string>
+    <string name="repeat_recommend_wechat_backup_notification_title">Back up WeChat data</string>
+    <string name="required_permissions">android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;com.android.permission.GET_INSTALLED_APPS</string>
     <string name="restore_app_order_finish">Done</string>
     <string name="restore_app_order_loading">Just a sec…</string>
     <string name="restore_app_order_retry">Try again</string>
@@ -656,6 +673,8 @@ Check your network settings and try again."</string>
     <string name="storage_unit_gb">%s GB</string>
     <string name="storage_unit_mb">%s MB</string>
     <string name="success_open_cloudbackup">Turned on backups for Home screen apps</string>
+    <string name="successful_auto_backup_recommend_wechat_backup_notification_content">Backed up WeChat data. Tap for details.</string>
+    <string name="successful_auto_backup_recommend_wechat_backup_notification_title">Completed automatic backup</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Sunday</string>
     <string name="sunday_short">Sun</string>
