@@ -30,12 +30,6 @@
     <string name="accessibility_airplane_mode">Airplane mode.</string>
     <string name="accessibility_back">Back</string>
     <string name="accessibility_brightness">Display brightness</string>
-    <string name="accessibility_control_change_favorite">accessibility_control_change_favorite</string>
-    <string name="accessibility_control_change_unfavorite">accessibility_control_change_unfavorite</string>
-    <string name="accessibility_control_favorite">accessibility_control_favorite</string>
-    <string name="accessibility_control_favorite_position">accessibility_control_favorite_position</string>
-    <string name="accessibility_control_move">accessibility_control_move</string>
-    <string name="accessibility_control_not_favorite">accessibility_control_not_favorite</string>
     <string name="accessibility_desc_add">Add</string>
     <string name="accessibility_desc_close">Close</string>
     <string name="accessibility_desc_edit">Edit</string>
@@ -181,12 +175,11 @@
     <string name="controls_edit_panel_save_button">Done</string>
     <string name="controls_edit_panel_subtitle">Drag items to rearrange</string>
     <string name="controls_edit_panel_title">Added devices</string>
-    <string name="controls_error_failed">Error, try again</string>
+    <string name="controls_error_failed">An error occured. Try again.</string>
     <string name="controls_error_generic">Error</string>
     <string name="controls_error_removed">Device removed</string>
     <string name="controls_error_removed_message">controls_error_removed_message</string>
     <string name="controls_error_removed_title">controls_error_removed_title</string>
-    <string name="controls_error_timeout">controls_error_timeout</string>
     <string name="controls_favorite_default_title">Controls</string>
     <string name="controls_favorite_load_error">The list of all controls could not be loaded.</string>
     <string name="controls_favorite_other_zone_header">Other</string>
@@ -197,7 +190,6 @@
     <string name="controls_loading_device">Switching locations…</string>
     <string name="controls_media_title">Media</string>
     <string name="controls_menu_add">Add controls</string>
-    <string name="controls_menu_edit">controls_menu_edit</string>
     <string name="controls_mijia_setup_subtitle">Select apps to add devices and manage them here</string>
     <string name="controls_mijia_setup_subtitle_login">Tap to add devices</string>
     <string name="controls_mijia_setup_title">Smart home devices</string>
@@ -214,7 +206,6 @@
     <string name="controls_pin_verify">Verify %s</string>
     <string name="controls_pin_wrong">Wrong PIN</string>
     <string name="controls_providers_title">Choose app to add controls</string>
-    <string name="controls_removed">removed</string>
     <string name="controls_seeding_in_progress">Loading recommendations</string>
     <string name="controls_structure_tooltip">Swipe to see more</string>
     <string name="controls_unsupport_toggle_toast">"This device doesn't support quick actions. Press and hold to open the app."</string>
