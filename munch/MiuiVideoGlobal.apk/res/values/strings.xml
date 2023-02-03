@@ -304,8 +304,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">c7d228b301fb4ce9863aeb07534ada76</string>
-    <string name="com.miapm.build_id">23efdec6436d41f4998329442ab024c9</string>
+    <string name="com.crashlytics.android.build_id">742aa4aae2aa4489958825a7700f9192</string>
+    <string name="com.miapm.build_id">122d70ea99374f1196f31f4cf7e94346</string>
     <string name="com_permission_desc">"Mi Video can't access videos on your device. Allow access in the Settings."</string>
     <string name="com_permission_title">Permissions required</string>
     <string name="comment_model_add_comment">Add a comment</string>
@@ -1977,6 +1977,7 @@ Increase the security of your account."</string>
     <string name="share_ugc_content">Take a look at %1$s! #%2$s (%3$s)</string>
     <string name="share_ugc_join">Join</string>
     <string name="share_ugc_waitting">Generating link…</string>
+    <string name="shorts_assemble_ad_recommend">Recommended</string>
     <string name="show_options_label">Show Options</string>
     <string name="show_the_location">Notification types</string>
     <string name="sign_in">Signing in</string>
@@ -2127,6 +2128,8 @@ Increase the security of your account."</string>
     <string name="talkback_voice_search">Voice search</string>
     <string name="target_sdk_version_30_upgrade_tips">Some videos may not be viewed here due to Android restrictions. Tap \"Files\" to find other videos.</string>
     <string name="temporary_not_available">"This feature isn't available yet"</string>
+    <string name="text_default_ad_description">Ad</string>
+    <string name="text_default_ad_title">You might like</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
     <string name="the_anti_aggression_day">Anti-Aggression Day</string>
     <string name="the_arbor_day">Arbor Day</string>

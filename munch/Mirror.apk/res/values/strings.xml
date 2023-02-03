@@ -440,6 +440,7 @@ You can start another session on your computer."</string>
     <string name="pc_cooperate_guide_screenshot">Screenshot</string>
     <string name="pc_cooperate_guide_task">Show tasks</string>
     <string name="pc_cooperate_guide_undo">Undo (Ctrl+Z)</string>
+    <string name="pc_settings_current_device_tip">Automatically connect to a computer with MIUI+ open and signed in to the same Xiaomi Account</string>
     <string name="pcmode_not_support_multi_window">"PC mode doesn't support showing multiple windows."</string>
     <string name="permission_access_nearby_device">访问附近设备</string>
     <string name="phone_pad_app_introduction_summary">Continue tasks in the same app on your tablet</string>
@@ -523,6 +524,7 @@ You can start another session on your computer."</string>
     <string name="settings_pad">Tablet</string>
     <string name="settings_pad_handoff_title">Connect automatically</string>
     <string name="settings_pc">Computer</string>
+    <string name="settings_pc_handoff_title">Connect to computer</string>
     <string name="settings_pc_use_tile">About this feature</string>
     <string name="settings_permission_description">Permissions details</string>
     <string name="settings_phone">Phone</string>
