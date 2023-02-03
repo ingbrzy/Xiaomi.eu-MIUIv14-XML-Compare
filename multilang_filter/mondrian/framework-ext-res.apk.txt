@@ -1,0 +1,2 @@
+Removed: [it-rIT] strings.xml: string/wireless_charging_notification_message2 (format mismatch)
+Removed: [ko] strings.xml: string/wireless_charging_notification_message2 (format mismatch)

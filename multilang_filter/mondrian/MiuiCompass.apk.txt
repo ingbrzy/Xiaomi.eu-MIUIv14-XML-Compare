@@ -1,0 +1,5 @@
+Removed: [ar] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)
+Removed: [el] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)
+Removed: [fa-rIR] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)
+Removed: [it] arrays.xml: array/support_rotate_calibrate_devices (item mismatch)
+Removed: [iw-rIL] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)
