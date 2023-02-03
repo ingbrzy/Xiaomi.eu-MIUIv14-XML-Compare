@@ -2880,6 +2880,7 @@ Credential storage might not enable"</string>
     <string name="wifitrackerlib_wifi_no_internet_no_reconnect">Won’t automatically connect</string>
     <string name="wifitrackerlib_wifi_passpoint_expired">Expired</string>
     <string name="wifitrackerlib_wifi_poor_channel_conditions">Temporary poor network conditions</string>
+    <string name="wifitrackerlib_wifi_pre_validated" />
     <string name="wifitrackerlib_wifi_remembered">Saved</string>
     <string name="wifitrackerlib_wifi_security_eap_suiteb">WPA3-Enterprise 192-bit</string>
     <string name="wifitrackerlib_wifi_security_eap_wpa3">WPA3-Enterprise</string>
