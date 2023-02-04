@@ -1,0 +1,1 @@
+Removed: [sl] strings.xml: string/start_strežnik (invalid name)
