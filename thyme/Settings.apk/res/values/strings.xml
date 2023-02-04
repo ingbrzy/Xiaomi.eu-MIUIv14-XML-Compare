@@ -5625,7 +5625,7 @@ Connect at least 4 dots."</string>
     <string name="m3_sys_motion_easing_standard_accelerate">cubic-bezier(0.3, 0.0, 1.0, 1.0)</string>
     <string name="m3_sys_motion_easing_standard_decelerate">cubic-bezier(0.0, 0.0, 0.0, 1.0)</string>
     <string name="macaddr_label">MAC addr:</string>
-    <string name="magic_list_empty_text_pad">No apps compatible with this feature now</string>
+    <string name="magic_list_empty_text_pad">No apps that support parallel windows found</string>
     <string name="magic_window_name_pad">Parallel windows</string>
     <string name="mah">%d mAh</string>
     <string name="main_clear_accounts">"
