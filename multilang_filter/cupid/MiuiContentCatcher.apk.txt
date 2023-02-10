@@ -1,2 +1,0 @@
-Removed: [pt-rBR] strings.xml: string/miuix_access_state_desc (duplicate)
-Removed: [pt-rBR] strings.xml: string/miuix_alphabet_indexer_name (duplicate)
