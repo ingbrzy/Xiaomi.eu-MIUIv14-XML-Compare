@@ -390,6 +390,7 @@ Toggle off to stop syncing."</string>
     <string name="branch_give_relevant_permissions">Grant Mi Browser the relevant permissions in Settings</string>
     <string name="branch_grant_permission">Permissions required</string>
     <string name="branch_local_search_settings">Local search settings</string>
+    <string name="branch_search_bar_tips">Search apps and games</string>
     <string name="branch_search_guide_privacy">"This feature is provided by Branch Metrics Inc. We'll share your location, searches, and Google Ads ID with them. Read and agree to their "<font color="#B3000000"><a href="http://url1">Terms and Conditions</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before you continue.</string>
     <string name="branch_search_in_browser">Search \"%1$s\" in Browser</string>
     <string name="branch_setting">Settings</string>
@@ -399,6 +400,8 @@ Toggle off to stop syncing."</string>
     <string name="branch_terms_condition">Terms and conditions</string>
     <string name="branch_trending_google_news">Google News</string>
     <string name="branch_trending_youtube_news">YouTube</string>
+    <string name="branch_viewpage_title_app_recommend">Recommended</string>
+    <string name="branch_viewpage_title_local">Installed</string>
     <string name="browser">Mi Browser</string>
     <string name="browserFrameFileErrorLabel">File error</string>
     <string name="browserFrameFormResubmitLabel" />
@@ -600,8 +603,8 @@ Toggle off to stop syncing."</string>
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">86daddff61dc4192895c4c4d6414ea16</string>
-    <string name="com.miapm.build_id">4f2955bd68db49a3a241860f0291d547</string>
+    <string name="com.crashlytics.android.build_id">855ff619aa1245a0b35d6a5447298950</string>
+    <string name="com.miapm.build_id">1f7b0b95d27f4843b4b65a03e9df3c82</string>
     <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
     <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
@@ -3179,6 +3182,10 @@ Try to modify your keyword?"</string>
     <string name="snapshot">Local</string>
     <string name="snapshot_failed">"Couldn't save page"</string>
     <string name="snapshot_successed">Open Bookmarks/History->LOCAL to view page</string>
+    <string name="sniff_ask_every_times">Ask every time</string>
+    <string name="sniff_detect_resource">We noticed downloadable content on this page. View now?</string>
+    <string name="sniff_dialog">Downloadable content</string>
+    <string name="sniff_no_resource">No downloadable content found</string>
     <string name="sns_access_token_expired_warning">Session expired. Sign in again to reconnect this account.</string>
     <string name="sns_bind_limit">Too many attempts. Try other ways to sign in.</string>
     <string name="sns_sign_in">Other ways to sign in</string>
