@@ -49,6 +49,7 @@
     <string name="autofill_password_activity_label">Verification codes</string>
     <string name="autofill_service_label">Manage passwords</string>
     <string name="autofill_setting_activity_label">Manage passwords</string>
+    <string name="back_button_label">Back</string>
     <string name="cancel">Cancel</string>
     <string name="change_passwork_dialog_content">"You've already saved a password for this account. Update the password now?"</string>
     <string name="change_passwork_dialog_title">Update password?</string>
