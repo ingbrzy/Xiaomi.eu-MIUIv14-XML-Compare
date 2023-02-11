@@ -32,6 +32,7 @@
     <string name="allow">Allow</string>
     <string name="allowed">Granted</string>
     <string name="altitude">%.1f</string>
+    <string name="altitude_format">%.1f m</string>
     <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
     <string name="altitude_title">Altitude</string>
     <string name="altitude_uncalibrate_cancel">Cancel</string>
@@ -345,6 +346,7 @@
     <string name="preference_privacy_setting">Privacy</string>
     <string name="preference_privacy_title">Privacy Policy</string>
     <string name="pressure">%.1f</string>
+    <string name="pressure_format">%.1f hPa</string>
     <string name="pressure_title">Pressure</string>
     <string name="pressure_unit">hPa</string>
     <string name="remove_icon_description_content">"Compass is a system app. You won't be able to use it for checking directions, coordinates, atmospheric pressure, and current altitude after you remove the Home screen shortcut."</string>
