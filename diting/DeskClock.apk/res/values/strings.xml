@@ -50,6 +50,7 @@
     <string name="alarm_ascending_mode_title">Ascending volume</string>
     <string name="alarm_clock_more_setting">Additional settings</string>
     <string name="alarm_disabled">Off</string>
+    <string name="alarm_in_furture_new">Alarm in less than %d minute</string>
     <string name="alarm_in_silent_mode_title">Alarm in silent mode</string>
     <string name="alarm_klaxon_service_desc">Sound playback service for alarms set in Clock.</string>
     <string name="alarm_label_hint">Alarm label</string>
@@ -59,6 +60,7 @@
     <string name="alarm_repeat">Repeat</string>
     <string name="alarm_ringtone">Alarm ringtones</string>
     <string name="alarm_ringtone_picker">Alarms</string>
+    <string name="alarm_set_new">Alarm will go off in less than %d minute.</string>
     <string name="alarm_settings">Alarm settings</string>
     <string name="alarm_settings_category_title">Alarm settings</string>
     <string name="alarm_vibrate">Vibrate</string>
@@ -79,6 +81,14 @@
     <string name="androidx_startup">androidx.startup</string>
     <string name="app_label">Clock</string>
     <string name="app_name">miuiclock</string>
+    <string name="auto_silence_entries1">Never</string>
+    <string name="auto_silence_entries2"><xliff id="MINUTES" refersto="1">%d</xliff> minute</string>
+    <string name="auto_silence_entries3"><xliff id="MINUTES" refersto="5">%d</xliff> minutes</string>
+    <string name="auto_silence_entries4"><xliff id="MINUTES" refersto="10">%d</xliff> minutes</string>
+    <string name="auto_silence_entries5"><xliff id="MINUTES" refersto="15">%d</xliff> minutes</string>
+    <string name="auto_silence_entries6"><xliff id="MINUTES" refersto="20">%d</xliff> minutes</string>
+    <string name="auto_silence_entries7"><xliff id="MINUTES" refersto="25">%d</xliff> minutes</string>
+    <string name="auto_silence_entries8"><xliff id="MINUTES" refersto="30">%d</xliff> minutes</string>
     <string name="auto_silence_never">Never</string>
     <string name="auto_silence_summary">Set time after which alarms and timers will be silenced</string>
     <string name="auto_silence_title">Auto-silence</string>
@@ -104,6 +114,7 @@
     <string name="bedtime_setting_repeat_type_desc">"Select the days when you'll receive reminders"</string>
     <string name="bedtime_settings">Bedtime settings</string>
     <string name="bedtime_sleep_time_remind">"You'll be reminded to go to bed 15 minutes before this time"</string>
+    <string name="bedtime_sleep_time_remind_new">"You'll be reminded to go to bed %d minutes before this time"</string>
     <string name="bedtime_sleep_time_setting">When will you go to bed?</string>
     <string name="bedtime_wake_up_time_remind">An alarm will go off at this time</string>
     <string name="bedtime_wake_up_time_setting">When will you get up?</string>
@@ -387,6 +398,7 @@
     <string name="life_post_setting_open_listen_news_title">早间听新闻</string>
     <string name="life_post_setting_open_subtitle">Receive info about weather when you turn off alarms between 4:00 and 9:30</string>
     <string name="life_post_setting_open_summary">Include weather info in the first alarm turned off between 4:00 and 10:00</string>
+    <string name="life_post_setting_open_summary_new">Include weather info in the first alarm turned off between %1$s and %2$s</string>
     <string name="life_post_setting_open_title">Receive morning reports</string>
     <string name="life_post_setting_video_news_remind">请安装最新版小米音乐以享受早间听新闻服务</string>
     <string name="life_post_setting_wake_up_list_title">Wake up history</string>
@@ -477,22 +489,30 @@ mm"</string>
     <string name="module_update_success">Updated audio for MIUI smart alarms was downloaded successfully. You can set MIUI smart alarms in the Clock settings.</string>
     <string name="module_update_success_control">Got it</string>
     <string name="module_weather_ringtone_download_data">Weather alarm selects different ringtones according to the current weather. Clock needs to download ≈30MB of audio to make it work. Download now?</string>
+    <string name="module_weather_ringtone_download_data_new">Weather alarm selects different ringtones according to the current weather. Clock needs to download ≈%d MB of audio to make it work. Download now?</string>
     <string name="module_weather_ringtone_download_data_privacy"><Data>Weather alarm selects different ringtones according to the current weather. Clock needs to connect to the internet to download ≈30MB of audio. Before using Clock, you must also read and agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>. Agree?</Data></string>
+    <string name="module_weather_ringtone_download_data_privacy_new" formatted="false"><Data>Weather alarm selects different ringtones according to the current weather. Clock needs to connect to the internet to download ≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB of audio. Before using Clock, you must also read and agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>. Agree?</Data></string>
     <string name="module_weather_ringtone_download_wifi">Weather alarm selects different ringtones according to the current weather. Clock needs to download audio to make it work. Download now?</string>
     <string name="module_weather_ringtone_download_wifi_privacy"><Data>Weather alarm selects different ringtones according to the current weather. Clock needs to connect to the internet to download audio. Before using Clock, you must also read and agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>. Agree?</Data></string>
     <string name="module_weather_ringtone_introduce">Weather alarm selects different ringtones according to the current weather. It also allows you to listen to the current weather info in the morning.</string>
     <string name="module_weather_ringtone_introduce_global">Weather alarm selects different ringtones according to the current weather.</string>
     <string name="module_weather_ringtone_update_data">Weather alarm now comes with background music and better voice announcements. Clock needs to download ≈30MB of audio to make it work. Download now?</string>
+    <string name="module_weather_ringtone_update_data_new">Weather alarm now comes with background music and better voice announcements. Clock needs to download ≈%d MB of audio to make it work. Download now?</string>
     <string name="module_weather_ringtone_update_success">Weather alarm now comes with background music and better voice announcements. You can create a new alarm to try this feature.</string>
     <string name="module_week_ringtone_download_data">Nature alarm plays different sounds depending on the date. Clock needs to download ≈30MB of audio to make it work. Download now?</string>
+    <string name="module_week_ringtone_download_data_new">Nature alarm plays different sounds depending on the date. Clock needs to download ≈%d MB of audio to make it work. Download now?</string>
     <string name="module_week_ringtone_download_data_privacy"><Data>Nature alarm plays different sounds depending on the date. Clock needs to connect to the internet to download ≈30MB of audio. Before using Clock, you must also read and agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>. Agree?</Data></string>
+    <string name="module_week_ringtone_download_data_privacy_new" formatted="false"><Data>Nature alarm plays different sounds depending on the date. Clock needs to connect to the internet to download ≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB of audio. Before using Clock, you must also read and agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>. Agree?</Data></string>
     <string name="module_week_ringtone_download_wifi">Nature alarm plays different sounds depending on the date. Clock needs to download audio to make it work. Download now?</string>
     <string name="module_week_ringtone_download_wifi_privacy"><Data>Nature alarm plays different sounds depending on the date. Clock needs to connect to the internet to download audio. Before using Clock, you must also read and agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>. Agree?</Data></string>
     <string name="module_week_ringtone_introduce">Nature alarm plays different sounds depending on the date.</string>
     <string name="module_week_ringtone_update_data">Nature alarm plays different sounds depending on the date. Clock needs to download ≈30MB of audio to make it work. Download now?</string>
+    <string name="module_week_ringtone_update_data_new">Nature alarm plays different sounds depending on the date. Clock needs to download ≈%d MB of audio to make it work. Download now?</string>
     <string name="module_week_ringtone_update_success">Nature alarm plays different sounds depending on the date. You can create a new alarm to try this feature.</string>
     <string name="module_white_noise_download_data">Clock needs to download audio files for ambient noise timers. ≈30MB of your mobile data will be required for this download. Download now?</string>
+    <string name="module_white_noise_download_data_new">Clock needs to download audio files for ambient noise timers. ≈%d MB of your mobile data will be required for this download. Download now?</string>
     <string name="module_white_noise_download_data_privacy"><Data>"In order to download audio files for ambient noise timers (≈30MB) and provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>. You're using mobile data now. Agree?"</Data></string>
+    <string name="module_white_noise_download_data_privacy_new" formatted="false"><Data>"In order to download audio files for ambient noise timers (≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB) and provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>. You're using mobile data now. Agree?"</Data></string>
     <string name="module_white_noise_download_wifi">Clock needs to download audio files for ambient noise timers. Download now?</string>
     <string name="module_white_noise_download_wifi_privacy"><Data>In order to download audio files for ambient noise timers and provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>. Agree?</Data></string>
     <string name="monday">Monday</string>
@@ -554,6 +574,11 @@ mm"</string>
     <string name="not_set">Not set</string>
     <string name="not_set_temporarily">No thanks</string>
     <string name="not_update">Not now</string>
+    <string name="notification_adv_time_entries1">At set time</string>
+    <string name="notification_adv_time_entries2"><xliff id="MINUTES" refersto="15">%d</xliff> minutes in advance</string>
+    <string name="notification_adv_time_entries3"><xliff id="MINUTES" refersto="30">%d</xliff> minutes in advance</string>
+    <string name="notification_adv_time_entries4"><xliff id="HOUR" refersto="1">%d</xliff> hour in advance</string>
+    <string name="notification_adv_time_entries5">None</string>
     <string name="oneshot_alarm">Delete after goes off</string>
     <string name="open_keep_screen">Screen will be kept on</string>
     <string name="open_sleep_record">Turn on</string>
@@ -582,10 +607,15 @@ mm"</string>
     <string name="remind_ringtone">Ringtone</string>
     <string name="repeat_count">Times</string>
     <string name="repeat_count_value_five">5</string>
+    <string name="repeat_count_value_five_new">%d</string>
     <string name="repeat_count_value_one">1</string>
+    <string name="repeat_count_value_one_new">%d</string>
     <string name="repeat_count_value_ten">10</string>
+    <string name="repeat_count_value_ten_new">%d</string>
     <string name="repeat_count_value_three">3</string>
+    <string name="repeat_count_value_three_new">%d</string>
     <string name="repeat_count_value_two">2</string>
+    <string name="repeat_count_value_two_new">%d</string>
     <string name="repeat_type">Repeat</string>
     <string name="required_permissions">android.permission.POST_NOTIFICATIONS</string>
     <string name="reset">Reset</string>
@@ -650,6 +680,7 @@ mm"</string>
     <string name="sleep_duration_desc">Slept for %1$s %2$s</string>
     <string name="sleep_duration_no_data">Not enough data yet</string>
     <string name="sleep_duration_recommendation">Most people need 7 to 9 hours of sleep per night</string>
+    <string name="sleep_duration_recommendation_new" formatted="false">Most people need %d to %d hours of sleep per night</string>
     <string name="sleep_duration_text">%1$s %2$s</string>
     <string name="sleep_duration_text_avg">%1$s %2$s</string>
     <string name="sleep_no_disturbance">DND mode</string>
@@ -673,12 +704,19 @@ mm"</string>
     <string name="snooze_duration_title">Snooze</string>
     <string name="snooze_duration_value">Interval (minutes)</string>
     <string name="snooze_duration_value_fifteen">15</string>
+    <string name="snooze_duration_value_fifteen_new">%d</string>
     <string name="snooze_duration_value_five">5</string>
+    <string name="snooze_duration_value_five_new">%d</string>
     <string name="snooze_duration_value_one">1</string>
+    <string name="snooze_duration_value_one_new">%d</string>
     <string name="snooze_duration_value_ten">10</string>
+    <string name="snooze_duration_value_ten_new">%d</string>
     <string name="snooze_duration_value_thirty">30</string>
+    <string name="snooze_duration_value_thirty_new">%d</string>
     <string name="snooze_duration_value_twenty">20</string>
     <string name="snooze_duration_value_twenty_five">25</string>
+    <string name="snooze_duration_value_twenty_five_new">%d</string>
+    <string name="snooze_duration_value_twenty_new">%d</string>
     <string name="solar_term_autumn_begins">Autumn begins</string>
     <string name="solar_term_autumn_equinox">Autumn equinox</string>
     <string name="solar_term_clear_and_bright">Clear and bright</string>
@@ -864,6 +902,9 @@ mm"</string>
     <string name="volume_button_setting_desc">Assign functions for the Power and Volume +/- buttons</string>
     <string name="volume_button_setting_summary">"Set volume buttons' function during alarm"</string>
     <string name="volume_button_setting_title">Volume buttons</string>
+    <string name="volume_button_setting_values1">%d</string>
+    <string name="volume_button_setting_values2">%d</string>
+    <string name="volume_button_setting_values3">%d</string>
     <string name="wake_up_alert">Alarm</string>
     <string name="wake_up_alert_desc">Play alarm sound at wake up time</string>
     <string name="wake_up_ringtone">Alarm ringtone</string>
