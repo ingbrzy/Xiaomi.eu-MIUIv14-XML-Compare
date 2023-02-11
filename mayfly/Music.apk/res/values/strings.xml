@@ -422,8 +422,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">c1bc976001384d42b1fc350a02dd289a</string>
-    <string name="com.miapm.build_id">9510f6bf1be94ebea4504c779c2e4e3f</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">61b0306c7fbc4970bcb9ea8331a608b0</string>
+    <string name="com.miapm.build_id">6f253ef8bfff41afb405f43aadb0ae64</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="commit">Submit</string>
     <string name="commit_frequently">Submit too frequently, please try again later</string>
@@ -2075,6 +2075,7 @@ Go and chat with them!"</string>
     <string name="passport_user_id_hint">Email/phone number/Xiaomi Account ID</string>
     <string name="passport_user_id_intro">Enter password for %1$s</string>
     <string name="passport_user_password_hint">Password</string>
+    <string name="passport_vcode_what_app_send_prompt">Your WhatsApp verification code will be sent to your recovery phone (&lt;font color=#1F93FF>%s&lt;/font>).</string>
     <string name="passport_wechat_not_install">Install WeChat first</string>
     <string name="passport_wrong_captcha">The code you entered is incorrect</string>
     <string name="passport_wrong_phone_number_format">The format of the phone number you entered is invalid</string>
@@ -2383,6 +2384,7 @@ Be Happy"</string>
     <string name="search_toast_reul">Sorry, no relevant content was found</string>
     <string name="searching">Matching...</string>
     <string name="seat_full">No free mic positions</string>
+    <string name="see_more_videos">More videos</string>
     <string name="select">Select</string>
     <string name="select_all">Select all</string>
     <string name="select_clip_desc">Select a clip from the song</string>
@@ -2524,6 +2526,7 @@ Be Happy"</string>
     <string name="sunday_shortest">Sun</string>
     <string name="supplementary_songs">Additional songs</string>
     <string name="sure">Comfirm</string>
+    <string name="swipe_for_more">Swipe up for more music videos</string>
     <string name="switch_success">Switched successfully</string>
     <string name="system_error_info">System is busy. Wait a minute or two and try again.</string>
     <string name="tab_album">Albums</string>
@@ -2971,6 +2974,7 @@ Delta update size: %2$s"</string>
     <string name="you">you</string>
     <string name="you_can_switch_mode_in_settings">You can switch between modes in the Settings</string>
     <string name="you_may_like">You may also like</string>
+    <string name="you_might_like_it">You might like</string>
     <string name="youtube_download_canl">Cancel</string>
     <string name="youtube_download_fail_net">"Couldn't connect to the network. Check your network settings and try again."</string>
     <string name="youtube_download_fail_source">An error occurred. Wait a minute or two and try again.</string>
