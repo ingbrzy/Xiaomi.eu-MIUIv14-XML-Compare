@@ -575,7 +575,7 @@ This may generate additional fees."</string>
     <string name="main_fragment_title_search">Top</string>
     <string name="main_fragment_title_user">Settings</string>
     <string name="manage">Manage</string>
-    <string name="marketSdkVersion">3.2.12</string>
+    <string name="marketSdkVersion">3.2.22</string>
     <string name="midnight">Night</string>
     <string name="minutes_15">Every 15 minutes</string>
     <string name="minutes_5">Every 5 minutes</string>
@@ -910,6 +910,7 @@ mm"</string>
     <string name="request_gallery_permission_message">Allow access to Gallery:&lt;br />For setting profile photos</string>
     <string name="require_permission">Permissions required</string>
     <string name="require_permission_text">To be able save and view items, allow Wallpaper Carousel to access storage.</string>
+    <string name="required_permissions">android.permission.POST_NOTIFICATIONS</string>
     <string name="resend_active_email">Resend</string>
     <string name="resend_email_reach_limit_message">"You've requested too many verification emails. Make sure that the verification email isn't in your inbox's Spam folder."</string>
     <string name="resend_email_reach_limit_title">Too many attempts</string>
