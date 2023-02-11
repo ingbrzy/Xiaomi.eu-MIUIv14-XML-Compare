@@ -77,6 +77,7 @@
     <string name="backup_failed">"Couldn't back up"</string>
     <string name="backup_file_error">"Couldn't back up"</string>
     <string name="backup_finished">Backed up successfully</string>
+    <string name="backup_for_broken_screen">Backups with damaged screen</string>
     <string name="backup_hint">Keep your device powered on</string>
     <string name="backup_hint_onpad">Keep your device powered on</string>
     <string name="backup_hint_pad">Keep your device powered on</string>
