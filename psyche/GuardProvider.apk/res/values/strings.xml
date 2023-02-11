@@ -46,6 +46,7 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="tencent_dialog_cloudscan">Upload and scan app names and details using online virus definitions.</string>
     <string name="tencent_dialog_dbupdate">Update virus definitions automatically</string>
     <string name="tencent_dialog_header">"This feature encrypts and uploads your device's ID to Tencent's servers (%s)."</string>

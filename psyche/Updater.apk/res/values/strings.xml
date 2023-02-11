@@ -8,7 +8,7 @@
     <string name="btn_error">Error occurred, try again?</string>
     <string name="btn_install">Check MD5 &amp; Install</string>
     <string name="btn_no">Cancel</string>
-    <string name="btn_not">Not</string>
+    <string name="btn_not">No</string>
     <string name="btn_ok">OK</string>
     <string name="btn_pause">Pause</string>
     <string name="btn_share">Share</string>

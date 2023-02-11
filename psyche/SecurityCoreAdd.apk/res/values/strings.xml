@@ -56,6 +56,7 @@ this feature will be added to Second space automatically."</string>
     <string name="can_not_delete_when_calling">"Can't delete spaces during a call"</string>
     <string name="can_not_switch_when_calling">"Can't switch between spaces during a call"</string>
     <string name="can_not_switch_when_green_kid_active">Switching to Second space is restricted by parental controls</string>
+    <string name="can_not_switch_when_green_kid_active_new">"Can't switch to Second space when Family Guard is on"</string>
     <string name="can_not_switch_when_super_power_active">"Can't switch between spaces when Ultra battery saver is on"</string>
     <string name="cancelClosePassword">"Don't turn off"</string>
     <string name="cancel_button">Cancel</string>

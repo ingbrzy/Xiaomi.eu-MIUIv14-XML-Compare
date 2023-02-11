@@ -463,6 +463,10 @@ Features are subject to change. Some of the features above may not be available 
     <string name="other_settings_ad_disable_summary">Turn on to personalize ads</string>
     <string name="other_settings_ad_enable">Personalized ads</string>
     <string name="other_settings_ad_enable_summary">Personalize ads based on your interests</string>
+    <string name="other_settings_alarm_assistance">Emergency location</string>
+    <string name="other_settings_alarm_assistance_privacy">Privacy Policy</string>
+    <string name="other_settings_alarm_assistance_summary">"You can send your location info to the police using SMS or mobile data automatically while you're calling 110, 120, 119, or 122. Read and agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a> before using this feature."</string>
+    <string name="other_settings_alarm_assistance_user">User Agreement</string>
     <string name="other_settings_auto_update">Automatic system updates</string>
     <string name="other_settings_auto_update_summary">MIUI will select the best time to download and install updates. Your device will be rebooted automatically to apply changes.</string>
     <string name="other_settings_auto_update_summary_v1">Allow MIUI to select the best time to download and install updates. Your device will be rebooted automatically to apply changes.</string>
