@@ -295,6 +295,7 @@
     <string name="heavenly_stems_xin">辛</string>
     <string name="heavenly_stems_yi">乙</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
+    <string name="high_bit_rate">MP3, ~%1$d kbps, ~%2$d MB/h</string>
     <string name="icon_content_description">Dialog Icon</string>
     <string name="invalid_argument">Invalid argument</string>
     <string name="invisible_mode_error_tip">Turn off Incognito mode in the Settings to be able to use microphone</string>
@@ -320,10 +321,11 @@
     <string name="loading_more">Just a sec…</string>
     <string name="loading_order_list">Just a sec…</string>
     <string name="loading_order_list_empty">No orders here.</string>
-    <string name="low_battery_error">"Less than 5% battery remaining. Stop and save your recording to make sure it isn't lost."</string>
+    <string name="low_battery_error">"Less than %s battery remaining. Stop and save your recording to make sure it isn't lost."</string>
     <string name="low_battery_error_confirm">OK</string>
     <string name="low_battery_error_for_pad">"Less than %s of battery remaining. Stop and save your recording to make sure it isn't lost."</string>
     <string name="low_battery_error_title">Low battery</string>
+    <string name="low_bit_rate">MP3, ~%1$d kbps, ~%2$d MB/h</string>
     <string name="lyric_item_point_count">%1$d to %2$d</string>
     <string name="manage_external_storage">Access all files</string>
     <string name="mark_point_list_title">Marks</string>
@@ -351,9 +353,9 @@
     <string name="menu">Menu</string>
     <string name="menu_remark">@string/record_item_title_remark</string>
     <string name="message_file_size_error">Recording has reached the maximum length supported by %s</string>
-    <string name="mi_account_msg">Sign in with Xiaomi Account to transcribe files in the cloud and get first 60 minutes free.</string>
     <string name="mi_account_ok">Sign in</string>
     <string name="mi_account_title">Sign in with Xiaomi Account</string>
+    <string name="middle_bit_rate">MP3, ~%1$d kbps, ~%2$d MB/h</string>
     <string name="midnight">Night</string>
     <string name="miuix_access_state_desc">Selected</string>
     <string name="miuix_alphabet_indexer_name">Index bar</string>
@@ -495,7 +497,6 @@ Tap \"%1$s\", and then select \"%2$s\"."</string>
     <string name="offline_recognize_transfer_format">Transcribing…</string>
     <string name="online_recognize_btn">Transcribe</string>
     <string name="online_recognize_desp">Your recording will be uploaded to the server for cost estimation and transcribing.</string>
-    <string name="online_recognize_duration_limite">(Starting from 10 minutes)</string>
     <string name="online_recognize_fail">"Couldn't transcribe"</string>
     <string name="online_recognize_login_fail">"Couldn't sign in"</string>
     <string name="online_recognize_order_audio_price">%s CNY</string>
@@ -534,6 +535,9 @@ Tap \"%1$s\", and then select \"%2$s\"."</string>
     <string name="permission_desc">Permissions details</string>
     <string name="permission_dialog_cancel">Cancel</string>
     <string name="permission_dialog_ok">Settings</string>
+    <string name="permission_notification_description">For sending alerts when recording, playing, and downloading content</string>
+    <string name="permission_notification_dialog_description">"For sending alerts on the app's current status"</string>
+    <string name="permission_notification_title">Permissions required</string>
     <string name="permission_read_phone_state">Access device info</string>
     <string name="permission_read_phone_state_description">For accessing call status in order to automatically stop recording when receiving calls</string>
     <string name="permission_record">Record audio</string>
@@ -573,7 +577,7 @@ Tap \"%1$s\", and then select \"%2$s\"."</string>
     <string name="recognition_error_cancel">Canceled</string>
     <string name="recognition_error_code">Error code: %d</string>
     <string name="recognition_error_download_cancel">Later</string>
-    <string name="recognition_error_download_data_msg">Download transcribing engine to make this service available. This download requires approximately 20MB of your mobile data.</string>
+    <string name="recognition_error_download_data_msg">Download transcribing engine to make this service available. This download requires approximately %d MB of your mobile data.</string>
     <string name="recognition_error_download_fail">"Couldn't download. Check network settings and try again."</string>
     <string name="recognition_error_download_msg">Download transcribing engine to make this service available.</string>
     <string name="recognition_error_download_ok">Download</string>
@@ -619,7 +623,6 @@ Tap \"%1$s\", and then select \"%2$s\"."</string>
     <string name="recognize_choose_dialog_offline_desp">Transcribe recordings without connecting to the internet</string>
     <string name="recognize_choose_dialog_online">Transcribe in the cloud</string>
     <string name="recognize_choose_dialog_online_desp">Get accurate transcripts fast</string>
-    <string name="recognize_choose_dialog_online_free_duration">Get first 60 minutes free</string>
     <string name="recognize_choose_dialog_online_price">%s CNY/hour</string>
     <string name="recognize_choose_dialog_service_desp">Transcribing services are provided by iflyrec.com</string>
     <string name="recognize_choose_dialog_service_intruction">Terms of Service</string>
@@ -654,6 +657,14 @@ Tap \"%1$s\", and then select \"%2$s\"."</string>
     <string name="record_permission_dialog_title">Microphone permissions required</string>
     <string name="record_quliaty_preference_title">Recording quality</string>
     <string name="record_resotre">Recover records</string>
+    <string name="record_scenes_summaries_HD">High dynamic range technology allows the microphone to capture more detailed sound</string>
+    <string name="record_scenes_summaries_interview">Place the phone between %d people to record their conversation clearly</string>
+    <string name="record_scenes_summaries_music">Record music with better quality</string>
+    <string name="record_scenes_summaries_stereo_HD">High dynamic range technology allows the microphone to capture more detailed sound</string>
+    <string name="record_scenes_summaries_stereo_interview">Place the phone between %d people to record their conversation clearly</string>
+    <string name="record_scenes_summaries_stereo_music">Record through %d channels, listen to stereo sound in the earphones</string>
+    <string name="record_scenes_summaries_stereo_voice">Move the mic closer to the source of the sound for better quality</string>
+    <string name="record_scenes_summaries_voice">Move the mic closer to the source of the sound for better quality</string>
     <string name="recorder_record">Audio</string>
     <string name="recording">Recording</string>
     <string name="recording_quality_high">High quality</string>
@@ -666,7 +677,6 @@ Tap \"%1$s\", and then select \"%2$s\"."</string>
     <string name="recovery_failed_dialog_button">Got it</string>
     <string name="recovery_failed_dialog_title">Attention</string>
     <string name="reg_error_audio_exist">This file already exists.</string>
-    <string name="reg_error_audio_large">"Audio files can't be bigger than 500MB."</string>
     <string name="reg_error_audio_short">Audio file is too small.</string>
     <string name="reg_error_business">"Couldn't transcribe file. Report this error to us and try again."</string>
     <string name="reg_error_client">An app data error occurred. Report it to us and try again.</string>
@@ -768,10 +778,10 @@ Tap \"%1$s\", and then select \"%2$s\"."</string>
     <string name="tab_fm">FM</string>
     <string name="tab_record">@string/app_name</string>
     <string name="tap_to_record">Tap the button to start recording</string>
-    <string name="text_btn_backward_3_seconds">3 seconds back</string>
+    <string name="text_btn_backward_3_seconds">%d seconds back</string>
     <string name="text_btn_complete">Stop</string>
     <string name="text_btn_copy">复制</string>
-    <string name="text_btn_forward_3_seconds">3 seconds forward</string>
+    <string name="text_btn_forward_3_seconds">%d seconds forward</string>
     <string name="text_btn_list">Recordings</string>
     <string name="text_btn_mark">Mark</string>
     <string name="text_btn_pause">Pause</string>
