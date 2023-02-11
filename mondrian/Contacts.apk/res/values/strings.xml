@@ -101,6 +101,7 @@
     <string name="bh_card_order_name">Service package</string>
     <string name="bh_card_order_pay_price">Amount paid</string>
     <string name="bh_card_order_price">Price</string>
+    <string name="bh_cbn">China Broadnet</string>
     <string name="bh_charge_confirm">Add %2$s CNY to %1$s?</string>
     <string name="bh_charge_continue">Top up</string>
     <string name="bh_charge_number">Topping up %1$s</string>
@@ -135,9 +136,10 @@
     <string name="bh_gb">GB</string>
     <string name="bh_get_balance_success">Checked successfully. The info might be updated with a delay here.</string>
     <string name="bh_get_charge_phone_number">Select from contacts</string>
-    <string name="bh_goto_granted">去授权</string>
+    <string name="bh_goto_granted">Grant permissions</string>
     <string name="bh_goto_open">Not granted</string>
     <string name="bh_goto_set">Set</string>
+    <string name="bh_greeting_user">%1$s</string>
     <string name="bh_i_got_it">Got it</string>
     <string name="bh_input_hint">Enter phone number</string>
     <string name="bh_input_total_limit">Enter data amount</string>
@@ -194,7 +196,6 @@
     <string name="bh_please_check_operation">请检查运营商是否设置正确</string>
     <string name="bh_please_complete_sim_before_charge">To top up, add a phone number first.</string>
     <string name="bh_please_fill_total_limit">Add mobile data included in your plan</string>
-    <string name="bh_please_fill_total_limit_title">请填写套餐总量</string>
     <string name="bh_please_set_pkg">Set your plan to be able to check your balance.</string>
     <string name="bh_privacy_policy">Privacy Policy</string>
     <string name="bh_qualification_and_certificate">Licenses and certification</string>
@@ -277,6 +278,8 @@
     <string name="call_feature_vowifi">VoWiFi</string>
     <string name="call_home">Call home</string>
     <string name="call_isdn">Call ISDN</string>
+    <string name="call_limit">Call restrictions</string>
+    <string name="call_limit_content">"Couldn't call “%s”. You can only call phone numbers that are on your approved contacts list."</string>
     <string name="call_main">Call main</string>
     <string name="call_mms">Call MMS</string>
     <string name="call_mobile">Call mobile</string>
@@ -874,6 +877,7 @@ Reason: \"%s\""</string>
     <string name="item_offical">Official</string>
     <string name="keep_local">"Don't sync"</string>
     <string name="keep_local_btn">"Use device's internal storage"</string>
+    <string name="know">Got it</string>
     <string name="label_custom_type">Custom</string>
     <string name="label_no_duplicate_contacts">No duplicates found</string>
     <string name="label_notes">Notes</string>
