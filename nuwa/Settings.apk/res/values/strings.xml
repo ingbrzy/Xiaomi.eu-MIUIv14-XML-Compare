@@ -2817,6 +2817,10 @@ If you interrupt it, you'll lose some or all of your data."</string>
     <string name="dark_mode_day_night_mode_summary">Switch to Dark mode at sunset and turn it off at sunrise</string>
     <string name="dark_mode_day_night_mode_title">Sunset to sunrise</string>
     <string name="dark_mode_font_background_title">Adjust text and backgrounds automatically</string>
+    <string name="dark_mode_power_save_alert_dialog_confirm">Got it</string>
+    <string name="dark_mode_power_save_alert_dialog_message">"If you turn off MIUI optimization and turn on Battery saver, Dark mode will be turned on automatically.
+To turn off Dark mode, turn off Battery saver, or turn on MIUI optimization in Settings > Developer options > MIUI optimization."</string>
+    <string name="dark_mode_power_save_alert_dialog_title">Dark mode</string>
     <string name="dark_mode_time_settings">Schedule Dark mode</string>
     <string name="dark_theme_main_switch_title">Use Dark theme</string>
     <string name="dark_theme_slice_subtitle">Helps extend battery life</string>

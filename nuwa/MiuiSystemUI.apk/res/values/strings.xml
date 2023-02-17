@@ -762,6 +762,10 @@ Your device app determines which devices can be controlled in this way."</string
     <string name="daltonizer_mode_protanomaly">Protanomaly (red-green)</string>
     <string name="daltonizer_mode_tritanomaly">Tritanomaly (blue-yellow)</string>
     <string name="daltonizer_type_overridden">Overridden by %1$s</string>
+    <string name="dark_mode_power_save_alert_dialog_confirm">Got it</string>
+    <string name="dark_mode_power_save_alert_dialog_message">"If you turn off MIUI optimization and turn on Battery saver, Dark mode will be turned on automatically.
+To turn off Dark mode, turn off Battery saver, or turn on MIUI optimization in Settings > Developer options > MIUI optimization."</string>
+    <string name="dark_mode_power_save_alert_dialog_title">Dark mode</string>
     <string name="data_connection_3_5g">H</string>
     <string name="data_connection_3_5g_plus">H+</string>
     <string name="data_connection_3g">3G</string>
@@ -2205,9 +2209,9 @@ If you have questions, contact %2$s."</string>
     <string name="reboot_to_bootloader_title">Fastboot mode</string>
     <string name="reboot_to_recovery_title">Recovery mode</string>
     <string name="recent_conversations">Recent conversations</string>
-    <string name="recent_used_camera">This app used camera</string>
-    <string name="recent_used_camera_and_microphone">This app recorded audio and used camera</string>
-    <string name="recent_used_microphone">This app recorded audio</string>
+    <string name="recent_used_camera">This app accessed camera</string>
+    <string name="recent_used_camera_and_microphone">This app accessed camera and microphone</string>
+    <string name="recent_used_microphone">This app accessed microphone</string>
     <string name="remaining_length_format">%1$s left</string>
     <string name="remote_input_image_insertion_text">sent an image</string>
     <string name="remove_from_settings">Remove from Settings</string>
@@ -2678,9 +2682,9 @@ Any user can update apps for all other users."</string>
     <string name="user_setup_dialog_title">Set up user now?</string>
     <string name="user_setup_profile_dialog_message">Set up profile now?</string>
     <string name="user_switch_to_user">Switch to %s</string>
-    <string name="using_camera">This app is using camera</string>
-    <string name="using_camera_and_microphone">This app is recording audio and using camera</string>
-    <string name="using_microphone">This app is recording audio</string>
+    <string name="using_camera">This app is accessing camera</string>
+    <string name="using_camera_and_microphone">This app is accessing camera and microphone</string>
+    <string name="using_microphone">This app is accessing microphone</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
     <string name="verify_apps_over_usb_summary">Check apps installed via ADB/ADT for harmful behavior.</string>
