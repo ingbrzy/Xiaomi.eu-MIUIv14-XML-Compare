@@ -175,7 +175,7 @@
     <string name="controls_edit_panel_save_button">Done</string>
     <string name="controls_edit_panel_subtitle">Drag items to rearrange</string>
     <string name="controls_edit_panel_title">Added devices</string>
-    <string name="controls_error_failed">An error occured. Try again.</string>
+    <string name="controls_error_failed">An error occurred. Try again.</string>
     <string name="controls_error_generic">Error</string>
     <string name="controls_error_removed">Device removed</string>
     <string name="controls_error_removed_message">controls_error_removed_message</string>
