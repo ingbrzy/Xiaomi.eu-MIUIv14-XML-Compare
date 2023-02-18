@@ -127,21 +127,26 @@
     <string name="cancel">Cancel</string>
     <string name="charger_test_end">"
 Charger test end, please plug out the charger"</string>
-    <string name="cit_DP_check_summary">The DP lines should be connected during the testing process</string>
-    <string name="cit_DP_check_title">DP</string>
-    <string name="cit_DP_in_start_test">Please insert the DP line to start the testing</string>
-    <string name="cit_DP_plug_err">"Test failed 
+    <string name="cit_DP_check_summary">The type-C to DP Cable should be connected during the testing process</string>
+    <string name="cit_DP_check_title">DP Test</string>
+    <string name="cit_DP_in_start_test">Please insert the type-C to DP Cable to start the testing</string>
+    <string name="cit_DP_plug_err">"Detection device connection change 
+ Read the underlying node value failed 
  Did not get the value"</string>
-    <string name="cit_DP_plug_fail">"Test failed 
- This line is not a DP line, replace another line for testing"</string>
+    <string name="cit_DP_plug_fail">"Detection device connection change 
+ Read the underlying node value failed 
+ Please insert the type-C turn to DP Cable to start the test"</string>
     <string name="cit_DP_plug_out_err">"Test failure
 Did not get the value"</string>
-    <string name="cit_DP_plug_out_fail">"Broken connection was detected
-Test Failed
+    <string name="cit_DP_plug_out_fail">"Detection device connection change 
+ Read the underlying node value failed 
+ Test Failed 
 "</string>
     <string name="cit_DP_plug_out_pass">"Broken connection was detected
 Test Pass"</string>
-    <string name="cit_DP_plug_pass">The connected DP line is detected, please observe whether the screen projection is successful, and click the corresponding button</string>
+    <string name="cit_DP_plug_pass">"Detection device connection change 
+ Read the underlying node value successfully 
+ Please observe whether the screen is successful, and click the corresponding button"</string>
     <string name="cit_DP_plug_re_plugin">DP test completed, please see whether the screen is successful, and click the corresponding button</string>
     <string name="cit_OTG_plug_check_summary">During the test, please plug in and reverse plug in the USB_OTG device</string>
     <string name="cit_OTG_plug_check_title">OTG</string>
