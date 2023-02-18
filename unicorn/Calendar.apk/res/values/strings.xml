@@ -990,6 +990,7 @@ Check network settings and try again."</string>
     <string name="peace_day">和平紀念</string>
     <string name="peace_day_tradition">和平紀念</string>
     <string name="pengzu">彭祖</string>
+    <string name="permission_denial">Grant permissions to be able to use this feature</string>
     <string name="permission_description">Permissions details</string>
     <string name="phone_num">电话</string>
     <string name="picker_day">Selected day: %1$d. Swipe vertically to select.</string>
@@ -1042,6 +1043,7 @@ Check network settings and try again."</string>
     <string name="preferences_week_start_day_title">Start of the week</string>
     <string name="prefsx_notify_sound_none">Silent</string>
     <string name="premission_description_log">For saving logs</string>
+    <string name="premission_description_notice">For sending notifications about events and holidays</string>
     <string name="premission_description_ringtone">For setting ringtones</string>
     <string name="privacy_and_permissions">Privacy and permissions</string>
     <string name="privacy_card_description">Agree to our Privacy Policy to access all features.</string>
