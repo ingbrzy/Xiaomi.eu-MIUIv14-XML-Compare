@@ -41,7 +41,6 @@
     <string name="ads_install_button_waiting">Waiting</string>
     <string name="after_install_to_delete">Delete installation packages after installation</string>
     <string name="afternoon">Afternoon</string>
-    <string name="alert_authorize_text_format">%1$s%2$s</string>
     <string name="allow_current_install">Allow once</string>
     <string name="am">AM</string>
     <string name="anonymous_source_continue">Continue</string>
@@ -62,7 +61,6 @@
     <string name="app_install_safe_check">Check apps before installation</string>
     <string name="app_installing_not_allow">"You blocked installation of %1$s. "</string>
     <string name="app_name">Package installer</string>
-    <string name="app_non_put_on_the_shelf">Not available</string>
     <string name="app_not_found_dlg_text">"The app wasn't found in the list of installed apps."</string>
     <string name="app_not_found_dlg_title">App not found</string>
     <string name="app_safe_check_tip">Verification method for installation of apps with detected risks:</string>
@@ -71,7 +69,6 @@
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="auth_type_face">人脸</string>
     <string name="auth_type_finger">指纹</string>
-    <string name="auth_type_human_verify">风险验证</string>
     <string name="auth_type_screen_lock">锁屏密码</string>
     <string name="auth_type_security_verify">身份验证</string>
     <string name="authorize_this_once_install">allow this time</string>
@@ -186,7 +183,6 @@
     <string name="comment_count_wan">%1$s万reviews</string>
     <string name="confirm_install">Install</string>
     <string name="copy">Copy</string>
-    <string name="count_down_time">(%1$ss)</string>
     <string name="cpu_compatible_error">"This app isn't fully compatible with the 64-bit architecture. Using it may lower system performance and increase power consumption. Tap to learn more."</string>
     <string name="cta_button_text_cancel">Exit</string>
     <string name="custom_toast_with_clickable_span">%1$s %2$s</string>
@@ -228,7 +224,6 @@
     <string name="dev_complaint_tiptext">"We'll contact you within %d business days of you submitting your appeal"</string>
     <string name="device_pad">Tablet</string>
     <string name="device_phone">Phone</string>
-    <string name="dialog_install_confirm_default">Install</string>
     <string name="dialog_install_source">Source: %1$s</string>
     <string name="dialog_open_security_mode_on_button_msg">Got it</string>
     <string name="dialog_security_mode_guide_cancel">Cancel</string>
@@ -279,7 +274,6 @@
     <string name="face_authrioze_tips">Face the screen</string>
     <string name="face_unlock_be_on_the_screen">Hold the device in front of your face</string>
     <string name="face_unlock_check_failed">"Couldn't recognize you"</string>
-    <string name="face_unlock_face_start_title">Verifying face data…</string>
     <string name="face_unlock_not_found">"Couldn't recognize you"</string>
     <string name="face_unlock_open_eye">Open your eyes a bit wider</string>
     <string name="face_unlock_reveal_eye">Make your eyes visible</string>
@@ -371,13 +365,11 @@
     <string name="icon_content_description">Dialog Icon</string>
     <string name="ignore_virus_install_text">I understand all possible risks. %1$s</string>
     <string name="ignore_virus_install_text_clickable">Install anyway</string>
-    <string name="install">Install</string>
     <string name="install_abi_error">"This app isn't compatible with the 32-bit architecture"</string>
     <string name="install_abi_error_des">Install the 32-bit version of this app instead</string>
     <string name="install_abi_error_des_market">Download the 32-bit version of this app from GetApps</string>
     <string name="install_app_loading">Checking installation package…</string>
     <string name="install_completed_pure_open_tip_title">Turn on Mi Protect to block risky apps and ensure your security.</string>
-    <string name="install_package_description">>Installation package details</string>
     <string name="install_package_error">"This app isn't compatible with your system"</string>
     <string name="install_package_error_des">Contact the developer or install a compatible version from GetApps.</string>
     <string name="install_package_error_four">Installing this app may cause security risks</string>
@@ -411,9 +403,6 @@
     <string name="lockscreen_access_pattern_cell_added">Cell added</string>
     <string name="lockscreen_access_pattern_cleared">Pattern cleared</string>
     <string name="lockscreen_access_pattern_start">Pattern started</string>
-    <string name="login_to_install">Sign in to install</string>
-    <string name="login_to_install_des">Sign in to your Mi Account to continue with installation. You can also change your installation preferences in Settings > Install risky apps.</string>
-    <string name="login_xiaomi_account">Sign in</string>
     <string name="m3_ref_typeface_brand_medium">sans-serif-medium</string>
     <string name="m3_ref_typeface_brand_regular">sans-serif</string>
     <string name="m3_ref_typeface_plain_medium">sans-serif-medium</string>
@@ -625,8 +614,6 @@
     <string name="open_app_install_safe_des">Check apps for possible risks and security issues before installation</string>
     <string name="open_now">Turn on</string>
     <string name="open_pure_mode_continue_install">Continue</string>
-    <string name="open_pure_mode_sucess_toast">Secure mode is on. Changes will be applied during the next installation.</string>
-    <string name="open_to_pure_mode">Turn on</string>
     <string name="passed_security_test">Passed Xiaomi security tests</string>
     <string name="password_toggle_content_description">Show password</string>
     <string name="password_wrong_msg">"Couldn't verify. Try again."</string>
@@ -722,7 +709,6 @@
     <string name="pure_introduction_title5">Anti-fraud protection</string>
     <string name="pure_mode_des">Secure mode makes sure that every app installed on your device has passed Xiaomi security tests.</string>
     <string name="pure_mode_elderly_recommend_title">"Turn on Mi Protect's Elder protection"</string>
-    <string name="pure_mode_give_up_protect">No thanks</string>
     <string name="pure_mode_open_toast">Secure mode is on</string>
     <string name="pure_mode_tip_dialog_des">Allow it to complete installation?</string>
     <string name="pure_mode_tip_dialog_elderly_des">To protect your privacy and security, Mi Protect is blocking the installation of apps from unknown or risky sources.</string>
@@ -765,7 +751,6 @@
     <string name="risk_install_no_open">Off</string>
     <string name="risk_verification">风险验证</string>
     <string name="risk_verification_des">该应用安装过于频繁，为了安全着想，请先进行风险验证，通过后可继续安装。</string>
-    <string name="rist_app_introduce">About risky apps</string>
     <string name="safe_guard_title_text">Turn on Mi Protect for your security and peace of mind.</string>
     <string name="safe_guarding">"You're protected"</string>
     <string name="safe_guarding_close">You can turn off Mi Protect here</string>
@@ -775,7 +760,6 @@
     <string name="safe_install_mode_settings_old">Secure mode</string>
     <string name="safe_mode">Secure mode</string>
     <string name="safe_mode_already_authorize">Allowed</string>
-    <string name="safe_mode_authorize_name">Recently installed: %1$s</string>
     <string name="safe_mode_authorize_once_install">Allow once</string>
     <string name="safe_mode_close_tip">Turning off Secure mode</string>
     <string name="safe_mode_close_tip_des">"You won't be able to learn whether the apps you install gave passed our security tests after you turn off Safe mode. Turn off anyway?"</string>
@@ -799,17 +783,14 @@
     <string name="secure_verify_close_tip_des">"If you turn this feature off, your device won't perform security checks on apps, and all apps can be downloaded without authorization. Verify your identity to be able to turn off this feature."</string>
     <string name="secure_verify_close_title">Turning off security verification</string>
     <string name="security_auth">Verify your identity</string>
-    <string name="security_auth_msg">Verify your identity</string>
     <string name="security_mode_close_feedback">Thank you for using Secure mode</string>
     <string name="security_mode_close_tips_service_list_title">Mi Protect helps you:</string>
     <string name="security_mode_feedback_commit">Submit</string>
     <string name="security_mode_feedback_input_count">%1$s/50</string>
     <string name="security_mode_feedback_multiple_choice">" (Select all that apply)"</string>
     <string name="security_mode_feedback_reason">Why are you turning off Secure mode?</string>
-    <string name="security_mode_feedback_reason_annoying">"It's irritating"</string>
     <string name="security_mode_feedback_reason_input_hint">Tell us what you think</string>
     <string name="security_mode_feedback_reason_install">"I can't install apps when it's on"</string>
-    <string name="security_mode_feedback_reason_invalid">"It makes no difference whether it's on or off"</string>
     <string name="security_mode_feedback_reason_other">Other</string>
     <string name="security_mode_feedback_submit_toast">Thanks for your feedback</string>
     <string name="security_mode_feedback_tips">Tell us how we can improve our services</string>
@@ -1014,10 +995,8 @@
     <string name="verify_account_default_title">Verify your identity</string>
     <string name="verify_account_title">Verify your identity</string>
     <string name="verify_and_install">Install</string>
-    <string name="verify_failed">验证失败</string>
+    <string name="verify_failed">verification failed</string>
     <string name="verify_to_sure_close">Turn off</string>
-    <string name="virus_install_confirm_cancel">Cancel</string>
-    <string name="virus_install_confirm_install">Install</string>
     <string name="virus_safe_install_mode_security_tips">If you trust this app, you can authorize its installation in Settings > Apps > Secure mode.</string>
     <string name="virus_safe_install_mode_security_tips_pi">If you trust this app, tap the Settings icon and select \"Secure mode\" to authorize its installation.</string>
     <string name="virus_scanning">Checking…</string>
@@ -1032,7 +1011,6 @@
     <string name="welcome_to_security_mody">Welcome to Secure mode</string>
     <string name="what_is_security_mode">What is Secure mode?</string>
     <string name="xiaomi_account_risk">Mi Account password</string>
-    <string name="xiaomi_account_verify">Sign in to your Xiaomi Account to be able to continue installation.</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Not now</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Update</string>
     <string name="xiaomi_market_sdk_update_dialog_title">An update is available</string>
