@@ -11065,7 +11065,7 @@ Visit your carrier’s privacy policy for details."</string>
     <string name="wifi_generation_summary">Add the number of the wireless technology generation to the Wi-Fi icon</string>
     <string name="wifi_generation_title">Technology</string>
     <string name="wifi_hand_sel_wapi_cert">WAPI certificate</string>
-    <string name="wifi_hidden_gbk">GBK Encoding</string>
+    <string name="wifi_hidden_gbk">GBK encoding</string>
     <string name="wifi_hidden_network">Hidden network</string>
     <string name="wifi_hidden_network_warning">"If your router is not broadcasting a network ID but you would like to connect to it in the future, you can set the network as hidden.
 

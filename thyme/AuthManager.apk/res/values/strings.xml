@@ -99,6 +99,8 @@
     <string name="HIPS_Perm_operator_get_phonenumbner_Message">This app wants to acquire your phone number from the carrier for signing in. Allow?</string>
     <string name="HIPS_Perm_operator_shake">Access accelerometer data</string>
     <string name="HIPS_Perm_operator_shake_Desc">Accelerometer data is used for tracking orientation and movement (e.g. shaking, tilting, and rotating)</string>
+    <string name="HIPS_Perm_operator_wall_paper">Set wallpaper</string>
+    <string name="HIPS_Perm_operator_wall_paper_Desc">Change wallpapers and default dynamic wallpaper services</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">access near field communication (NFC) hardware</string>
     <string name="HIPS_Perm_process_outgoing_calls">Access Phone app</string>
