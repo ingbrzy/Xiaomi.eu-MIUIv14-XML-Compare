@@ -665,6 +665,7 @@ Tap \"%1$s\", and then select \"%2$s\"."</string>
     <string name="record_scenes_summaries_stereo_music">Record through %d channels, listen to stereo sound in the earphones</string>
     <string name="record_scenes_summaries_stereo_voice">Move the mic closer to the source of the sound for better quality</string>
     <string name="record_scenes_summaries_voice">Move the mic closer to the source of the sound for better quality</string>
+    <string name="record_while_in_call_tip">"Can't record during a call"</string>
     <string name="recorder_record">Audio</string>
     <string name="recording">Recording</string>
     <string name="recording_quality_high">High quality</string>

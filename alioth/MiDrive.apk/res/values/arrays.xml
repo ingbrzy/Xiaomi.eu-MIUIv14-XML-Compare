@@ -252,11 +252,11 @@
         <item>android.permission-group.STORAGE</item>
     </string-array>
     <string-array name="privacy_dialog_runtime_permission_desc">
-        <item>For signing in using Mi Account</item>
+        <item>For signing in using Xiaomi Account</item>
         <item>For previewing, uploading, downloading, and syncing files</item>
     </string-array>
     <string-array name="privacy_dialog_runtime_permission_desc_with_phone_state">
-        <item>For signing in using Mi Account</item>
+        <item>For signing in using Xiaomi Account</item>
         <item>For previewing, uploading, downloading, and syncing files</item>
         <item>For detecting available updates</item>
     </string-array>
