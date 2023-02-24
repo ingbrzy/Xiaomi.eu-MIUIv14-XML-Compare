@@ -17,6 +17,7 @@ Removed: [et-rEE] strings.xml: string/edit_event_reminder_summary_3_days_before_
 Removed: [eu-rES] strings.xml: string/edit_event_reminder_summary_3_days_before_today (format mismatch)
 Removed: [fa-rIR] strings.xml: string/edit_event_reminder_summary_3_days_before_today (format mismatch)
 Removed: [fi] strings.xml: string/edit_event_reminder_summary_3_days_before_today (format mismatch)
+Removed: [fr] strings.xml: string/edit_event_reminder_summary_3_days_before_today (format mismatch)
 Removed: [gl-rES] strings.xml: string/edit_event_reminder_summary_3_days_before_today (format mismatch)
 Removed: [gu-rIN] strings.xml: string/edit_event_reminder_summary_3_days_before_today (format mismatch)
 Removed: [ha-rNG] strings.xml: string/edit_event_reminder_summary_3_days_before_today (format mismatch)
