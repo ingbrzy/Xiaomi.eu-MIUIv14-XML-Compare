@@ -318,7 +318,7 @@
     <string name="close_multi_finger_slide_summary">These gestures will be ignored in some scenarios (e.g. games and videos playback)</string>
     <string name="close_multi_finger_slide_title">"Don't respond to three- and four-finger gestures"</string>
     <string name="cloud_app_restore_title">Pending</string>
-    <string name="com.crashlytics.android.build_id">d32b2e49df6c40699f1c8a9ea3fc0aa5</string>
+    <string name="com.crashlytics.android.build_id">cc36e1919de24c758cd0682705c8994e</string>
     <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
     <string name="common_home_search_delete">Removing search bar</string>
     <string name="common_home_search_delete_cancle">Cancel</string>
@@ -1089,7 +1089,7 @@ Enhanced security."</string>
     <string name="shake_to_align_icons_title">Shake to fill empty cells</string>
     <string name="share">Share</string>
     <string name="sharedUserId" />
-    <string name="shortcut_share_dialog_content">"The files you send from your phone, as well as their recipients are selected and determined by you. Be attentive when you choose files to share and select recipients. You may not use your phone to transmit any viruses, malware, Trojans, time bombs, and other harmful objects to other people. Don't use your phone to transmit any software that may affect the regular usage of the recipient's device or any items that may damage, interfere, intercept, or eliminate any system data or personal information on mobile terminal devices. You'll be responsible for any damage caused to other users or mobile terminal devices. Xiaomi will do its best to ensure that the sharing functionality, as well as the technology and information involved are safe, effective, accurate, and reliable. However, due to the current technology limitations, Xiaomi doesn't guarantee that the sharing functionality is flawless and will satisfy all your needs."</string>
+    <string name="shortcut_share_dialog_content">"The files you send from your phone, as well as their recipients, are selected and determined by you. Be attentive when you choose files to share and select recipients. You may not use your phone to transmit any viruses, malware, Trojans, time bombs, and other harmful objects to other people. Don't use your phone to transmit any software that may affect the regular usage of the recipient's device or any items that may damage, interfere with, intercept, or eliminate any system data or personal information on mobile terminal devices. You'll be responsible for any damage caused to other users or mobile terminal devices. Xiaomi will do its best to ensure that the sharing functionality, as well as the technology and information involved, are safe, effective, accurate, and reliable. However, due to the current technology limitations, Xiaomi doesn't guarantee that the sharing functionality is flawless and will satisfy all your needs."</string>
     <string name="shortcut_share_dialog_positive_button">Got it</string>
     <string name="shortcut_share_dialog_title">Disclaimer</string>
     <string name="show_all">Show all</string>
