@@ -70,6 +70,7 @@
         <item>com.android.settings</item>
         <item>fr.bouyguestelecom.agent.custo</item>
         <item>com.aura.oobe.bouygues</item>
+        <item>com.dti.bouyguestelecom</item>
         <item>com.altice.android.myapps</item>
         <item>com.sfr.android.sfrjeux</item>
         <item>com.orange.update</item>
@@ -7791,6 +7792,7 @@
     </string-array>
     <string-array name="smart_power_broadcast_white_list">
         <item>android.intent.action.EVENT_REMINDER</item>
+        <item>com.google.android.c2dm.intent.RECEIVE</item>
     </string-array>
     <string-array name="smart_power_package_white_list">
         <item>com.xiaomi.xmsf</item>
