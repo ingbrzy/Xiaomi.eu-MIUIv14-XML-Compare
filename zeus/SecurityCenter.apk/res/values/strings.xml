@@ -136,6 +136,11 @@
     <string name="activity_title_virus_settings">Settings</string>
     <string name="activity_title_white_list">Exceptions</string>
     <string name="ad_btn_default_text">Learn more</string>
+    <string name="ad_click_type_blank_area">空白</string>
+    <string name="ad_click_type_cancel">取消</string>
+    <string name="ad_click_type_content_quality">内容质量</string>
+    <string name="ad_click_type_not_interest">不感兴趣</string>
+    <string name="ad_click_type_often">过于频繁</string>
     <string name="ad_floating_window_title">Close floating window to unlock</string>
     <string name="ad_split_screen_title">Exit Split screen to unlock</string>
     <string name="ad_text_adx">广告</string>
@@ -157,8 +162,8 @@
     <string name="add_done">Added successfully</string>
     <string name="add_game">Add game</string>
     <string name="add_game_notification_summary">Tap to launch &amp; boost speed</string>
-    <string name="add_miservice_dialog_content">"%s requires you to add MIUI service framework to exceptions. You may receive notifications from MIUI's built-in apps and other third-party apps."</string>
-    <string name="add_miservice_dialog_title">MIUI service framework</string>
+    <string name="add_miservice_dialog_content">"%s requires you to add Xiaomi service framework to exceptions. You may receive notifications from MIUI's built-in apps and other third-party apps."</string>
+    <string name="add_miservice_dialog_title">Xiaomi service framework</string>
     <string name="add_to_whitelist_button">Data roaming exceptions</string>
     <string name="add_whitelist">Add to exceptions</string>
     <string name="added_game_notification_summary">Start playing now</string>
@@ -645,6 +650,12 @@ You will not lose any app data."</string>
     <string name="app_running_tip_dialog_text">Looks like this app is running in the background. You can quit the app to speed up your device and reduce power consumption.</string>
     <string name="app_running_tip_dialog_title">Quit %1$s</string>
     <string name="app_settings_link">Additional settings in the app</string>
+    <string name="app_source_global_search">全局搜索</string>
+    <string name="app_source_home">桌面</string>
+    <string name="app_source_notification">通知</string>
+    <string name="app_source_other">其他</string>
+    <string name="app_source_settings">设置</string>
+    <string name="app_source_widget">小部件</string>
     <string name="app_statusbar_audio_now">Recording audio</string>
     <string name="app_statusbar_camera_now">Taking photos</string>
     <string name="app_statusbar_location_now">Location</string>
@@ -668,7 +679,7 @@ You will not lose any app data."</string>
     <string name="applock_add_account_setting">Account &amp; privacy</string>
     <string name="applock_add_account_tips">"With Xiaomi Account, you'll be able to restore your App lock if you forget it."</string>
     <string name="applock_add_account_title">Add your Xiaomi Account</string>
-    <string name="applock_add_account_title_part">Add your Mi Account to be able to reset password</string>
+    <string name="applock_add_account_title_part">Add your Xiaomi Account to be able to reset password</string>
     <string name="applock_already_add_account">Current account: %s</string>
     <string name="applock_app_recommend_lock_title">You can lock the following apps</string>
     <string name="applock_bind_account_dialog_content">Your Xiaomi Account is the only way to restore your App lock in case you forget it. Sign in to add your Xiaomi Account.</string>
@@ -1170,6 +1181,9 @@ However, some of your transactions aren't completed yet. To be able to withdraw 
     <string name="cancal_to_setting_fingerprint">Cancel</string>
     <string name="cancel">Cancel</string>
     <string name="cancel_button">Cancel</string>
+    <string name="card_click_type_close_ad">右上角关闭广告按钮</string>
+    <string name="card_click_type_open_or_download">右下角打开/下载</string>
+    <string name="card_click_type_other">其他区域</string>
     <string name="card_main_applock_action">Turn on</string>
     <string name="card_main_applock_summary">Protect selected apps with a password.</string>
     <string name="card_main_applock_title">App lock</string>
@@ -1335,7 +1349,7 @@ However, some of your transactions aren't completed yet. To be able to withdraw 
     <string name="cmcc_app_check_dialog_positive">Restart now</string>
     <string name="cmcc_app_check_dialog_title">System repaired</string>
     <string name="cmd_lucky_float">摇一摇</string>
-    <string name="com.crashlytics.android.build_id">00000000000000000000000000000000</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">00000000000000000000000000000000</string>
     <string name="commonly_used_func_card_title">Common features</string>
     <string name="commonly_used_func_edit_too_many_func">"Can't add more items"</string>
     <string name="compatible_dialog_content">"This app isn't fully compatible with the 64-bit architecture. You may experience performance issues and increased power consumption while using it."</string>
@@ -1365,6 +1379,11 @@ However, some of your transactions aren't completed yet. To be able to withdraw 
     <string name="continue_set">Continue</string>
     <string name="convenient_mode">Unlock all apps at once</string>
     <string name="convenient_summary">Enter password once to unlock all apps</string>
+    <string name="conversation_settings_top">"·Slide out the Conference tools bar during full-screen audio and video calls to access its features.
+·The type and number of features depends on the device model."</string>
+    <string name="conversation_sider_tips">Use new Conference tools for the best call experience</string>
+    <string name="conversation_summary">Beautify, subtitle transcription, and other features during audio and video calls</string>
+    <string name="conversation_title">Conference tools</string>
     <string name="copy">Copy</string>
     <string name="cpu_usage_android_system">Android system</string>
     <string name="cpu_usage_process_run_time_little_time">Less than 1 minute</string>
@@ -1383,6 +1402,19 @@ However, some of your transactions aren't completed yet. To be able to withdraw 
     <string name="create_table_thirddesktop">CREATE TABLE THIRD_DESKTOP( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, application_name TEXT NOT NULL, type INTEGER NOT NULL );</string>
     <string name="create_table_vaid">CREATE TABLE VAID( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, vaid TEXT NOT NULL );</string>
     <string name="create_talbe_fwlog">CREATE TABLE fwlog( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, date INTEGER NOT NULL DEFAULT 0, type INTEGER NOT NULL DEFAULT 0, reason INTEGER NOT NULL DEFAULT 0, data1 TEXT DEFAULT NULL, data2 TEXT DEFAULT NULL, read INTEGER NOT NULL DEFAULT 0, simid TEXT DEFAULT -1, mode INTEGER NOT NULL DEFAULT 0, callType INTEGER NOT NULL DEFAULT 0 );</string>
+    <string name="cs_color_sense">Color temperature</string>
+    <string name="cs_func_toast_headset">Disconnect your headset to be able to use this feature</string>
+    <string name="cs_func_toast_light">Switch to the front camera to be able to use this feature</string>
+    <string name="cs_func_toast_pickup">Switch to a video call to be able to use this feature</string>
+    <string name="cs_pickup_multi_desc">%d degree audio pickup</string>
+    <string name="cs_pickup_multi_title">Multiple participants</string>
+    <string name="cs_pickup_single_desc">Only pick up sound from in front of the screen</string>
+    <string name="cs_pickup_single_title">Single participant</string>
+    <string name="cs_pickup_surround_desc">Uses AI to reduce noise for crisp, clear sound</string>
+    <string name="cs_pickup_surround_title">Microphone noise reduction</string>
+    <string name="cs_title_pickup">Noise reduction</string>
+    <string name="cs_title_smart_subtitle">Subtitle transcription</string>
+    <string name="cs_title_ultraclear">Ultra HD mode</string>
     <string name="cta_HIPS_Perm_Location_Desc">For using your location info in MIUI Warning Center, Emergency SOS, App battery saver, and payment security scanner, as well as enabling approximate location</string>
     <string name="cta_agree_desc">To be able to use our services, allow this app to connect to the internet and grant the permissions listed above.</string>
     <string name="cta_close_dialog_cancel">Cancel</string>
@@ -1392,7 +1424,7 @@ However, some of your transactions aren't completed yet. To be able to withdraw 
     <string name="cta_dialog_negative">Exit</string>
     <string name="cta_dialog_positive">Agree</string>
     <string name="cta_dialog_title">Internet connection</string>
-    <string name="cta_main_purpose">"Welcome to Security! You can use Security and its modules (including MIUI security components and system services) to free up storage space, scan your device for viruses, control battery usage, optimize your device for gaming, manage apps, receive earthquake early warnings, and more. MIUI security components will connect to the internet and perform security scans while you're installing apps and making payments."</string>
+    <string name="cta_main_purpose">"Welcome to Security! You can use Security and its modules (including MIUI security components, system services, and Joyose) to free up storage space, scan your device for viruses, control battery usage, optimize your device for gaming, manage apps, receive earthquake early warnings, and more. MIUI security components will connect to the internet and perform security scans while you're installing apps and making payments."</string>
     <string name="cta_settings">Allow to connect to the internet and access location</string>
     <string name="current_network_state_not_need_diagnose">Internet connection is normal.</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">For using blocklist and making calls to emergency contacts when earthquake warnings are issued</string>
@@ -1901,7 +1933,6 @@ volunteer"</string>
     <string name="exit_dialog_garbage_clean_title">Free up storage space</string>
     <string name="exit_dialog_homepage_optimise_message">"Your device's performance score is lower than 80 points. Optimize now?"</string>
     <string name="exit_dialog_release_memory_positive_button">Close</string>
-    <string name="exit_dialog_release_memory_title"><Data>Speed up your device by &lt;font color=#0099ff>%d%%&lt;/font></Data></string>
     <string name="exit_dialog_release_memory_title_new"><Data>Speed up your device by &lt;font color=#0099ff>%s&lt;/font></Data></string>
     <string name="exit_dialog_release_storage_message">More than 80% of storage on your device is occupied. Free up space by uninstalling the apps you never use.</string>
     <string name="exit_dialog_release_storage_message_new">More than %s of storage on your device is occupied. Free up space by uninstalling the apps you never use.</string>
@@ -2209,7 +2240,7 @@ volunteer"</string>
     <string name="function_oncall_not_close_network_detail">"About this feature
 %1$d. This feature allows you to stay online during gaming sessions without being interrupted by incoming calls when this device is connected to specific 5G networks.
 %2$d. If neither of your SIM cards is connected to a 5G network, incoming calls will be automatically rejected by your primary SIM.
-%3$d. This feature is only supported in mainland China.
+%3$d. This feature is only supported on the Chinese mainland.
 %4$d. This feature only works in 5G-SA networks."</string>
     <string name="function_shield_auto_bright">Turn off auto brightness</string>
     <string name="function_shield_eye_shield">Turn off Reading mode</string>
@@ -2341,6 +2372,9 @@ volunteer"</string>
     <string name="gb_advance_settings_vibration_4d">4D vibration</string>
     <string name="gb_advance_settings_vibration_4d_summary">Vibrate during shots in the game</string>
     <string name="gb_advance_settings_vibration_4d_summary2">Vibrate during kills in the game</string>
+    <string name="gb_already_in_game_list_tips">"This item is already among added games. Can't add it here."</string>
+    <string name="gb_already_in_video_list_tips">"This item is already among added video apps. Can't add it here."</string>
+    <string name="gb_application_not_find">Nothing here yet</string>
     <string name="gb_audition_instruction">Press and hold to record (%1$s-%2$ss)</string>
     <string name="gb_audition_play_instruction">Use earphones for best effect</string>
     <string name="gb_award_noti_message">Turn on Game for Peace background updates in Game Turbo to get rewards</string>
@@ -2610,6 +2644,8 @@ of your gaming sessions"</string>
     <string name="gcm_defaultSenderId">436805358632</string>
     <string name="gd_app_edit_done">Done</string>
     <string name="gd_app_edit_title_new">Edit floating window shortcuts</string>
+    <string name="gd_setting_conversation">Conference tools</string>
+    <string name="gd_setting_conversation_desc">Provides a variety of features for use in full-screen audio and video calls</string>
     <string name="gd_setting_group_custom_gtb_apps">Games</string>
     <string name="gd_setting_group_custom_settings">Personalization</string>
     <string name="gd_setting_group_custom_vtb_apps">Video apps</string>
@@ -2917,6 +2953,7 @@ to join our egg hunt!"</string>
     <string name="keyguard_charging_info_drained_time_format">%1$s %2$s</string>
     <string name="kilobyteShort">KB</string>
     <string name="kilobyte_per_second">KB/s</string>
+    <string name="label">Label</string>
     <string name="label_callwait">Call waiting notification</string>
     <string name="label_mi_stats">Mi analytics</string>
     <string name="last_check_canceled">Previous scan was canceled</string>
@@ -3005,33 +3042,23 @@ Carrier may charge you additional fees if you use mobile data connection again."
     <string name="lucky_my_luckymoney">我的红包战绩</string>
     <string name="lucky_sound_mode_lucky">红包来了</string>
     <string name="lucky_sound_warn">红包声音提醒</string>
-    <string name="lucky_str_yuan">%s元</string>
+    <string name="lucky_str_yuan">%f元</string>
     <string name="lucky_warning_count_title">来自微信</string>
-    <string name="m3_ref_typeface_brand_display_regular">sans-serif</string>
     <string name="m3_ref_typeface_brand_medium">sans-serif-medium</string>
     <string name="m3_ref_typeface_brand_regular">sans-serif</string>
     <string name="m3_ref_typeface_plain_medium">sans-serif-medium</string>
     <string name="m3_ref_typeface_plain_regular">sans-serif</string>
-    <string name="m3_sys_motion_easing_accelerated">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
-    <string name="m3_sys_motion_easing_decelerated">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
     <string name="m3_sys_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
+    <string name="m3_sys_motion_easing_emphasized_accelerate">cubic-bezier(0.3, 0.0, 0.8, 0.2)</string>
+    <string name="m3_sys_motion_easing_emphasized_decelerate">cubic-bezier(0.1, 0.7, 0.1, 1.0)</string>
+    <string name="m3_sys_motion_easing_emphasized_path_data">M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1</string>
+    <string name="m3_sys_motion_easing_legacy">cubic-bezier(0.4, 0.0, 0.2, 1.0)</string>
+    <string name="m3_sys_motion_easing_legacy_accelerate">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
+    <string name="m3_sys_motion_easing_legacy_decelerate">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
     <string name="m3_sys_motion_easing_linear">cubic-bezier(0.0, 0.0, 1.0, 1.0)</string>
-    <string name="m3_sys_motion_easing_standard">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
-    <string name="m3_sys_typescale_body_large_font">sans-serif</string>
-    <string name="m3_sys_typescale_body_medium_font">sans-serif</string>
-    <string name="m3_sys_typescale_body_small_font">sans-serif</string>
-    <string name="m3_sys_typescale_display_large_font">sans-serif</string>
-    <string name="m3_sys_typescale_display_medium_font">sans-serif</string>
-    <string name="m3_sys_typescale_display_small_font">sans-serif</string>
-    <string name="m3_sys_typescale_headline_large_font">sans-serif</string>
-    <string name="m3_sys_typescale_headline_medium_font">sans-serif</string>
-    <string name="m3_sys_typescale_headline_small_font">sans-serif</string>
-    <string name="m3_sys_typescale_label_large_font">sans-serif-medium</string>
-    <string name="m3_sys_typescale_label_medium_font">sans-serif-medium</string>
-    <string name="m3_sys_typescale_label_small_font">sans-serif-medium</string>
-    <string name="m3_sys_typescale_title_large_font">sans-serif</string>
-    <string name="m3_sys_typescale_title_medium_font">sans-serif-medium</string>
-    <string name="m3_sys_typescale_title_small_font">sans-serif-medium</string>
+    <string name="m3_sys_motion_easing_standard">cubic-bezier(0.2, 0.0, 0.0, 1.0)</string>
+    <string name="m3_sys_motion_easing_standard_accelerate">cubic-bezier(0.3, 0.0, 1.0, 1.0)</string>
+    <string name="m3_sys_motion_easing_standard_decelerate">cubic-bezier(0.0, 0.0, 0.0, 1.0)</string>
     <string name="main_activity_content_summary_root">Root access</string>
     <string name="main_activity_content_summary_update">System update</string>
     <string name="main_alert_message_no_imsi">No SIM card detected</string>
@@ -3140,8 +3167,6 @@ to respond"</string>
     <string name="memory_check_content">Freed %s</string>
     <string name="memory_clean_memory_size_tip">Cache</string>
     <string name="memory_clean_no_need_clean">Everything looks good</string>
-    <string name="memory_clean_no_need_clean_1" formatted="false">"Freed up %s.
-Your device is %d%% faster now."</string>
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"Freed up %s.
 Your device is %s faster now."</string>
     <string name="memory_clear_unused">Clear cache (%s)</string>
@@ -3166,7 +3191,6 @@ Your device is %s faster now."</string>
     <string name="menu_item_notification_antispam_text_avail">Blocklist</string>
     <string name="menu_item_notification_antispam_text_normal">Blocklist</string>
     <string name="menu_item_notification_garbage_text">%s</string>
-    <string name="menu_item_notification_optimize_text">%d%% occupied</string>
     <string name="menu_item_notification_optimize_text_new">%s occupied</string>
     <string name="menu_item_notification_power_text">Battery optimization</string>
     <string name="menu_item_notification_title">Show menu in notification shade</string>
@@ -3194,7 +3218,6 @@ Your device is %s faster now."</string>
     <string name="menu_summary_networkassistants_3">Enough data remaining</string>
     <string name="menu_summary_networkassistants_4">Running out of data</string>
     <string name="menu_summary_optimize_manage">Clear memory</string>
-    <string name="menu_summary_optimize_manage_1">Make your device %d%% faster</string>
     <string name="menu_summary_optimize_manage_1_new">Make your device %s faster</string>
     <string name="menu_summary_power_manager">Battery saver gives you more time between charges</string>
     <string name="menu_summary_power_manager_1">Battery is fully charged</string>
@@ -3270,6 +3293,8 @@ Your device is %s faster now."</string>
     <string name="mixed_retry_button_text">Cancel</string>
     <string name="mixed_settings_help_how_to_record">How to set password</string>
     <string name="mm_app_name">Mi SIM</string>
+    <string name="model_type_pad">平板</string>
+    <string name="model_type_phone">手机</string>
     <string name="modify_cellular_type">Tap to select your plan</string>
     <string name="modify_password_mode"><u>Change password type</u></string>
     <string name="modifypassword">Change password type</string>
@@ -3520,7 +3545,6 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="notification_link_cleaner_3001">Clear WeChat trash to speed up your device</string>
     <string name="notification_link_cleaner_3002">Clear WeChat trash</string>
     <string name="notification_link_cleaner_4000">Clear QQ trash</string>
-    <string name="notification_link_optimizemanage_1011">%d%% of memory is occupied. Clear now.</string>
     <string name="notification_link_optimizemanage_1011_new">%s of memory is occupied. Clear now.</string>
     <string name="notification_low_battery_need_charge">Connect charger</string>
     <string name="notification_low_battery_open_save_mode">Turn on Battery saver</string>
@@ -3537,7 +3561,6 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="notification_masked_subtitle">App lock can do the job</string>
     <string name="notification_optimize_button_text">Clear</string>
     <string name="notification_optimize_message">Clear memory to boost speed</string>
-    <string name="notification_optimize_title">%d%% of memory is occupied</string>
     <string name="notification_optimize_title_new">%s of memory is occupied</string>
     <string name="notification_power_consume_issue_summary">High power consumption</string>
     <string name="notification_power_consume_suggest_summary">Fix issues to save battery</string>
@@ -3557,6 +3580,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="notify_channel_name_behavior">Behavior history</string>
     <string name="notify_channel_name_security">System security</string>
     <string name="notify_channel_optimize">Security notifications</string>
+    <string name="notify_channel_resident_hide">Security assistant notifications</string>
     <string name="notify_daily_data_usage_body">To limit data usage automatically, set up your monthly data plan.</string>
     <string name="notify_daily_limit_body">Tap to set data limit.</string>
     <string name="notify_daily_limit_title">Used %s today</string>
@@ -3743,6 +3767,17 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="pc_battery_history_usetime_title">Active</string>
     <string name="pc_emergency_call">Emergency</string>
     <string name="pc_endurance_calculation">Calculating…</string>
+    <string name="pc_entered_extreme_mode">Hibernation mode is on</string>
+    <string name="pc_entered_extreme_mode_summary">"Your device is out of battery and has entered Hibernation mode. Apps will run in the background and won't send notifications."</string>
+    <string name="pc_extreme_exit_and_power_off">Exit</string>
+    <string name="pc_extreme_mode_bg_toast">"In Hibernation mode, apps will run in the background and won't send notifications"</string>
+    <string name="pc_extreme_mode_entering">Entering Hibernation mode…</string>
+    <string name="pc_extreme_mode_exit_risk_title">Attention</string>
+    <string name="pc_extreme_mode_exit_risk_title_summary">Your device is out of battery. If you exit Hibernation mode, your device will turn off.</string>
+    <string name="pc_extreme_mode_exiting">Exiting Hibernation mode…</string>
+    <string name="pc_extreme_mode_find_charger">Charge your device as soon as possible.</string>
+    <string name="pc_extreme_mode_runtime">Hibernation mode has been on for %1$s %2$s.</string>
+    <string name="pc_extreme_mode_title">Hibernation mode</string>
     <string name="pc_fast_charge_notifi_action_text_off">Stop</string>
     <string name="pc_fast_charge_notifi_action_text_on">Boost</string>
     <string name="pc_fast_charge_notifi_power_threshold_title">Set battery level for reminders</string>
@@ -3757,6 +3792,9 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="pc_fast_charge_switch_title">Boost charging speed</string>
     <string name="pc_fast_charge_switch_toast_message">Changes will be applied next time you charge this device</string>
     <string name="pc_fast_charge_title">Boost charging speed</string>
+    <string name="pc_going_to_exit_extreme_mode">Exiting Hibernation mode</string>
+    <string name="pc_going_to_exit_extreme_mode_summary">Your device is charging. Hibernation mode is off.</string>
+    <string name="pc_going_to_extreme_mode">Entering Hibernation mode</string>
     <string name="pc_hidemode_normal">Balanced</string>
     <string name="pc_hidemode_normal_title">Balanced</string>
     <string name="pc_hidemode_performance">Performance</string>
@@ -3819,6 +3857,8 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="permgroupdesc_location">Access location info</string>
     <string name="permgroupdesc_microphone">Record audio</string>
     <string name="permgroupdesc_phone">Make calls and manage conversations</string>
+    <string name="permgroupdesc_readmediaimages">Access photos and videos</string>
+    <string name="permgroupdesc_readmediavideo">Access music and audio</string>
     <string name="permgroupdesc_recognition">Access health &amp; activity data</string>
     <string name="permgroupdesc_sensors">Access body sensor data</string>
     <string name="permgroupdesc_sms">Read or send SMS</string>
@@ -3858,6 +3898,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="permission_instruction_get_accounts">This permission allows apps to access the list of accounts stored on your device. This list might contain all your personal accounts created by installed apps, as well as the accounts from social media platforms and communication tools.</string>
     <string name="permission_instruction_install_shortcuts">This permission allows apps to create Home screen shortcuts.</string>
     <string name="permission_instruction_install_unknown_source">This permission allows apps to install other apps on your device. Malicious apps use this permission to install apps without your confirmation.</string>
+    <string name="permission_instruction_location">When you grant this permission, apps will use networks or satellite positioning to access your location. You can allow apps that support the feature to access only your approximate location.</string>
     <string name="permission_instruction_media_audio">This permission allows apps to access songs and other audio files stored on this device. These items might contain personal information.</string>
     <string name="permission_instruction_media_files">This permission allows apps to access files and documents stored on this device. These items might contain personal information.</string>
     <string name="permission_instruction_modify_audio_settings">This permission allows apps to modify audio settings (e.g. adjust the volume without your confirmation). You might not be able to adjust volume in some apps unless you give them this permission.</string>
@@ -3891,6 +3932,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="permission_instruction_touch_pay">This permission allows apps to perform contactless payments.</string>
     <string name="permission_instruction_use_sip">This permission allows apps to use SIP video services.</string>
     <string name="permission_instruction_vr_assistant">This permission allows apps to use VR assistant services.</string>
+    <string name="permission_instruction_wall_paper">Grant this permission to allow apps to change default dynamic wallpaper services and keep running in the background.</string>
     <string name="permission_instruction_write_calllog">This permission allows apps to edit call history, which may contain detailed information about your incoming and outgoing calls. Malicious apps might use this permission to clear or edit your call history.</string>
     <string name="permission_instruction_write_clipboard">This permission allows apps to save items to the clipboard. Spam messages may affect your normal use of the clipboard.</string>
     <string name="permission_instruction_write_contacts">This permission allows apps to edit, add, and delete the contact info stored on your device. This info might contain the frequency of your communication with specific contacts via calls, emails, and other methods. This permission also allows apps to delete your contacts.</string>
@@ -3923,6 +3965,8 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="phone_manage_system_tool_title">Tools</string>
     <string name="phone_manager_edit_commonly_used_func_title">Edit common features</string>
     <string name="phone_manager_title">Toolbox</string>
+    <string name="phone_type_fold">折叠手机</string>
+    <string name="phone_type_normal">普通手机</string>
     <string name="pkg_traffic">Set data usage limit</string>
     <string name="pm">PM</string>
     <string name="pm_auto_start_by_other">Triggered start</string>
@@ -4279,6 +4323,8 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="pp_identifier_protection">Protect personal identifiers</string>
     <string name="pp_interception_net_visit_content_manager">Protect Gallery and files social media apps</string>
     <string name="pp_interception_net_visit_content_manager_detail">Select which apps are allowed to access Gallery and the files from your social media apps</string>
+    <string name="pp_lab_compact_blur_location">Apps accessing approximate location</string>
+    <string name="pp_lab_compact_blur_location_summary">"Select \"Default\" to use Android's approximate location functionality, or \"All\" to switch to MIUI's."</string>
     <string name="pp_local_msg">Location info</string>
     <string name="pp_manage_apps_location_information">Allow apps to access your location</string>
     <string name="pp_manage_track">Monitor trackers</string>
@@ -4534,18 +4580,19 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="privacy_flares_current">Current action</string>
     <string name="privacy_flares_current_detail_cam">This app is using camera</string>
     <string name="privacy_flares_current_detail_cam_loc">This app is using camera and accessing your location</string>
-    <string name="privacy_flares_current_detail_cam_mic">This app is accessing camera and microphone</string>
+    <string name="privacy_flares_current_detail_cam_mic">This app is using camera and microphone</string>
     <string name="privacy_flares_current_detail_loc">This app is accessing your location</string>
-    <string name="privacy_flares_current_detail_mic">This app is accessing the microphone</string>
-    <string name="privacy_flares_current_detail_mic_loc">This app is accessing microphone and location</string>
+    <string name="privacy_flares_current_detail_mic">This app is using microphone</string>
+    <string name="privacy_flares_current_detail_mic_loc">This app is using microphone and accessing your location</string>
     <string name="privacy_flares_current_detail_more">This app is using a sensitive permission</string>
+    <string name="privacy_flares_current_multiple">%s and others</string>
     <string name="privacy_flares_recent">Recent action</string>
     <string name="privacy_flares_recent_detail_cam">This app has used camera</string>
     <string name="privacy_flares_recent_detail_cam_loc">This app has used camera and accessed your location</string>
-    <string name="privacy_flares_recent_detail_cam_mic">This app accessed camera and microphone</string>
+    <string name="privacy_flares_recent_detail_cam_mic">This app has used camera and microphone</string>
     <string name="privacy_flares_recent_detail_loc">This app has accessed your location</string>
-    <string name="privacy_flares_recent_detail_mic">This app accessed the microphone</string>
-    <string name="privacy_flares_recent_detail_mic_loc">This app accessed microphone and location</string>
+    <string name="privacy_flares_recent_detail_mic">This app has used microphone</string>
+    <string name="privacy_flares_recent_detail_mic_loc">This app has used microphone and accessed your location</string>
     <string name="privacy_flares_recent_detail_more">This app has used a sensitive permission</string>
     <string name="privacy_global_guide_permission_guide_text">"You'll receive a status bar alert when apps record audio or use camera. To learn which app does that, tap the alert."</string>
     <string name="privacy_guide_permission_guide_text">You can receive an alert in status bar when apps access your location, record audio, or take photos.</string>
@@ -4878,12 +4925,13 @@ Withdraw consent now?"</string>
     <string name="scan_installed_games">Checking installed games…</string>
     <string name="scan_open_shut_down_password_content">Protect your device from unauthorized access</string>
     <string name="scan_open_shut_down_password_title">Shutdown confirmation</string>
+    <string name="scan_status_complete">完成</string>
+    <string name="scan_status_not_complete">未完成</string>
     <string name="scan_status_risk">Risky</string>
     <string name="scan_status_safe">Secure</string>
     <string name="scan_widget_guide_button_text">添加小部件</string>
     <string name="scan_widget_guide_message">更方便，更快捷，全面保护你的手机</string>
     <string name="scan_widget_guide_title">全新小部件</string>
-    <string name="scanning_bar_number">%d%%</string>
     <string name="scanning_bar_number_new">%s</string>
     <string name="screen_share_protection_negative_button">"Don't share"</string>
     <string name="screen_share_protection_summary">"The app you're using now contains your personal information which might be visible to other people if you share your screen. Share anyway?"</string>
@@ -4893,6 +4941,8 @@ Withdraw consent now?"</string>
     <string name="screen_share_warning_button">Got it</string>
     <string name="screen_share_warning_summary">"Your incoming notifications won't be displayed on the shared screen."</string>
     <string name="screen_share_warning_title">"Notifications won't be displayed"</string>
+    <string name="screen_type_external">外屏</string>
+    <string name="screen_type_internal">内屏</string>
     <string name="screenrecord_not_find">Install the latest version of Screen Recorder and try again.</string>
     <string name="sd_eject">Unmount SD card</string>
     <string name="sd_eject_summary">Unmount SD card to safely remove it</string>
@@ -5506,7 +5556,7 @@ Withdraw consent now?"</string>
     <string name="storage_click_system_log">系统日志</string>
     <string name="storage_click_video">视频</string>
     <string name="storage_compact_warning">Adjusting multiple permissions</string>
-    <string name="storage_compact_warning_desc">"This app doesn't support adjusting permissions for photos, videos, audio, files, or documents individually."</string>
+    <string name="storage_compact_warning_desc">Photo, video, and audio permissions for this app must be changed simultaneously. Changing one of these permissions will change all of them.</string>
     <string name="storage_deepclean_entry">Deep clean</string>
     <string name="storage_dialog_unmountable">"This ^1 is corrupted.
 
@@ -5643,7 +5693,6 @@ Formatting will erase existing content on the ^2. To avoid losing content, back 
     <string name="superpower_dialog_button_ok">OK</string>
     <string name="superpower_dialog_massage">"Ultra battery saver restricts most power-consuming features and decreases your device's performance in order to leave basic functionality (e.g. calls, SMS, and connecting to the network) available as long as possible. Turn on Ultra battery saver?"</string>
     <string name="superpower_dialog_title">Ultra battery saver</string>
-    <string name="superpower_notification_new_title">Less than %d%% of battery remaining</string>
     <string name="superpower_notification_new_title_new">Less than %s of battery remaining</string>
     <string name="superpower_notification_summary">Charge your device or turn on Ultra battery saver</string>
     <string name="superpower_notification_time_12">EEEE, MMMM dd</string>
