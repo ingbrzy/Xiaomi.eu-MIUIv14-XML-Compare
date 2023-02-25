@@ -27,6 +27,7 @@
     <string name="app_mifitness">Mi Fitness</string>
     <string name="app_mihome">Mi Home</string>
     <string name="app_mipay">Wallet</string>
+    <string name="app_mivideo">Mi Video</string>
     <string name="app_notes">Notes</string>
     <string name="app_recorder">Recorder</string>
     <string name="app_scanner">Scanner</string>
@@ -103,6 +104,8 @@
     <string name="widget_health_steps_desc">View your step count and progress</string>
     <string name="widget_mipay_wallet">服务助手</string>
     <string name="widget_mipay_wallet_desc">快速查看理财、信贷、保险信息及重要待办提醒</string>
+    <string name="widget_mivideo_local">Local videos</string>
+    <string name="widget_mivideo_local_desc">Quickly access local audio and video files</string>
     <string name="widget_notes_quick">Shortcuts</string>
     <string name="widget_notes_quick_desc">Quickly create and access notes and tasks</string>
     <string name="widget_notes_quick_note">Create notes</string>
