@@ -345,6 +345,9 @@
     <string name="callrecordview_item_op_time_rejected">Rejected</string>
     <string name="callrecordview_item_op_time_short_incoming">"Incoming: "</string>
     <string name="callrecordview_item_op_time_short_outgoing">"Outgoing: "</string>
+    <string name="callrecordview_item_op_time_xiaoai_automatic_answer">Auto-answer</string>
+    <string name="callrecordview_item_op_time_xiaoai_call">Mi AI Call Assistant</string>
+    <string name="callrecordview_item_op_time_xiaoai_manual_answer">Manual pickup</string>
     <string name="callrecordview_item_op_video">Video</string>
     <string name="callrecordview_menu_add_call_note">Add call note</string>
     <string name="callrecordview_menu_aiphone">AI calls</string>
@@ -1288,7 +1291,8 @@ Tap \"%1$s\", and then select \"%2$s\"."</string>
     <string name="scan_business_card">Scan business card</string>
     <string name="scan_bussiness_card_merge_tip">Conflicting data has been replaced</string>
     <string name="scan_merge">Searching for duplicate contacts…</string>
-    <string name="scan_not_installed">Install Scanner first</string>
+    <string name="scan_not_installed_china">Install Mi AI Scanner first</string>
+    <string name="scan_not_installed_global">Install Scanner first</string>
     <string name="scan_qrcode_card_hint1">Scan the QR code above</string>
     <string name="scan_qrcode_card_hint2" />
     <string name="scanning_sdcard_failed_message">Reason: \"%s\".</string>
