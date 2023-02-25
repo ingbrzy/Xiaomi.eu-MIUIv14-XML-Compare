@@ -1019,6 +1019,7 @@ Connect charger and turn off screen to make memories appear."</string>
     <string name="cloud_bacup_disable_processing">Processing…</string>
     <string name="cloud_camera_display_name">Camera photos</string>
     <string name="cloud_cancel_authorizing_to_device">Canceling authorization…</string>
+    <string name="cloud_data_size">Photos and videos in the cloud: %1$s</string>
     <string name="cloud_full_space_tip_message">Upgrade your cloud storage plan to be able to sync all your photos and videos to the cloud.</string>
     <string name="cloud_full_space_tip_negative">Not now</string>
     <string name="cloud_full_space_tip_positive">Upgrade</string>
@@ -1801,6 +1802,7 @@ are available"</string>
     <string name="id_photo_module_finish">Downloaded \"ID\" plug-in successfully</string>
     <string name="id_photo_module_loading">Downloading \"ID\" plug-in…</string>
     <string name="ignore_album">"Don't show"</string>
+    <string name="ignore_alert_dialog_title">Ignore this person?</string>
     <string name="ignore_alert_title">"Don't show this album? Tap the upper right corner to view photos you've ignored."</string>
     <string name="ignore_face">Ignore this person</string>
     <string name="ignore_faces_title">Ignored</string>
