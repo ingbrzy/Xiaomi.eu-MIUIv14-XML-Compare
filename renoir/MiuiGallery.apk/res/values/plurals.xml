@@ -240,10 +240,6 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Just now</item>
     </plurals>
-    <plurals name="migrate_gp_data_num">
-        <item quantity="other">%1$d items</item>
-        <item quantity="one">%1$d item</item>
-    </plurals>
     <plurals name="miplay_time_minute_unit">
         <item quantity="other">%d minutes</item>
         <item quantity="one">%d minute</item>
