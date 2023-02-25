@@ -631,6 +631,10 @@
         <item>"Third party apps that aren't verified might cause multiple problems and decrease system stability."</item>
         <item>Some third party apps may contain malware that puts your personal data at risk.</item>
     </string-array>
+    <string-array name="pp_lab_compact_blur_location_entry">
+        <item>Default</item>
+        <item>All</item>
+    </string-array>
     <string-array name="priority_storage_entries">
         <item>Internal storage</item>
         <item>External storage</item>
