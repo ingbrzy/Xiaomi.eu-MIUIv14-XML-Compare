@@ -910,6 +910,7 @@ This issue might be caused by the account's two-factor authentication. Try enter
     <string name="message_all_body">Whole message</string>
     <string name="message_body_load_set_description">Load emails when using mobile data</string>
     <string name="message_discarded">Draft discarded</string>
+    <string name="message_forward_has_signature_pdf">Do you forward with signed PDF attachments?</string>
     <string name="message_invite_accept">Yes</string>
     <string name="message_invite_calendar_download_prompt">Download Calendar to be able to use this feature</string>
     <string name="message_invite_calendar_view">View in Calendar</string>
@@ -1261,6 +1262,7 @@ Wait until it's fully synced or view the message on your computer."</string>
     <string name="reply_subject_label">Re:</string>
     <string name="request_copy_db_to_disk">Mail is requesting to copy your database into a file</string>
     <string name="request_entity_large">File is too big</string>
+    <string name="required_permissions">android.permission.POST_NOTIFICATIONS</string>
     <string name="respond_inline_text">Edit original email</string>
     <string name="restart_detail_conversation_options1">1 min</string>
     <string name="restart_detail_conversation_options2">5 mins</string>

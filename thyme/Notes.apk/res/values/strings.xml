@@ -422,7 +422,6 @@
     <string name="hover_font_second_level">MD: ## space</string>
     <string name="hover_font_third_level">MD: ### space</string>
     <string name="hover_gallery">Gallery</string>
-    <string name="hover_hightlight">Highlight</string>
     <string name="hover_italic">MD: *Text* space</string>
     <string name="hover_orderlist">MD: 1. space</string>
     <string name="hover_quote">MD: > space</string>
@@ -1154,7 +1153,6 @@ Allow Notes to record audio."</string>
     <string name="toolbar_undo_description">Undo</string>
     <string name="toolbar_voice_description">Voice</string>
     <string name="trash_folder_name">Trash</string>
-    <string name="trash_folder_reminder">The notes you delete will be deleted permanently in %1$d days.</string>
     <string name="trash_folder_reminder_new">Notes are kept in the trash for %d days before being permanently deleted</string>
     <string name="tuesday">Tuesday</string>
     <string name="tuesday_short">Tue</string>
