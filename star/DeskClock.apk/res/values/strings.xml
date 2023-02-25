@@ -43,6 +43,7 @@
     <string name="afternoon">Afternoon</string>
     <string name="agree">Agree</string>
     <string name="alarm_alert_alert_silenced">Alarm silenced after %1$s.</string>
+    <string name="alarm_alert_close_entrance">Turn off</string>
     <string name="alarm_alert_disabled">Off</string>
     <string name="alarm_alert_now">%s alarm</string>
     <string name="alarm_alert_snooze_button">Snooze</string>
@@ -57,6 +58,7 @@
     <string name="alarm_list_title">Alarm</string>
     <string name="alarm_notify_snooze_label">%s snooze</string>
     <string name="alarm_notify_text">Snooze or dismiss alarm.</string>
+    <string name="alarm_permanent_alert">Ringing</string>
     <string name="alarm_repeat">Repeat</string>
     <string name="alarm_ringtone">Alarm ringtones</string>
     <string name="alarm_ringtone_picker">Alarms</string>
@@ -579,8 +581,10 @@ mm"</string>
     <string name="notification_adv_time_entries3"><xliff id="MINUTES" refersto="30">%d</xliff> minutes in advance</string>
     <string name="notification_adv_time_entries4"><xliff id="HOUR" refersto="1">%d</xliff> hour in advance</string>
     <string name="notification_adv_time_entries5">None</string>
+    <string name="notification_permission_desc">"If you don't grant Notification permissions, you won't be able to turn off alarms when they ring. Grant permission now?"</string>
     <string name="oneshot_alarm">Delete after goes off</string>
     <string name="open_keep_screen">Screen will be kept on</string>
+    <string name="open_notification_permission_remind">Allow notifications to be able to turn off alarms</string>
     <string name="open_sleep_record">Turn on</string>
     <string name="other_category_title">Other</string>
     <string name="other_settings">Additional settings</string>

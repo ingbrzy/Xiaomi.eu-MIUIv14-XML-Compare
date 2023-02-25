@@ -148,7 +148,7 @@
     <string name="app_disable_description_content">Mi Music is a system app. If you disable it, this may affect your usage of other apps. Disable anyway?</string>
     <string name="app_disable_description_title">Disable system app?</string>
     <string name="app_label">Downloads</string>
-    <string name="app_name">curtain</string>
+    <string name="app_name">liveeventbus</string>
     <string name="app_permission_confirm">Got it</string>
     <string name="app_permission_optional">Optional permissions</string>
     <string name="app_permission_require">Mandatory permissions</string>
@@ -272,6 +272,7 @@
     <string name="cancel_apply_queue">Cancel mic row</string>
     <string name="cancel_running_download">Cancel</string>
     <string name="cannot_download_to_sdcard_hint">"Can't download items to SD card due to copyright restrictions. Items will be downloaded to internal storage instead."</string>
+    <string name="card_content_descriptor">card</string>
     <string name="cgi_url_adinfo_dev">https://test.out.wechat.com/tia_dev/retrieval/getJooxSDKAdInfo</string>
     <string name="cgi_url_adinfo_production">https://hk.app.joox.com/retrieval/getJooxSdkAdInfo</string>
     <string name="cgi_url_adinfo_test">https://test.out.wechat.com/tia_gray/retrieval/getJooxSDKAdInfo</string>
@@ -422,8 +423,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">61b0306c7fbc4970bcb9ea8331a608b0</string>
-    <string name="com.miapm.build_id">6f253ef8bfff41afb405f43aadb0ae64</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">4e63556a8e2d4fae9464a389644d6572</string>
+    <string name="com.miapm.build_id">de13527b81e84b7d81188371773e5a35</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="commit">Submit</string>
     <string name="commit_frequently">Submit too frequently, please try again later</string>
@@ -1239,6 +1240,9 @@ Send this code to the supervisor."</string>
     <string name="heavenly_stems_wu">戊</string>
     <string name="heavenly_stems_xin">辛</string>
     <string name="heavenly_stems_yi">乙</string>
+    <string name="hgm_vip_btn_desc">Start free trial</string>
+    <string name="hgm_vip_high_quality">High quality downloads</string>
+    <string name="hgm_vip_no_ads">No ads or limits</string>
     <string name="hide_album">Hide album cover</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="hide_lyric">Hide lyrics</string>
@@ -1469,6 +1473,7 @@ After downloading, please bind it on the settings page before 24:00 on %3$d mont
     <string name="ktv_toast_room_switched_mic_cancelled">The room mode has been switched, and the mic request has been cancelled.</string>
     <string name="ktv_toast_room_switched_mic_down">The room mode has been switched and you have been asked to mic down.</string>
     <string name="ktv_toast_room_switched_sing">The room has been switched to the singing room.</string>
+    <string name="label">Label</string>
     <string name="language_page_confirm">Confirm</string>
     <string name="language_preference">Language preferences</string>
     <string name="language_preference_desc">Select your preferred languages to receive more relevant recommendations</string>
@@ -1553,31 +1558,21 @@ After downloading, please bind it on the settings page before 24:00 on %3$d mont
     <string name="lyric_label">Lyrics</string>
     <string name="lyric_open_other_connect">Download lyrics using mobile network</string>
     <string name="lyric_setting">Lyrics settings</string>
-    <string name="m3_ref_typeface_brand_display_regular">sans-serif</string>
     <string name="m3_ref_typeface_brand_medium">sans-serif-medium</string>
     <string name="m3_ref_typeface_brand_regular">sans-serif</string>
     <string name="m3_ref_typeface_plain_medium">sans-serif-medium</string>
     <string name="m3_ref_typeface_plain_regular">sans-serif</string>
-    <string name="m3_sys_motion_easing_accelerated">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
-    <string name="m3_sys_motion_easing_decelerated">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
     <string name="m3_sys_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
+    <string name="m3_sys_motion_easing_emphasized_accelerate">cubic-bezier(0.3, 0.0, 0.8, 0.2)</string>
+    <string name="m3_sys_motion_easing_emphasized_decelerate">cubic-bezier(0.1, 0.7, 0.1, 1.0)</string>
+    <string name="m3_sys_motion_easing_emphasized_path_data">M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1</string>
+    <string name="m3_sys_motion_easing_legacy">cubic-bezier(0.4, 0.0, 0.2, 1.0)</string>
+    <string name="m3_sys_motion_easing_legacy_accelerate">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
+    <string name="m3_sys_motion_easing_legacy_decelerate">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
     <string name="m3_sys_motion_easing_linear">cubic-bezier(0.0, 0.0, 1.0, 1.0)</string>
-    <string name="m3_sys_motion_easing_standard">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
-    <string name="m3_sys_typescale_body_large_font">sans-serif</string>
-    <string name="m3_sys_typescale_body_medium_font">sans-serif</string>
-    <string name="m3_sys_typescale_body_small_font">sans-serif</string>
-    <string name="m3_sys_typescale_display_large_font">sans-serif</string>
-    <string name="m3_sys_typescale_display_medium_font">sans-serif</string>
-    <string name="m3_sys_typescale_display_small_font">sans-serif</string>
-    <string name="m3_sys_typescale_headline_large_font">sans-serif</string>
-    <string name="m3_sys_typescale_headline_medium_font">sans-serif</string>
-    <string name="m3_sys_typescale_headline_small_font">sans-serif</string>
-    <string name="m3_sys_typescale_label_large_font">sans-serif-medium</string>
-    <string name="m3_sys_typescale_label_medium_font">sans-serif-medium</string>
-    <string name="m3_sys_typescale_label_small_font">sans-serif-medium</string>
-    <string name="m3_sys_typescale_title_large_font">sans-serif</string>
-    <string name="m3_sys_typescale_title_medium_font">sans-serif-medium</string>
-    <string name="m3_sys_typescale_title_small_font">sans-serif-medium</string>
+    <string name="m3_sys_motion_easing_standard">cubic-bezier(0.2, 0.0, 0.0, 1.0)</string>
+    <string name="m3_sys_motion_easing_standard_accelerate">cubic-bezier(0.3, 0.0, 1.0, 1.0)</string>
+    <string name="m3_sys_motion_easing_standard_decelerate">cubic-bezier(0.0, 0.0, 0.0, 1.0)</string>
     <string name="magic_box_manual">Treasure chest description ></string>
     <string name="magic_box_message" formatted="false">"Open %d %s to get
 "</string>
@@ -1691,6 +1686,8 @@ Go and chat with them!"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
     <string name="mobile_recommended_title">Mobile data usage</string>
+    <string name="modal_content_descriptor">modal</string>
+    <string name="modal_inner_content_descriptor">modal inner</string>
     <string name="modify_lyric">Edit lyrics</string>
     <string name="modify_pic">Change cover</string>
     <string name="modify_progress">Change lyrics scroll speed</string>
@@ -2949,13 +2946,16 @@ Delta update size: %2$s"</string>
     <string name="yandex_ads_internal_go">Перейти</string>
     <string name="yandex_ads_internal_install">Установить</string>
     <string name="yandex_ads_internal_install_from_google_play">Установить из Google Play</string>
+    <string name="yandex_ads_internal_instream_ad_position">%1$d из %2$d</string>
     <string name="yandex_ads_internal_instream_advertiser_social">Социальная реклама</string>
     <string name="yandex_ads_internal_instream_advertiser_yandex">Реклама</string>
+    <string name="yandex_ads_internal_instream_skip">Пропустить</string>
     <string name="yandex_ads_internal_rewarded_close_verification_button_close">Закрыть</string>
     <string name="yandex_ads_internal_rewarded_close_verification_button_dismiss">Досмотреть</string>
     <string name="yandex_ads_internal_rewarded_close_verification_text">Если закрыть рекламу до окончания таймера, награда за просмотр не будет начислена</string>
     <string name="yandex_ads_internal_rewarded_close_verification_title">Закрыть рекламу?</string>
     <string name="yandex_ads_internal_text_divider">·</string>
+    <string name="yandex_ads_internal_text_divider_with_space">·</string>
     <string name="yandex_ads_internal_tools_age_text">3+</string>
     <string name="yandex_ads_internal_tools_app_install_call_to_action_text">Установить</string>
     <string name="yandex_ads_internal_tools_app_install_call_to_action_text_large">Установить из Google Play</string>
@@ -2968,6 +2968,7 @@ Delta update size: %2$s"</string>
     <string name="yandex_ads_internal_tools_sponsored_text">sponsored</string>
     <string name="yandex_ads_internal_tools_title_text">Покупка и продажа элитных и дешёвых машин на Авто.ру</string>
     <string name="yandex_ads_internal_tools_warning_text">Есть противопоказания. Обратитесь к специалисту Есть противопоказания. Обратитесь к специалисту</string>
+    <string name="yandex_mobileads_age_restricted_user">com.yandex.mobile.ads.AGE_RESTRICTED_USER</string>
     <string name="yandex_mobileads_automatic_sdk_initialization">com.yandex.mobile.ads.AUTOMATIC_SDK_INITIALIZATION</string>
     <string name="yes">Yes</string>
     <string name="yesterday">Yesterday</string>
