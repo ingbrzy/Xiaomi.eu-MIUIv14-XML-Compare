@@ -33,6 +33,10 @@
         <item quantity="other">Added %d games</item>
         <item quantity="one">Added %d game</item>
     </plurals>
+    <plurals name="added_apps_count">
+        <item quantity="other">%d apps added</item>
+        <item quantity="one">%d app added</item>
+    </plurals>
     <plurals name="app_behavior_dashboard_title_desc">
         <item quantity="other">%d apps</item>
         <item quantity="one">%d app</item>
@@ -208,6 +212,14 @@ If you turn on mobile data again, your carrier may charge you for additional dat
     <plurals name="exo_controls_rewind_by_amount_description">
         <item quantity="other">Rewind %d seconds</item>
         <item quantity="one">Rewind %d second</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s hrs</item>
+        <item quantity="one">%s hr</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s mins</item>
+        <item quantity="one">%s min</item>
     </plurals>
     <plurals name="find_applications">
         <item quantity="other">Search among %d apps</item>
@@ -502,6 +514,10 @@ You can get a %d-day free trial now!"</item>
         <item quantity="other">"Network access is restricted for &lt;font color='#ff0000'>%d&lt;/font> apps"</item>
         <item quantity="one">"Network access is restricted for &lt;font color='#ff0000'>%d&lt;/font> app"</item>
     </plurals>
+    <plurals name="not_added_apps_count">
+        <item quantity="other">%d apps not added</item>
+        <item quantity="one">%d app not added</item>
+    </plurals>
     <plurals name="notification_antivirus_title">
         <item quantity="other">%d days without security scans</item>
         <item quantity="one">%d day without security scans</item>
@@ -585,6 +601,10 @@ You can get a %d-day free trial now!"</item>
     <plurals name="pc_battery_history_minute">
         <item quantity="other">" mins"</item>
         <item quantity="one">" min"</item>
+    </plurals>
+    <plurals name="pc_extreme_mode_count_down_title">
+        <item quantity="other">Your device is out of battery. Entering Hibernation mode in %1$d seconds.</item>
+        <item quantity="one">Your device is out of battery. Entering Hibernation mode in %1$d second.</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s days</item>
