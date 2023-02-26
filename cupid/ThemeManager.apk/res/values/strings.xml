@@ -241,7 +241,7 @@
     <string name="community_community_message_trigger_summary">Receive notifications about replies, likes, and Mi Community status updates using your Mi Account ID</string>
     <string name="community_community_message_trigger_title">Notify about activity</string>
     <string name="community_cta_dialog_cancel">No thanks</string>
-    <string name="community_cta_dialog_des">Third party themes now support Mi Community widget. Allow Themes to access your Mi Account ID and Mi Community statuses associated with the account to be able to view them here.</string>
+    <string name="community_cta_dialog_des">Third party themes now support Xiaomi Community widget. Allow Themes to access your Xiaomi Account ID and Xiaomi Community statuses associated with the account to be able to view them here.</string>
     <string name="community_cta_dialog_ok">Allow</string>
     <string name="community_cta_dialog_title">Permissions required</string>
     <string name="community_entrance_summary">Find theme-related content in Mi Community. This feature is supported by selected themes.</string>
@@ -396,7 +396,7 @@
     <string name="evening">Afternoon</string>
     <string name="exchange_alert">You can get codes during our events and redeem them here</string>
     <string name="exchange_code_dialog_title">Attention</string>
-    <string name="exchange_code_not_match_account_dialog_content">This code has already been redeemed by another Mi Account. Sign in with that Mi Account and try again.</string>
+    <string name="exchange_code_not_match_account_dialog_content">This code has already been redeemed by another Xiaomi Account. Sign in with that Xiaomi Account and try again.</string>
     <string name="exit_extreme_mode_dialog_agree">Agree</string>
     <string name="exit_extreme_mode_dialog_cancel">Cancel</string>
     <string name="exit_extreme_mode_dialog_title">Turn off Extreme mode</string>
@@ -947,7 +947,7 @@ mm"</string>
     <string name="pad_fold_exit_wallpaper_warning_content">"You won't be able to perform the following actions after you sign out:
 View and use the items you purchased or added to favorites."</string>
     <string name="pad_fold_exit_wallpaper_warning_title">Sign out of Wallpaper and personalization?</string>
-    <string name="pad_fold_log_in_theme_detail"><Data>"I've read and agreed to Wallpaper and personalization's &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">User Agreement&lt;/a>&lt;/font> and &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Privacy Policy&lt;/a>&lt;/font>, as well as Mi Account's &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">User Agreement&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> and &lt;a href=\"%4$s\">Privacy Policy&lt;/a>&lt;/font> (for signing in using the system account)."</Data></string>
+    <string name="pad_fold_log_in_theme_detail"><Data>"I've read and agreed to Wallpaper and personalization's &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">User Agreement&lt;/a>&lt;/font> and &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Privacy Policy&lt;/a>&lt;/font>, as well as Xiaomi Account's &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">User Agreement&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> and &lt;a href=\"%4$s\">Privacy Policy&lt;/a>&lt;/font> (for signing in using the system account)."</Data></string>
     <string name="pad_fold_log_in_wallpaper">Sign in to Wallpaper and personalization</string>
     <string name="pad_fold_no_permission">Storage permissions required</string>
     <string name="pad_fold_no_permission_detail">To be able to change personalization preferences and save downloaded items, allow this feature to access storage first.</string>
@@ -978,13 +978,12 @@ View and use the items you purchased or added to favorites."</string>
     <string name="personalize_wallpaper_title">Wallpaper</string>
     <string name="personalized_bottom_card_image_bias">w,124:115</string>
     <string name="personalized_cta_content_text">Welcome to Themes! You can use this app to manage your wallpapers, ringtones, fonts, and more.</string>
-    <string name="personalized_wp_entrance_image_bias">w,108:367</string>
     <string name="phone_exit_theme_warning_content">"You won't be able to perform the following actions after you sign out:
 1. View and use the items you purchased or added to favorites.
 2. Add comments and likes, follow other people and interact with them."</string>
     <string name="phone_exit_theme_warning_title">Sign out of Themes?</string>
     <string name="phone_log_in_theme">Sign in to Themes</string>
-    <string name="phone_log_in_theme_detail"><Data>"I've read and agreed to Themes' &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">User Agreement&lt;/a>&lt;/font> and &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Privacy Policy&lt;/a>&lt;/font>, as well as Mi Account's &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">User Agreement&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> and &lt;a href=\"%4$s\">Privacy Policy&lt;/a>&lt;/font> (for signing in using the system account)."</Data></string>
+    <string name="phone_log_in_theme_detail"><Data>"I've read and agreed to Themes' &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">User Agreement&lt;/a>&lt;/font> and &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Privacy Policy&lt;/a>&lt;/font>, as well as Xiaomi Account's &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">User Agreement&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> and &lt;a href=\"%4$s\">Privacy Policy&lt;/a>&lt;/font> (for signing in using the system account)."</Data></string>
     <string name="playing_ringtone">Playing</string>
     <string name="pm">PM</string>
     <string name="pref_lockscreen_magazine_summary">Replace wallpaper with slideshows of images from various categories</string>
@@ -1268,6 +1267,7 @@ You can grant this permission in Settings > Privacy."</string>
     <string name="resource_list_title">Recently selected</string>
     <string name="resource_local_picker">Choose local ringtone</string>
     <string name="resource_menu_refresh">Refresh</string>
+    <string name="resource_mi_ai_picker">Choose Mi AI ringtone</string>
     <string name="resource_mute">None</string>
     <string name="resource_my">Offline</string>
     <string name="resource_network_diagnostics"><u>Test network</u></string>
@@ -1493,7 +1493,7 @@ You can grant this permission in Settings > Privacy."</string>
     <string name="super_wallpaper_setting_coordinate_title">Coordinates</string>
     <string name="super_wallpaper_setting_view_height_title">Altitude</string>
     <string name="supersave_mode_toast_message">"This feature isn't available when using Ultra battery saver. Turn off Ultra battery saver to be able to use it."</string>
-    <string name="superwallpaper_has_bound_account_dialog_content">This wallpaper is already associated with another Mi Account. Sign in with that Mi Account and try again.</string>
+    <string name="superwallpaper_has_bound_account_dialog_content">This wallpaper is already associated with another Xiaomi Account. Sign in with that Xiaomi Account and try again.</string>
     <string name="support_theme_store_des">Good themes are always created by talented designers. Our app contains a small amount of ads which allow us to support their work.</string>
     <string name="support_theme_store_supported">Thanks for your support!</string>
     <string name="support_theme_store_title">Support our designers</string>
@@ -1632,7 +1632,7 @@ You can grant this permission in Settings > Privacy."</string>
     <string name="theme_log_out">Sign out</string>
     <string name="theme_multiple_button_title_customize">Customize</string>
     <string name="theme_name">%1$s</string>
-    <string name="theme_need_login_dialog_content">Sign in to your Mi Account to continue.</string>
+    <string name="theme_need_login_dialog_content">Sign in to your Xiaomi Account to continue.</string>
     <string name="theme_no">No</string>
     <string name="theme_not_include_module_desc">"This theme doesn't contain the following items: %s"</string>
     <string name="theme_on_the_phone_alert">"Can't play during calls"</string>
