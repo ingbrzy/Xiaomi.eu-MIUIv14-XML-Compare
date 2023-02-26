@@ -151,6 +151,10 @@
     <string name="am">AM</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="app_cache">Cache</string>
+    <string name="app_category_tag_daily_recommendation">"Today's picks"</string>
+    <string name="app_category_tag_editor_recommendation">"Editor's picks"</string>
+    <string name="app_category_tag_free">Free</string>
+    <string name="app_category_tag_hot">Popular</string>
     <string name="app_id">Firebase App ID(Click To Export)</string>
     <string name="app_library_category_entertainment">Entertainment</string>
     <string name="app_library_category_financial_management">Finance</string>
@@ -211,6 +215,7 @@
     <string name="back">返回</string>
     <string name="back_description">Back</string>
     <string name="back_home">Release for Homepage</string>
+    <string name="batch_download">Download</string>
     <string name="batch_download_tip">Looks like multiple items are being downloaded at the same time. Block these downloads?</string>
     <string name="bba">e6135d289c1ff651b514fd4559850c19</string>
     <string name="bbaa">4fd450ec3389b623d119a62b5c574ee7</string>
@@ -603,8 +608,8 @@ Toggle off to stop syncing."</string>
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">b684fa5bac3146f0b53476e57624b48d</string>
-    <string name="com.miapm.build_id">073368488a394df6926702c93b363656</string>
+    <string name="com.crashlytics.android.build_id">87f980557ee14fe2b17555a087306dc4</string>
+    <string name="com.miapm.build_id">50ec37b13eef431e8b07d7fc01bd38b2</string>
     <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
     <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
@@ -3064,8 +3069,10 @@ Try to modify your keyword?"</string>
     <string name="search_bar_hint_content">Search apps and content</string>
     <string name="search_bing">Bing</string>
     <string name="search_button_text">Go</string>
+    <string name="search_card_more">More</string>
     <string name="search_card_online_rec_app">App markets</string>
     <string name="search_card_online_rec_app_install">Install</string>
+    <string name="search_card_online_rec_app_installed">Installed</string>
     <string name="search_card_online_rec_app_open">Open</string>
     <string name="search_dianping">Cate</string>
     <string name="search_easou">Easou</string>
