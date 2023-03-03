@@ -608,8 +608,8 @@ Toggle off to stop syncing."</string>
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">87f980557ee14fe2b17555a087306dc4</string>
-    <string name="com.miapm.build_id">50ec37b13eef431e8b07d7fc01bd38b2</string>
+    <string name="com.crashlytics.android.build_id">2e8b4e30dd084f35b4a4a895e9db01b3</string>
+    <string name="com.miapm.build_id">5d0a86ccaaab4ba8a3fc952fabd7c1bc</string>
     <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
     <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
