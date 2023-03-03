@@ -578,7 +578,7 @@ Tap \"%1$s\", and then select \"%2$s\"."</string>
     <string name="recognition_error_code">Error code: %d</string>
     <string name="recognition_error_download_cancel">Later</string>
     <string name="recognition_error_download_data_msg">Download transcribing engine to make this service available. This download requires approximately %d MB of your mobile data.</string>
-    <string name="recognition_error_download_fail">"Couldn't download. Check network settings and try again."</string>
+    <string name="recognition_error_download_fail">"Couldn't download. Check your network settings and try again."</string>
     <string name="recognition_error_download_msg">Download transcribing engine to make this service available.</string>
     <string name="recognition_error_download_ok">Download</string>
     <string name="recognition_error_download_title">No transcribing engine</string>
@@ -681,12 +681,12 @@ Tap \"%1$s\", and then select \"%2$s\"."</string>
     <string name="reg_error_audio_short">Audio file is too small.</string>
     <string name="reg_error_business">"Couldn't transcribe file. Report this error to us and try again."</string>
     <string name="reg_error_client">An app data error occurred. Report it to us and try again.</string>
-    <string name="reg_error_create_order">"Couldn't create order, try again."</string>
-    <string name="reg_error_ifly_account">An account error occurred, try again.</string>
+    <string name="reg_error_create_order">"Couldn't create order. Try again."</string>
+    <string name="reg_error_ifly_account">An account error occurred. Try again.</string>
     <string name="reg_error_price">A cost estimation error occurred. Report it to us and try again.</string>
     <string name="reg_error_server">A server error occurred. Report it to us and try again.</string>
-    <string name="reg_error_upload_audio">"Couldn't upload file, try again."</string>
-    <string name="reg_error_upload_order">"Couldn't upload, try again."</string>
+    <string name="reg_error_upload_audio">"Couldn't upload file. Try again."</string>
+    <string name="reg_error_upload_order">"Couldn't upload. Try again."</string>
     <string name="remind_settings_pref_title">Notifications</string>
     <string name="remove_icon_description_content">"Recorder is a system app. You won't be able to manage recordings after you remove the Home screen shortcut."</string>
     <string name="remove_icon_description_title">Remove \"Recorder\" from Home screen?</string>
