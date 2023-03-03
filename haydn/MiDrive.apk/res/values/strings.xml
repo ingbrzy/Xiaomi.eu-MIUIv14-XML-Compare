@@ -184,7 +184,7 @@
     <string name="delete_file_success">Deleted successfully</string>
     <string name="delete_operation_record">Delete this record?</string>
     <string name="delete_operation_record_timeout">"Couldn't delete record. Wait a minute or two and try again."</string>
-    <string name="delete_record_only">"The items to which selected records are referring won't be deleted."</string>
+    <string name="delete_record_only">This action will only delete the selected records. No files will be deleted.</string>
     <string name="delete_success">Deleted successfully</string>
     <string name="detail_download_path">"Location: "</string>
     <string name="detail_download_time">"Downloaded: "</string>
@@ -510,7 +510,7 @@ Make sure you're using the current Xiaomi Account as your MIUI system account."<
     <string name="operation_move">Move</string>
     <string name="operation_rename">Rename</string>
     <string name="operation_save">Save</string>
-    <string name="operation_sure_to_delete">Delete now?</string>
+    <string name="operation_sure_to_delete">Delete history?</string>
     <string name="operation_transport_success">Added to transfers successfully</string>
     <string name="operation_will_not_show_after_delete">The record will no longer appear here if you delete it.</string>
     <string name="pause_all">Pause all</string>
