@@ -980,6 +980,7 @@ Connect charger and turn off screen to make memories appear."</string>
     <string name="cleaner_space_description">can be freed up</string>
     <string name="cleaner_space_detail_description">Clear photos in your Gallery to free up storage space</string>
     <string name="cleaner_stop_scan">Stop scanning</string>
+    <string name="cleaner_subtitle_slim_space_prefix">%1$s %2$s occupied</string>
     <string name="cleaner_title">Cleaner</string>
     <string name="cleaner_video_action">View details</string>
     <string name="cleaner_video_description">Delete videos that take up storage space</string>
@@ -1067,7 +1068,7 @@ Connect charger and turn off screen to make memories appear."</string>
     <string name="collage_poster_global_tea_text">TEA BREAK</string>
     <string name="collage_ratio_text">Aspect ratio</string>
     <string name="collage_rotate">Rotate</string>
-    <string name="collage_select_image_range">Collages can contain 1-6 photos</string>
+    <string name="collage_select_image_range">Collages can contain %1$d-%2$d photos</string>
     <string name="collage_talkback_margin_large">Thick margin</string>
     <string name="collage_talkback_margin_medium">Regular margin</string>
     <string name="collage_talkback_margin_non">No margins</string>
@@ -1886,8 +1887,6 @@ are available"</string>
     <string name="library_android_database_sqlcipher_libraryWebsite">https://www.zetetic.net/sqlcipher/</string>
     <string name="library_android_database_sqlcipher_licenseLink">https://www.zetetic.net/sqlcipher/license/</string>
     <string name="library_android_database_sqlcipher_repositoryLink">https://github.com/sqlcipher/android-database-sqlcipher</string>
-    <string name="limit_height">Height should be > 0</string>
-    <string name="limit_width">Width should be > 0</string>
     <string name="live_photo">Dynamic shot</string>
     <string name="load_complete">No more items here</string>
     <string name="load_failed">"Couldn't load info, tap to try again"</string>
@@ -2684,9 +2683,9 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="photo_editor_talkback_crop_movie">@string/filter_category_movie</string>
     <string name="photo_editor_talkback_crop_original">Original</string>
     <string name="photo_editor_talkback_crop_reset">Reset</string>
-    <string name="photo_editor_talkback_crop_right_rotate">Rotate 90 degrees</string>
+    <string name="photo_editor_talkback_crop_right_rotate">Rotate %d degrees</string>
     <string name="photo_editor_talkback_crop_rotate">Rotate</string>
-    <string name="photo_editor_talkback_crop_scale_default_value">The default value before rotation is applied is 0 degrees</string>
+    <string name="photo_editor_talkback_crop_scale_default_value">The default value before rotation is applied is %d degrees</string>
     <string name="photo_editor_talkback_crop_screen">Full screen aspect ratio</string>
     <string name="photo_editor_talkback_crop_view">Crop image</string>
     <string name="photo_editor_talkback_doodle_arrow">Arrow</string>
@@ -3314,6 +3313,8 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="slim_action_auto_backup_enable_description">Uploading items to the cloud…</string>
     <string name="slim_action_auto_backup_sub_tip">Free up storage space</string>
     <string name="slim_action_auto_backup_tip">Turn on sync with the cloud</string>
+    <string name="slim_auto_backup_cloud_confirm_detail">Turn on sync with the cloud to be able to upload photos and videos from your device to the cloud.</string>
+    <string name="slim_auto_backup_cloud_confirm_title">Sync with the cloud</string>
     <string name="slim_complete">Done</string>
     <string name="slim_complete_action_title">Optimized successfully</string>
     <string name="slim_complete_count">"Optimized %1$s and %2$s. "</string>
@@ -3333,6 +3334,9 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="slim_dialog_title">Optimize storage</string>
     <string name="slim_exit_dialog_positive">Stop</string>
     <string name="slim_exit_dialog_title">Stop optimizing</string>
+    <string name="slim_finish_upgrade_tip"><Data>Upgrade your cloud storage plan to sync more items to the cloud. Tap to &lt;a href=\"%1$s\">upgrade now&lt;/a>.</Data></string>
+    <string name="slim_function_summery_first">Keep optimized photos on your device and save the original image to the cloud</string>
+    <string name="slim_function_summery_second">Files created in the past %d days will be saved to your device</string>
     <string name="slim_preference_scanning">Analyzing photos and videos…</string>
     <string name="slim_preference_summery">Store original photos and videos in the cloud while keeping smaller high-quality copies on this device. Smaller copies will replace original files %d days after items are created.</string>
     <string name="slim_preference_title">Optimize storage</string>
@@ -3340,7 +3344,12 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="slim_space">freed up</string>
     <string name="slim_stop">Stop optimizing</string>
     <string name="slim_stop_v2">Stop</string>
+    <string name="slim_subtitle_slim_space_prefix">Free up %1$s %2$s</string>
+    <string name="slim_subtitle_sync_off_no_slimdata">Turn on sync with the cloud to get an estimate of freed space</string>
+    <string name="slim_subtitle_sync_on_no_slimdata">Syncing. Try again later.</string>
+    <string name="slim_subtitle_sync_on_no_slimdata_no_cloudspace">Upgrade your cloud storage plan to sync more items</string>
     <string name="slim_success_tip">Freed up %s of storage</string>
+    <string name="slim_upgrade_button">Upgrade</string>
     <string name="slow_motion_enter">Slow-motion</string>
     <string name="smartisan">Smartisan</string>
     <string name="smartisan_phone">Smartisan</string>
@@ -3558,13 +3567,13 @@ Until %1$s, you can move your items to Google Photos or visit i.mi.com to downlo
     <string name="text_edit_dialog_style_toast">"Can't place outlined text on backdrops"</string>
     <string name="text_edit_dialog_style_transparent">Opacity</string>
     <string name="text_edit_sub_menu_text">Bubble</string>
-    <string name="text_item_type_talkback_bubble_arrow1">Arrow 1</string>
-    <string name="text_item_type_talkback_bubble_arrow2">Arrow 2</string>
+    <string name="text_item_type_talkback_bubble_arrow1">Arrow %d</string>
+    <string name="text_item_type_talkback_bubble_arrow2">Arrow %d</string>
     <string name="text_item_type_talkback_bubble_circular">Speech bubble</string>
     <string name="text_item_type_talkback_bubble_none">Text field</string>
     <string name="text_item_type_talkback_bubble_oval">Oval speech bubble</string>
-    <string name="text_item_type_talkback_bubble_rectangle">Square speech bubble 1</string>
-    <string name="text_item_type_talkback_bubble_rectangle2">Square speech bubble 2</string>
+    <string name="text_item_type_talkback_bubble_rectangle">Square speech bubble %d</string>
+    <string name="text_item_type_talkback_bubble_rectangle2">Square speech bubble %d</string>
     <string name="text_item_type_talkback_bubble_signature">Signature</string>
     <string name="text_item_type_talkback_bubble_watermark_1">Always believe that something wonderful is about to happen</string>
     <string name="text_item_type_talkback_bubble_watermark_2">A perfect vacation 1</string>
@@ -3585,11 +3594,11 @@ Until %1$s, you can move your items to Google Photos or visit i.mi.com to downlo
     <string name="text_item_type_talkback_city_suzhou">Suzhou</string>
     <string name="text_item_type_talkback_city_tianjin">Tianjin</string>
     <string name="text_item_type_talkback_city_wuhan">Wuhan</string>
-    <string name="text_item_type_talkback_festival_chaojieyueliang2">Supermoon 2</string>
+    <string name="text_item_type_talkback_festival_chaojieyueliang2">Supermoon %d</string>
     <string name="text_item_type_talkback_festival_chaojiyueliang">Supermoon</string>
-    <string name="text_item_type_talkback_festival_chaojiyueliang3">Supermoon 3</string>
-    <string name="text_item_type_talkback_festival_chaojiyueliang4">Supermoon 4</string>
-    <string name="text_item_type_talkback_festival_chaojiyueliang5">Supermoon 5</string>
+    <string name="text_item_type_talkback_festival_chaojiyueliang3">Supermoon %d</string>
+    <string name="text_item_type_talkback_festival_chaojiyueliang4">Supermoon %d</string>
+    <string name="text_item_type_talkback_festival_chaojiyueliang5">Supermoon %d</string>
     <string name="text_item_type_talkback_festival_chunjie">Spring Festival</string>
     <string name="text_item_type_talkback_festival_chuxi">Eve of the Chinese New year</string>
     <string name="text_item_type_talkback_festival_ertongjie">"Children's Day"</string>
