@@ -353,6 +353,29 @@
         <item>@string/evening</item>
         <item>@string/night</item>
     </string-array>
+    <string-array name="device_support_3gonly2gonly">
+        <item>merlin</item>
+        <item>lancelot</item>
+        <item>lime</item>
+        <item>venus</item>
+        <item>sweet</item>
+        <item>renoir</item>
+        <item>haydn</item>
+        <item>camellian</item>
+        <item>selene</item>
+        <item>vili</item>
+        <item>agate</item>
+        <item>lisa</item>
+        <item>zeus</item>
+        <item>cupid</item>
+        <item>spes</item>
+        <item>spesn</item>
+        <item>veux</item>
+        <item>opal</item>
+        <item>fog</item>
+        <item>taoyao</item>
+        <item>light</item>
+    </string-array>
     <string-array name="dtmf_tone_entries">
         <item>@string/dtmf_tone_entries_normal</item>
         <item>@string/dtmf_tone_entries_long</item>
