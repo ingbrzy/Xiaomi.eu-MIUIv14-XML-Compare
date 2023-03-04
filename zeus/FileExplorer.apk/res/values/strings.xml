@@ -207,6 +207,8 @@
     <string name="cloud_drive_settings">Mi Drive settings</string>
     <string name="cloud_empty_hint_text">"Nothing here yet.
 Try moving files from your device to Mi Drive."</string>
+    <string name="cloud_empty_hint_text_pad">"Nothing here yet.
+Try moving files from your device to Mi Drive."</string>
     <string name="cloud_guide_summary_text">Automatically sync your items to all your devices</string>
     <string name="cloud_guide_title_text">Sync with Mi Drive</string>
     <string name="cloud_permission_storage_desc">For saving photos and documents to your device</string>
@@ -349,6 +351,9 @@ Try moving files from your device to Mi Drive."</string>
     <string name="exit">Exit</string>
     <string name="expand_button_title">Advanced</string>
     <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
+    <string name="extend_service_setting">Additional services</string>
+    <string name="extend_service_summary">"If you turn this service off, you won't be able to use Mi Drive-related features"</string>
+    <string name="extend_service_title">Manage Mi Drive files</string>
     <string name="extended_storage_file_can_not_open">"Can't open the file. Copy it to internal storage."</string>
     <string name="extract">Extract</string>
     <string name="fab_menu_ball">Quick actions</string>
@@ -981,6 +986,9 @@ Try moving files from your device to Mi Drive."</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stay_awake_summary">"Don't let display sleep while using FTP"</string>
     <string name="stay_awake_title">Keep display awake</string>
+    <string name="stop_extend_service_dialog_confirm">Turn off</string>
+    <string name="stop_extend_service_dialog_summary">"If you turn this feature off, you won't be able to manage your files stored in Mi Drive. Turn off anyway?"</string>
+    <string name="stop_extend_service_dialog_tilte">Additional services</string>
     <string name="stop_server">Stop</string>
     <string name="storage_cloned_app">Storage for dual apps</string>
     <string name="storage_info_detail">Available: %1$s Total: %2$s</string>
