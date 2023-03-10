@@ -70,6 +70,7 @@
     <string name="camera_perm_dialog_btn_ok">允许</string>
     <string name="camera_perm_dialog_message">在使用过程中，本应用需要访问相机权限，用于屏幕距离检测功能。如果您不同意调用以上权限，将导致该功能无法正常使用，但不影响您使用本应用的其他功能。您可以随时通过关闭“屏幕距离检测”功能，取消以上权限调用并撤回您的同意。</string>
     <string name="camera_perm_dialog_title">提示</string>
+    <string name="camera_permission_desc">用于检测屏幕距离，保护儿童视力</string>
     <string name="can_not_create_kid_space_in_phone_toast">通话中不可启用儿童空间</string>
     <string name="can_not_delete_kid_space_in_phone_toast">通话中不可删除儿童空间</string>
     <string name="can_not_enter_kid_space_in_phone_toast">通话中不可进入儿童空间</string>
@@ -579,6 +580,7 @@
     <string name="network_daliy_net_usage_limit_tips">每日流量达到上限值时，系统会主动关闭流量，您无需担心流量超额导致的扣费</string>
     <string name="network_data_net_checkbox_title">启用数据网络</string>
     <string name="network_data_net_custom_setting">自定义使用上限</string>
+    <string name="network_error">A network error occurred.</string>
     <string name="network_not_available">"Can't connect to the network"</string>
     <string name="network_setting">网络设置</string>
     <string name="network_wlan_net_checkbox_title">启用Wi-Fi网络</string>
@@ -593,6 +595,7 @@
     <string name="not_set">Not set</string>
     <string name="ok_button">OK</string>
     <string name="open_browser">Open in browser</string>
+    <string name="page_load_failed">"Can't open page"</string>
     <string name="parent_center">家长中心</string>
     <string name="parent_center_app_exit_title">退出儿童空间</string>
     <string name="parent_center_app_eyes_protect_tips">健康使用，保护孩子的视力</string>
@@ -631,6 +634,17 @@
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
     <string name="pc_activity_title">Optimize battery</string>
+    <string name="pc_entered_extreme_mode">Hibernation mode is on</string>
+    <string name="pc_entered_extreme_mode_summary">"Your device is out of battery and has entered Hibernation mode. Apps will run in the background and won't send notifications."</string>
+    <string name="pc_extreme_exit_and_power_off">Exit</string>
+    <string name="pc_extreme_mode_bg_toast">"In Hibernation mode, apps will run in the background and won't send notifications"</string>
+    <string name="pc_extreme_mode_exit_risk_title">Attention</string>
+    <string name="pc_extreme_mode_exit_risk_title_summary">Your device is out of battery. If you exit Hibernation mode, your device will turn off.</string>
+    <string name="pc_extreme_mode_find_charger">Charge your device as soon as possible.</string>
+    <string name="pc_extreme_mode_runtime">Hibernation mode has been on for %1$s %2$s.</string>
+    <string name="pc_extreme_mode_title">Hibernation mode</string>
+    <string name="pc_going_to_exit_extreme_mode">Exiting Hibernation mode</string>
+    <string name="pc_going_to_exit_extreme_mode_summary">Your device is charging. Hibernation mode is off.</string>
     <string name="permission_control">权限管理</string>
     <string name="playing">播放中</string>
     <string name="pm">PM</string>
@@ -657,6 +671,7 @@
     <string name="remove_kid_mode_tip_msg">禁用儿童空间，空间内的所有数据将丢失且无法恢复。确定要禁用儿童空间吗？</string>
     <string name="renew_now">Renew</string>
     <string name="restrict_time_interval">禁用时段</string>
+    <string name="retry_action">Try again</string>
     <string name="safe_protect">安全保护</string>
     <string name="saturday">Saturday</string>
     <string name="saturday_short">Sat</string>
@@ -723,6 +738,7 @@
     <string name="superpower_date">EEEE, MMMM dd</string>
     <string name="superpower_dialog_app_select_content">Third party apps normally consume more power than system apps. Add anyway?</string>
     <string name="superpower_dialog_app_select_title">Attention</string>
+    <string name="superpower_dialog_button_ok">OK</string>
     <string name="superpower_exit_hint">Turning off Ultra battery saver…</string>
     <string name="superpower_incharging">Charging</string>
     <string name="superpower_progress_battery_last">%s remaining</string>

@@ -29,6 +29,14 @@
         <item quantity="other">%d mins ago</item>
         <item quantity="one">1 min ago</item>
     </plurals>
+    <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s hrs</item>
+        <item quantity="one">%s hr</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s mins</item>
+        <item quantity="one">%s min</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Half an hour ago</item>
     </plurals>
