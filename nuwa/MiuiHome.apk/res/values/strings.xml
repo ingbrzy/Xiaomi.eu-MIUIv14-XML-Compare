@@ -318,7 +318,7 @@
     <string name="close_multi_finger_slide_summary">These gestures will be ignored in some scenarios (e.g. games and videos playback)</string>
     <string name="close_multi_finger_slide_title">"Don't respond to three- and four-finger gestures"</string>
     <string name="cloud_app_restore_title">Pending</string>
-    <string name="com.crashlytics.android.build_id">c56535c4f8f64bbcb51c6db1691cda12</string>
+    <string name="com.crashlytics.android.build_id">473f0c2f08c24772864f12e3e29c5895</string>
     <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
     <string name="common_home_search_delete">Removing search bar</string>
     <string name="common_home_search_delete_cancle">Cancel</string>
@@ -574,6 +574,7 @@
     <string name="gadget_weather_title_14">Weather</string>
     <string name="gadget_weather_title_24">Weather</string>
     <string name="gcm_defaultSenderId">583617035067</string>
+    <string name="global_search">Search</string>
     <string name="global_search_hint">Search</string>
     <string name="google_api_key">AIzaSyB2JDwRH0JkFz61laGlpkUqBP-M1tDCs0Y</string>
     <string name="google_app_id">1:583617035067:android:f62e0cc8504e98c934151e</string>
@@ -603,9 +604,12 @@
     <string name="home_gesture_content_center">Content Center</string>
     <string name="home_gesture_global_search">Search</string>
     <string name="home_gesture_no_action">None</string>
+    <string name="home_gesture_notification_and_control_center">Notification shade and Control center</string>
     <string name="home_gesture_notification_bar">Notifications</string>
     <string name="home_indicator">bottom_point</string>
     <string name="home_pull_down_action">Swipe down on the Home screen</string>
+    <string name="home_pull_down_know">Got it</string>
+    <string name="home_pull_up_content">You can open search by swiping down on your Home screen now.</string>
     <string name="home_screen">Home screen</string>
     <string name="home_slide_up_action">Swipe up on the Home screen</string>
     <string name="home_switch_personal_assistant">-1 screen</string>
@@ -1062,6 +1066,7 @@ Enhanced security."</string>
     <string name="reset_scene_prompt">Screen will be reset to default layout.</string>
     <string name="reset_title">Restore</string>
     <string name="restore_icon_successful">Added successfully</string>
+    <string name="risk_app_report">Report this app</string>
     <string name="russia_preinstall_folder_name">Russia</string>
     <string name="saturday">Saturday</string>
     <string name="saturday_short">Sat</string>

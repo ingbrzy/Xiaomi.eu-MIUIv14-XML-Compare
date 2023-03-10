@@ -36,6 +36,7 @@
     <string name="app_name">blur</string>
     <string name="app_switch_key">Recents</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="application_label">Input settings</string>
     <string name="au_pay">au PAY</string>
     <string name="auto_disable_screenbuttons_ask">Ask to disable</string>
     <string name="auto_disable_screenbuttons_auto">Always disable</string>
@@ -334,6 +335,7 @@ You can view generated logs in File Manager."</string>
     <string name="ks_dialog_conflict">This shortcut is already used for \"%s\"</string>
     <string name="ks_dialog_modify_text">Enter a key combination to edit this shortcut.</string>
     <string name="ks_dialog_reset_btn">Restore</string>
+    <string name="ks_dialog_reset_conflict_text">"Can't reset. This combination is already taken."</string>
     <string name="ks_dialog_reset_text_app">Default shortcut preferences for opening apps will be restored. Your custom shortcuts will be deleted. Restore anyway?</string>
     <string name="ks_dialog_reset_text_system">Restore default system shortcut preferences now?</string>
     <string name="ks_dialog_title">Open %s</string>
