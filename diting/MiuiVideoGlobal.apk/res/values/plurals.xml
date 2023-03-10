@@ -45,10 +45,6 @@
         <item quantity="other">Rewind %d seconds</item>
         <item quantity="one">Rewind %d second</item>
     </plurals>
-    <plurals name="fcmpts_dialog_one">
-        <item quantity="other">Watch %s more seconds of a video to earn points and redeem rewards</item>
-        <item quantity="one">Watch %s more second of a video to earn points and redeem rewards</item>
-    </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">Going back to the home page in %1$d seconds…</item>
         <item quantity="one">Going back to the home page in %1$d second…</item>
@@ -131,14 +127,6 @@ Available today only"</item>
         <item quantity="other">Watch %1$1d seconds of a video to earn %2$2d points</item>
         <item quantity="one">Watch %1$1d seconds of a video to earn %2$2d point</item>
     </plurals>
-    <plurals name="incentive_toast_share_success">
-        <item quantity="other">Earned %d points. Keep sharing to earn more.</item>
-        <item quantity="one">Earned %d point. Keep sharing to earn more.</item>
-    </plurals>
-    <plurals name="incentive_toast_subscribe_success">
-        <item quantity="other">Earned %d points. Keep subscribing to earn more.</item>
-        <item quantity="one">Earned %d point. Keep subscribing to earn more.</item>
-    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Just now</item>
     </plurals>
@@ -170,10 +158,6 @@ Available today only"</item>
         <item quantity="other">Size: %.2fKB</item>
         <item quantity="one">Size: %.2fKB</item>
     </plurals>
-    <plurals name="lv_video_count">
-        <item quantity="other">%d videos</item>
-        <item quantity="one">%d video</item>
-    </plurals>
     <plurals name="mangotv_feature_list_title1">
         <item quantity="other">%1$1d out of %2$2d episodes available</item>
         <item quantity="one">%1$1d out of %2$2d episode available</item>
@@ -202,14 +186,6 @@ Available today only"</item>
         <item quantity="other">%d songs</item>
         <item quantity="one">%d song</item>
     </plurals>
-    <plurals name="new_incentive_toast_share_success">
-        <item quantity="other">"Shared successfully. You've earned %d points. Claim in the Points Center."</item>
-        <item quantity="one">"Shared successfully. You've earned %d point. Claim in the Points Center."</item>
-    </plurals>
-    <plurals name="new_incentive_toast_subscribe_success">
-        <item quantity="other">"Subscribed successfully. You've earned %d points. Claim in the Points Center."</item>
-        <item quantity="one">"Subscribed successfully. You've earned %d point. Claim in the Points Center."</item>
-    </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">Your content contains items (%1$s) that violate our community standards. Your account is suspended for %2$d days until %3$s.</item>
         <item quantity="one">Your content contains items (%1$s) that violate our community standards. Your account is suspended for %2$d day until %3$s.</item>
@@ -221,14 +197,6 @@ Available today only"</item>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minutes ago</item>
         <item quantity="one">1 minute ago</item>
-    </plurals>
-    <plurals name="ovp_detail_v_video_count">
-        <item quantity="other">%d videos</item>
-        <item quantity="one">%d video</item>
-    </plurals>
-    <plurals name="ovp_home_item_unit">
-        <item quantity="other">%d videos</item>
-        <item quantity="one">%d video</item>
     </plurals>
     <plurals name="plus_edit_delete_comfire_text">
         <item quantity="other">Delete %s items now?</item>
@@ -285,10 +253,6 @@ Available today only"</item>
     <plurals name="toast_bookmark_max_size">
         <item quantity="other">Add up to %d bookmarks</item>
         <item quantity="one">Add up to %d bookmark</item>
-    </plurals>
-    <plurals name="v_confirm_hide_videos_new">
-        <item quantity="other">Hide %d selected files?</item>
-        <item quantity="one">Hide %d selected file?</item>
     </plurals>
     <plurals name="video_like_text">
         <item quantity="other">%s likes</item>
