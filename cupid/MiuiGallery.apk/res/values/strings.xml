@@ -2219,7 +2219,7 @@ to personalize Gallery"</string>
     <string name="mosaic_item_talkback_eraser">Eraser</string>
     <string name="motion_photo_enter">Dynamic shot</string>
     <string name="motion_photo_play">Play</string>
-    <string name="move_to_other_albums_tip">Move this album to Other albums?</string>
+    <string name="move_to_other_albums_tip">Move this album to \"Other albums\"?</string>
     <string name="move_to_rubbish_albums_tip">Move selected items to redundant albums?</string>
     <string name="movie_add_disable">You can select up to %d photos</string>
     <string name="movie_audio_antiquity">Retro</string>
@@ -2399,7 +2399,7 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="operation_hide_time">Hide dates</string>
     <string name="operation_in_process">Processing…</string>
     <string name="operation_move">Move</string>
-    <string name="operation_move_to_other_albums">Move to other albums</string>
+    <string name="operation_move_to_other_albums">Move to \"Other albums\"</string>
     <string name="operation_move_to_rubbish_albums">Move to redundant albums</string>
     <string name="operation_not_show_in_photos_tab">"Don't show in Photos"</string>
     <string name="operation_photo_rename">Rename</string>
@@ -2408,7 +2408,7 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="operation_projection">Cast</string>
     <string name="operation_remove_face">Remove</string>
     <string name="operation_remove_from_face_album">Remove from album</string>
-    <string name="operation_remove_from_other_albums">Move from other albums</string>
+    <string name="operation_remove_from_other_albums">Remove from \"Other albums\"</string>
     <string name="operation_remove_from_rubbish_albums">Restore</string>
     <string name="operation_remove_rubbish">Restore</string>
     <string name="operation_remove_secret">Remove from private album</string>
@@ -2447,7 +2447,7 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="origin_video_name">video</string>
     <string name="other_album">Other albums</string>
     <string name="other_album_operation_move_to_rubbish_albums">Move to redundant albums</string>
-    <string name="other_album_operation_remove_from_other_albums">Remove from redundant albums</string>
+    <string name="other_album_operation_remove_from_other_albums">Remove from \"Other albums\"</string>
     <string name="other_settings">Additional settings</string>
     <string name="owner_album_subtitle">Shared with %1$s people</string>
     <string name="pad_device_model_name">Xiaomi Pad</string>
@@ -2833,7 +2833,7 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="privacy_rejected_map_new">Withdrawal of consent to Gallery Map Third Party Data Sharing Statement</string>
     <string name="privacy_rejected_pos_btn">Withdraw</string>
     <string name="privacy_share_album_confirm">Terms and conditions</string>
-    <string name="privacy_share_album_confirm_detail">Shared albums are powered by Xiaomi Cloud. Before using this feature, read and agree to our &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">User Agreement>&lt;/a>&lt;/font> and &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Privacy Policy&lt;/a>&lt;/font>.</string>
+    <string name="privacy_share_album_confirm_detail">Shared albums are powered by Xiaomi Cloud. Before using this feature, read and agree to our &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">User Agreement&lt;/a>&lt;/font> and &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Privacy Policy&lt;/a>&lt;/font>.</string>
     <string name="private_entry_lock_state_activated_text">Release to open private folder</string>
     <string name="private_entry_lock_state_enterd_text">Pull down to open private folder</string>
     <string name="problem_feedback">Feedback</string>
@@ -2935,7 +2935,7 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="remove_from_album_title">Remove from this album</string>
     <string name="remove_from_current_album">Remove from this album</string>
     <string name="remove_from_favorites_failed">"Couldn't remove from favorites"</string>
-    <string name="remove_from_other_albums_tip">Move this album from Other albums?</string>
+    <string name="remove_from_other_albums_tip">Remove this album from \"Other albums\"?</string>
     <string name="remove_from_secret_fail">"Couldn't remove from private album"</string>
     <string name="remove_from_secret_failed_with_reason">"Can't remove from private album. %1$s."</string>
     <string name="remove_from_secret_successful">Removed from private album</string>
@@ -3280,8 +3280,8 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="show_cloud_albumlist_title">@string/album_cloud_list_page_title</string>
     <string name="show_hidden_album_summary">View and manage hidden albums</string>
     <string name="show_hidden_album_title">View hidden albums</string>
-    <string name="show_in_other_albums_disable_toast_long_press_menu">Moved successfully, go to Other albums to view</string>
-    <string name="show_in_other_albums_enable_toast_long_press_menu">Moved successfully, go to Albums to view</string>
+    <string name="show_in_other_albums_disable_toast_long_press_menu">Removed successfully. You can view this item among \"Albums\" now.</string>
+    <string name="show_in_other_albums_enable_toast_long_press_menu">Moved successfully. You can view this item in \"Other albums\" now.</string>
     <string name="show_in_rubbish_albums_enable_toast_long_press_menu">Moved to redundant albums successfully</string>
     <string name="show_nearby_photos">Show nearby photos and videos</string>
     <string name="signature_dialog_clear">Clear</string>

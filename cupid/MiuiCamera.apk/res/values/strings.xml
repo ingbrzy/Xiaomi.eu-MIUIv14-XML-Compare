@@ -926,6 +926,10 @@ scanned documents automatically"</string>
     <string name="download_cancel_hint">Cancel downloading %1$s?</string>
     <string name="download_confirm">Download</string>
     <string name="download_hint">%1$s MB of mobile data will be used to download items. Download anyway?</string>
+    <string name="download_hint_check_on_wifi">"You're connected to Wi-Fi. Download this %1$s MB file now?"</string>
+    <string name="download_hint_check_on_wifi_cn">"You're connected to Wi-Fi. Download this %1$s MB file now?"</string>
+    <string name="download_hint_check_on_wifi_remind">"Don't remind again"</string>
+    <string name="download_hint_check_on_wifi_remind_cn">"Don't remind again"</string>
     <string name="download_hint_cn">"Looks like your device isn't connected to Wi-Fi. Use %1$s MB of mobile data to download items now?"</string>
     <string name="download_hint_wifi">"Looks like your device isn't connected to Wi-Fi. Use %1$s MB of mobile data to download items now?"</string>
     <string name="download_in_progress">Downloading…</string>
