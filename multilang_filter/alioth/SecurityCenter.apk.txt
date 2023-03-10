@@ -1,7 +1,6 @@
 Removed: [it] strings.xml: string/menu_summary_power_manager_2 (format mismatch)
 Removed: [it] strings.xml: string/power_center_battery_last (format mismatch)
 Removed: [ko] strings.xml: string/app_running_tip_dialog_text (format mismatch)
-Removed: [pt-rBR] strings.xml: string/power_center_list_item_battery_health_model_voltage (format mismatch)
 Removed: [ro] strings.xml: string/app_running_tip_dialog_text (format mismatch)
 Removed: [ro] strings.xml: string/gb_predownload_noti_message (format mismatch)
 Removed: [uk] strings.xml: string/app_running_tip_dialog_text (format mismatch)
