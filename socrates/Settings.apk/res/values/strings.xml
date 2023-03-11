@@ -8777,11 +8777,13 @@ Note: You can’t use your fingerprint to unlock this device. For more informati
     <string name="shoulder_key_sound_text_wind">Engine</string>
     <string name="shoulder_key_switch_status_close">Off</string>
     <string name="shoulder_key_switch_status_open">On</string>
+    <string name="show_alarm_icon_title">Show alarm icon</string>
     <string name="show_all_anrs">Show background ANRs</string>
     <string name="show_all_anrs_summary">Show \"App not responding\" dialog for background apps</string>
     <string name="show_all_apps">Show full device usage</string>
     <string name="show_background_processes">Show cached processes</string>
     <string name="show_badge_notifications_short">Badges</string>
+    <string name="show_bt_icon_title">Show Bluetooth icon</string>
     <string name="show_carrier_under_keyguard_title">Show carrier when device is locked</string>
     <string name="show_charging_in_non_lockscreen_animation">Display charging animation after device is unlocked</string>
     <string name="show_charging_in_non_lockscreen_animation_summary">Keep displaying charging animation after your device is unlocked hiding it only for video playback and other similar fullscreen scenes</string>
@@ -8803,7 +8805,9 @@ Note: You can’t use your fingerprint to unlock this device. For more informati
     <string name="show_ime_summary">Keep it on screen while physical keyboard is active</string>
     <string name="show_magnifier_when_input">Text magnifying glass</string>
     <string name="show_menu">Show menu</string>
+    <string name="show_mute_icon_title">Show Silent mode icon</string>
     <string name="show_network_speed_title">Show connection speed</string>
+    <string name="show_nfc_icon_title">Show NFC icon</string>
     <string name="show_non_rect_clip">Debug non-rectangular clip operations</string>
     <string name="show_notification_channel_warnings">Show notification channel warnings</string>
     <string name="show_notification_channel_warnings_summary">Displays an on-screen warning when an app posts a notification without a valid channel</string>
