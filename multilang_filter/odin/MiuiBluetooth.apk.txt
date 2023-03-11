@@ -1,2 +1,3 @@
+Removed: [de] arrays.xml: array/bluetooth_a2dp_codec_titles (item mismatch)
 Removed: [ro] arrays.xml: array/bluetooth_a2dp_codec_titles (item mismatch)
 Removed: [vi] arrays.xml: array/bluetooth_a2dp_codec_titles (item mismatch)
