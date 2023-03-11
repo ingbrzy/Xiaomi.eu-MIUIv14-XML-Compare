@@ -517,9 +517,12 @@
     </string-array>
     <string-array name="widget_component_delete_way">
         <item>shortcut删除</item>
-        <item>拖拽</item>
-        <item>uninstall</item>
+        <item>顶部删除</item>
+        <item>APP卸载</item>
         <item>shortcut更换</item>
+        <item>PUSH下线</item>
+        <item>鉴权失败</item>
+        <item>其他</item>
     </string-array>
     <string-array name="widget_component_source">
         <item>默认布局</item>
