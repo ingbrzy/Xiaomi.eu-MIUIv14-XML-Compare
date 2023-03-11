@@ -1,1 +1,2 @@
 Removed: [it] strings.xml: string/superpower_progress_battery_last (format mismatch)
+Removed: [uk] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)

@@ -1,0 +1,3 @@
+Removed: [ca] arrays.xml: array/widget_component_delete_way (item mismatch)
+Removed: [es-rUS] arrays.xml: array/widget_component_delete_way (item mismatch)
+Removed: [es] arrays.xml: array/widget_component_delete_way (item mismatch)
