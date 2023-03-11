@@ -406,10 +406,10 @@
     <string name="life_post_setting_wake_up_list_title">Wake up history</string>
     <string name="life_post_wake_up_acumu_day_title">Day count</string>
     <string name="life_post_wake_up_item_acumu_day_title">Day count</string>
-    <string name="life_post_wake_up_item_percentage_title">Mi Fans behind you</string>
+    <string name="life_post_wake_up_item_percentage_title">Xiaomi Fans behind you</string>
     <string name="life_post_wake_up_item_time_title">Wake up time</string>
     <string name="life_post_wake_up_percentage_sign">%</string>
-    <string name="life_post_wake_up_percentage_title">Mi Fans behind you</string>
+    <string name="life_post_wake_up_percentage_title">Xiaomi Fans behind you</string>
     <string name="life_post_wake_up_time_title">Wake up time</string>
     <string name="life_post_weather_invalid">Tap to get weather info</string>
     <string name="life_post_weather_no_network">Connect to the network to update weather info</string>
