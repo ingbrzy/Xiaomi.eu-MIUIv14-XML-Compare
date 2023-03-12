@@ -268,6 +268,7 @@
     <string name="morning">Morning</string>
     <string name="night">Evening</string>
     <string name="no_apps">No apps</string>
+    <string name="no_icons">No icons</string>
     <string name="noon">Midday</string>
     <string name="pm">PM</string>
     <string name="reset">Reset</string>
@@ -302,6 +303,7 @@
     <string name="solar_term_white_dews">Dews</string>
     <string name="solar_term_winter_begins">Winter begins</string>
     <string name="solar_term_winter_solstice">Winter solstice</string>
+    <string name="status_bar_icons">Status bar icons</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sunday">Sunday</string>
     <string name="sunday_short">Sun</string>
