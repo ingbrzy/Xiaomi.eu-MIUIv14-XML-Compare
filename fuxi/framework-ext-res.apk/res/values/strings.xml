@@ -474,7 +474,7 @@
     <string name="fadeout">Fade out</string>
     <string name="fairyland">Fairyland</string>
     <string name="fantasy">Fantasy</string>
-    <string name="fc_dialog_body">Send bug report to Mi for analysis? This report may contain Personally Identifiable Information. Your report will be used to help fix this bug and will never be shared in any commercial context.</string>
+    <string name="fc_dialog_body">Send bug report to Xiaomi for analysis? This report may contain Personally Identifiable Information. Your report will be used to help fix this bug and will never be shared in any commercial context.</string>
     <string name="fc_dialog_jump_to_preview">View summary</string>
     <string name="fieldtrip">Field trip</string>
     <string name="file_cannot_print">"Can't print this item."</string>
