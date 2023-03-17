@@ -80,14 +80,6 @@
         <item>1.1</item>
         <item>1.0</item>
     </array>
-    <string-array name="cell_layout_size_entries">
-        <item>4x4</item>
-        <item>4x5</item>
-    </string-array>
-    <string-array name="cell_layout_size_values">
-        <item>4x4</item>
-        <item>4x5</item>
-    </string-array>
     <string-array name="chinese_days">
         <item>@string/chinese_day_1</item>
         <item>@string/chinese_day_2</item>
@@ -222,37 +214,6 @@
         <item>@string/eras_bc</item>
         <item>@string/eras_ad</item>
     </string-array>
-    <string-array name="gadget_weather_image">
-        <item>Clear</item>
-        <item>Cloudy</item>
-        <item>Hazy</item>
-        <item>Foggy</item>
-        <item>Severe rainstorm</item>
-        <item>Rainstorm</item>
-        <item>Very heavy rainfall</item>
-        <item>Thunderstorm</item>
-        <item>Shower</item>
-        <item>Heavy rainfall</item>
-        <item>Rain</item>
-        <item>Drizzle</item>
-        <item>Sleet</item>
-        <item>Snowstorm</item>
-        <item>Patches of snowfall</item>
-        <item>Heavy snowfall</item>
-        <item>Snowfall</item>
-        <item>Light snowfall</item>
-        <item>Strong sandstorm</item>
-        <item>Sandstorm</item>
-        <item>Light sandstorm</item>
-        <item>Sandstorm</item>
-        <item>Hail</item>
-        <item>Floating dust</item>
-        <item>Haze</item>
-    </string-array>
-    <string-array name="gadget_weather_theme_type_entries">
-        <item>Default</item>
-        <item>Classic</item>
-    </string-array>
     <string-array name="global_elderly_man_like_apps">
         <item>com.whatsapp</item>
         <item>com.google.android.youtube</item>
@@ -306,13 +267,6 @@
         <item>L</item>
         <item>XL</item>
     </string-array>
-    <array name="item_shake_animation_scaler">
-        <item>0.0dip</item>
-        <item>-4.0dip</item>
-        <item>2.0dip</item>
-        <item>-1.0dip</item>
-        <item>0.0dip</item>
-    </array>
     <string-array name="miui_lite_fancy_icon_app">
         <item>com.android.calendar</item>
         <item>com.miui.weather2</item>
@@ -370,9 +324,6 @@
     </string-array>
     <string-array name="not_show_uninstall_icon_array">
         <item>com.mi.globalbrowser</item>
-    </string-array>
-    <string-array name="quality_business_devices">
-        <item>lithium</item>
     </string-array>
     <string-array name="recents_thumbnail_blur_white_pkgs">
         <item>com.android.camera</item>
@@ -446,18 +397,6 @@
         <item>content://com.android.thememanager.set_lockwallpaper</item>
         <item>content://com.android.thememanager.loopwallpaper</item>
         <item>content://com.miui.home.none_provider</item>
-    </string-array>
-    <string-array name="wallpaper_scroll_entries">
-        <item>Theme default</item>
-        <item>Center</item>
-        <item>Left</item>
-        <item>Right</item>
-    </string-array>
-    <string-array name="wallpaper_scroll_values">
-        <item>byTheme</item>
-        <item>center</item>
-        <item>left</item>
-        <item>right</item>
     </string-array>
     <string-array name="week_days">
         <item>@string/sunday</item>
