@@ -48,7 +48,7 @@
     <string name="arcsin">arcsin</string>
     <string name="arctan">arctan</string>
     <string name="base_rate">Base interest rate</string>
-    <string name="bmi_error_text">"This BMI doesn't look right. Make sure the height and weight you entered are correct."</string>
+    <string name="bmi_error_text">Enter valid parameters</string>
     <string name="bmi_label_information">Information</string>
     <string name="bmi_label_normal">Normal</string>
     <string name="bmi_label_overweight">Overweight</string>
@@ -339,6 +339,7 @@
     <string name="global_search_key_word_figure">Financial characters</string>
     <string name="golbal_search_calculator_setting">Calculator;Calculator settings;Settings</string>
     <string name="golbal_search_path_calculator_setting">System apps/Calculator/Settings</string>
+    <string name="gst_initial_value">%d</string>
     <string name="gst_percentage">%s</string>
     <string name="heavenly_stems_bing">丙</string>
     <string name="heavenly_stems_ding">丁</string>
@@ -365,6 +366,7 @@
     <string name="install_scanner_to_continued_use">Scanner is uninstalled. Install again?</string>
     <string name="interest_rate_hint">Enter interest rate</string>
     <string name="investment_invalid_duration">Investment duration must be greater than zero</string>
+    <string name="investment_loan_result">Details</string>
     <string name="investment_type_once">One-time</string>
     <string name="investment_type_recurring">Recurring</string>
     <string name="item_page_title_investment">Investment calculator</string>
@@ -786,7 +788,6 @@ One-year and five-year LPRs will be quoted on the 20th of each month (delays mig
     <string name="tax_result_real_get">After tax</string>
     <string name="tax_social_insurance">Social insurance</string>
     <string name="tax_thershold_foreign">%s (Foreign nationals)</string>
-    <string name="tax_thershold_native">%s (Mainland China)</string>
     <string name="tax_thershold_native_new">%s (new)</string>
     <string name="tax_thershold_native_new_description">Taxes will be calculated according to the new tax law starting from October 1, 2018</string>
     <string name="tax_threshold">Tax-free threshold</string>
@@ -1019,7 +1020,7 @@ One-year and five-year LPRs will be quoted on the 20th of each month (delays mig
     <string name="unit_data_display_length_fen">Fen</string>
     <string name="unit_data_display_length_fm">Fathom</string>
     <string name="unit_data_display_length_ft">Foot</string>
-    <string name="unit_data_display_length_fur">Femara</string>
+    <string name="unit_data_display_length_fur">Furlong</string>
     <string name="unit_data_display_length_gongli">Gongli</string>
     <string name="unit_data_display_length_hao">Hao</string>
     <string name="unit_data_display_length_in">Inch</string>

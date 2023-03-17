@@ -7195,7 +7195,6 @@ Read and agree to %s before using this service."</string>
     <string name="picture_in_picture_title">Picture-in-picture</string>
     <string name="pin_failed">SIM PIN operation failed!</string>
     <string name="ping_test_label">Run Ping Test</string>
-    <string name="placeholder_activity">*This is a temporary placeholder fallback activity.</string>
     <string name="platform_compat_dashboard_summary">Toggle app compatibility changes</string>
     <string name="platform_compat_dashboard_title">App Compatibility Changes</string>
     <string name="platform_compat_default_disabled_title">Default disabled changes</string>
