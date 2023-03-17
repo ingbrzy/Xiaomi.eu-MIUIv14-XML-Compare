@@ -1293,6 +1293,9 @@ If you don't agree to grant such permissions or share and upload your personal i
     <string name="system_permission_prem_rcs_read_contact">For displaying the delivery status of messages to contacts in 5G group messages</string>
     <string name="system_permission_requested">Ask</string>
     <string name="system_permission_user_privacy">Before you continue, read and agree to the following terms and conditions.</string>
+    <string name="tab_finance">Finance</string>
+    <string name="tab_message">Messages</string>
+    <string name="tab_promotions">Promotions</string>
     <string name="text_in_popup_saved_to_clipboard">Copied to clipboard</string>
     <string name="text_message">Text message</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
