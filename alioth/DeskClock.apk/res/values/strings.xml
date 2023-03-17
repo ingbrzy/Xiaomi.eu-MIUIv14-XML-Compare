@@ -389,7 +389,6 @@
     <string name="legal_workday_invalidate">Data expired (Alarm will go off from Mon to Fri)</string>
     <string name="legal_workday_invalidate_message">(Data expired. Update in the settings.)</string>
     <string name="legal_workday_message">" (Alarm won't go off during holidays)"</string>
-    <string name="lib_name">Filament Android</string>
     <string name="life_post_setting">Morning report</string>
     <string name="life_post_setting_FBE_remind">Due to system restrictions, weather info in morning reports may not be displayed correctly after device reboots.</string>
     <string name="life_post_setting_close_title">Turn off morning reports</string>
@@ -444,15 +443,16 @@ mm"</string>
 mm"</string>
     <string name="miuix_access_state_desc">Selected</string>
     <string name="miuix_alphabet_indexer_name">Index bar</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselect</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_action_mode_select_all">Select all</string>
     <string name="miuix_appcompat_action_mode_title_empty">Select items</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">More</string>
     <string name="miuix_appcompat_cancel_description">Cancel</string>
     <string name="miuix_appcompat_confirm_description">Confirm</string>
     <string name="miuix_appcompat_delete_description">Delete</string>
-    <string name="miuix_appcompat_deselect_all">Deselect</string>
+    <string name="miuix_appcompat_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_deselect_all_description">Deselect all</string>
+    <string name="miuix_appcompat_edit">Edit</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel</string>
     <string name="miuix_appcompat_search_input_description">Search</string>
     <string name="miuix_appcompat_select_all">Select all</string>
