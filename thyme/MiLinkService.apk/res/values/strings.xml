@@ -1056,6 +1056,7 @@ Read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>
     <string name="toast_msg_for_multi_window">"Can't use this feature with Split screen"</string>
     <string name="toast_msg_for_small_window">"You can minimize the window that's being cast to be able to use other features of your phone without interrupting the casting process."</string>
     <string name="toast_nfc_dont_move">"Don't move your phone away"</string>
+    <string name="toast_nfc_same_wifi">Connect both your TV and this device to the same network</string>
     <string name="toast_title_for_small_window">Select \"Minimize window\" in the app</string>
     <string name="toast_turn_off_hotspot_before_cast">Turn off portable hotspot before casting</string>
     <string name="today">Today</string>
