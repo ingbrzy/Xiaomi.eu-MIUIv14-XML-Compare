@@ -378,6 +378,11 @@
         <item>0</item>
         <item>0</item>
     </integer-array>
+    <string-array name="config_skip_5G_apn_array">
+        <item>camellian</item>
+        <item>lisa</item>
+        <item>agate</item>
+    </string-array>
     <integer-array name="config_smartCoverBoundary">
         <item>0</item>
         <item>0</item>
