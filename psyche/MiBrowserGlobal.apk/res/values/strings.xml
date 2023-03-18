@@ -396,13 +396,11 @@ Toggle off to stop syncing."</string>
     <string name="branch_grant_permission">Permissions required</string>
     <string name="branch_local_search_settings">Local search settings</string>
     <string name="branch_search_bar_tips">Search apps and games</string>
-    <string name="branch_search_guide_privacy">"This feature is provided by Branch Metrics Inc. We'll share your location, searches, and Google Ads ID with them. Read and agree to their "<font color="#B3000000"><a href="http://url1">Terms and Conditions</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before you continue.</string>
     <string name="branch_search_in_browser">Search \"%1$s\" in Browser</string>
     <string name="branch_setting">Settings</string>
     <string name="branch_short_message">Messaging</string>
     <string name="branch_shortcuts">Shortcuts</string>
     <string name="branch_show_more">More</string>
-    <string name="branch_terms_condition">Terms and conditions</string>
     <string name="branch_trending_google_news">Google News</string>
     <string name="branch_trending_youtube_news">YouTube</string>
     <string name="branch_viewpage_title_app_recommend">Recommended</string>
@@ -608,8 +606,8 @@ Toggle off to stop syncing."</string>
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">2e8b4e30dd084f35b4a4a895e9db01b3</string>
-    <string name="com.miapm.build_id">5d0a86ccaaab4ba8a3fc952fabd7c1bc</string>
+    <string name="com.crashlytics.android.build_id">1f0ef532517e420889c0e1f4164d90a3</string>
+    <string name="com.miapm.build_id">74b133ac131a440b84408910e9c4b2eb</string>
     <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
     <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
@@ -765,7 +763,6 @@ Send this code to the supervisor."</string>
     <string name="dialog_channel_cancel">Cancel</string>
     <string name="dialog_channel_confirm">OK</string>
     <string name="dialog_channel_remove_content">Removing all channels will also remove Content feed.</string>
-    <string name="dialog_game_banner">Check out popular games!</string>
     <string name="dialog_game_close">Cancel</string>
     <string name="dialog_game_play">Play</string>
     <string name="discovery__edit_feed_item_view__desc_default">%s</string>
@@ -2557,14 +2554,12 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="privacy_disagree">"Don't agree"</string>
     <string name="privacy_improve_performance">User Experience Program</string>
     <string name="privacy_improve_performance_desc">Allow Xiaomi to collect and analyze user data in order to improve our products and services</string>
-    <string name="privacy_local_app_discovery">Discover local apps</string>
     <string name="privacy_message">Before using Browser, you must agree to our &lt;font color=#4086f5>&lt;a href=%1$s style=color:#4086f5;>User Agreement&lt;/a>&lt;/font> and &lt;font color=#4086f5>&lt;a href=%2$s style=color:#4086f5;>Privacy Policy&lt;/a>&lt;/font>.</string>
     <string name="privacy_message_main_tips_first">Mi Browser needs to collect necessary personal information to provide you with the basic services. You can learn how we handle the information we collect in our &lt;font color=#0a84ff>&lt;a href=%1$s style=color:#0a84ff;>Privacy Policy&lt;/a>&lt;/font>. You can always withdraw your consent to the Privacy Policy of Mi Browser in Settings > Privacy &amp; security. Read and agree to our &lt;font color=#0a84ff>&lt;a href=%2$s style=color:#0a84ff;>User Agreement&lt;/a>&lt;/font> and &lt;font color=#0a84ff>&lt;a href=%1$s style=color:#0a84ff;>Privacy Policy&lt;/a>&lt;/font> before using Mi Browser.</string>
     <string name="privacy_message_main_tips_second">"To be able to search for apps on this device and know which apps are installed, Mi Browser needs to access app installation info, which won't be saved locally or uploaded in any form."</string>
     <string name="privacy_message_welcome">Welcome to Mi Browser! Our app provides the following services:</string>
     <string name="privacy_message_welcome_tip_first">- Fast and secure web browsing</string>
     <string name="privacy_message_welcome_tip_second">- Downloading images and videos from social media platforms</string>
-    <string name="privacy_new_function">New feature</string>
     <string name="privacy_permission_name">"Don't allow tracking your activity"</string>
     <string name="privacy_policy">Privacy Policy</string>
     <string name="privacy_reset_fail">"Couldn't reset. Try again."</string>
@@ -3778,13 +3773,17 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="yandex_ads_internal_go">Перейти</string>
     <string name="yandex_ads_internal_install">Установить</string>
     <string name="yandex_ads_internal_install_from_google_play">Установить из Google Play</string>
-    <string name="yandex_ads_internal_instream_advertiser_social">Социальная реклама</string>
-    <string name="yandex_ads_internal_instream_advertiser_yandex">Реклама</string>
+    <string name="yandex_ads_internal_instream_ad_position">%1$d из %2$d</string>
+    <string name="yandex_ads_internal_instream_call_to_action">Перейти ➔</string>
+    <string name="yandex_ads_internal_instream_skip">Пропустить</string>
+    <string name="yandex_ads_internal_instream_sponsored_social">СОЦИАЛЬНАЯ РЕКЛАМА</string>
+    <string name="yandex_ads_internal_instream_sponsored_yandex">РЕКЛАМА</string>
     <string name="yandex_ads_internal_rewarded_close_verification_button_close">Закрыть</string>
     <string name="yandex_ads_internal_rewarded_close_verification_button_dismiss">Досмотреть</string>
     <string name="yandex_ads_internal_rewarded_close_verification_text">Если закрыть рекламу до окончания таймера, награда за просмотр не будет начислена</string>
     <string name="yandex_ads_internal_rewarded_close_verification_title">Закрыть рекламу?</string>
     <string name="yandex_ads_internal_text_divider">·</string>
+    <string name="yandex_ads_internal_text_divider_with_space">·</string>
     <string name="yandex_ads_internal_tools_age_text">3+</string>
     <string name="yandex_ads_internal_tools_app_install_call_to_action_text">Установить</string>
     <string name="yandex_ads_internal_tools_app_install_call_to_action_text_large">Установить из Google Play</string>
@@ -3797,6 +3796,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="yandex_ads_internal_tools_sponsored_text">sponsored</string>
     <string name="yandex_ads_internal_tools_title_text">Покупка и продажа элитных и дешёвых машин на Авто.ру</string>
     <string name="yandex_ads_internal_tools_warning_text">Есть противопоказания. Обратитесь к специалисту Есть противопоказания. Обратитесь к специалисту</string>
+    <string name="yandex_mobileads_age_restricted_user">com.yandex.mobile.ads.AGE_RESTRICTED_USER</string>
     <string name="yandex_mobileads_automatic_sdk_initialization">com.yandex.mobile.ads.AUTOMATIC_SDK_INITIALIZATION</string>
     <string name="year_month_day_format">MMM dd, yyyy</string>
     <string name="yes">Yes</string>

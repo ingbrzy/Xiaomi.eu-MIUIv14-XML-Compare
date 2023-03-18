@@ -744,20 +744,18 @@
         <item>@string/reeading__reading_feedback_dialog_issue_case5</item>
     </string-array>
     <integer-array name="readmode_theme_bgcolors">
-        <item>0xFFF7F7F7</item>
-        <item>0xFFE6DDD1</item>
-        <item>0xFFD8D8D8</item>
-        <item>0xFFCDC3B5</item>
-        <item>0xFFB0C0B6</item>
-        <item>0xFF111214</item>
+        <item>0xFFEFEFEF</item>
+        <item>0xFFCEDBEE</item>
+        <item>0xFFEFE2BF</item>
+        <item>0xFFCEDFCD</item>
+        <item>0xFF5D6065</item>
     </integer-array>
     <array name="readmode_theme_fontcolors">
-        <item>@color/action_button_text_color_normal_light</item>
-        <item>0xFF737770</item>
-        <item>0xFF3E4042</item>
-        <item>0xFF543B20</item>
-        <item>0xFF2E3833</item>
-        <item>0xFF646974</item>
+        <item>@color/white</item>
+        <item>0xFFDFECFD</item>
+        <item>0xFFF2EAD5</item>
+        <item>0xFFE1F2E0</item>
+        <item>0xFF000000</item>
     </array>
     <string-array name="search_bar_search_engines_default">
         <item>google</item>
