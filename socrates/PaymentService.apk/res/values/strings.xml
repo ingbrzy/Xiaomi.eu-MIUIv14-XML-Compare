@@ -613,6 +613,7 @@ Please check your local date and try again."</string>
     <string name="mibi_paytool_msp_not_installed">You have not installed %1$s mobile security plugin, install it now?</string>
     <string name="mibi_paytool_paypal">Paypal</string>
     <string name="mibi_paytool_tenpay">Tenpay</string>
+    <string name="mibi_paytool_unionpay">UnionPay</string>
     <string name="mibi_paytool_wechat_return_cancel">WeChat return cancel</string>
     <string name="mibi_paytool_weixin">WeChat</string>
     <string name="mibi_permanently_denied_perm_camera">Allow camera in Settings to use the features.</string>
