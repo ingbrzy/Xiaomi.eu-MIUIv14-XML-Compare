@@ -112,7 +112,6 @@
     <string name="branch_whipbird">Turdidae</string>
     <string name="brown_pelican">Brown pelican</string>
     <string name="calendar_sound">Event reminders</string>
-    <string name="calendar_tip">Event reminder sounds work for calendar reminders, notes, and tasks</string>
     <string name="canada_goose">Canada goose</string>
     <string name="capybara">Capybara</string>
     <string name="capybara_info">Capybaras are semiaquatic herbivore rodents who can hold their breath underwater for up to five minutes at a time.</string>
@@ -680,6 +679,7 @@ aren't generated in Second space"</string>
     <string name="screen_fps_unit">%d Hz</string>
     <string name="screen_fps_unit_power_save">%dHz (Saves battery)</string>
     <string name="screen_fps_unit_smooth">%dHz (Better quality)</string>
+    <string name="screen_fps_unit_string">%s Hz</string>
     <string name="screen_original_gamut">Enhanced</string>
     <string name="screen_original_gamut_summary">Display all screen content in the widest color gamut possible</string>
     <string name="screen_paper_mode_apps_loading">Just a sec…</string>
