@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="alphabet_table">
         <item>A</item>
         <item>B</item>
@@ -334,7 +360,11 @@
         <item>Qualcomm Technologies, Inc SM8350</item>
         <item>Qualcomm Technologies, Inc SM8450</item>
         <item>MT6895</item>
+        <item>MT6895T</item>
+        <item>MT6896</item>
         <item>MT6983</item>
+        <item>MT6985</item>
+        <item>MT6986</item>
     </string-array>
     <string-array name="screenrecorder_utils_support_high_frames_cpu">
         <item>Qualcomm Technologies, Inc SDM845</item>
