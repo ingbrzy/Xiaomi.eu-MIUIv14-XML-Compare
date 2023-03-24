@@ -99,6 +99,7 @@
     <string name="cancel_moving_dialog_message">Stop importing now?</string>
     <string name="cancel_moving_dialog_title">Stop importing</string>
     <string name="cancel_tranfer">Cancel</string>
+    <string name="cannot_use_mi_huanji_bacause_of_qqdownloader">"It looks like QQ Downloader is your system's backup service. Uninstall it and reboot your device to be able to use Mi Mover."</string>
     <string name="cannot_use_mi_huanji_button">Got it</string>
     <string name="cannot_use_mi_huanji_summary">Looks like MIUI is backing up items now. Stop ongoing backups or reboot your device to allow Mi Mover to start the transfer.</string>
     <string name="cannot_use_mi_huanji_title">"Can't transfer now"</string>
