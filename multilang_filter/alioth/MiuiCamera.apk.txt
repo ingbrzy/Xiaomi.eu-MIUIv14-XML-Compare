@@ -7,6 +7,8 @@ Removed: [bg] strings.xml: string/moiton_detection_video_temperature_stop_tip (f
 Removed: [cs] strings.xml: string/moiton_detection_video_temperature_stop_tip (format mismatch)
 Removed: [da] strings.xml: string/moiton_detection_video_3840fps_3840 (format mismatch)
 Removed: [da] strings.xml: string/moiton_detection_video_temperature_stop_tip (format mismatch)
+Removed: [de] plurals.xml: plurals/abbrev_a_hour_ago (format mismatch)
+Removed: [de] plurals.xml: plurals/abbrev_in_a_hour (format mismatch)
 Removed: [de] strings.xml: string/moiton_detection_video_temperature_stop_tip (format mismatch)
 Removed: [el] strings.xml: string/moiton_detection_video_3840fps_3840 (format mismatch)
 Removed: [el] strings.xml: string/moiton_detection_video_temperature_stop_tip (format mismatch)
