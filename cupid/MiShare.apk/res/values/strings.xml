@@ -470,7 +470,7 @@ Before using Mi Share, you must grant the following permissions, as well as allo
     <string name="redmi_note_9_pro_max">Redmi Note 9 Pro Max</string>
     <string name="redmi_note_9s">Redmi Note 9S</string>
     <string name="refuse_file">Decline</string>
-    <string name="required_permissions">android.permission.ACCESS_FINE_LOCATION;android.permission.ACCESS_COARSE_LOCATION;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;android.permission.BLUETOOTH_CONNECT;android.permission.BLUETOOTH_ADVERTISE;android.permission.BLUETOOTH_SCAN</string>
+    <string name="required_permissions">android.permission.ACCESS_FINE_LOCATION;android.permission.WRITE_EXTERNAL_STORAGE;android.permission.BLUETOOTH_CONNECT;android.permission.BLUETOOTH_ADVERTISE;android.permission.BLUETOOTH_SCAN;android.permission.NEARBY_WIFI_DEVICES;android.permission.POST_NOTIFICATIONS</string>
     <string name="retry_task">Send again</string>
     <string name="rog">ROG</string>
     <string name="rog_phone">ROG</string>
@@ -596,10 +596,10 @@ Before using Mi Share, you must grant the following permissions, as well as allo
     <string name="transfer_to_pc_summary">"The latest version of AIoT software installed on Mi Notebooks is compatible with Mi Share. You can check the list of supported laptop models on the MIUI website. If your laptop is on the list, but AIoT isn't installed on it, update your laptop's BIOS and network adapter driver, and download AIoT."</string>
     <string name="transfer_to_pc_summary_new"><Data>"The latest version of MIUI+ installed on Mi Notebooks is compatible with Mi Share. You can check the list of supported laptop models on the MIUI+ website (&lt;a href=%1$s>%2$s&lt;/a>). If your laptop is on the list, but MIUI+ isn't installed on it, update your laptop's BIOS and network adapter driver, and download MIUI+."</Data></string>
     <string name="transfer_to_pc_title">Send files to computers</string>
-    <string name="transfer_to_phone_summary">使用手机互传发送或接收文件时，需先在通知栏快捷开关中开启互传开关。在分享图片或文件时即可搜索并发送到周围的设备。</string>
+    <string name="transfer_to_phone_summary">"Turn on Mi Share using the toggle in the Notification shade. After that, you'll be able to see nearby devices when you start sharing a photo or a file. Tap the recipient's device to send the item you're sharing."</string>
     <string name="transfer_to_phone_summary_new">Turn on Mi Share in Control center to be able to easily send and receive items. After turning it on, you can share items with nearby devices for %d minutes before it turns off automatically.</string>
     <string name="transfer_to_phone_title">Send files to phones</string>
-    <string name="transfer_to_summary">使用手机/平板互传发送或接收文件时，需先在通知栏快捷开关中开启互传开关。在分享图片或文件时即可搜索并发送到周围的设备。</string>
+    <string name="transfer_to_summary">"Turn on Mi Share using the toggle in the Notification shade. After that, you'll be able to see nearby devices when you start sharing a photo or a file. Tap the recipient's device to send the item you're sharing."</string>
     <string name="transfer_to_summary_new">Turn on Mi Share in Control center to be able to easily send and receive items. After turning it on, you can share items with nearby devices for %d minutes before it turns off automatically.</string>
     <string name="transfer_to_title">Send files to mobile devices</string>
     <string name="tuesday">Tuesday</string>
