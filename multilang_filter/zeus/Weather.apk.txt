@@ -8,3 +8,5 @@ Removed: [cs] plurals.xml: plurals/tts_report_temperature_high_fahrenheit (missi
 Removed: [cs] plurals.xml: plurals/tts_report_temperature_low_centigrade (missing quantity)
 Removed: [cs] plurals.xml: plurals/tts_report_temperature_low_fahrenheit (missing quantity)
 Removed: [cs] plurals.xml: plurals/yes_vote_num (missing quantity)
+Removed: [de] plurals.xml: plurals/abbrev_a_hour_ago (format mismatch)
+Removed: [de] plurals.xml: plurals/abbrev_in_a_hour (format mismatch)
