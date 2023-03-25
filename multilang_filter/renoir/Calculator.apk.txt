@@ -1,2 +1,4 @@
+Removed: [de] plurals.xml: plurals/abbrev_a_hour_ago (format mismatch)
+Removed: [de] plurals.xml: plurals/abbrev_in_a_hour (format mismatch)
 Removed: [ko] strings.xml: plurals/tenure_years (unexpected type)
 Removed: [tr] arrays.xml: array/unit_data_order_currency_ (item mismatch)
