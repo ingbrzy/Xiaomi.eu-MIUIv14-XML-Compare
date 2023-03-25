@@ -1,3 +1,4 @@
+Removed: [de] plurals.xml: plurals/in_a_hour (format mismatch)
 Removed: [ko] plurals.xml: plurals/sporting_content_riding_km (format mismatch)
 Removed: [ko] plurals.xml: plurals/sporting_content_running_km (format mismatch)
 Removed: [ko] plurals.xml: plurals/sporting_content_walking_km (format mismatch)
