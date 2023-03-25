@@ -1968,17 +1968,16 @@ volunteer"</string>
     <string name="exo_controls_pause_description">Pause</string>
     <string name="exo_controls_play_description">Play</string>
     <string name="exo_controls_playback_speed">Speed</string>
-    <string name="exo_controls_playback_speed_normal">Normal</string>
     <string name="exo_controls_previous_description">Previous</string>
-    <string name="exo_controls_repeat_all_description">Repeat all</string>
-    <string name="exo_controls_repeat_off_description">Repeat none</string>
-    <string name="exo_controls_repeat_one_description">Repeat one</string>
+    <string name="exo_controls_repeat_all_description">Current mode: Repeat all. Toggle repeat mode.</string>
+    <string name="exo_controls_repeat_off_description">Current mode: Repeat none. Toggle repeat mode.</string>
+    <string name="exo_controls_repeat_one_description">Current mode: Repeat one. Toggle repeat mode.</string>
     <string name="exo_controls_rewind_description">Rewind</string>
     <string name="exo_controls_seek_bar_description">Playback progress</string>
     <string name="exo_controls_settings_description">Settings</string>
     <string name="exo_controls_show">Show player controls</string>
-    <string name="exo_controls_shuffle_off_description">Shuffle off</string>
-    <string name="exo_controls_shuffle_on_description">Shuffle on</string>
+    <string name="exo_controls_shuffle_off_description">Enable shuffle mode</string>
+    <string name="exo_controls_shuffle_on_description">Disable shuffle mode</string>
     <string name="exo_controls_stop_description">Stop</string>
     <string name="exo_controls_time_placeholder">00:00:00</string>
     <string name="exo_controls_vr_description">VR mode</string>
@@ -2217,27 +2216,23 @@ volunteer"</string>
     <string name="full_fill_oprator_and_location">Provide your carrier info and location</string>
     <string name="full_fill_sim_location">Set location first</string>
     <string name="fully_informed_privacy">Privacy awareness</string>
-    <string name="function_auto_reject_detail">"About this feature:
-1. While you're playing games, all incoming calls to the SIM card without mobile data service will be rejected automatically.
-2. You'll see notifications about missed calls and the other person will hear an audio message saying that you're busy at the moment.
-3. This feature is only supported by mobile carriers in China."</string>
     <string name="function_auto_reject_detail_new">"About this feature:
 %1$d. While you're playing games, all incoming calls to the SIM card without mobile data service will be rejected automatically.
 %2$d. You'll see notifications about missed calls and the other person will hear an audio message saying that you're busy at the moment.
-%3$d. This feature is only supported by mobile carriers in China."</string>
+%3$d. This feature is only supported by mobile carriers on the Chinese mainland."</string>
     <string name="function_auto_reject_title">Reject VoLTE calls to SIM cards without data service</string>
     <string name="function_close">Off</string>
     <string name="function_gwsd_detail">"About this feature:
- 1. When you're using mobile data on a data SIM or a regular SIM card connected to a VoLTE network, connection won't be interrupted by incoming calls until you pick up.
- 2. When this feature is on, the other person won't be able to hear your ringback tones unless you're using a regular SIM card. Incoming calls will be rejected automatically after 7-10 seconds of inactivity.
- 3. Data SIM cards issued by China Mobile and China Unicom are supported. Regular SIM cards issued by China Mobile, China Unicom, and China Telecom are supported."</string>
+1. When you're using mobile data on a data SIM or a regular SIM card connected to a VoLTE network, the connection won't be interrupted by incoming calls until you pick up.
+2. When this feature is on, the other person won't be able to hear your ringback tones unless you're using a regular SIM card. Incoming calls will be rejected automatically after 7-10 seconds of inactivity.
+3. Data SIM cards issued by China Mobile and China Unicom are supported. Regular SIM cards issued by China Mobile, China Unicom, and China Telecom are supported."</string>
     <string name="function_gwsd_detail_new">"About this feature:
- %1$d. When you're using mobile data on a data SIM or a regular SIM card connected to a VoLTE network, connection won't be interrupted by incoming calls until you pick up.
- %2$d. When this feature is on, the other person won't be able to hear your ringback tones unless you're using a regular SIM card. Incoming calls will be rejected automatically after %3$d-%4$d seconds of inactivity.
- %5$d. Data SIM cards issued by China Mobile and China Unicom are supported. Regular SIM cards issued by China Mobile, China Unicom, and China Telecom are supported."</string>
+%1$d. When you're using mobile data on a data SIM or a regular SIM card connected to a VoLTE network, the connection won't be interrupted by incoming calls until you pick up.
+%2$d. When this feature is on, the other person won't be able to hear your ringback tones unless you're using a regular SIM card. Incoming calls will be rejected automatically after %3$d-%4$d seconds of inactivity.
+%5$d. Data SIM cards issued by China Mobile and China Unicom are supported. Regular SIM cards issued by China Mobile, China Unicom, and China Telecom are supported."</string>
     <string name="function_gwsd_title">"Don't allow incoming calls to interrupt data SIM connection"</string>
     <string name="function_oncall_not_close_network">"Don't disconnect for calls"</string>
-    <string name="function_oncall_not_close_network_detail">"About this feature
+    <string name="function_oncall_not_close_network_detail">"About this feature:
 %1$d. This feature allows you to stay online during gaming sessions without being interrupted by incoming calls when this device is connected to specific 5G networks.
 %2$d. If neither of your SIM cards is connected to a 5G network, incoming calls will be automatically rejected by your primary SIM.
 %3$d. This feature is only supported on the Chinese mainland.
@@ -2708,8 +2703,6 @@ of your gaming sessions"</string>
     <string name="gs_autobooster_dialog_message">"If you're using Xunyou speed boost, open games on the designated page."</string>
     <string name="gs_call_handsfree">Answer calls hands free</string>
     <string name="gs_call_handsfree_mute">Silent mode</string>
-    <string name="gs_dialog_confirm_close_msg">The shortcut will be removed from your Home screen. Go to Security > Settings to restore it.</string>
-    <string name="gs_dialog_confirm_close_title">Turn off</string>
     <string name="gs_forbid_autosync">Restrict background sync</string>
     <string name="gs_game_ai_record">Record using AI</string>
     <string name="gs_game_disturb_msg">DND</string>
@@ -2742,6 +2735,7 @@ of your gaming sessions"</string>
     <string name="gtb_brightness_adjust">Brightness</string>
     <string name="gtb_brightness_dialog_right_btn">Keep on</string>
     <string name="gtb_brightness_dialog_sub_message">*You can turn this feature on and off in the Settings.</string>
+    <string name="gtb_casual_guide_toast">Discover even more in Games</string>
     <string name="gtb_content_switch">Content recommendations</string>
     <string name="gtb_content_switch_summary">Receive gaming-related content recommendations</string>
     <string name="gtb_deep_garbage_cleaning">Performing deep clean…</string>
@@ -2986,11 +2980,11 @@ Carrier may charge you additional fees if you use mobile data connection again."
     <string name="lock_screen_warning_switch_title">Show warnings on lock screen</string>
     <string name="lock_screen_warning_value">Data usage warning</string>
     <string name="lockpattern_access_need_to_unlock_wrong_fingerprint">"Couldn't recognize fingerprint, try again."</string>
-    <string name="lockpattern_access_need_to_unlock_wrong_pattern">Password is incorrect, try again.</string>
+    <string name="lockpattern_access_need_to_unlock_wrong_pattern">The password you entered is incorrect.</string>
     <string name="lockpattern_confirm_button_text">OK</string>
     <string name="lockpattern_continue_button_text">Next</string>
     <string name="lockpattern_need_to_confirm">Draw the pattern again to confirm</string>
-    <string name="lockpattern_need_to_unlock_wrong">"Passwords don't match, try again."</string>
+    <string name="lockpattern_need_to_unlock_wrong">"Passwords don't match. Try again."</string>
     <string name="lockpattern_pattern_confirmed_header">New unlock pattern</string>
     <string name="lockpattern_pattern_entered_header">Pattern added</string>
     <string name="lockpattern_recording_inprogress">"Lift your finger when you're done"</string>
@@ -3765,6 +3759,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="pc_battery_history_show_imei">IMEI:</string>
     <string name="pc_battery_history_total_consumption_title">Total power consumption</string>
     <string name="pc_battery_history_usetime_title">Active</string>
+    <string name="pc_close_notifi_action">Turn off</string>
     <string name="pc_emergency_call">Emergency</string>
     <string name="pc_endurance_calculation">Calculating…</string>
     <string name="pc_entered_extreme_mode">Hibernation mode is on</string>
@@ -4332,7 +4327,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="pp_one_app_two_use">Use two accounts without signing out</string>
     <string name="pp_one_phone_two_space">Use one device as two</string>
     <string name="pp_only_allow_permission_during_this_run">Allow apps to use permissions once</string>
-    <string name="pp_only_allow_permission_during_this_run_detail">You can allow to use the permissions related to location, recording audio, and contacts only once. These permissions will be restricted again shortly after the app is closed.</string>
+    <string name="pp_only_allow_permission_during_this_run_detail">You can allow using the permissions related to location, recording audio, and contacts only once. These permissions will be restricted again shortly after the app is closed.</string>
     <string name="pp_operator_get_number">Require approval for accessing phone number</string>
     <string name="pp_operator_get_number_summary">Apps will ask for your permission when they want to access your phone number for signing in.</string>
     <string name="pp_optional_protection_function">Optional protection measures</string>
@@ -6297,6 +6292,7 @@ Remaining data includes data that has been rolled over from the previous month."
     <string name="vb_video_effects_dolby_headset">" (Earphones only)"</string>
     <string name="vb_video_effects_dolby_open">Dolby Atmos is on</string>
     <string name="vb_video_effects_dolby_stereo_expansion">Expanded stereo</string>
+    <string name="vb_video_effects_dolby_tips">"Enhanced dialogue and Expanded stereo won't work when Immersive sound is on"</string>
     <string name="vb_video_effects_immersion_sound">Immersive sound</string>
     <string name="vb_video_effects_immersion_sound_summary">Experience immersion and sense of space when supported audio is played through earphones</string>
     <string name="vb_video_effects_liquid_summary">Enhance dialogue clarity in videos</string>
@@ -6322,7 +6318,7 @@ Remaining data includes data that has been rolled over from the previous month."
     <string name="vb_video_effects_spatial">Track head movement</string>
     <string name="vb_video_effects_spatial_summary">"Adjust immersive sound based on head movement
 *Supported only on gaming earphone models"</string>
-    <string name="vb_video_effects_spatial_summary_new">Experience enhanced sense of space and direction for supported audio and video and adjust immersive sound based on head movement</string>
+    <string name="vb_video_effects_spatial_summary_new">Experience enhanced sense of space and direction for supported audio when using headphones</string>
     <string name="vb_video_effects_srs_premium_sound">Sound</string>
     <string name="vb_video_super_division">Upscale</string>
     <string name="vb_video_super_division_desc">"Upscale resolution automatically when it's ≤720p.
