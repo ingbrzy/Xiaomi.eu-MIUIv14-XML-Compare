@@ -31,11 +31,9 @@
     <string name="afternoon">Afternoon</string>
     <string name="am">AM</string>
     <string name="app_name">Notifications</string>
-    <string name="back">Back</string>
     <string name="channel_keyguard_hide_content">Show all notifications but hide contents</string>
     <string name="channel_keyguard_show_content">Show all notifications and their contents</string>
     <string name="channel_keyguard_show_nothing">"Don't show notification at all"</string>
-    <string name="channel_name_notification">App notifications</string>
     <string name="chinese_day_1">初一</string>
     <string name="chinese_day_10">初十</string>
     <string name="chinese_day_11">十一</string>
@@ -227,7 +225,6 @@
     <string name="lockscreen_notifications_short">Lock screen</string>
     <string name="midnight">Night</string>
     <string name="miui_snooze_always_float">"Don't hide"</string>
-    <string name="miui_snooze_cancel">Cancel</string>
     <string name="miui_snooze_default_time">For %d minute</string>
     <string name="miui_snooze_until_unlock_screen">Until locked</string>
     <string name="miuix_access_state_desc">Selected</string>
@@ -314,7 +311,6 @@
     <string name="notification_keyguard_hide_content">Show notifications but hide content</string>
     <string name="notification_keyguard_show_content">Show notification and content</string>
     <string name="notification_keyguard_show_nothing">"Don't show Lock screen notifications"</string>
-    <string name="notification_manager">App notifications</string>
     <string name="notification_style_android">Android</string>
     <string name="notification_style_miui">MIUI</string>
     <string name="off">Off</string>
