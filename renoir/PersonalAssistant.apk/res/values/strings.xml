@@ -660,7 +660,7 @@ You can also track express delivery on the official websites of courier services
     <string name="pa_picker_detail_bottom_bt_text_upgrade">Update the app to use its widgets</string>
     <string name="pa_picker_detail_bottom_download_app_and_add_widget">Install app</string>
     <string name="pa_picker_detail_bottom_update_app_and_add_widget">Update app</string>
-    <string name="pa_picker_detail_bt_loading">加载中...</string>
+    <string name="pa_picker_detail_bt_loading">Just a sec…</string>
     <string name="pa_picker_detail_dialog_open_pa_in_setting_message">Open App vault to add widgets from there.</string>
     <string name="pa_picker_detail_dialog_open_pa_in_setting_title">Use App vault</string>
     <string name="pa_picker_detail_download_app_dialog_cancel">Cancel</string>
@@ -683,14 +683,13 @@ You can also track express delivery on the official websites of courier services
     <string name="pa_picker_detail_net_error">Network error. Tap to try again.</string>
     <string name="pa_picker_detail_preview_load_fail_can_not_add_widget">Just a sec…</string>
     <string name="pa_picker_detail_small_widget">Widgets</string>
-    <string name="pa_picker_detail_state_error_retry">状态异常，请重新添加</string>
-    <string name="pa_picker_detail_suit_price_already_bought">已购买</string>
-    <string name="pa_picker_detail_suit_price_placeholder">5米币</string>
-    <string name="pa_picker_detail_suit_price_suffix">%s米币</string>
+    <string name="pa_picker_detail_state_error_retry">Something went wrong. Try again.</string>
+    <string name="pa_picker_detail_suit_price_already_bought">Purchased</string>
+    <string name="pa_picker_detail_suit_price_placeholder">5 Mi Coin</string>
     <string name="pa_picker_detail_theme_app_cta">Settings</string>
     <string name="pa_picker_detail_theme_app_cta_pre">"To be able to use this widget, allow Themes to connect to the internet first. "</string>
-    <string name="pa_picker_detail_theme_app_need_login">点此登陆</string>
-    <string name="pa_picker_detail_theme_app_need_login_pre">请先登录小米账号，</string>
+    <string name="pa_picker_detail_theme_app_need_login">Sign in</string>
+    <string name="pa_picker_detail_theme_app_need_login_pre">"Sign in to your Xiaomi Account first. "</string>
     <string name="pa_picker_detail_vp2_indicator">Selected page %1$d of %2$d</string>
     <string name="pa_picker_detail_wait_wifi_download_maml">This item will be downloaded via Wi-Fi</string>
     <string name="pa_picker_empty">"Widgets aren't available in this version of the app. 
@@ -948,7 +947,7 @@ to show widgets."</string>
     <string name="pa_vertical_center">Vertical layout. Center aligned.</string>
     <string name="pa_vertical_left">Vertical layout. Left aligned.</string>
     <string name="pa_vertical_right">Vertical layout. Right aligned.</string>
-    <string name="pa_widget_advert_loading_dialog_message">加载中请稍后...</string>
+    <string name="pa_widget_advert_loading_dialog_message">Just a sec…</string>
     <string name="pa_widget_menu_edit">Edit</string>
     <string name="pa_widget_menu_remove">Remove</string>
     <string name="pa_widget_menu_replace">Switch</string>
