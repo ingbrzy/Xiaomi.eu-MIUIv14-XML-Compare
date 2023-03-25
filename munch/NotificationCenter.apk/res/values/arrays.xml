@@ -211,15 +211,6 @@
         <item>@string/heavenly_stems_ren</item>
         <item>@string/heavenly_stems_gui</item>
     </string-array>
-    <string-array name="lock_screen_display_rules_no_password">
-        <item>Show notification content</item>
-        <item>"Don't show Lock screen notifications"</item>
-    </string-array>
-    <string-array name="lock_screen_display_rules_with_password">
-        <item>Show notification content</item>
-        <item>Show notifications but hide content</item>
-        <item>"Don't show Lock screen notifications"</item>
-    </string-array>
     <string-array name="months">
         <item>@string/month_january</item>
         <item>@string/month_february</item>
@@ -261,14 +252,6 @@
         <item>@string/month_october_shortest</item>
         <item>@string/month_november_shortest</item>
         <item>@string/month_december_shortest</item>
-    </string-array>
-    <string-array name="notification_style_entries">
-        <item>MIUI</item>
-        <item>Android</item>
-    </string-array>
-    <string-array name="notification_style_values">
-        <item>0</item>
-        <item>1</item>
     </string-array>
     <string-array name="solar_terms">
         <item>@string/empty</item>

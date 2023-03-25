@@ -188,6 +188,10 @@
         <item quantity="other">%1$d</item>
         <item quantity="one">%1$d</item>
     </plurals>
+    <plurals name="pa_picker_detail_suit_price_suffix">
+        <item quantity="other">%s Mi Coins</item>
+        <item quantity="one">%s Mi Coin</item>
+    </plurals>
     <plurals name="pa_shopping_page_product_delete_dialog_message">
         <item quantity="other">Delete %d selected items now?</item>
         <item quantity="one">Delete %d selected item now?</item>
