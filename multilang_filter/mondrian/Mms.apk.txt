@@ -1,2 +1,3 @@
+Removed: [fr] strings.xml: string/system_permission_declare_main_purpose (format mismatch)
 Removed: [it] strings.xml: string/xiaomi_market_sdk_update_dialog_title (format mismatch)
 Removed: [vi] strings.xml: string/xiaomi_market_sdk_update_dialog_title (format mismatch)
