@@ -57,6 +57,7 @@
     <string name="backup_failed_reason_app_usage_denied">Grant the required permissions to back up items</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Not enough cloud storage left to save this backup. Upgrade your plan or free up cloud storage space.</string>
     <string name="backup_failed_reason_disk_space_not_enough">Not enough storage space. Free up storage first.</string>
+    <string name="backup_failed_reason_get_installed_apps_denied">Grant the required permissions in Settings to back up items</string>
     <string name="backup_failed_reason_network_error">Check your network settings and try again</string>
     <string name="backup_finished_notification_content">Backed up Home screen apps, system settings, etc.</string>
     <string name="backup_now">Back up now</string>
@@ -279,6 +280,8 @@ Please send this code to the technician."</string>
     <string name="dialog_btn_restore_skip">Restore later</string>
     <string name="dialog_button_agree">Allow</string>
     <string name="dialog_button_disagree">"Don't allow"</string>
+    <string name="dialog_button_get_installed_apps_agree">Settings</string>
+    <string name="dialog_button_get_installed_apps_disagree">Cancel</string>
     <string name="dialog_buy_cloud_space">Upgrade</string>
     <string name="dialog_cancel_backup_cancel">Cancel</string>
     <string name="dialog_cancel_backup_confirm">OK</string>
@@ -287,6 +290,8 @@ Please send this code to the technician."</string>
     <string name="dialog_cloud_space_not_enough">This backup requires %1$s of free cloud storage space. Upgrade your storage plan to back up items.</string>
     <string name="dialog_content_cancel_backup">The data already uploaded will be lost if you cancel the backup. Cancel anyway?</string>
     <string name="dialog_content_cancel_restore">The data already restored will be retained if you stop restoring. Stop restoring now?</string>
+    <string name="dialog_get_installed_apps_consent_message">To be able to back up automatically, grant this app permission in Settings to access the list of apps installed on your device, and select Always allow.</string>
+    <string name="dialog_get_installed_apps_consent_title">Permissions required</string>
     <string name="dialog_msg_overwrite_backup">Local backup is different from the one in Xiaomi Cloud. If you continue, current backup will overwrite the previous one.</string>
     <string name="dialog_msg_restore_require_wlan">Restoring backups requires connecting to Wi-Fi.</string>
     <string name="dialog_msg_restore_require_wlan_china">Restoring backups requires connecting to Wi-Fi.</string>
@@ -430,6 +435,10 @@ Please send this code to the technician."</string>
     <string name="loading_progress_num">Loaded %s%%</string>
     <string name="loading_user_backup">Loading user backups…</string>
     <string name="managespace_delete_backup">Delete</string>
+    <string name="manual_request_notification_permission_dialog_negative_button">Close</string>
+    <string name="manual_request_notification_permission_dialog_positive_button">Settings</string>
+    <string name="manual_request_permissions_dialog_description">"If you don't grant permissions for \"%s\", you won't receive timely notifications about unsuccessful backups and other important actions. You can grant this permission in Settings."</string>
+    <string name="manual_request_permissions_dialog_title">Permissions required</string>
     <string name="menu_item_managespace">Manage space</string>
     <string name="menu_item_sort">Sort by</string>
     <string name="menu_item_sort_name">Name</string>
@@ -549,6 +558,11 @@ Please send this code to the technician."</string>
     <string name="remove_unfinished">Removing, try again later</string>
     <string name="repeat_recommend_wechat_backup_notification_content">You can now back up WeChat data. Tap for details.</string>
     <string name="repeat_recommend_wechat_backup_notification_title">Back up WeChat data</string>
+    <string name="request_notification_permission_dialog_confirm">Got it</string>
+    <string name="request_permission_post_notification">For sending notifications about cloud backups</string>
+    <string name="request_permission_post_notification_title">Notifications</string>
+    <string name="request_permissions_dialog_description">Grant permissions to send notifications and reminders to be able to enjoy all the services that Cloud backup has to offer.</string>
+    <string name="request_permissions_dialog_title">Permissions required</string>
     <string name="required_permissions">android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;com.android.permission.GET_INSTALLED_APPS</string>
     <string name="restore_app_order_finish">Done</string>
     <string name="restore_app_order_loading">Just a sec…</string>
@@ -619,6 +633,8 @@ Check your network settings and try again."</string>
     <string name="session_failed_disk_no_space_restore_detail">At least %s is required to restore items.</string>
     <string name="session_failed_disk_no_space_title">Insufficient internal storage. Clear storage and try again.</string>
     <string name="session_failed_dist_no_space_btn_text">Clear storage</string>
+    <string name="session_failed_get_installed_apps_denied_detail">To be able to back up automatically, grant this app permission in Settings to access the list of apps installed on your device, and select Always allow.</string>
+    <string name="session_failed_get_installed_apps_denied_title">Permissions required</string>
     <string name="session_failed_no_server_response_title">"Couldn't connect to the server."</string>
     <string name="session_failed_override_detail">Local backup is different from the one in Xiaomi Cloud. If you continue, current backup will overwrite the previous one. Overwrite now?</string>
     <string name="session_failed_override_title">Overwriting backup</string>
