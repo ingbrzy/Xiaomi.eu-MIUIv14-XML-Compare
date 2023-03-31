@@ -298,6 +298,10 @@
     <string name="high_bit_rate">MP3, ~%1$d kbps, ~%2$d MB/h</string>
     <string name="icon_content_description">Dialog Icon</string>
     <string name="invalid_argument">Invalid argument</string>
+    <string name="invisible_mode_dialog_message">"Can't use microphone when you're incognito. Turn off Incognito mode first."</string>
+    <string name="invisible_mode_dialog_negative">Cancel</string>
+    <string name="invisible_mode_dialog_positive">Turn off</string>
+    <string name="invisible_mode_dialog_title">"You're incognito"</string>
     <string name="invisible_mode_error_tip">Turn off Incognito mode in the Settings to be able to use microphone</string>
     <string name="item_view_role_description">Tab</string>
     <string name="keywords_search_call_record">Record calls;Record call;Call recording;Call recordings</string>

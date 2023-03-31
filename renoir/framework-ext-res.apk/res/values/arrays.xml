@@ -308,6 +308,7 @@
         <item>com.vivo.health/com.vivo.health.devices.watch.notify.NotificationService</item>
         <item>com.xiaomi.hm.health/com.xiaomi.hm.health.ui.smartplay.NotificationAccessService</item>
     </string-array>
+    <array name="config_operatorDefaultListenerAccessPackages" />
     <integer-array name="config_originalLux">
         <item>10</item>
         <item>15</item>
