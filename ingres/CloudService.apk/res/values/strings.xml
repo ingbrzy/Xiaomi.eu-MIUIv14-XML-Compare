@@ -773,6 +773,8 @@ Location info might not be reported when network connection is poor."</string>
     <string name="privacy_runtime_perm_contacts_title">Access and edit contacts</string>
     <string name="privacy_runtime_perm_external_storage_desc">For syncing contact profile photos</string>
     <string name="privacy_runtime_perm_external_storage_title">Access storage</string>
+    <string name="privacy_runtime_perm_notification_desc">For sending Xiaomi Cloud services notifications</string>
+    <string name="privacy_runtime_perm_notification_title">Notifications</string>
     <string name="privacy_runtime_perm_phone_state_desc">For accessing phone number and device status</string>
     <string name="privacy_runtime_perm_phone_state_title">Access device info</string>
     <string name="privacy_runtime_perm_sms_desc">For syncing messages</string>
