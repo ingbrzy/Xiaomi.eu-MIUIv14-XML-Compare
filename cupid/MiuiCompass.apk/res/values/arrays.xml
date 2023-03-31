@@ -279,6 +279,33 @@
         <item>@string/solar_term_heavy_snow</item>
         <item>@string/solar_term_winter_solstice</item>
     </string-array>
+    <string-array name="support_eight_word_calibrate_devices">
+        <item>veux</item>
+        <item>tapas</item>
+        <item>topaz</item>
+        <item>sweet_k6a</item>
+        <item>moonstone</item>
+        <item>citrus</item>
+        <item>ginkgo</item>
+        <item>lime</item>
+        <item>viva</item>
+        <item>vida</item>
+        <item>sunstone</item>
+        <item>light</item>
+        <item>rock</item>
+        <item>curtana</item>
+        <item>excalibur</item>
+        <item>gram</item>
+        <item>joyeuse</item>
+        <item>opal</item>
+        <item>rosemary</item>
+        <item>mojito</item>
+        <item>merlin</item>
+        <item>lancelot</item>
+        <item>shiva</item>
+        <item>surya</item>
+        <item>fleur</item>
+    </string-array>
     <string-array name="support_mi_nmea_devices">
         <item>leo</item>
     </string-array>
