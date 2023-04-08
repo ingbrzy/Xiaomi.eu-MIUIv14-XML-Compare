@@ -34,6 +34,7 @@
     <string name="download_fail_desc">MD5 Sum does not match…</string>
     <string name="downloading">Downloading:</string>
     <string name="downloading_desc">Downloading in progress, check status in notification area.</string>
+    <string name="fastboot_desc">Device will reboot to Fastboot mode now. If you are not familiar with the mode, cancel future actions. Continue?</string>
     <string name="fastboot_mode">Updater is in Fastboot mode, you can only flash ROMs with Terminal on PC!</string>
     <string name="fastboot_update_warning">This update is for fastboot installation only!</string>
     <string name="fetch_notification_default_channel_id">fetch_downloads_channel_id</string>
@@ -55,6 +56,7 @@
 Data will not be wiped."</string>
     <string name="install_title">Are you sure to continue?</string>
     <string name="menu_title_current_version_log">What is new?</string>
+    <string name="menu_title_fastboot">Reboot to Fastboot mode</string>
     <string name="menu_title_fastboot_mode">Update in Fastboot mode</string>
     <string name="menu_title_pick_rom_file">Choose update package</string>
     <string name="menu_title_recovery">Reboot to Recovery mode</string>
@@ -84,7 +86,7 @@ Updates are not available for you!"</string>
     <string name="permlab_reboot">Reboot Access</string>
     <string name="pick_not_found">No suitable File Manager was found.</string>
     <string name="pick_title">Pick using:</string>
-    <string name="recovery_desc">Device will reboot to Recover mode now if you are not familiar with the mode cancel future actions. Continue?</string>
+    <string name="recovery_desc">Device will reboot to Recovery mode now. If you are not familiar with the mode, cancel future actions. Continue?</string>
     <string name="recovery_mode">Updater is in Recovery mode, you can flash ROMs in Updater!</string>
     <string name="server_error">Server not responding, application might not work properly!</string>
     <string name="share_desc">Your MIUI version has been updated to %1$s, check latest changelog at: %2$s</string>
