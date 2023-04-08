@@ -379,6 +379,11 @@ You can view generated logs in File Manager."</string>
     <string name="long_press_home_key">Long press the Home button</string>
     <string name="long_press_menu_key">Long press the Menu button</string>
     <string name="long_press_menu_key_when_lock">Long press Menu on the Lock screen</string>
+    <string name="long_press_power_guide_know">Got it</string>
+    <string name="long_press_power_guide_message" formatted="false">"Press and hold the Power button for %s seconds to wake up Google Assistant.
+If you hold the button for %s seconds, you'll open the shutdown menu instead."</string>
+    <string name="long_press_power_guide_settings">Settings</string>
+    <string name="long_press_power_guide_title">Wake with Power button</string>
     <string name="long_press_power_key">Long press the Power button</string>
     <string name="long_press_power_key_half_of_second">Press and hold the Power button for 0.5s to turn on Google Assistant</string>
     <string name="long_press_power_key_half_second">Press and hold the Power button for %ss</string>
@@ -614,6 +619,7 @@ Double tap to open Recents."</string>
     <string name="stylus_connect_fail">"Couldn't connect. Attach again."</string>
     <string name="stylus_connect_fail_no_battery">Charge your stylus now</string>
     <string name="stylus_connect_fail_no_reason">"Couldn't connect"</string>
+    <string name="stylus_connect_fail_not_match_tablet">"Stylus isn't compatible with tablet"</string>
     <string name="stylus_connect_fail_not_open_gps">"Couldn't connect. Turn on location services and try again."</string>
     <string name="stylus_connecting">Connecting…</string>
     <string name="stylus_default_percent">100</string>
