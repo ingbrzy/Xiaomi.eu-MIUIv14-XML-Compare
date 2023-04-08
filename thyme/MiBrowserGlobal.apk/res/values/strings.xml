@@ -606,8 +606,8 @@ Toggle off to stop syncing."</string>
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">1e08f938e950499c831fcd68b3339d40</string>
-    <string name="com.miapm.build_id">156ac56cb2874d39b6fe4cc7c7a22c36</string>
+    <string name="com.crashlytics.android.build_id">dcbf33b759f04665995241cced3b6772</string>
+    <string name="com.miapm.build_id">12c10a43cede44449d0d1ad0a46306a0</string>
     <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
     <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
@@ -860,6 +860,7 @@ Send this code to the supervisor."</string>
     <string name="download_keep_queued_download">Keep</string>
     <string name="download_list_no_items_tip">No items here yet.</string>
     <string name="download_list_open_xl_ok">OK</string>
+    <string name="download_live_unsupported">"Can't download livestreams"</string>
     <string name="download_memory_info_avai">" available %s|"</string>
     <string name="download_memory_info_total">" total ​%s"</string>
     <string name="download_menu_title_clear_all">Clear all</string>
@@ -1567,15 +1568,16 @@ Send this code to the supervisor."</string>
     <string name="miuishare_title_share">Share</string>
     <string name="miuix_access_state_desc">Selected</string>
     <string name="miuix_alphabet_indexer_name">Index bar</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselect</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_action_mode_select_all">Select all</string>
     <string name="miuix_appcompat_action_mode_title_empty">Select items</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">More</string>
     <string name="miuix_appcompat_cancel_description">Cancel</string>
     <string name="miuix_appcompat_confirm_description">Confirm</string>
     <string name="miuix_appcompat_delete_description">Delete</string>
-    <string name="miuix_appcompat_deselect_all">Deselect</string>
+    <string name="miuix_appcompat_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_deselect_all_description">Deselect all</string>
+    <string name="miuix_appcompat_edit">Edit</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel</string>
     <string name="miuix_appcompat_search_input_description">Search</string>
     <string name="miuix_appcompat_select_all">Select all</string>
@@ -1962,7 +1964,7 @@ Leave this page now?"</string>
     <string name="notification_category_facebook">Facebook</string>
     <string name="notification_category_group_general">General</string>
     <string name="notification_category_media">Media</string>
-    <string name="notification_category_stickcard">StickCard</string>
+    <string name="notification_category_stickcard">Quick tools</string>
     <string name="notification_download_completed">Downloaded successfully</string>
     <string name="notification_download_failed">"Couldn't download."</string>
     <string name="notification_wechat_expired_empty">WeChat has already deleted these video clips.</string>
@@ -2921,6 +2923,7 @@ Try to modify your keyword?"</string>
     <string name="readmode_recommend">View recommended</string>
     <string name="readmode_recommend_message">"You've read this book already. :)"</string>
     <string name="readmode_refresh">Refresh</string>
+    <string name="readmode_tips">Turn on Text-only mode</string>
     <string name="readmodelist_bookmarks_to_show">Reading list</string>
     <string name="reboot">Reboot</string>
     <string name="recent_apk_status_install">INSTALLED</string>
@@ -3048,6 +3051,7 @@ Try to modify your keyword?"</string>
     <string name="save_to_camera_failed">"Can't save image"</string>
     <string name="save_to_camera_success">Saved to Gallery</string>
     <string name="save_to_private_folder">Add to hidden files</string>
+    <string name="scan_type_empty_folder">Empty folder</string>
     <string name="scanner_uninstalled_text">Install Scanner to continue</string>
     <string name="scanner_uninstalled_title">Scanner has been uninstalled</string>
     <string name="scanning_info">Found items: TXT (%1$d), EPUB (%2$d), PDF (%3$d)</string>
@@ -3801,6 +3805,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="year_month_day_format">MMM dd, yyyy</string>
     <string name="yes">Yes</string>
     <string name="yesterday">Yesterday</string>
+    <string name="youtube_dialog_content">"You're about to leave Mi Browser and open YouTube. Continue?"</string>
     <string name="ytb_added_subscription">Subscribed successfully</string>
     <string name="ytb_cancel">Cancel</string>
     <string name="ytb_deleted_subscription">Unsubscribed successfully</string>
