@@ -1,4 +1,3 @@
-Removed: [cs] strings.xml: string/stop_migration_ok (duplicate)
 Removed: [fr] plurals.xml: plurals/share_album_detail_photo_count (missing quantity)
 Removed: [fr] plurals.xml: plurals/share_album_home_pref_rooms (missing quantity)
 Removed: [fr] plurals.xml: plurals/share_album_home_pref_screens (missing quantity)
