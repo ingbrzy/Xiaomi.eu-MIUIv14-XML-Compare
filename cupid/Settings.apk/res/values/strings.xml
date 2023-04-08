@@ -9487,6 +9487,7 @@ Try using a faster ^3, or use this ^4 for portable storage instead."</string>
     <string name="string_kHz_2">%.1f kHz</string>
     <string name="string_kHz_3">%.1f kHz</string>
     <string name="string_kHz_4">%.1f kHz</string>
+    <string name="string_kHz_5">%.1f kHz</string>
     <string name="string_never">Never</string>
     <string name="string_off">Off</string>
     <string name="string_offed">Off</string>
