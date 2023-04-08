@@ -1,6 +1,4 @@
 Removed: [ca] strings.xml: string/store__fiction_detail__surpass_percent (format mismatch)
-Removed: [de] plurals.xml: plurals/abbrev_a_hour_ago (format mismatch)
-Removed: [de] plurals.xml: plurals/abbrev_in_a_hour (format mismatch)
 Removed: [fr] plurals.xml: plurals/general__make_purchase_rule_item_detail (missing quantity)
 Removed: [fr] plurals.xml: plurals/personal__attance_activity_check_in_bonus_number (missing quantity)
 Removed: [fr] plurals.xml: plurals/personal__check_in_details_bonus_item_2 (missing quantity)
