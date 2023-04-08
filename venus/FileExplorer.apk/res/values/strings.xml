@@ -805,6 +805,9 @@ Try moving files from your device to Mi Drive."</string>
     <string name="otg_data_transferring">"Transferring files… Don't disconnect external storage."</string>
     <string name="otg_file_security_note">OGTSecurity</string>
     <string name="overwrite_msg">\"%s\" already exists. Tap to replace it with the new file.</string>
+    <string name="pad">Tablet</string>
+    <string name="pad_homepage_tab_file_view_phone">Tablet</string>
+    <string name="pad_start_phone">Storage</string>
     <string name="partial_cancel_successful">"Couldn't remove some files. Moved the rest of the files to %s."</string>
     <string name="partial_delete_failure">"Couldn't delete some files. Try again."</string>
     <string name="partial_encrypt_success">"Couldn't make some files private. Try again."</string>
