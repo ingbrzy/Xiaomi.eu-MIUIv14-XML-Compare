@@ -169,6 +169,7 @@
         <item>miel</item>
         <item>yunluo</item>
         <item>earth</item>
+        <item>fire</item>
     </string-array>
     <string-array name="retry_connect_camera">
         <item>laurus</item>
@@ -195,5 +196,10 @@
         <item>spes</item>
         <item>spesn</item>
         <item>fog</item>
+        <item>sunstone</item>
+        <item>moonstone</item>
+    </string-array>
+    <string-array name="virtual_light_device">
+        <item>xun</item>
     </string-array>
 </resources>
