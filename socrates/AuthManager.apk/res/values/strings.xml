@@ -84,7 +84,7 @@
     <string name="HIPS_Perm_deamon_notification">Permanent notification</string>
     <string name="HIPS_Perm_deamon_notification_Desc">show permanent notifications</string>
     <string name="HIPS_Perm_get_accounts">Access accounts on device</string>
-    <string name="HIPS_Perm_get_accounts_Desc">access all accounts stored on device</string>
+    <string name="HIPS_Perm_get_accounts_Desc">Access all accounts stored on device</string>
     <string name="HIPS_Perm_get_installed_apps">Get info about installed apps</string>
     <string name="HIPS_Perm_get_installed_apps_Desc">get info about the apps installed on this device</string>
     <string name="HIPS_Perm_get_tasks">Get tasks</string>
@@ -99,6 +99,8 @@
     <string name="HIPS_Perm_operator_get_phonenumbner_Message">This app wants to acquire your phone number from the carrier for signing in. Allow?</string>
     <string name="HIPS_Perm_operator_shake">Access accelerometer data</string>
     <string name="HIPS_Perm_operator_shake_Desc">Accelerometer data is used for tracking orientation and movement (e.g. shaking, tilting, and rotating)</string>
+    <string name="HIPS_Perm_operator_wall_paper">Dynamic wallpaper services</string>
+    <string name="HIPS_Perm_operator_wall_paper_Desc">Edit system dynamic wallpaper services</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">access near field communication (NFC) hardware</string>
     <string name="HIPS_Perm_process_outgoing_calls">Access Phone app</string>
