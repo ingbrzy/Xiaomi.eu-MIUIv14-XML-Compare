@@ -381,6 +381,8 @@ Double tap to start."</string>
     <string name="pa_accessibility_picker_home_maml_slected">"%1$s. %2$s. 
 Press twice to view details page. 
 Press twice and hold to drag."</string>
+    <string name="pa_accessibility_picker_home_maml_slected_for_pay">"%1$s，%2$s， 
+点按两次即可进入详情页"</string>
     <string name="pa_accessibility_picker_home_search">Search for widgets</string>
     <string name="pa_accessibility_picker_home_smallBanner_slected">"%1$s. 
 Double tap to start."</string>
@@ -474,7 +476,7 @@ Double tap to view details."</string>
     <string name="pa_express_detail_list_empty_text">"Items might appear here with a delay.
 You can also track express delivery on the official websites of courier services."</string>
     <string name="pa_express_detail_more">More</string>
-    <string name="pa_express_detail_order_number_prefix">Tracking number: %s</string>
+    <string name="pa_express_detail_order_number_prefix">Order number: %s</string>
     <string name="pa_express_dialog_sign_message">Mark this package as delivered? Its status will no longer be updated after that.</string>
     <string name="pa_express_empty_extra">Track</string>
     <string name="pa_express_empty_title">No delivery info here</string>
@@ -492,7 +494,6 @@ You can also track express delivery on the official websites of courier services
     <string name="pa_express_manual_query_hint">Enter order number to search</string>
     <string name="pa_express_manual_select_company">Select</string>
     <string name="pa_express_manual_select_company_toast">Select courier service</string>
-    <string name="pa_express_order_number">Order number: %s</string>
     <string name="pa_express_phone_binding_input_verifacation_code">Enter code</string>
     <string name="pa_express_phone_binding_next_step">Next</string>
     <string name="pa_express_phone_binding_number">Phone number</string>
@@ -699,6 +700,14 @@ Stay tuned!"</string>
     <string name="pa_picker_home_request_failed">Network error</string>
     <string name="pa_picker_home_search_hint">Search for widgets</string>
     <string name="pa_picker_home_title">Add widgets</string>
+    <string name="pa_picker_image_text_share">Share</string>
+    <string name="pa_picker_image_text_share_content" formatted="false">\#MIUI 小部件# 用%sMIUI小部件装扮你的桌面！%s</string>
+    <string name="pa_picker_image_text_share_copy_url">Copy URL</string>
+    <string name="pa_picker_image_text_share_more">More</string>
+    <string name="pa_picker_image_text_share_wechat_favourite">WeChat Favorites</string>
+    <string name="pa_picker_image_text_share_wechat_session">WeChat</string>
+    <string name="pa_picker_image_text_share_wechat_timeline">WeChat Moments</string>
+    <string name="pa_picker_image_text_share_weibo">Weibo</string>
     <string name="pa_picker_item_retry">"Couldn't load items. Try again."</string>
     <string name="pa_picker_list_app_footer_classic_widget">Android widgets</string>
     <string name="pa_picker_list_app_title">Apps with widgets</string>
@@ -711,9 +720,18 @@ Stay tuned!"</string>
     <string name="pa_picker_loading">Just a sec…</string>
     <string name="pa_picker_maml_list_activity_title">Add widgets</string>
     <string name="pa_picker_no_relevant_content">"Couldn't find results"</string>
+    <string name="pa_picker_order_go_to_allow_cta">Allow</string>
+    <string name="pa_picker_order_go_to_login">Sign in</string>
+    <string name="pa_picker_order_login_xiaomi_account">Sign in to your Xiaomi Account to be able to use this feature.</string>
+    <string name="pa_picker_order_theme_app_cta_pre">Allow this app to connect to the internet to be able to use this feature.</string>
     <string name="pa_picker_permission_denied">"App vault needs to access installation status
 to show widgets."</string>
     <string name="pa_picker_purchase_order">Purchased</string>
+    <string name="pa_picker_recommend_add_limit_toast">"Can't add more widgets"</string>
+    <string name="pa_picker_recommend_bottom_button_add">Add widget</string>
+    <string name="pa_picker_recommend_bottom_button_download_and_add">Add widget</string>
+    <string name="pa_picker_recommend_download_tip">When you add a widget, the associated app will be downloaded automatically</string>
+    <string name="pa_picker_recommend_title">Recommended for you</string>
     <string name="pa_picker_request">Settings</string>
     <string name="pa_picker_retry">Try again</string>
     <string name="pa_picker_search">Search</string>
@@ -734,13 +752,16 @@ to show widgets."</string>
     <string name="pa_picker_tab_title_category">Categories</string>
     <string name="pa_picker_tab_title_fun">Discover</string>
     <string name="pa_picker_tab_title_recommend">Featured</string>
-    <string name="pa_picker_theme_app_version_error">主题壁纸应用版本异常</string>
+    <string name="pa_picker_theme_app_version_error">An error occurred</string>
     <string name="pa_picker_tips_count_limit_forbidden">"Can't add more widgets. Delete older widgets to add new ones."</string>
     <string name="pa_picker_toast_add_successfully">Added successfully</string>
     <string name="pa_picker_toast_count_limit_forbidden">"Can't add more widgets"</string>
     <string name="pa_picker_toast_count_limit_forbidden_for_type">"Can't add more widgets of this type"</string>
     <string name="pa_picker_toast_count_limit_warning">Added successfully. Remember that placing too many widgets on your Home screen may slow down your device.</string>
     <string name="pa_picker_toast_screen_cell_locked">"Your Home screen layout is locked. Can't add widgets."</string>
+    <string name="pa_picker_widget_select_normal_description">%1$s</string>
+    <string name="pa_picker_widget_select_uninstall_description">%1$s, not installed</string>
+    <string name="pa_picker_widget_select_upgrade_description">%1$s, update available</string>
     <string name="pa_privacy_text">Privacy</string>
     <string name="pa_read_storage_permission_description">For displaying your Home screen wallpaper as the app background</string>
     <string name="pa_recommend_add_btn">Start</string>

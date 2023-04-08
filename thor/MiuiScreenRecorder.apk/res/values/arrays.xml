@@ -360,7 +360,11 @@
         <item>Qualcomm Technologies, Inc SM8350</item>
         <item>Qualcomm Technologies, Inc SM8450</item>
         <item>MT6895</item>
+        <item>MT6895T</item>
+        <item>MT6896</item>
         <item>MT6983</item>
+        <item>MT6985</item>
+        <item>MT6986</item>
     </string-array>
     <string-array name="screenrecorder_utils_support_high_frames_cpu">
         <item>Qualcomm Technologies, Inc SDM845</item>
