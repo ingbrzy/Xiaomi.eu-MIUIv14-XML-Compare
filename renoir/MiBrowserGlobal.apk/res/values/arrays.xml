@@ -4,6 +4,32 @@
         <item>Male</item>
         <item>Female</item>
     </string-array>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="alphabet_table">
         <item>\#</item>
         <item>A</item>
@@ -83,7 +109,7 @@
     <string-array name="bing">
         <item>Bing</item>
         <item>bing.com</item>
-        <item>https://www.bing.com/s/wlflag.ico</item>
+        <item>https://www.bing.com/favicon.ico</item>
         <item>https://www.bing.com/search?q={searchTerms}</item>
         <item>UTF-8</item>
         <item>https://api.bing.com/osjson.aspx?query={searchTerms}&amp;market={language}</item>
@@ -565,6 +591,14 @@
         <item>Subliminal advertising</item>
         <item>"I don't like it"</item>
     </string-array>
+    <string-array name="only_bing">
+        <item>Bing</item>
+        <item>bing.com</item>
+        <item>https://www.bing.com/favicon.ico</item>
+        <item>https://www.bing.com/search?q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>https://api.bing.com/osjson.aspx?query={searchTerms}&amp;market={language}</item>
+    </string-array>
     <string-array name="only_google">
         <item>Google</item>
         <item>google.com</item>
@@ -759,6 +793,9 @@
     </array>
     <string-array name="search_bar_search_engines_default">
         <item>google</item>
+        <item>bing</item>
+    </string-array>
+    <string-array name="search_bar_search_engines_only_bing">
         <item>bing</item>
     </string-array>
     <string-array name="search_bar_search_engines_only_google">
