@@ -1,0 +1,1 @@
+Removed: [hr] strings.xml: string/fastboot desc (invalid name)
