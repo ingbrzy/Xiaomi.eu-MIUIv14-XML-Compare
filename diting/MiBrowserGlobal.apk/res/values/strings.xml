@@ -606,8 +606,8 @@ Toggle off to stop syncing."</string>
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">dcbf33b759f04665995241cced3b6772</string>
-    <string name="com.miapm.build_id">12c10a43cede44449d0d1ad0a46306a0</string>
+    <string name="com.crashlytics.android.build_id">c307a5ad0f8346429a6d1a1937b4af8a</string>
+    <string name="com.miapm.build_id">6f00e236f15e428ebe42205d053439cd</string>
     <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
     <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
@@ -3184,6 +3184,7 @@ Try to modify your keyword?"</string>
     <string name="skip_current_version">Skip this version</string>
     <string name="sku_all">All</string>
     <string name="sku_price_everymonth">%1$s every month</string>
+    <string name="slide_card">Swipe for more</string>
     <string name="sms_send_success">Sent successfully</string>
     <string name="snapshot">Local</string>
     <string name="snapshot_failed">"Couldn't save page"</string>
@@ -3485,6 +3486,7 @@ Try to modify your keyword?"</string>
     <string name="toast_exit_browser">Tap again to exit Browser</string>
     <string name="today">Today</string>
     <string name="tomorrow">Tomorrow</string>
+    <string name="top_news">Top stories</string>
     <string name="top_up">Top up</string>
     <string name="topsite_click">TopSite click</string>
     <string name="track_permission_name">Do not track</string>

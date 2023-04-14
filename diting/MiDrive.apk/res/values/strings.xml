@@ -390,7 +390,7 @@
     <string name="micloud_space_duokan_detail">"Open Duokan on your phone and go to Bookshelf > Cloud storage to manage storage space.
 Make sure you're using the current Xiaomi Account as your MIUI system account."</string>
     <string name="micloud_space_duokan_title">Duokan storage space</string>
-    <string name="micloud_space_soundrecorder_detail">"Open the Recorder app on your mobile device and select the folder with the items stored in the cloud.
+    <string name="micloud_space_soundrecorder_detail">"Open Recorder on your mobile device and select the folder with the items stored in the cloud.
 Make sure you're using the current Xiaomi Account as your MIUI system account."</string>
     <string name="micloud_space_soundrecorder_title">Audio recordings</string>
     <string name="midnight">Night</string>
