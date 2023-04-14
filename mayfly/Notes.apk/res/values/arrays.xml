@@ -174,11 +174,6 @@
         <item>@string/chinese_symbol_animals_dog</item>
         <item>@string/chinese_symbol_animals_pig</item>
     </string-array>
-    <string-array name="common_folder_operations">
-        <item>新建</item>
-        <item>重命名</item>
-        <item>删除</item>
-    </string-array>
     <string-array name="contact_entries">
         <item>Name</item>
         <item>Nickname</item>
@@ -231,28 +226,6 @@
     <string-array name="eras">
         <item>@string/eras_bc</item>
         <item>@string/eras_ad</item>
-    </string-array>
-    <string-array name="first_guide_contents">
-        <item>Welcome to Notes!</item>
-        <item>Take notes</item>
-        <item>You can use text, images, and voice recordings in your notes. A rich library of styles and fonts will make your simple scribbles look stunning.</item>
-        <item>Checklists and reminders come to help when you need basic and effective tools for planning your next trip or putting together a grocery list.</item>
-        <item>Share notes</item>
-        <item>You can create scrolling screenshots in Notes automatically, and then share them with your friends.</item>
-        <item>Create &amp; switch between folders</item>
-        <item>Press the arrow below to create a new folder or switch between existing ones.</item>
-    </string-array>
-    <string-array name="first_guide_images">
-        <item>guide_first_00</item>
-        <item>guide_first_01</item>
-        <item>guide_first_02</item>
-        <item>guide_first_03</item>
-        <item>guide_first_04</item>
-        <item></item>
-    </string-array>
-    <string-array name="folder_operations">
-        <item>Rename</item>
-        <item>Delete</item>
     </string-array>
     <string-array name="font_size_names">
         <item>Small</item>
@@ -463,18 +436,6 @@
         <item>By creation date</item>
         <item>By modification date</item>
     </string-array>
-    <string-array name="second_guide_contents">
-        <item>Voice notes</item>
-        <item>Create notes using our built-in speech-to-text engine attaching the original recordings of your voice to the notes.</item>
-    </string-array>
-    <string-array name="second_guide_contents_pad_or_inter">
-        <item>Voice notes</item>
-        <item>You can create voice notes now. Just tap the icon, record your voice, and save the audio file inside the note.</item>
-    </string-array>
-    <string-array name="second_guide_images">
-        <item>guide_second_00</item>
-        <item></item>
-    </string-array>
     <string-array name="setting_phone_note_layout_way">
         <item>@string/action_mode_switcher_list_description</item>
         <item>@string/action_mode_switcher_grid_description</item>
@@ -505,9 +466,6 @@
         <item>@string/solar_term_light_snow</item>
         <item>@string/solar_term_heavy_snow</item>
         <item>@string/solar_term_winter_solstice</item>
-    </string-array>
-    <string-array name="system_folder_operations">
-        <item>新建</item>
     </string-array>
     <integer-array name="table_default">
         <item>0xFF5C0011</item>
