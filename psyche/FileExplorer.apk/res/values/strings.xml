@@ -223,7 +223,6 @@ Try moving files from your device to Mi Drive."</string>
     <string name="cloud_transfer_wait_download">Waiting to download</string>
     <string name="cloud_transfer_wait_network">Waiting for internet</string>
     <string name="cloud_transfer_wait_upload">Waiting to upload</string>
-    <string name="com.crashlytics.android.build_id">00000000000000000000000000000000</string>
     <string name="compress_fail">"Couldn't compress. A file with the same name already exists."</string>
     <string name="compress_fail_unknown">"Couldn't compress. Storage is full or an unknown error occurred."</string>
     <string name="compress_message">Compress to…</string>
@@ -269,7 +268,6 @@ Try moving files from your device to Mi Drive."</string>
     <string name="decrypt_error">"Couldn't remove"</string>
     <string name="decrypt_to">Decrypt and save to…</string>
     <string name="decrypting">Removing…</string>
-    <string name="default_web_client_id">599532519894-qvdg613vlo22tol6uljd7upk0pg7j0s2.apps.googleusercontent.com</string>
     <string name="delete_dialog_button">Delete</string>
     <string name="delete_error">"Couldn't delete files. Try again."</string>
     <string name="delete_file">Delete this file?</string>
@@ -377,7 +375,6 @@ Try moving files from your device to Mi Drive."</string>
     <string name="file_name_existed">Filename is taken</string>
     <string name="file_name_invalid">"File names can't contain the following characters: /\\:*?&lt;>"</string>
     <string name="file_not_exist">"File doesn't exist"</string>
-    <string name="firebase_database_url">https://originfileexplorer.firebaseio.com</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -453,13 +450,8 @@ Try moving files from your device to Mi Drive."</string>
     <string name="function_use_imei">For accessing IMEI and encrypting files</string>
     <string name="gbk_summary">Simplified Chinese Windows default encoding</string>
     <string name="gbk_title">GBK</string>
-    <string name="gcm_defaultSenderId">599532519894</string>
     <string name="gigabyteShort">GB</string>
     <string name="go_ahead">Open</string>
-    <string name="google_api_key">AIzaSyBOhWk2NDbCBnkgtZ7mT4wgmwJvsAFo13Y</string>
-    <string name="google_app_id">1:599532519894:android:c760d23ee4fee168</string>
-    <string name="google_crash_reporting_api_key">AIzaSyBOhWk2NDbCBnkgtZ7mT4wgmwJvsAFo13Y</string>
-    <string name="google_storage_bucket">originfileexplorer.appspot.com</string>
     <string name="grid_mode">Grid view</string>
     <string name="group_title">%2$s from %1$s</string>
     <string name="group_title_extra_new">New</string>
@@ -871,7 +863,6 @@ Try moving files from your device to Mi Drive."</string>
     <string name="private_folder_update_msg">File Manager is introducing an additional security measure: you can encrypt private files now!</string>
     <string name="private_folder_update_msg_summary">Decryption will make removing files from the private folder slower. You can turn encryption on and off in the Settings.</string>
     <string name="private_folder_update_tips">New feature</string>
-    <string name="project_id">originfileexplorer</string>
     <string name="promot_enctypt_password">Enter password used to unlock your device</string>
     <string name="pull_to_enter_private">Pull down to open private folder</string>
     <string name="qq_msg">"Due to Android 11 restrictions, File Manager can't access and display QQ documents."</string>
