@@ -665,7 +665,7 @@ If you need to turn on Miracast, press the [MENU] button and select My apps > Ca
     <string name="menu_new_display_open">用新窗口打开</string>
     <string name="menu_pc_open">用电脑程序打开</string>
     <string name="midnight">Night</string>
-    <string name="milink_required_permissions">android.permission.BLUETOOTH_SCAN;android.permission.BLUETOOTH_CONNECT;android.permission.BLUETOOTH_ADVERTISE;android.permission.ACCESS_FINE_LOCATION;android.permission.ACCESS_COARSE_LOCATION;android.permission.ACCESS_BACKGROUND_LOCATION;android.permission.READ_PHONE_STATE;android.permission.READ_EXTERNAL_STORAGE;android.permission.RECORD_AUDIO;</string>
+    <string name="milink_required_permissions">android.permission.BLUETOOTH_SCAN;android.permission.BLUETOOTH_CONNECT;android.permission.BLUETOOTH_ADVERTISE;android.permission.ACCESS_FINE_LOCATION;android.permission.ACCESS_COARSE_LOCATION;android.permission.ACCESS_BACKGROUND_LOCATION;android.permission.READ_PHONE_STATE;android.permission.READ_EXTERNAL_STORAGE;android.permission.RECORD_AUDIO;android.permission.READ_MEDIA_IMAGES;android.permission.READ_MEDIA_VIDEO;android.permission.READ_MEDIA_AUDIO</string>
     <string name="mipaly_server_exit_touping">请先退出当前投屏</string>
     <string name="miplay_accessibility_cast">Select device</string>
     <string name="miplay_accessibility_cover">Cover</string>
