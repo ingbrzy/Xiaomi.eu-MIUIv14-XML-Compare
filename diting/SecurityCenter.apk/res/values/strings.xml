@@ -470,6 +470,7 @@
     <string name="app_manager_app_version_name">"Version: "</string>
     <string name="app_manager_appupdate_remind">Notify about updates</string>
     <string name="app_manager_as_dlg_msg">Allowing apps to autostart may require additional RAM and battery resources. Allow anyway?</string>
+    <string name="app_manager_as_dlg_msg_new">"Allowing an app to autostart may increase the amount of memory and battery life it uses. MIUI will optimize the autostart permissions of apps you don't use frequently to improve your device's performance."</string>
     <string name="app_manager_as_dlg_title">Attention</string>
     <string name="app_manager_back">Back</string>
     <string name="app_manager_bipartition">Dual apps</string>
@@ -774,6 +775,7 @@ You will not lose any app data."</string>
     <string name="auto_import_games">Put all your games in one place</string>
     <string name="auto_send_correcting_msg">Leave blank to check automatically via a free SMS</string>
     <string name="auto_set_by_brand">Sync data plan details with your carrier</string>
+    <string name="auto_start_tips">"MIUI will optimize the autostart permissions of apps you don't use frequently to improve device performance."</string>
     <string name="auto_task_allow_suggestion">Smart task suggestions</string>
     <string name="auto_task_available_device">Available devices</string>
     <string name="auto_task_condition_choose_battery_level_down">When battery reaches a certain level</string>
@@ -1524,6 +1526,7 @@ All data on your device might be erased and your Lock screen password might be r
     <string name="dialog_btn_delete_icon">Remove</string>
     <string name="dialog_btn_no_create_icon">Cancel</string>
     <string name="dialog_btn_yes_create_icon">Add</string>
+    <string name="dialog_btn_yes_install_icon">Install</string>
     <string name="dialog_change_package_type_summary">Changing data plan type will reset all data usage settings (e.g. data limits) to their default values. Change data plan type now?</string>
     <string name="dialog_change_package_type_title">Changing data plan type</string>
     <string name="dialog_msg_auto_start_declare">Some apps may incorrectly indicate that MIUI has prevented them from starting. Check permissions that have been granted to individual apps in Settings > Apps.</string>
@@ -1533,6 +1536,8 @@ All data on your device might be erased and your Lock screen password might be r
     <string name="dialog_msg_delete_icon_content_phone">Security allows you to clear trash on your device, find and neutralize viruses, save battery, manage permissions, and more.</string>
     <string name="dialog_msg_delete_icon_title_pad">Remove \"Security\" Home screen shortcut?</string>
     <string name="dialog_msg_delete_icon_title_phone">Remove \"Security\" Home screen shortcut?</string>
+    <string name="dialog_msg_install_manager_content">Install Security again?</string>
+    <string name="dialog_msg_install_manager_content_pad">Install Security again?</string>
     <string name="dialog_msg_stop_virus_scan">"Stop security scan before it's finished?"</string>
     <string name="dialog_no_longer_alert">"Don't show again"</string>
     <string name="dialog_remobe_luckymoney_cancle">使用单发版</string>
@@ -1686,7 +1691,7 @@ It will be added to exceptions, but previously blocked items won't appear in cal
     <string name="eletric_group_title_two_identification_risk_mms">Receive warnings when verification codes are forwarded</string>
     <string name="eletric_group_title_two_identification_risk_mms_summary">"You'll receive a warning when verification codes from your messages are forwarded to social media"</string>
     <string name="eletric_group_title_two_identification_risk_screen">Hide private apps</string>
-    <string name="eletric_group_title_two_identification_risk_screen_summary">Casting will be paused if you switch to Alipay, WeChat, Gallery, or Messaging</string>
+    <string name="eletric_group_title_two_identification_risk_screen_summary">"If you open apps containing sensitive personal information (WeChat, Alipay, Gallery, etc.) while sharing your device's screen, this info won't be shown. You can manually start sharing again."</string>
     <string name="eletric_group_two_identification_risk_app">Warn about risky financial transactions</string>
     <string name="eletric_group_two_identification_risk_mms">Verification code protection</string>
     <string name="eletric_identification_unfamiliar_numbers">Identify unknown numbers</string>
@@ -1737,8 +1742,6 @@ medical card"</string>
     <string name="ew_alert_emergency_text_single">Show medical card</string>
     <string name="ew_alert_help_earthquake_title">Seismic wave arrived</string>
     <string name="ew_alert_help_place_navigation">Navigate</string>
-    <string name="ew_alert_help_place_text">If necessary, go to the nearest shelter to ensure safety and get the necessary assistance.</string>
-    <string name="ew_alert_help_place_title">Nearby shelter</string>
     <string name="ew_alert_help_safe_title">Avoid danger</string>
     <string name="ew_alert_help_tips">"Keep calm and stay alert. Stay away from hanging objects, don't take the elevator. Find a safe space, drop, cover, and hold on."</string>
     <string name="ew_alert_no_contact">Set an emergency contact in Security > Earthquake warning first</string>
@@ -2579,6 +2582,12 @@ but also increases power consumption and allows your device to overheat"</string
     <string name="gb_turbo_time_subtitle">Time your sessions</string>
     <string name="gb_turbo_voice_subtitle">Spice up your conversations</string>
     <string name="gb_turbo_wonder_subtitle">Record key moments</string>
+    <string name="gb_vision_enhance">Enhanced visuals</string>
+    <string name="gb_vision_enhance_desc">Improve picture quality and performance</string>
+    <string name="gb_vision_enhance_smart_frame_insertion">Smart frame rate</string>
+    <string name="gb_vision_enhance_smart_frame_insertion_desc">Adjust frame rate automatically to make motion smoother</string>
+    <string name="gb_vision_enhance_super_resolution">Super resolution</string>
+    <string name="gb_vision_enhance_super_resolution_desc">Boost resolution to view finer details</string>
     <string name="gb_voice_change_audition_tip">Demo</string>
     <string name="gb_voice_change_settinged">Voice changer is on</string>
     <string name="gb_voice_changer_cartoon">Cartoon</string>
@@ -3098,6 +3107,32 @@ to respond"</string>
     <string name="main_toolbar_statistic">Data usage stats</string>
     <string name="main_traffic_detail">Data usage</string>
     <string name="make_sure_package_type">Select your data plan</string>
+    <string name="malicious_access_accessibility">开启无障碍服务</string>
+    <string name="malicious_access_install">读取应用列表</string>
+    <string name="malicious_access_location">读取位置</string>
+    <string name="malicious_access_pay">调起支付</string>
+    <string name="malicious_access_wakelock">使用WakeLock</string>
+    <string name="malicious_activity_too_many">频繁前台</string>
+    <string name="malicious_auto_start">自启动</string>
+    <string name="malicious_bg_start">后台弹出</string>
+    <string name="malicious_chain">链式调起</string>
+    <string name="malicious_cold_start">冷启动</string>
+    <string name="malicious_hot_start">热启动</string>
+    <string name="malicious_keyguard_show">锁屏显示</string>
+    <string name="malicious_push_notification">通知栏PUSH</string>
+    <string name="malicious_read_calendar">读取日历</string>
+    <string name="malicious_read_contacts">读取联系人</string>
+    <string name="malicious_read_phone_info">获取手机信息</string>
+    <string name="malicious_read_sms">读取短信</string>
+    <string name="malicious_run_long">运行时间过长</string>
+    <string name="malicious_set_android_widget">高危场景-安卓原生小组件</string>
+    <string name="malicious_system_grant_third_uri">系统授权三方Uri</string>
+    <string name="malicious_system_third_call">系统应用与三方应用之间交互</string>
+    <string name="malicious_time_bg_run">后台时长</string>
+    <string name="malicious_time_fg_run">前台时长</string>
+    <string name="malicious_use_native">Native保活</string>
+    <string name="malicious_win_large">窗口过大</string>
+    <string name="malicious_win_small">窗口过小</string>
     <string name="man_add_application">Add autostart apps manually</string>
     <string name="manage_hybrid_permissions">"Manage app's permissions"</string>
     <string name="managed_user_title">All work apps</string>
@@ -3255,15 +3290,16 @@ Your device is %s faster now."</string>
     <string name="miui_optimization_close_title">This feature is intended for developers and might not be convenient for general users. Turning off MIUI optimization might bring about the following changes:</string>
     <string name="miuix_access_state_desc">Selected</string>
     <string name="miuix_alphabet_indexer_name">Index bar</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselect</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_action_mode_select_all">Select all</string>
     <string name="miuix_appcompat_action_mode_title_empty">Select items</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">More</string>
     <string name="miuix_appcompat_cancel_description">Cancel</string>
     <string name="miuix_appcompat_confirm_description">Confirm</string>
     <string name="miuix_appcompat_delete_description">Delete</string>
-    <string name="miuix_appcompat_deselect_all">Deselect</string>
+    <string name="miuix_appcompat_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_deselect_all_description">Deselect all</string>
+    <string name="miuix_appcompat_edit">Edit</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel</string>
     <string name="miuix_appcompat_search_input_description">Search</string>
     <string name="miuix_appcompat_select_all">Select all</string>
@@ -3670,6 +3706,8 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="operator_number_cmcc">10086</string>
     <string name="operator_number_telcom">10000</string>
     <string name="operator_number_unicom">10010</string>
+    <string name="opt_antivirus_scan_antivirus_notification_summary">Using malicious apps poses security risks</string>
+    <string name="opt_antivirus_scan_single_antivirus_notification_title">%s might be a malicious app</string>
     <string name="optimize_manage_title">Boost speed</string>
     <string name="optimize_result_available_memory_info">Available memory</string>
     <string name="optimize_result_button_cloudspace">Get more cloud storage space</string>
@@ -3810,11 +3848,14 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="pc_main_power_manager_hour_minute">%1$sh %2$sm until fully charged</string>
     <string name="pc_main_sub_battery_text_day_hour">%1$sd %2$sh remaining</string>
     <string name="pc_main_sub_battery_text_hour_minute">%1$sh %2$sm remaining</string>
+    <string name="pc_no_more_remind">"Don't remind"</string>
     <string name="pc_performance_mode_dialog_summary">Your device will be able to work for %s in Performance mode. Note that Performance mode increases power consumption and might lead to overheating.</string>
     <string name="pc_performance_mode_dialog_summary2">Device performance will improve. This might increase power consumption and lead to overheating issues. Turn on anyway?</string>
     <string name="pc_performance_mode_dialog_title">Performance mode</string>
     <string name="pc_performance_mode_noti_summary">Performance mode might increase power consumption and lead to overheating issues</string>
     <string name="pc_performance_mode_noti_title">Improved device performance</string>
+    <string name="pc_remind_close_cover_to_charge_summary">Fold the device before charging for a faster and more stable charging experience.</string>
+    <string name="pc_remind_close_cover_to_charge_title">Fold to charge</string>
     <string name="pc_search_keywords_battery">Battery</string>
     <string name="pc_search_keywords_battery_save">Battery saver</string>
     <string name="pc_search_keywords_battery_use">Battery usage</string>
@@ -3828,6 +3869,8 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="pc_temperature_too_high">Device overheated</string>
     <string name="pc_to_phone_install">Blocked installation of %s via USB</string>
     <string name="pc_wait_device_cools_down">Wait until your device cools down to be able to use this feature.</string>
+    <string name="pc_wireless_charge_adjust_position_summary">Put it on the wireless charger</string>
+    <string name="pc_wireless_charge_adjust_position_title">Charge your device faster</string>
     <string name="pc_xiaoai_create_auto_task">New task from Mi AI</string>
     <string name="per_month_pkg_traffic_settings">Set data limit</string>
     <string name="percent_formatted_text">%s%%</string>
@@ -5712,6 +5755,7 @@ Formatting will erase existing content on the ^2. To avoid losing content, back 
     <string name="superpower_settins_autoleave_title">Turn off automatically</string>
     <string name="superpower_settins_other">Additional settings</string>
     <string name="superpower_settins_switch_summary">Restricts most power-consuming features in order to leave basic functionality (e.g. calls, SMS, and selected apps) available as long as possible</string>
+    <string name="support_app_name_securitycenter">Security tools</string>
     <string name="support_game_booster_tips">Boost speed &amp; improve gaming experience</string>
     <string name="sys_app_prot_cracked_confirm">Got it</string>
     <string name="sys_cpu_title">CPU usage</string>
@@ -6280,6 +6324,16 @@ Remaining data includes data that has been rolled over from the previous month."
     <string name="vb_ve_settings_ai_stronger">AI</string>
     <string name="vb_ve_settings_display_style_tips">*These effects are applied to the whole screen</string>
     <string name="vb_ve_settings_display_style_tips_new">*Effects will be applied to video playback area only</string>
+    <string name="vb_ve_settings_display_style_tips_new_with_conflict_tips">"*This effect will only be applied to the video playback area.
+
+This feature doesn't work with enhanced videos.
+
+Turning on one will turn off the other."</string>
+    <string name="vb_ve_settings_display_style_tips_with_conflict_tips">"*This effect will be applied to the entire screen.
+
+This feature doesn't work with enhanced videos.
+
+Turning on one will turn off the other."</string>
     <string name="vb_ve_settings_pic_border_stronger">Enhanced contours</string>
     <string name="vb_ve_settings_picture_stronger">Enhanced animations</string>
     <string name="vb_video_effects_3d">Surround sound</string>
@@ -6295,6 +6349,7 @@ Remaining data includes data that has been rolled over from the previous month."
     <string name="vb_video_effects_dolby_tips">"Enhanced dialogue and Expanded stereo won't work when Immersive sound is on"</string>
     <string name="vb_video_effects_immersion_sound">Immersive sound</string>
     <string name="vb_video_effects_immersion_sound_summary">Experience immersion and sense of space when supported audio is played through earphones</string>
+    <string name="vb_video_effects_immersion_sound_summary_new">Experience immersion and sense of space when supported audio is played</string>
     <string name="vb_video_effects_liquid_summary">Enhance dialogue clarity in videos</string>
     <string name="vb_video_effects_only_headphone">Only works with earphones</string>
     <string name="vb_video_effects_setting_black_white">B&amp;W</string>
