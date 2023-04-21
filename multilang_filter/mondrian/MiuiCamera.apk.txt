@@ -1,6 +1,8 @@
+Removed: [be] strings.xml: string/tip_ultra_pixel_50M_format (format mismatch)
 Removed: [de] plurals.xml: plurals/abbrev_a_hour_ago (format mismatch)
 Removed: [de] plurals.xml: plurals/abbrev_in_a_hour (format mismatch)
 Removed: [es] strings.xml: string/dolly_zoom_capture_tip1 (format mismatch)
 Removed: [ko] strings.xml: string/update_loading (format mismatch)
+Removed: [pl] strings.xml: string/tip_ultra_pixel_50M_format (format mismatch)
 Removed: [uk] strings.xml: string/update_loading (format mismatch)
 Removed: [vi] strings.xml: string/update_loading (format mismatch)
