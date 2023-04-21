@@ -392,8 +392,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">73faadb27abf4932b0df914bb443d7fa</string>
-    <string name="com.miapm.build_id">7313121c374441dbac0533f176a54ce4</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">a8a8be13ea16450493cd5cec6858dae3</string>
+    <string name="com.miapm.build_id">bd2c23b00acb4e5dacce01ff053b3ee0</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="commit">Submit</string>
     <string name="commit_frequently">Submit too frequently, please try again later</string>
@@ -2912,9 +2912,10 @@ Delta update size: %2$s"</string>
     <string name="yandex_ads_internal_install">Установить</string>
     <string name="yandex_ads_internal_install_from_google_play">Установить из Google Play</string>
     <string name="yandex_ads_internal_instream_ad_position">%1$d из %2$d</string>
-    <string name="yandex_ads_internal_instream_advertiser_social">Социальная реклама</string>
-    <string name="yandex_ads_internal_instream_advertiser_yandex">Реклама</string>
+    <string name="yandex_ads_internal_instream_call_to_action">Перейти ➔</string>
     <string name="yandex_ads_internal_instream_skip">Пропустить</string>
+    <string name="yandex_ads_internal_instream_sponsored_social">СОЦИАЛЬНАЯ РЕКЛАМА</string>
+    <string name="yandex_ads_internal_instream_sponsored_yandex">РЕКЛАМА</string>
     <string name="yandex_ads_internal_rewarded_close_verification_button_close">Закрыть</string>
     <string name="yandex_ads_internal_rewarded_close_verification_button_dismiss">Досмотреть</string>
     <string name="yandex_ads_internal_rewarded_close_verification_text">Если закрыть рекламу до окончания таймера, награда за просмотр не будет начислена</string>
