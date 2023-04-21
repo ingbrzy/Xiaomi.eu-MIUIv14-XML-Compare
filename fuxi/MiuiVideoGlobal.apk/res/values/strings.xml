@@ -290,8 +290,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">de936cc1b585492991564e7f5141deb6</string>
-    <string name="com.miapm.build_id">109dfb196c654fdc8004538d8f4f73ec</string>
+    <string name="com.crashlytics.android.build_id">b7771e632193444aa83b505d26769a54</string>
+    <string name="com.miapm.build_id">912d0294fa80401dbb9c5e6b6a8c1973</string>
     <string name="com_permission_desc">"Mi Video can't access videos on your device. Allow access in the Settings."</string>
     <string name="com_permission_title">Permissions required</string>
     <string name="comment_model_add_comment">Add a comment</string>
@@ -428,6 +428,7 @@ Send this code to the supervisor."</string>
     <string name="dialog_video_high">High</string>
     <string name="dialog_video_low">Low</string>
     <string name="dialog_video_medium">Medium</string>
+    <string name="dialog_ytb_content">"You're about to leave Mi Video and open YouTube. Continue?"</string>
     <string name="disagree">"Don't agree"</string>
     <string name="diy_channels_tips">You can customize the list of your channels now.</string>
     <string name="do_not_show_again">"Don't show again"</string>
@@ -2119,9 +2120,10 @@ for videos"</string>
     <string name="yandex_ads_internal_install">Установить</string>
     <string name="yandex_ads_internal_install_from_google_play">Установить из Google Play</string>
     <string name="yandex_ads_internal_instream_ad_position">%1$d из %2$d</string>
-    <string name="yandex_ads_internal_instream_advertiser_social">Социальная реклама</string>
-    <string name="yandex_ads_internal_instream_advertiser_yandex">Реклама</string>
+    <string name="yandex_ads_internal_instream_call_to_action">Перейти ➔</string>
     <string name="yandex_ads_internal_instream_skip">Пропустить</string>
+    <string name="yandex_ads_internal_instream_sponsored_social">СОЦИАЛЬНАЯ РЕКЛАМА</string>
+    <string name="yandex_ads_internal_instream_sponsored_yandex">РЕКЛАМА</string>
     <string name="yandex_ads_internal_rewarded_close_verification_button_close">Закрыть</string>
     <string name="yandex_ads_internal_rewarded_close_verification_button_dismiss">Досмотреть</string>
     <string name="yandex_ads_internal_rewarded_close_verification_text">Если закрыть рекламу до окончания таймера, награда за просмотр не будет начислена</string>
