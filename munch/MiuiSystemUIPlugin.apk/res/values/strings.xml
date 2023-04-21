@@ -527,15 +527,6 @@
     <string name="quick_settings_mute_label">Mute</string>
     <string name="quick_settings_nightmode_label">Dark mode</string>
     <string name="quick_settings_papermode_label">Reading mode</string>
-    <string name="quick_settings_pcmode_cancel_button">Cancel</string>
-    <string name="quick_settings_pcmode_dialog_message_turnoff">Turn off PC mode</string>
-    <string name="quick_settings_pcmode_dialog_message_turnon">Turn on PC mode</string>
-    <string name="quick_settings_pcmode_dialog_remember_text">"Don't show again"</string>
-    <string name="quick_settings_pcmode_error">"Couldn't find this app. Install it first."</string>
-    <string name="quick_settings_pcmode_label">PC mode</string>
-    <string name="quick_settings_pcmode_ok_button">OK</string>
-    <string name="quick_settings_pcmode_turn_off_description">"Your phone's display will be shown on the external monitor. Turn off PC mode?"</string>
-    <string name="quick_settings_pcmode_turn_on_description">"Your computer's display will be shown on the external monitor. Turn on PC mode?"</string>
     <string name="quick_settings_powermode_label">Performance mode</string>
     <string name="quick_settings_quietmode_label">DND</string>
     <string name="quick_settings_rotationlock_label">Rotate off</string>
@@ -545,9 +536,9 @@
     <string name="quick_settings_screenshot_label">Screenshot</string>
     <string name="quick_settings_sim_disabled">" (Disabled)"</string>
     <string name="quick_settings_sync_label">Sync</string>
-    <string name="quick_settings_tiles_default">vowifi1,vowifi2,cell,wifi,bt,airplane,autobrightness,mute,screenshot,flashlight,rotation,screenlock,custom(com.miui.screenrecorder/.service.QuickService),scanner,papermode,night,quietmode,batterysaver,extremebatterysaver,custom(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),pcmode,custom(com.miui.mishare.connectivity/.tile.MiShareTileService),uwb_shp,aitranslate,powermode,freeformhang,vibrate,hotspot,sync,custom(com.google.android.gms/.nearby.sharing.SharingTileService),screenbutton,wirelesspower,nfc,dolbyatomssound,circulateworld,custom(com.miui.securitycenter/com.miui.permcenter.settings.InvisibleModeTileService),edit</string>
+    <string name="quick_settings_tiles_default">vowifi1,vowifi2,cell,wifi,bt,airplane,autobrightness,mute,screenshot,flashlight,rotation,screenlock,custom(com.miui.screenrecorder/.service.QuickService),scanner,papermode,night,quietmode,batterysaver,custom(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),custom(com.miui.mishare.connectivity/.tile.MiShareTileService),uwb_shp,aitranslate,freeformhang,vibrate,hotspot,sync,custom(com.google.android.gms/.nearby.sharing.SharingTileService),wirelesspower,nfc,dolbyatomssound,custom(com.miui.securitycenter/com.miui.permcenter.settings.InvisibleModeTileService),edit</string>
     <string name="quick_settings_tiles_old_mode">cell,wifi,bt,flashlight,batterysaver,screenshot,edit</string>
-    <string name="quick_settings_tiles_stock">vowifi1,vowifi2,cell,wifi,bt,airplane,autobrightness,mute,screenshot,flashlight,rotation,screenlock,scanner,papermode,night,quietmode,batterysaver,extremebatterysaver,pcmode,uwb_shp,aitranslate,powermode,freeformhang,vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,dolbyatomssound,circulateworld,edit,gps,drivemode,hearingassisttile</string>
+    <string name="quick_settings_tiles_stock">vowifi1,vowifi2,cell,wifi,bt,airplane,autobrightness,mute,screenshot,flashlight,rotation,screenlock,scanner,papermode,night,quietmode,batterysaver,uwb_shp,aitranslate,freeformhang,vibrate,hotspot,sync,wirelesspower,nfc,dolbyatomssound,edit,gps,hearingassisttile</string>
     <string name="quick_settings_tiles_super_save">cell,wifi,bt,gps,vibrate</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">To add an item, press and hold it, and then drag it to the upper part of the panel.</string>
     <string name="quick_settings_uwbsh_label">Xiaomi Magic Control</string>

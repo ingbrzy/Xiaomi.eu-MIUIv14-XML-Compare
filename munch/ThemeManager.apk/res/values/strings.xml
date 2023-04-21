@@ -63,6 +63,7 @@
     <string name="ad_tag_text_1">流行</string>
     <string name="ad_tag_text_2">时尚</string>
     <string name="add">Add</string>
+    <string name="add_home_icon_success">Added successfully</string>
     <string name="add_resource_detail_fail">"Can't add resource"</string>
     <string name="afternoon">Afternoon</string>
     <string name="all_resources">All</string>
@@ -781,15 +782,16 @@ mm"</string>
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="miuix_access_state_desc">Selected</string>
     <string name="miuix_alphabet_indexer_name">Index bar</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselect</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_action_mode_select_all">Select all</string>
     <string name="miuix_appcompat_action_mode_title_empty">Select items</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">More</string>
     <string name="miuix_appcompat_cancel_description">Cancel</string>
     <string name="miuix_appcompat_confirm_description">Confirm</string>
     <string name="miuix_appcompat_delete_description">Delete</string>
-    <string name="miuix_appcompat_deselect_all">Deselect</string>
+    <string name="miuix_appcompat_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_deselect_all_description">Deselect all</string>
+    <string name="miuix_appcompat_edit">Edit</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel</string>
     <string name="miuix_appcompat_search_input_description">Search</string>
     <string name="miuix_appcompat_select_all">Select all</string>
@@ -1313,6 +1315,7 @@ You can grant this permission in Settings > Privacy."</string>
     <string name="resource_search_color_hint_red">Red</string>
     <string name="resource_search_color_hint_yellow">Yellow</string>
     <string name="resource_search_history">Search history</string>
+    <string name="resource_search_hot_tag">Popular</string>
     <string name="resource_search_list_empty">"Didn't find anything."</string>
     <string name="resource_see_more">Show all</string>
     <string name="resource_select">Select</string>

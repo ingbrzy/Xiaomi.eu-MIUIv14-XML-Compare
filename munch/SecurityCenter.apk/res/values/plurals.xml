@@ -4,13 +4,13 @@
         <item quantity="other">1 hour ago</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 hour ago</item>
+        <item quantity="other">%d hour ago</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Half an hour ago</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">In 1 hour</item>
+        <item quantity="other">In %d hour</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">In half an hour</item>
@@ -19,15 +19,15 @@
         <item quantity="other">Immediately</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %d mins</item>
-        <item quantity="one">in 1 min</item>
+        <item quantity="other">In %d mins</item>
+        <item quantity="one">In %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Just now</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d mins ago</item>
-        <item quantity="one">1 min ago</item>
+        <item quantity="one">%d min ago</item>
     </plurals>
     <plurals name="add_game_notification_title">
         <item quantity="other">Added %d games</item>
@@ -309,6 +309,14 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">Got it (%ds)</item>
         <item quantity="one">Got it (%ds)</item>
     </plurals>
+    <plurals name="gb_vision_enhance_desc_detail">
+        <item quantity="other">"Note:
+·Enhanced visuals won't be available when Battery saver is on or your device is overheated.
+·Smart frame rate shows best results when your game is set to display at least %d frames per second."</item>
+        <item quantity="one">"Note:
+·Enhanced visuals won't be available when Battery saver is on or your device is overheated.
+·Smart frame rate shows best results when your game is set to display at least %d frame per second."</item>
+    </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"Try Voice changer now
 to get a %d-day free trial!"</item>
@@ -586,6 +594,10 @@ You can get a %d-day free trial now!"</item>
         <item quantity="other">%d apps</item>
         <item quantity="one">%d app</item>
     </plurals>
+    <plurals name="opt_antivirus_scan_multi_antivirus_notification_title">
+        <item quantity="other">%2$d apps including %1$s might be malicious</item>
+        <item quantity="one">%2$d app including %1$s might be malicious</item>
+    </plurals>
     <plurals name="optimize_result_button_add_score">
         <item quantity="other">+%d</item>
         <item quantity="one">+%d</item>
@@ -705,6 +717,10 @@ You can get a %d-day free trial now!"</item>
     <plurals name="power_center_battery_minute">
         <item quantity="other">"%d min "</item>
         <item quantity="one">"%d min "</item>
+    </plurals>
+    <plurals name="power_center_battery_optimization">
+        <item quantity="other">Optimize battery usage in %d scenarios</item>
+        <item quantity="one">Optimize battery usage in %d scenario</item>
     </plurals>
     <plurals name="power_center_battery_problem">
         <item quantity="other">Fix %d battery usage issues</item>
