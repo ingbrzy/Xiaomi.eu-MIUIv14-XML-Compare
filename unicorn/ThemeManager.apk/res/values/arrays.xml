@@ -326,11 +326,6 @@
         <item>@string/wallpaper_set_as_desktop</item>
         <item>@string/wallpaper_set_as_both</item>
     </string-array>
-    <string-array name="set_wallpaper_three_items_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
     <string-array name="set_wallpaper_two_items">
         <item>@string/wallpaper_set_as_desktop</item>
         <item>@string/wallpaper_apply_full</item>
@@ -402,10 +397,6 @@
     <string-array name="system_cta_runtime_perm_phone_state_and_install_app">
         <item>android.permission-group.STORAGE</item>
         <item>com.android.permission.GET_INSTALLED_APPS</item>
-    </string-array>
-    <string-array name="wallpaper_version">
-        <item>视觉中国</item>
-        <item>东方IC</item>
     </string-array>
     <string-array name="week_days">
         <item>@string/sunday</item>
