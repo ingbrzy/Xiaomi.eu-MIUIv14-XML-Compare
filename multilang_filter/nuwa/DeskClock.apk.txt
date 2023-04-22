@@ -1,8 +1,6 @@
 Removed: [ar] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)
 Removed: [be] arrays.xml: array/alarm_in_furture_new_array (item mismatch)
 Removed: [be] arrays.xml: array/alarm_set_new_array (item mismatch)
-Removed: [cs] arrays.xml: array/alarm_in_furture_new_array (item mismatch)
-Removed: [cs] arrays.xml: array/alarm_set_new_array (item mismatch)
 Removed: [el] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)
 Removed: [es] arrays.xml: array/alarm_in_furture_new_array (item mismatch)
 Removed: [es] arrays.xml: array/alarm_set_new_array (item mismatch)
