@@ -288,7 +288,7 @@
     <string name="clearable_edittext_clear_description">Clear</string>
     <string name="close">Close</string>
     <string name="cloud_app_restore_title">Pending</string>
-    <string name="com.crashlytics.android.build_id">606f5d96d96240c6b64e90a5faeed6b4</string>
+    <string name="com.crashlytics.android.build_id">11dc4a87e66241d28e5dd3fdbcc9bd0c</string>
     <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
     <string name="common_home_search_delete">Removing search bar</string>
     <string name="common_home_search_delete_cancle">Cancel</string>
@@ -501,8 +501,9 @@
     <string name="home_gesture_notification_and_control_center">Notification shade and Control center</string>
     <string name="home_gesture_notification_bar">Notifications</string>
     <string name="home_indicator">bottom_point</string>
+    <string name="home_pull_down_content">Swipe down on the Home screen to search for items on this device and online.</string>
+    <string name="home_pull_down_content_tips">You can change your preferences in Settings > Home screen > Swipe down on the Home screen. Your preferences for the swipe up gesture will remain unchanged.</string>
     <string name="home_pull_down_know">Got it</string>
-    <string name="home_pull_up_content">You can open search by swiping down on your Home screen now.</string>
     <string name="home_screen">Home screen</string>
     <string name="home_slide_up_action">Swipe up on the Home screen</string>
     <string name="home_switch_personal_assistant">-1 screen</string>

@@ -259,8 +259,6 @@ Connect charger and turn off screen to make memories appear."</string>
     <string name="app_summary_2">Storing, managing, and editing photos and videos on this device</string>
     <string name="apply">Apply</string>
     <string name="art_still_download_failed_for_notwork">"Couldn't download. Check your network settings and try again."</string>
-    <string name="art_still_download_sdk_without_wifi_msg">"Looks like your device isn't connected to Wi-Fi. Download the plug-in using mobile data?"</string>
-    <string name="art_still_download_sdk_without_wifi_msg_china">"Looks like your device isn't connected to Wi-Fi. Download the plug-in using mobile data?"</string>
     <string name="art_still_download_sdk_without_wifi_title">Download \"Art\" plug-in</string>
     <string name="art_still_load_data_fail">"Couldn't load data"</string>
     <string name="art_still_module_failed">@string/error_install_connect_fail</string>
@@ -268,6 +266,7 @@ Connect charger and turn off screen to make memories appear."</string>
     <string name="art_still_module_loading">Downloading \"Art\" plug-in…</string>
     <string name="assistant_page_community">Community</string>
     <string name="assistant_page_discovery">Discover</string>
+    <string name="assistant_page_image_printing">Print</string>
     <string name="assistant_page_label">Memories</string>
     <string name="assistant_page_server_error">Check your network settings</string>
     <string name="assistant_today_of_year_function_closed_tip">Turn on</string>
@@ -955,7 +954,7 @@ Connect charger and turn off screen to make memories appear."</string>
     <string name="cleaner_empty">Clear all</string>
     <string name="cleaner_empty_value_description">Everything looks good</string>
     <string name="cleaner_photo_pick_delete_selected">Delete selected photos</string>
-    <string name="cleaner_raw_action">View details</string>
+    <string name="cleaner_raw_action">View</string>
     <string name="cleaner_raw_description">Free up storage space by deleting large RAW images</string>
     <string name="cleaner_raw_title">Clear RAW files</string>
     <string name="cleaner_scan_description">Optimizing items frees up storage space on your device</string>
@@ -969,7 +968,7 @@ Connect charger and turn off screen to make memories appear."</string>
     <string name="cleaner_screen_shot_action">View</string>
     <string name="cleaner_screen_shot_description">Delete the screenshots you no longer need.</string>
     <string name="cleaner_screen_shot_title">Delete screenshots</string>
-    <string name="cleaner_similar_action">View details</string>
+    <string name="cleaner_similar_action">View</string>
     <string name="cleaner_similar_description">Delete duplicate photos</string>
     <string name="cleaner_similar_title">Duplicate photos</string>
     <string name="cleaner_size">Clear recently deleted items (%s)</string>
@@ -982,7 +981,7 @@ Connect charger and turn off screen to make memories appear."</string>
     <string name="cleaner_stop_scan">Stop scanning</string>
     <string name="cleaner_subtitle_slim_space_prefix">%1$s %2$s occupied</string>
     <string name="cleaner_title">Cleaner</string>
-    <string name="cleaner_video_action">View details</string>
+    <string name="cleaner_video_action">View</string>
     <string name="cleaner_video_description">Delete videos that take up storage space</string>
     <string name="cleaner_video_pick_delete_selected">Delete selected videos</string>
     <string name="cleaner_video_title">Delete videos</string>
@@ -1760,6 +1759,7 @@ are available"</string>
     <string name="home_menu_collage">Collage</string>
     <string name="home_menu_community">@string/assistant_page_community</string>
     <string name="home_menu_id_photo">ID</string>
+    <string name="home_menu_image_printing">@string/assistant_page_image_printing</string>
     <string name="home_menu_macarons">Magic vignette</string>
     <string name="home_menu_magic_matting">Cutout</string>
     <string name="home_menu_photo_movie">Clip</string>
@@ -1911,7 +1911,7 @@ are available"</string>
     <string name="loading_video_fail_sync_without_network">Connect to the network to download metadata</string>
     <string name="loading_video_fail_syncing">Wait until metadata is fully downloaded and try again</string>
     <string name="loading_video_thumbnail">Downloading video cover…</string>
-    <string name="local_secret_tip">All private items are synced with the cloud when this feature is on. You can change your preferences in Settings > Sync with the cloud > Manage synced albums > Private album.</string>
+    <string name="local_secret_tip">You can keep all private items on this device without syncing them with the cloud. You can change your preferences in Settings > Sync with the cloud > Manage synced albums.</string>
     <string name="login_and_enable_service">Sign in with Xiaomi Account</string>
     <string name="login_by_local_phone_long_text">Sign in now</string>
     <string name="login_by_local_phone_short_text">Sign in</string>
@@ -2130,15 +2130,16 @@ to personalize Gallery"</string>
     <string name="mishop_login_other">Another Account</string>
     <string name="miuix_access_state_desc">Selected</string>
     <string name="miuix_alphabet_indexer_name">Index bar</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselect</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_action_mode_select_all">Select all</string>
     <string name="miuix_appcompat_action_mode_title_empty">Select items</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">More</string>
     <string name="miuix_appcompat_cancel_description">Cancel</string>
     <string name="miuix_appcompat_confirm_description">Confirm</string>
     <string name="miuix_appcompat_delete_description">Delete</string>
-    <string name="miuix_appcompat_deselect_all">Deselect</string>
+    <string name="miuix_appcompat_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_deselect_all_description">Deselect all</string>
+    <string name="miuix_appcompat_edit">Edit</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel</string>
     <string name="miuix_appcompat_search_input_description">Search</string>
     <string name="miuix_appcompat_select_all">Select all</string>
@@ -2287,6 +2288,7 @@ to personalize Gallery"</string>
     <string name="multi_view_tip_sub_title">Spread two fingers apart or move them toward each other to adjust the size of displayed items.</string>
     <string name="multi_view_tip_title">Zooming in and out</string>
     <string name="must_pick_file">Select a photo</string>
+    <string name="my_family">My home</string>
     <string name="name_split">, </string>
     <string name="name_with_ellipsize">%1$s…%2$s</string>
     <string name="national_day">National Day</string>
@@ -3873,6 +3875,7 @@ Until %1$s, you can move your items to Google Photos or visit i.mi.com to downlo
     <string name="user_alias_self">Self</string>
     <string name="user_avatar_update_title">Change profile photo</string>
     <string name="user_avatar_uploading">Just a sec…</string>
+    <string name="user_family">"%1$s's home"</string>
     <string name="user_name_phone_number">Phone number</string>
     <string name="user_notice_identify_summary_format"><Data>"By using this service, you agree to Xiaomi's &lt;a href=\"%1$s\">\"Terms of Service\"&lt;/a> and &lt;a href=\"%2$s\">\"Privacy Policy\"&lt;/a>."</Data></string>
     <string name="user_notice_title">Terms and Conditions</string>
