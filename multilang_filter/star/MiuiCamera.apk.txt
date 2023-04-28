@@ -42,6 +42,7 @@ Removed: [ro] strings.xml: string/moiton_detection_video_temperature_stop_tip (f
 Removed: [ru] strings.xml: string/moiton_detection_video_3840fps_3840 (format mismatch)
 Removed: [ru] strings.xml: string/moiton_detection_video_temperature_stop_tip (format mismatch)
 Removed: [sk] strings.xml: string/moiton_detection_video_temperature_stop_tip (format mismatch)
+Removed: [sk] strings.xml: string/super_moon (duplicate)
 Removed: [sl] strings.xml: string/moiton_detection_video_temperature_stop_tip (format mismatch)
 Removed: [sr] strings.xml: string/moiton_detection_video_3840fps_3840 (format mismatch)
 Removed: [sr] strings.xml: string/moiton_detection_video_temperature_stop_tip (format mismatch)
