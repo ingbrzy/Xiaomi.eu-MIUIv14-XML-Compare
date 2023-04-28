@@ -45,6 +45,12 @@
         <item quantity="other">Duration: %d seconds</item>
         <item quantity="one">Duration: %d second</item>
     </plurals>
+    <plurals name="cinemaster_toast_camera_overflow">
+        <item quantity="other">%dX</item>
+    </plurals>
+    <plurals name="cinemaster_toast_monitor_overflow">
+        <item quantity="other">%dX</item>
+    </plurals>
     <plurals name="clone_guide_tip2">
         <item quantity="other">You can create up to %d clones at a time.</item>
         <item quantity="one">You can create up to %d clone at a time.</item>

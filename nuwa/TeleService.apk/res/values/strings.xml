@@ -1121,6 +1121,8 @@ You can still make emergency calls."</string>
     <string name="incall_number_anonymous_kd">ID Unsent</string>
     <string name="incall_number_unavailable_kd">Not Support</string>
     <string name="incall_status_dialed_mmi">Starting MMI sequence…</string>
+    <string name="intelligent_dual_sim_summary">Use mobile data of the secondary SIM to boost connection speed</string>
+    <string name="intelligent_dual_sim_title">Smart dual SIM</string>
     <string name="international_disable">International news disabled</string>
     <string name="international_enable">International news enabled</string>
     <string name="international_roaming_setting">Data roaming</string>
