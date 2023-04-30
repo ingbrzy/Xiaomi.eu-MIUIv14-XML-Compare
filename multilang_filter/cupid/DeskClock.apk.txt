@@ -6,7 +6,3 @@ Removed: [fa-rIR] arrays.xml: array/alphabet_sub_table_with_starred (item mismat
 Removed: [iw-rIL] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)
 Removed: [pt-rPT] arrays.xml: array/alarm_in_furture_new_array (item mismatch)
 Removed: [pt-rPT] arrays.xml: array/alarm_set_new_array (item mismatch)
-Removed: [ro] arrays.xml: array/alarm_in_furture_new_array (item mismatch)
-Removed: [ro] arrays.xml: array/alarm_set_new_array (item mismatch)
-Removed: [ru] arrays.xml: array/alarm_in_furture_new_array (item mismatch)
-Removed: [ru] arrays.xml: array/alarm_set_new_array (item mismatch)
