@@ -52,6 +52,7 @@
     <string name="app_detail_other_publish">Developer: %1$s</string>
     <string name="app_detail_other_update_time">Updated: %1$s</string>
     <string name="app_detail_other_version">Version: %1$s</string>
+    <string name="app_get_source">应用获取来源</string>
     <string name="app_info_permissions">Permissions</string>
     <string name="app_info_permissions_format">%1$s %2$s</string>
     <string name="app_info_size">Size: %1$s</string>
@@ -354,6 +355,7 @@
     <string name="general_mode_setting_subtitle">Protect against risky apps and privacy violations</string>
     <string name="general_mode_subtitle">Protect against risky apps and privacy violations</string>
     <string name="general_mode_title">General protection</string>
+    <string name="get_the_app_through_mi_app_store">通过小米应用商店获取应用有助于保护您的设备安全</string>
     <string name="give_up">Cancel</string>
     <string name="gold_mi_prize">Golden Mi Award</string>
     <string name="google_application_id" />
@@ -604,6 +606,8 @@
     <string name="ok">OK</string>
     <string name="once_authorize_dialog_message">"This app hasn't passed Xiaomi security tests and isn't available in GetApps yet. You can allow installing this app if you trust it. Remember that the apps that haven't passed our security tests might pose risks."</string>
     <string name="once_authorize_dialog_title">Allow installing %s?</string>
+    <string name="only_get_app_for_mi_store">仅从小米应用商店和经小米认证的开发者获取应用</string>
+    <string name="only_get_app_for_mi_store_sub">小米应用商店及认证开发者所提供的应用全部经过严格的安全合规检查</string>
     <string name="open">Turn on</string>
     <string name="open_app_install_safe_check">Check apps before installation</string>
     <string name="open_app_install_safe_des">Check apps for possible risks and security issues before installation</string>
@@ -872,6 +876,11 @@
     <string name="pure_introduction_title4">Privacy protection</string>
     <string name="pure_introduction_title5">Anti-fraud protection</string>
     <string name="pure_mode_des">Secure mode makes sure that every app installed on your device has passed Xiaomi security tests.</string>
+    <string name="pure_mode_install_completed_setting"><u>设置该应用的管理措施</u></string>
+    <string name="pure_mode_install_completed_tip1">隐匿个人设备标识，防止被追踪</string>
+    <string name="pure_mode_install_completed_tip2">应用独立存储空间，保护隐私</string>
+    <string name="pure_mode_install_completed_tip3">防止误安装、诱导安装应用</string>
+    <string name="pure_mode_install_completed_tip4">防止误触、后台启动其他应用</string>
     <string name="pure_mode_open_toast">Secure mode is on</string>
     <string name="pure_mode_tip_dialog_des">Allow it to complete installation?</string>
     <string name="pure_mode_tip_dialog_elderly_des">To protect your privacy and security, Mi Protect is blocking the installation of apps from unknown or risky sources.</string>
@@ -935,6 +944,13 @@
     <string name="second_recomment_ad_title">People who install &lt;font color=#0BAE73>%1$s&lt;/font> also like</string>
     <string name="secure_mode_app_install_verify">Authorize unverified apps</string>
     <string name="secure_mode_authority_verification_type">Verification method</string>
+    <string name="secure_mode_new_function">新功能</string>
+    <string name="secure_mode_new_function_1">隐匿个人设备标识，防止被追踪</string>
+    <string name="secure_mode_new_function_2">应用独立存储空间，保护隐私</string>
+    <string name="secure_mode_new_function_3">防止误安装、诱导安装应用</string>
+    <string name="secure_mode_new_function_4">防止误触、后台启动其他应用</string>
+    <string name="secure_mode_new_title">"未经安全审核的应用
+实施全面防护措施"</string>
     <string name="secure_mode_open_app_verify_des">"Authorize installation for apps that haven't been verified by GetApps"</string>
     <string name="secure_mode_security_verify">Security authorization</string>
     <string name="secure_verify_close_tip_des">"If you turn this feature off, your device won't perform security checks on apps, and all apps can be downloaded without authorization. Verify your identity to be able to turn off this feature."</string>
@@ -1025,6 +1041,7 @@
     <string name="settings_security_mode_recent_install_app">Recently installed: %1$s</string>
     <string name="settings_security_mode_service_list_title_off_msg">Turn on Mi Protect to enjoy the following features:</string>
     <string name="settings_security_mode_service_list_title_on_msg">Secure mode provides the following features</string>
+    <string name="settings_security_mode_service_msg_0">隐匿个人标识，启用独立存储空间，防误触启动</string>
     <string name="settings_security_mode_service_msg_1">Check apps from unknown sources before installation</string>
     <string name="settings_security_mode_service_msg_2">Control and restrict harmful app activity</string>
     <string name="settings_security_mode_service_msg_3">Control privacy related permissions</string>
@@ -1034,6 +1051,7 @@
     <string name="settings_security_mode_service_opening_msg_3">Payment security</string>
     <string name="settings_security_mode_service_opening_msg_4">Privacy protection</string>
     <string name="settings_security_mode_service_opening_msg_5">Anti-fraud protection</string>
+    <string name="settings_security_mode_service_title_0">全面防护未经安全审核的应用</string>
     <string name="settings_security_mode_service_title_1">Protection from risky apps</string>
     <string name="settings_security_mode_service_title_2">Monitor app behavior</string>
     <string name="settings_security_mode_service_title_3">Privacy protection</string>
