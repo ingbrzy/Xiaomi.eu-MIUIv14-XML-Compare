@@ -137,6 +137,7 @@
     <string name="apply_failure_net_error">The network is abnormal, the request to upload the microphone failed, please try again later~</string>
     <string name="apply_for_the_following_permissions">This app requests the following permissions:</string>
     <string name="apply_permissions_greater_than_pie">You can grant this permission in Settings > Apps > Permissions > Permissions > Files and media > Music.</string>
+    <string name="apply_permissions_greater_than_tiramisu">You can grant this permission in Settings > Apps > Permissions > Music and audio/Photos and videos > Music.</string>
     <string name="apply_permissions_less_than_pie">You can grant this permission in Settings > Apps > Permissions > Permissions > Access and change files on internal storage > Music.</string>
     <string name="apply_permissions_tips_content">Allow this app to access files to discover music on your device.</string>
     <string name="apply_queue">Queue</string>
@@ -392,8 +393,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">3a76ff4fbc814bd6b8e92f97abc1ff5f</string>
-    <string name="com.miapm.build_id">1d7804e1c85f4e0abc96895d58879649</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">8e6aced161bb482bbec29afe7e4ad27c</string>
+    <string name="com.miapm.build_id">9bb436ee108f494a96e1c59d65a7e415</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="commit">Submit</string>
     <string name="commit_frequently">Submit too frequently, please try again later</string>
@@ -1196,6 +1197,8 @@ Please check your network"</string>
     <string name="heavenly_stems_wu">戊</string>
     <string name="heavenly_stems_xin">辛</string>
     <string name="heavenly_stems_yi">乙</string>
+    <string name="hgm_failed_to_connect_hint">"Check your network settings and try again. If the issue is a hungama server error, we'll fix it as soon as possible."</string>
+    <string name="hgm_network_request_error_toast">"Couldn't connect to hungama servers. Try again."</string>
     <string name="hgm_vip_btn_desc">Start free trial</string>
     <string name="hgm_vip_high_quality">High quality downloads</string>
     <string name="hgm_vip_no_ads">No ads or limits</string>
@@ -1464,9 +1467,19 @@ After downloading, please bind it on the settings page before 24:00 on %3$d mont
     <string name="loading_hint">Just a sec…</string>
     <string name="loading_reached_the_bottom">"That's all for now."</string>
     <string name="loading_text">Just a sec…</string>
+    <string name="local_download_download">Download</string>
+    <string name="local_download_hint">Turn on Wi-Fi before downloading</string>
+    <string name="local_download_item">Download for free</string>
+    <string name="local_download_title">Select songs to download</string>
+    <string name="local_download_toast">Downloading…</string>
+    <string name="local_download_toast_notify">Downloading. Check progress in the Notification shade.</string>
     <string name="local_header_title">Local music</string>
     <string name="local_music">Local songs</string>
     <string name="local_music_is_not_available">"You don't have songs on your device."</string>
+    <string name="local_out_dialog_cancel">Cancel</string>
+    <string name="local_out_dialog_desc">"You're about to open another app that isn't associated with Mi Music."</string>
+    <string name="local_out_dialog_ok">OK</string>
+    <string name="local_out_dialog_title">Leaving Mi Music</string>
     <string name="local_page_album_more">View all</string>
     <string name="local_page_artist_more">More songs by %s</string>
     <string name="local_page_playlist">Playlists</string>

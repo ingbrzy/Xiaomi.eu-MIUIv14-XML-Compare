@@ -275,11 +275,6 @@
         <item>@string/record_item_title_multi_choice</item>
         <item>@string/save_as</item>
     </string-array>
-    <string-array name="record_locale_language">
-        <item>fa</item>
-        <item>ar</item>
-        <item>bn</item>
-    </string-array>
     <string-array name="record_quality_entries">
         <item>High</item>
         <item>Standard</item>
@@ -299,14 +294,6 @@
         <item>2</item>
         <item>3</item>
         <item>4</item>
-    </string-array>
-    <string-array name="record_type_entries">
-        <item>MP3</item>
-        <item>AMR</item>
-    </string-array>
-    <string-array name="record_type_values">
-        <item>audio/mpeg</item>
-        <item>audio/amr</item>
     </string-array>
     <string-array name="solar_terms">
         <item>@string/empty</item>
@@ -335,11 +322,6 @@
         <item>@string/solar_term_heavy_snow</item>
         <item>@string/solar_term_winter_solstice</item>
     </string-array>
-    <integer-array name="wave_phase">
-        <item>0</item>
-        <item>-240</item>
-        <item>400</item>
-    </integer-array>
     <string-array name="week_days">
         <item>@string/sunday</item>
         <item>@string/monday</item>
