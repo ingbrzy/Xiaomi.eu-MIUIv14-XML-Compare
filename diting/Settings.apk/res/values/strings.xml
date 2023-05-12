@@ -4707,6 +4707,7 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="imei_information_summary">IMEI relative information</string>
     <string name="imei_information_title">IMEI information</string>
     <string name="imei_multi_sim">IMEI (sim slot %1$d)</string>
+    <string name="imei_multi_sim_softbank">IMEI %1$d</string>
     <string name="imitate_real_keyboard">Traditional keyboard</string>
     <string name="imitate_real_keyboard_summary">Convenient when your device is lying on a flat surface</string>
     <string name="immediately_destroy_activities">"Don't keep activities"</string>
@@ -8955,6 +8956,7 @@ Possibly incorrect PIN."</string>
     <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
     <string name="sim_status_title">SIM status</string>
     <string name="sim_status_title_sim_slot">SIM status (sim slot %1$d)</string>
+    <string name="sim_status_title_sim_softbank">SIM status %1$d</string>
     <string name="sim_switch_button">Switch</string>
     <string name="sim_switch_channel_id">Carrier switching</string>
     <string name="sim_vonr_title">SIM %1$s (%2$s)</string>
@@ -9266,6 +9268,7 @@ A trusted credential installed on your device is making this possible."</string>
     <string name="status_msid_number">MSID</string>
     <string name="status_number">Phone number</string>
     <string name="status_number_sim_slot">Phone number (sim slot %1$d)</string>
+    <string name="status_number_sim_softbank">Phone number %1$d</string>
     <string name="status_number_sim_status">Phone number on SIM</string>
     <string name="status_operator">Network</string>
     <string name="status_prl_version">PRL version</string>
