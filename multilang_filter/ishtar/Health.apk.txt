@@ -1,0 +1,7 @@
+Removed: [de] plurals.xml: plurals/in_a_hour (format mismatch)
+Removed: [ko] plurals.xml: plurals/sporting_content_riding_km (format mismatch)
+Removed: [ko] plurals.xml: plurals/sporting_content_running_km (format mismatch)
+Removed: [ko] plurals.xml: plurals/sporting_content_walking_km (format mismatch)
+Removed: [ko] plurals.xml: plurals/sporting_content_walking_stpe (format mismatch)
+Removed: [tr] plurals.xml: array/repeat_mode_mild_abnormal_array (unexpected type)
+Removed: [tr] plurals.xml: array/repeat_mode_week_array (unexpected type)

@@ -1,0 +1,3 @@
+Removed: [de] plurals.xml: plurals/abbrev_a_hour_ago (format mismatch)
+Removed: [de] plurals.xml: plurals/abbrev_in_a_hour (format mismatch)
+Removed: [sk] strings.xml: string/device_activation_card_description_china (format mismatch)
