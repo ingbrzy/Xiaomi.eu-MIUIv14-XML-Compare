@@ -4,3 +4,4 @@ Removed: [hr] arrays.xml: array/screenrecorder_utils_support_90fps_frames_cpu (i
 Removed: [it] arrays.xml: array/screenrecorder_utils_support_90fps_frames_cpu (item mismatch)
 Removed: [ro] arrays.xml: array/screenrecorder_utils_support_high_frames_cpu (item mismatch)
 Removed: [uk] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)
+Removed: [vi] strings.xml: string/show_hard_key (duplicate)
