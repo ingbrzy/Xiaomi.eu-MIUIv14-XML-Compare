@@ -64,6 +64,7 @@
     <string name="address">地址</string>
     <string name="afternoon">Afternoon</string>
     <string name="agenda_month_empty_hint">No events for today</string>
+    <string name="agenda_not_today_empty_hint">No events here yet. Tap to create one.</string>
     <string name="agenda_tomorrow">TOMORROW, %1$s</string>
     <string name="agenda_view">Events</string>
     <string name="alarm_label">Dismiss</string>
@@ -434,6 +435,7 @@
     <string name="event_info_where">Where</string>
     <string name="event_lunar_month">月</string>
     <string name="event_reminder_allday_day_zero">On that day at %2$s</string>
+    <string name="event_reminder_custom">Custom</string>
     <string name="event_reminder_value_zero">Before the event</string>
     <string name="event_title">Title</string>
     <string name="event_view">View event</string>
@@ -948,6 +950,10 @@ Check network settings and try again."</string>
     <string name="notes_weekly">Weekly</string>
     <string name="notification_channel_description" />
     <string name="notification_channel_name">Calendar reminders</string>
+    <string name="notification_open_setting_button_exit">No thanks</string>
+    <string name="notification_open_setting_button_ok">Allow</string>
+    <string name="notification_open_setting_message">"You won't be able to receive notifications about events unless you allow Calendar to send you notifications."</string>
+    <string name="notification_open_setting_title">Allow Calendar notifications?</string>
     <string name="numbers">%d</string>
     <string name="olympic_rank">排名</string>
     <string name="olympic_total">总数</string>
@@ -1076,6 +1082,8 @@ Check network settings and try again."</string>
     <string name="remind_title_record">Remind to record</string>
     <string name="reminder_overdue">已过期</string>
     <string name="repeat_activity_label">Repeat</string>
+    <string name="repeat_alarm_close_title">This is a repeated event. Turn off alarm reminder?</string>
+    <string name="repeat_alarm_open_title">This is a repeated event. Set alarm reminder?</string>
     <string name="repeat_custom_activity_label">Custom</string>
     <string name="repeat_custom_prompt_daily">every %1$s</string>
     <string name="repeat_custom_prompt_sentence">Event will repeat %1$s</string>
