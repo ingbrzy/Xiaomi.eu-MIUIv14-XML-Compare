@@ -64,6 +64,7 @@
     <string name="address">地址</string>
     <string name="afternoon">Afternoon</string>
     <string name="agenda_month_empty_hint">No events for today</string>
+    <string name="agenda_not_today_empty_hint">No events here yet. Tap to create one.</string>
     <string name="agenda_tomorrow">TOMORROW, %1$s</string>
     <string name="agenda_view">Events</string>
     <string name="alarm_label">Dismiss</string>
@@ -434,6 +435,7 @@
     <string name="event_info_where">Where</string>
     <string name="event_lunar_month">月</string>
     <string name="event_reminder_allday_day_zero">On that day at %2$s</string>
+    <string name="event_reminder_custom">Custom</string>
     <string name="event_reminder_value_zero">Before the event</string>
     <string name="event_title">Title</string>
     <string name="event_view">View event</string>
@@ -526,7 +528,7 @@
     <string name="fortune_name">称呼</string>
     <string name="fortune_name_hint">请输入</string>
     <string name="fortune_no_name">请填写称呼</string>
-    <string name="fortune_setting_tips">设置您的生辰后,可获取您的专属运势。每日黄历运势、财位、桃花、正冲等信息全掌握</string>
+    <string name="fortune_setting_tips">设置您的生辰后，可获取您的专属运势。每日黄历运势、财位、桃花、正冲等信息全掌握</string>
     <string name="fourth_saturday_holiday">Every second and fourth Saturday are days off</string>
     <string name="free_day_default_banner_title">尽情享受美好假期吧！</string>
     <string name="friday">Friday</string>
@@ -712,7 +714,7 @@
     <string name="limit_rule">限行规则</string>
     <string name="limit_select_city">请选择城市</string>
     <string name="limit_setting_label">车辆限行提醒设置</string>
-    <string name="limit_setting_tips">开启并设置提醒后，你的爱车当天限行时你会收到日历的限行提醒。非数字尾号设置说明：%1$s</string>
+    <string name="limit_setting_tips">开启并设置提醒后，您的爱车当天限行时你会收到日历的限行提醒。非数字尾号设置说明：%1$s</string>
     <string name="limit_setting_tips_url">点击查看</string>
     <string name="limit_today">今天</string>
     <string name="limit_tomorrow">明天</string>
@@ -948,6 +950,10 @@ Check network settings and try again."</string>
     <string name="notes_weekly">Weekly</string>
     <string name="notification_channel_description" />
     <string name="notification_channel_name">Calendar reminders</string>
+    <string name="notification_open_setting_button_exit">No thanks</string>
+    <string name="notification_open_setting_button_ok">Allow</string>
+    <string name="notification_open_setting_message">"You won't be able to receive notifications about events unless you allow Calendar to send you notifications."</string>
+    <string name="notification_open_setting_title">Allow Calendar notifications?</string>
     <string name="numbers">%d</string>
     <string name="olympic_rank">排名</string>
     <string name="olympic_total">总数</string>
@@ -1076,6 +1082,8 @@ Check network settings and try again."</string>
     <string name="remind_title_record">Remind to record</string>
     <string name="reminder_overdue">已过期</string>
     <string name="repeat_activity_label">Repeat</string>
+    <string name="repeat_alarm_close_title">This is a repeated event. Turn off alarm reminder?</string>
+    <string name="repeat_alarm_open_title">This is a repeated event. Set alarm reminder?</string>
     <string name="repeat_custom_activity_label">Custom</string>
     <string name="repeat_custom_prompt_daily">every %1$s</string>
     <string name="repeat_custom_prompt_sentence">Event will repeat %1$s</string>
@@ -1157,7 +1165,7 @@ Check network settings and try again."</string>
     <string name="setting_title_import_todo">Import tasks</string>
     <string name="setting_title_policy">Privacy Policy</string>
     <string name="setting_title_yiji_display">显示黄历宜忌</string>
-    <string name="setting_toast_dump_mylog_done">生成成功,您的日志在文件管理器\"手机/MIUI/debug_log/com.android.calendar/dump\"文件夹下</string>
+    <string name="setting_toast_dump_mylog_done">生成成功，您的日志在文件管理器\"手机/MIUI/debug_log/com.android.calendar/dump\"文件夹下</string>
     <string name="setting_user_experience">用户体验计划</string>
     <string name="settings_global_search">Search</string>
     <string name="settings_show_long_holiday">Long holidays</string>
