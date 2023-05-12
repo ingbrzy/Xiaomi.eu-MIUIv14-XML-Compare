@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 hour ago</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 hour ago</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Half an hour ago</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">In 1 hour</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">In half an hour</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Immediately</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">in %d mins</item>
+        <item quantity="one">in 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Just now</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d mins ago</item>
+        <item quantity="one">1 min ago</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Half an hour ago</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">In 1 hour</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">In half an hour</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Immediately</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">in %d minutes</item>
+        <item quantity="one">in 1 minute</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Just now</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d items selected</item>
+        <item quantity="one">%d item selected</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d new notifications</item>
+        <item quantity="one">%d new notification</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minutes ago</item>
+        <item quantity="one">1 minute ago</item>
+    </plurals>
+    <plurals name="pa_accessibility_olympic_bronze_medal_count">
+        <item quantity="other">%d bronze medals</item>
+        <item quantity="one">%d bronze medal</item>
+    </plurals>
+    <plurals name="pa_accessibility_olympic_gold_medal_count">
+        <item quantity="other">%d gold medals</item>
+        <item quantity="one">%d gold medal</item>
+    </plurals>
+    <plurals name="pa_accessibility_olympic_medal_count">
+        <item quantity="other">%d medals total</item>
+        <item quantity="one">%d medal total</item>
+    </plurals>
+    <plurals name="pa_accessibility_olympic_rank">
+        <item quantity="other">Place %d</item>
+        <item quantity="one">Place %d</item>
+    </plurals>
+    <plurals name="pa_accessibility_olympic_silver_medal_count">
+        <item quantity="other">%d silver medals</item>
+        <item quantity="one">%d silver medal</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_1">
+        <item quantity="other">Widget store. App list. %d items in the app list.</item>
+        <item quantity="one">Widget store. App list. %d item in the app list.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_3">
+        <item quantity="other">Number %d in the list.</item>
+        <item quantity="one">Number %d in the list.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_4">
+        <item quantity="other">The item contains %d widgets. Double tap to open the widget description.</item>
+        <item quantity="one">The item contains %d widget. Double tap to open the widget description.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_1">
+        <item quantity="other">Widget store. App list. %d items in the list.</item>
+        <item quantity="one">Widget store. App list. %d item in the list.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_3">
+        <item quantity="other">Number %d in the list.</item>
+        <item quantity="one">Number %d in the list.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_4">
+        <item quantity="other">The item contains %d widgets. Double tap to open the widget description.</item>
+        <item quantity="one">The item contains %d widget. Double tap to open the widget description.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_1">
+        <item quantity="other">Widget store. App list. %d items in the list.</item>
+        <item quantity="one">Widget store. App list. %d item in the list.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_3">
+        <item quantity="other">Number %d in the list.</item>
+        <item quantity="one">Number %d in the list.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_4">
+        <item quantity="other">The item contains %d widgets. Double tap to open the widget description.</item>
+        <item quantity="one">The item contains %d widget. Double tap to open the widget description.</item>
+    </plurals>
+    <plurals name="pa_base_time_hour_ago">
+        <item quantity="other">%d hrs ago</item>
+        <item quantity="one">%d hr ago</item>
+    </plurals>
+    <plurals name="pa_base_time_minute_ago">
+        <item quantity="other">%d mins ago</item>
+        <item quantity="one">%d min ago</item>
+    </plurals>
+    <plurals name="pa_edit_text_limit">
+        <item quantity="other">Enter up to %1$d characters</item>
+        <item quantity="one">Enter up to %1$d character</item>
+    </plurals>
+    <plurals name="pa_edit_text_min_length">
+        <item quantity="other">At least %1$d characters</item>
+        <item quantity="one">At least %1$d character</item>
+    </plurals>
+    <plurals name="pa_express_content_title_1">
+        <item quantity="other">%d packages are on their way</item>
+        <item quantity="one">%d package is on its way</item>
+    </plurals>
+    <plurals name="pa_express_history_dialog_delete_message">
+        <item quantity="other">Delete %s items now?</item>
+        <item quantity="one">Delete %s item now?</item>
+    </plurals>
+    <plurals name="pa_express_history_menu_select_num">
+        <item quantity="other">Selected %s items</item>
+        <item quantity="one">Selected %s item</item>
+    </plurals>
+    <plurals name="pa_express_main_mul_choice_title">
+        <item quantity="other">%d items selected</item>
+        <item quantity="one">%d item selected</item>
+    </plurals>
+    <plurals name="pa_express_settings_title_2">
+        <item quantity="other">"You've added %d phone numbers"</item>
+        <item quantity="one">"You've added %d phone number"</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_abandoned">
+        <item quantity="other">%d packages abandoned</item>
+        <item quantity="one">%d package abandoned</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_agent">
+        <item quantity="other">%d packages awaiting pickup</item>
+        <item quantity="one">%d package awaiting pickup</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_canceled">
+        <item quantity="other">%d packages canceled</item>
+        <item quantity="one">%d package canceled</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_delivering">
+        <item quantity="other">%d packages out for delivery</item>
+        <item quantity="one">%d package out for delivery</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_failed">
+        <item quantity="other">%d packages experiencing issues</item>
+        <item quantity="one">%d package experiencing issues</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_on_ground">
+        <item quantity="other">%d packages in transit</item>
+        <item quantity="one">%d package in transit</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_reject">
+        <item quantity="other">"%d packages couldn't be delivered"</item>
+        <item quantity="one">"%d package couldn't be delivered"</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_sign">
+        <item quantity="other">%d packages delivered</item>
+        <item quantity="one">%d package delivered</item>
+    </plurals>
+    <plurals name="pa_picker_app_list_widget_count">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="pa_picker_detail_suit_price_suffix">
+        <item quantity="other">%s Mi Coins</item>
+        <item quantity="one">%s Mi Coin</item>
+    </plurals>
+    <plurals name="pa_shopping_page_product_delete_dialog_message">
+        <item quantity="other">Delete %d selected items now?</item>
+        <item quantity="one">Delete %d selected item now?</item>
+    </plurals>
+    <plurals name="pa_stock_display_list_label">
+        <item quantity="other">%1$d companies on the widget</item>
+        <item quantity="one">%1$d company on the widget</item>
+    </plurals>
+</resources>
