@@ -176,6 +176,7 @@
     <string name="close">Close</string>
     <string name="close_camera_failed">"Couldn't turn off camera…"</string>
     <string name="close_camera_requesting">Turning off camera…</string>
+    <string name="cloud_video_conference">Cloud video conference</string>
     <string name="conference_call_description" formatted="false">%s,%s etc. total %s</string>
     <string name="conference_call_recorder_title">Conference call</string>
     <string name="conference_call_single_description" formatted="false">%s etc. total %s</string>
@@ -323,7 +324,7 @@
     <string name="heavenly_stems_wu">戊</string>
     <string name="heavenly_stems_xin">辛</string>
     <string name="heavenly_stems_yi">乙</string>
-    <string name="high_temperature_toast">In high temperature protection, the function is temporarily unavailable</string>
+    <string name="high_temperature_toast">"Your device is overheated. Can't use this feature now."</string>
     <string name="inCallLabel">Phone</string>
     <string name="incall_bubble_hangup_click_hint">Tap again to go back to call</string>
     <string name="incall_call_type_label_sip">Internet call</string>
