@@ -168,6 +168,10 @@
         <item quantity="other">+%d</item>
         <item quantity="one">+%d</item>
     </plurals>
+    <plurals name="month_more_events_RTL">
+        <item quantity="other">%d+</item>
+        <item quantity="one">%d+</item>
+    </plurals>
     <plurals name="n_attendees">
         <item quantity="other">%1$d个邀请对象</item>
         <item quantity="one">1个邀请对象</item>
