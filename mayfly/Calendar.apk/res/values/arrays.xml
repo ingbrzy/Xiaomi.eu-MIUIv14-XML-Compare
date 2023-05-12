@@ -237,6 +237,10 @@
         <item>@string/chinese_symbol_animals_dog</item>
         <item>@string/chinese_symbol_animals_pig</item>
     </string-array>
+    <string-array name="close_alarm_repeating_labels">
+        <item>Turn off once</item>
+        <item>Always off</item>
+    </string-array>
     <string-array name="date_calculate_spinner">
         <item>Forwards</item>
         <item>Backwards</item>
@@ -565,6 +569,10 @@
         <item>@string/month_october_shortest</item>
         <item>@string/month_november_shortest</item>
         <item>@string/month_december_shortest</item>
+    </string-array>
+    <string-array name="open_alarm_repeating_labels">
+        <item>Turn on once</item>
+        <item>Always on</item>
     </string-array>
     <string-array name="panchang_weeks">
         <item>Sunday</item>
@@ -970,7 +978,7 @@
         <item>Asia/Karachi</item>
         <item>Asia/Oral</item>
         <item>Asia/Yekaterinburg</item>
-        <item>Asia/Calcutta</item>
+        <item>Asia/Kolkata</item>
         <item>Asia/Colombo</item>
         <item>Asia/Katmandu</item>
         <item>Asia/Almaty</item>
