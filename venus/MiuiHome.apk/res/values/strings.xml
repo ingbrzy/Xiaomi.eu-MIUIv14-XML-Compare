@@ -151,8 +151,6 @@
     <string name="apply_as_wallpaper">Set as Home screen</string>
     <string name="apply_both">Set both</string>
     <string name="apply_text">APPLY</string>
-    <string name="assistant_edge_gesture_summary">Swipe up from bottom-left or bottom-right corner to wake Google Assistant</string>
-    <string name="assistant_edge_gesture_title">Swipe up from corner for Google Assistant</string>
     <string name="auto_add_app_shortcut">Place new apps on the Home screen</string>
     <string name="auto_delete_category_dialog_content">Current apps will be removed from this category and the category will be deleted. Delete this category now?</string>
     <string name="auto_delete_category_dialog_title">Deleting category</string>
@@ -288,7 +286,7 @@
     <string name="clearable_edittext_clear_description">Clear</string>
     <string name="close">Close</string>
     <string name="cloud_app_restore_title">Pending</string>
-    <string name="com.crashlytics.android.build_id">9e88b9f602ea43fabce434e2199f1f93</string>
+    <string name="com.crashlytics.android.build_id">d4e829dfd3b54bc2b928a3a606887b29</string>
     <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
     <string name="common_home_search_delete">Removing search bar</string>
     <string name="common_home_search_delete_cancle">Cancel</string>
@@ -459,6 +457,8 @@
     <string name="friday">Friday</string>
     <string name="friday_short">Fri</string>
     <string name="friday_shortest">Fri</string>
+    <string name="fsg_assist_enable_summary">Swipe from the corner of the screen to use Google Assistant</string>
+    <string name="fsg_assist_enable_title">Google Assistant</string>
     <string name="fsg_mistake_touch_summary">In some cases (e.g. when playing games or watching videos), gestures will only work after they are repeated</string>
     <string name="fsg_mistake_touch_title">Gesture confirmation</string>
     <string name="gadget_clear_button_label">Cleaner</string>
@@ -907,6 +907,7 @@ Enhanced security."</string>
     <string name="share">Share</string>
     <string name="sharedUserId" />
     <string name="shortcut_share_dialog_content">"The files you send from your phone, as well as their recipients, are selected and determined by you. Be attentive when you choose files to share and select recipients. You may not use your phone to transmit any viruses, malware, Trojans, time bombs, and other harmful objects to other people. Don't use your phone to transmit any software that may affect the regular usage of the recipient's device or any items that may damage, interfere with, intercept, or eliminate any system data or personal information on mobile terminal devices. You'll be responsible for any damage caused to other users or mobile terminal devices. Xiaomi will do its best to ensure that the sharing functionality, as well as the technology and information involved, are safe, effective, accurate, and reliable. However, due to the current technology limitations, Xiaomi doesn't guarantee that the sharing functionality is flawless and will satisfy all your needs."</string>
+    <string name="shortcut_share_dialog_content_pad">"The files you send from your device, as well as their recipients, are selected and determined by you. Be attentive when you choose files to share and select recipients. You may not use your device to transmit any viruses, malware, Trojans, time bombs, and other harmful objects to other people. Don't use your device to transmit any software that may affect the regular usage of the recipient's device or any items that may damage, interfere with, intercept, or eliminate any system data or personal information on mobile terminal devices. You'll be responsible for any damage caused to other users or mobile terminal devices. Xiaomi will do its best to ensure that the sharing functionality, as well as the technology and information involved, are safe, effective, accurate, and reliable. However, due to the current technology limitations, Xiaomi doesn't guarantee that the sharing functionality is flawless and will satisfy all your needs."</string>
     <string name="shortcut_share_dialog_positive_button">Got it</string>
     <string name="shortcut_share_dialog_title">Disclaimer</string>
     <string name="show_all">Show all</string>
