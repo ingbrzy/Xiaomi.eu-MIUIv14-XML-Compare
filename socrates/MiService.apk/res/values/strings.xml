@@ -355,7 +355,7 @@ Email: service.jp@xiaomi.com"</string>
     <string name="miui_mine_address_choose_province_gpscity">定位省市</string>
     <string name="miui_mine_address_choose_province_hotcity">热门省市</string>
     <string name="miui_mine_address_info_">热门省市</string>
-    <string name="miui_mine_lbs_title_nostore_text">你的城市暂无%s</string>
+    <string name="miui_mine_lbs_title_nostore_text">您的城市暂无%s</string>
     <string name="miui_mine_loading_text">加载中</string>
     <string name="miui_mine_net_error_retry">刷新试试</string>
     <string name="miui_mine_net_error_sub_title">请检查您的网络连接是否正常</string>
