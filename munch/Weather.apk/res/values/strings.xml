@@ -35,7 +35,7 @@
     <string name="accessibility_ad_close">关闭推荐内容</string>
     <string name="act_find_city_hint">Enter location</string>
     <string name="act_find_city_hot_city_title">Popular cities</string>
-    <string name="act_location_error_to_find_city">"Couldn't get location info. You can add a city manually."</string>
+    <string name="act_location_error_to_find_city">"Couldn't get location info. You can add a location manually."</string>
     <string name="act_set_city_find_side">Locating</string>
     <string name="act_set_city_find_side_error">"Can't locate device"</string>
     <string name="act_weather_find_city_added">Added</string>
@@ -309,7 +309,7 @@
     <string name="feedback_result_fail_no_choice">Choose the current weather conditions</string>
     <string name="feedback_result_fail_no_reason">Thanks for your feedback!</string>
     <string name="feedback_result_fail_same_type">"Looks like your report isn't different from the current weather. Try again."</string>
-    <string name="feedback_result_success">Submitted successfully, thank you for your feedback.</string>
+    <string name="feedback_result_success">Submitted successfully. Thanks for your feedback.</string>
     <string name="feedback_sandy">Sandy</string>
     <string name="feedback_sunny">Clear</string>
     <string name="firebase_database_url">https://globalmiuiweather.firebaseio.com</string>
