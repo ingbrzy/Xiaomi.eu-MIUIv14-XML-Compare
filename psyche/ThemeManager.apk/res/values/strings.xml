@@ -1315,6 +1315,7 @@ You can grant this permission in Settings > Privacy."</string>
     <string name="resource_search_color_hint_red">Red</string>
     <string name="resource_search_color_hint_yellow">Yellow</string>
     <string name="resource_search_history">Search history</string>
+    <string name="resource_search_hot_tag">Popular</string>
     <string name="resource_search_list_empty">"Didn't find anything."</string>
     <string name="resource_see_more">Show all</string>
     <string name="resource_select">Select</string>
