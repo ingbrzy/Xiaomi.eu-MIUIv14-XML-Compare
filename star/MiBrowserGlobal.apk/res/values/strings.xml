@@ -606,8 +606,8 @@ Toggle off to stop syncing."</string>
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">c307a5ad0f8346429a6d1a1937b4af8a</string>
-    <string name="com.miapm.build_id">6f00e236f15e428ebe42205d053439cd</string>
+    <string name="com.crashlytics.android.build_id">7f69fdc027e24215a5358574a5cc27cf</string>
+    <string name="com.miapm.build_id">5c221c8d00034d7699ba337f8653978a</string>
     <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
     <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
@@ -3589,6 +3589,7 @@ You can always opt out in Settings > Privacy &amp; security."</string>
 https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="video_downloader_fail">"Couldn't download this item"</string>
     <string name="video_downloader_retry">Try again</string>
+    <string name="video_guess_you_like">You might like</string>
     <string name="video_play_next">Up next</string>
     <string name="video_replay_btn">Replay</string>
     <string name="video_retry_btn">Try again</string>
