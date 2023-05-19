@@ -566,6 +566,7 @@ You can also track express delivery on the official websites of courier services
     <string name="pa_express_widget_all">All packages</string>
     <string name="pa_express_widget_list_item_desc">"Tracking number: "</string>
     <string name="pa_express_widget_logout">Sign in to view your express delivery packages</string>
+    <string name="pa_express_widget_logout_description">登录查看快递物流状态,点按两次可以激活</string>
     <string name="pa_express_widget_order_42">Enter tracking number</string>
     <string name="pa_express_widget_post">Send package</string>
     <string name="pa_express_widget_search">Search</string>
@@ -845,7 +846,7 @@ to show widgets."</string>
     <string name="pa_shopping_page_product_delete_bar_desc">Delete products</string>
     <string name="pa_shopping_page_product_delete_error">An error occurred. Check your network settings and try again.</string>
     <string name="pa_shopping_page_product_delete_limit">已达到删除上限，无法继续勾选。</string>
-    <string name="pa_shopping_page_product_item_icon_tag_new">猜你喜欢</string>
+    <string name="pa_shopping_page_product_item_icon_tag_new">猜您喜欢</string>
     <string name="pa_shopping_page_product_jump_setting_error">An error occurred. Check your network settings and try again.</string>
     <string name="pa_shopping_page_setting_source_desc">Get discounts and deals on products</string>
     <string name="pa_shopping_page_setting_statement">Disclaimer</string>
@@ -872,6 +873,7 @@ to show widgets."</string>
     <string name="pa_shortcut_desc_add_button_install">To be able to use \"%2$s\", install %1$s first.</string>
     <string name="pa_shortcut_desc_delete_button">Remove %1$s from start page</string>
     <string name="pa_shortcut_desc_more_button">View all shortcuts</string>
+    <string name="pa_shortcut_desc_more_title">更多功能</string>
     <string name="pa_shortcut_download_tip">To be able to use \"%2$s\", install %1$s first.</string>
     <string name="pa_shortcut_empty">Not added</string>
     <string name="pa_shortcut_group_title_start_page">Start page</string>
