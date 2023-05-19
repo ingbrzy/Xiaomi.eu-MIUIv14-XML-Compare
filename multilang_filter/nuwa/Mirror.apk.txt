@@ -10,7 +10,6 @@ Removed: [fa-rIR] arrays.xml: array/alphabet_sub_table_with_starred (item mismat
 Removed: [fr] strings.xml: string/low_battery_notification_content (format mismatch)
 Removed: [hr] strings.xml: string/low_battery_notification_content (format mismatch)
 Removed: [iw-rIL] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)
-Removed: [pl] strings.xml: string/low_battery_notification_content (format mismatch)
 Removed: [pt-rBR] strings.xml: string/low_battery_notification_content (format mismatch)
 Removed: [pt-rPT] strings.xml: string/low_battery_notification_content (format mismatch)
 Removed: [ro] strings.xml: string/low_battery_notification_content (format mismatch)
