@@ -35,6 +35,8 @@
     <string name="afternoon">Afternoon</string>
     <string name="am">AM</string>
     <string name="androidx_startup">androidx.startup</string>
+    <string name="annotation_open">Show tools</string>
+    <string name="annotation_stow">Hide tools</string>
     <string name="app_name">Screenshot</string>
     <string name="asus">Asus</string>
     <string name="asus_phone">Asus</string>
@@ -259,7 +261,7 @@
     <string name="long_screenshot_error">An error occurred. Try again.</string>
     <string name="long_screenshot_guide_text">"Tap to make
 a scrolling screenshot"</string>
-    <string name="long_screenshot_intercepted_error">"Couldn't take screenshot. Try again."</string>
+    <string name="long_screenshot_intercepted_error">An interruption occurred. Screenshot was saved to Gallery.</string>
     <string name="long_screenshot_out_of_memory_error">Image is too big</string>
     <string name="long_screenshot_processing">Processing…</string>
     <string name="long_screenshot_processing_description_accessibility">Processing</string>
@@ -368,7 +370,7 @@ a scrolling screenshot"</string>
     <string name="oppo_phone">OPPO</string>
     <string name="pad_device_model_name">Xiaomi Pad</string>
     <string name="partial_screenshot_edit">Edit</string>
-    <string name="partial_screenshot_failed_to_capture_title">"This app doesn't allow taking screenshots"</string>
+    <string name="partial_screenshot_failed_to_capture_title">"Can't take screenshots of this page"</string>
     <string name="partial_screenshot_failed_to_save_title">"Couldn't save. Not enough storage space."</string>
     <string name="partial_screenshot_insert_failed">"Couldn't save"</string>
     <string name="partial_screenshot_repaint">Start over</string>
@@ -398,6 +400,10 @@ a scrolling screenshot"</string>
     <string name="photo_save_to_msg">Saved to %s</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
+    <string name="privacy_mosaic_result_done">Private information is blocked out</string>
+    <string name="privacy_mosaic_result_fail">"Couldn't block out private information. Try again."</string>
+    <string name="privacy_mosaic_result_none">No private information found</string>
+    <string name="privacy_mosaic_tip">Tap to block out private information</string>
     <string name="realme">realme</string>
     <string name="realme_phone">realme</string>
     <string name="redmi_10x">Redmi 10X</string>
@@ -485,6 +491,9 @@ a scrolling screenshot"</string>
     <string name="screenshot_save">Save</string>
     <string name="screenshot_send">Send</string>
     <string name="screenshot_thumbnail">Screenshot thumbnail</string>
+    <string name="scroll_annotation">Scroll and annotate</string>
+    <string name="scroll_annotation_btn_quit">Exit annotations</string>
+    <string name="scroll_annotation_quit_dialog_picture_msg">Save annotations before exiting?</string>
     <string name="search_menu_title">Search</string>
     <string name="send">Send</string>
     <string name="send_files_by">Share files via</string>
