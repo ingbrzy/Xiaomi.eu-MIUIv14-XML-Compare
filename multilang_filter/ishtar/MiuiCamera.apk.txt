@@ -1,4 +1,5 @@
 Removed: [ar] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)
+Removed: [cs] strings.xml: string/street_tip_near (format mismatch)
 Removed: [de] plurals.xml: plurals/abbrev_a_hour_ago (format mismatch)
 Removed: [de] plurals.xml: plurals/abbrev_in_a_hour (format mismatch)
 Removed: [el] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)
@@ -7,7 +8,6 @@ Removed: [fa-rIR] arrays.xml: array/alphabet_sub_table_with_starred (item mismat
 Removed: [iw-rIL] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)
 Removed: [ko] strings.xml: string/update_loading (format mismatch)
 Removed: [ru] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)
-Removed: [sk] strings.xml: string/module_name_street (duplicate)
 Removed: [sk] strings.xml: string/street_tip_near (format mismatch)
 Removed: [uk] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)
 Removed: [uk] strings.xml: string/update_loading (format mismatch)
