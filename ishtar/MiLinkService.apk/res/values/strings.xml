@@ -831,6 +831,10 @@ If you need to turn on Miracast, press the [MENU] button and select My apps > Ca
     <string name="notify_wifiap_dialog_msg">To scan the code and configure network, turn off portable hotspot first.</string>
     <string name="notify_wifiap_dialog_negative">Got it</string>
     <string name="notify_wifiap_dialog_title">Configure network</string>
+    <string name="onehop_mirror_guide_message_button">Got it</string>
+    <string name="onehop_mirror_guide_message_text_1">Cast your phone display to your computer with one tap.</string>
+    <string name="onehop_mirror_guide_message_text_2">Select photos, videos, and other files from Gallery or File Manager to transfer to your computer.</string>
+    <string name="onehop_mirror_guide_message_title">Mi Smart Hub</string>
     <string name="open_game_accelerate">Turn on Game Turbo</string>
     <string name="p2p_location_des">For connecting your mobile device to external monitors</string>
     <string name="paipai_connect_btn_text">Done</string>
@@ -983,15 +987,6 @@ Read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>
     <string name="solar_term_white_dews">Dews</string>
     <string name="solar_term_winter_begins">Winter begins</string>
     <string name="solar_term_winter_solstice">Winter solstice</string>
-    <string name="stat_cancel">cancel</string>
-    <string name="stat_confirm">confirm</string>
-    <string name="stat_failed">fail</string>
-    <string name="stat_pad">pad</string>
-    <string name="stat_phone">phone</string>
-    <string name="stat_src_click">click</string>
-    <string name="stat_src_pull">pull</string>
-    <string name="stat_src_push">push</string>
-    <string name="stat_success">success</string>
     <string name="status_bar_in_casting">Casting…</string>
     <string name="status_bar_in_casting_long">Tap to view more casting features</string>
     <string name="status_bar_notification_info_overflow">999+</string>
