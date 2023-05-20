@@ -155,6 +155,7 @@
     <string name="effect_selection">Sound effects</string>
     <string name="effect_virtual_surround">Virtual immersive sound</string>
     <string name="effect_virtual_surround_summary">"Enrich sound depth for audio and video playback in headphones (This feature won't work when %.1f audio is played)"</string>
+    <string name="effect_virtual_surround_summary_spk">Enrich sound depth for audio and video playback</string>
     <string name="empty" />
     <string name="end_wireless_transmission">Stop</string>
     <string name="eq_auto">Custom</string>
