@@ -216,7 +216,6 @@ path prefix"</string>
     <string name="always_bcc_myself">Always Bcc self</string>
     <string name="am">AM</string>
     <string name="androidx_startup">androidx.startup</string>
-    <string name="app_loading">Loading…</string>
     <string name="app_name">Mail</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="application_mime_type">application/email-ls</string>
@@ -283,12 +282,6 @@ path prefix"</string>
     <string name="bottom_bar_more_pdf">Export PDF</string>
     <string name="bottom_bar_more_pdf_exporting">Exporting…</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
-    <string name="broker_helper_manifest">Intent filter for AndroidManifest.xml</string>
-    <string name="broker_helper_package">Package name to enter when registering app</string>
-    <string name="broker_helper_redirect">Redirect URI for configuration json file</string>
-    <string name="broker_helper_signature">Signature to enter when registering app</string>
-    <string name="broker_helper_title">MSAL Redirect URI Info</string>
-    <string name="broker_processing">Broker is processing</string>
     <string name="bytes">%s B</string>
     <string name="calendar_remind_dialog_title">Add to calendar</string>
     <string name="calendar_remind_gridview_pick_date">Pick date</string>
@@ -574,6 +567,7 @@ path prefix"</string>
     <string name="empty" />
     <string name="empty_account_tip">"Couldn't find account"</string>
     <string name="empty_email_tip">"Can't send blank message"</string>
+    <string name="encrypt_app_aes_key">cRCaZZvSn73In2mMPjjFHeE0sEcfyB6h</string>
     <string name="enumeration_delimiter">" | "</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
@@ -771,11 +765,6 @@ path prefix"</string>
     <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
     <string name="hierarchical_folder_top">%1$s∕</string>
     <string name="how_to_login_icloud">How to sign in to iCloud mail</string>
-    <string name="http_auth_dialog_cancel">Cancel</string>
-    <string name="http_auth_dialog_login">Login</string>
-    <string name="http_auth_dialog_password">Password</string>
-    <string name="http_auth_dialog_title">Enter your credentials</string>
-    <string name="http_auth_dialog_username">Username</string>
     <string name="icloud_login_tips">You can create a password to use with your iCloud mail here: iCloud.com</string>
     <string name="icloud_login_tips_url_part">iCloud.com</string>
     <string name="icloud_official_url">https://appleid.apple.com/</string>
