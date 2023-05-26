@@ -494,6 +494,7 @@ This may generate additional fees."</string>
     <string name="lockscreen_h5_back_tv">Back</string>
     <string name="lockscreen_h5_close_tv">Off</string>
     <string name="lockscreen_h5_refresh_btn_tv">Refresh</string>
+    <string name="lockscreen_h5_refresh_tip">Check your network settings and try again</string>
     <string name="lockscreen_magazine_summary">Select categories</string>
     <string name="lockscreen_magazine_system_title">Default</string>
     <string name="lockscreen_magazine_title">Wallpaper Carousel</string>
@@ -1166,7 +1167,6 @@ mm"</string>
     <string name="tuesday">Tuesday</string>
     <string name="tuesday_short">Tue</string>
     <string name="tuesday_shortest">Tue</string>
-    <string name="txt_in_image_subscribe_info">%1$s / %2$s</string>
     <string name="understand_band_story">Learn more</string>
     <string name="uninstall_introducation_text_desc">Wallpaper Carousel delivers new quality images directly to your Lock screen. Make sure you can do without its features before you uninstall the app.</string>
     <string name="uninstall_introduction_text_title">About Wallpaper Carousel</string>
