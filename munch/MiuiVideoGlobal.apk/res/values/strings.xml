@@ -290,8 +290,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">acb4b85bf2a2499f9c892226012a9405</string>
-    <string name="com.miapm.build_id">5eeb9f8bc23a4b1db45bbd4f37d7b246</string>
+    <string name="com.crashlytics.android.build_id">02879cd081714983b1dc5b1b3bdbcf5a</string>
+    <string name="com.miapm.build_id">f8b234b52240424ab5780642333fc3b6</string>
     <string name="com_permission_desc">"Mi Video can't access videos on your device. Allow access in the Settings."</string>
     <string name="com_permission_title">Permissions required</string>
     <string name="comment_model_add_comment">Add a comment</string>
@@ -847,6 +847,7 @@ This operation won't affect your gallery pictures."</string>
     <string name="incentive_login_success_for_already_claimd">Signed in successfully. Points claimed.</string>
     <string name="incentive_login_tip">Sign in to earn points and get rewards</string>
     <string name="incentive_my_points">My points</string>
+    <string name="incentive_offline">"We're sorry to let you know that we're discontinuing our tasks feature. You can redeem your existing coins until July 31, 2023."</string>
     <string name="incentive_popup_window_share">Share to earn points</string>
     <string name="incentive_popup_window_subscribe">Subscribe to earn points</string>
     <string name="incentive_rules_title_bar">Rules</string>
@@ -1076,6 +1077,13 @@ for videos"</string>
     <string name="m3_sys_typescale_title_medium_font">sans-serif-medium</string>
     <string name="m3_sys_typescale_title_small_font">sans-serif-medium</string>
     <string name="manage">Manage</string>
+    <string name="manager_request_Content">"Due to Android's policy on file management, Mi Video can't access videos from other apps.
+You can allow Mi Video to access and play all video files.
+We will only use this permission to find the videos you search for, and won't access any other files. Allow now?"</string>
+    <string name="manager_request_cancel">Cancel</string>
+    <string name="manager_request_continue">Allow</string>
+    <string name="manager_request_tip">"Don't show again"</string>
+    <string name="manager_request_title">"Can't access this file"</string>
     <string name="mangotv_feature_list_title3">Added episode %s</string>
     <string name="mangotv_feature_more">More</string>
     <string name="mangotv_feature_title1">Episodes</string>
@@ -1316,6 +1324,8 @@ for videos"</string>
     <string name="my_feedback_title">My feedback</string>
     <string name="need_update_app">Update Mi Video to use all its features</string>
     <string name="network_connect_info">"Couldn't connect to the network."</string>
+    <string name="network_error_and_retry_tip">"Couldn't connect to the network. Check your network settings and try again."</string>
+    <string name="network_error_tip">"Couldn't connect to the network. Check your network settings."</string>
     <string name="network_failed">"Couldn't connect to the network"</string>
     <string name="newyearfestival_go_to_draw_prizes">Go to lucky draw</string>
     <string name="newyearfestival_watch_the_video_to_draw_prizes">Watch videos to enter lucky draw</string>
@@ -1902,6 +1912,8 @@ for videos"</string>
     <string name="talkback_voice_search">Voice search</string>
     <string name="target_sdk_version_30_upgrade_tips">Some videos may not be viewed here due to Android restrictions. Tap \"Files\" to find other videos.</string>
     <string name="temporary_not_available">"This feature isn't available yet"</string>
+    <string name="test_text_description">Qui asperiores quasi et omnis quidem et quam iure est repellendus repellat. Quo voluptatem ipsa sed aliquid libero ut pariatur similique eum facilis quia quo consequatur ipsam eos deserunt odio qui voluptas quod. Ut voluptatem earum ut odio facilis aut expedita possimus nam quia dolorum ut maxime recusandae At vitae nesciunt. At maiores voluptatem et laudantium recusandae sit perferendis eligendi 33 soluta optio in fugit pariatur aut magni molestiae et Quis veniam.</string>
+    <string name="test_text_title">Sit repudiandae aspernatur qui error autem.</string>
     <string name="text_default_ad_description">Ad</string>
     <string name="text_default_ad_title">You might like</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
