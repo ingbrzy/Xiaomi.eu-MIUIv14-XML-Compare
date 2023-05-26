@@ -1,3 +1,5 @@
+Removed: [fr] plurals.xml: plurals/opt_antivirus_scan_multi_antivirus_notification_title (missing quantity)
+Removed: [fr] plurals.xml: plurals/power_center_battery_optimization (missing quantity)
 Removed: [it] strings.xml: string/menu_summary_power_manager_2 (format mismatch)
 Removed: [it] strings.xml: string/power_center_battery_last (format mismatch)
 Removed: [ko] strings.xml: string/app_running_tip_dialog_text (format mismatch)
