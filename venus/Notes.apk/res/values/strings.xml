@@ -46,6 +46,7 @@
     <string name="actionbar_close_description">Close</string>
     <string name="actionbar_home_description">Back</string>
     <string name="add_account_desc">Sync your notes with your Xiaomi Account?</string>
+    <string name="added_to_clipboard">Copied successfully</string>
     <string name="afternoon">Afternoon</string>
     <string name="alarm_bar_title">Reminder</string>
     <string name="alert_action_edit_anyway">Keep editing</string>
@@ -165,6 +166,7 @@
     <string name="chip_text">Chip text</string>
     <string name="clear_text_end_icon_content_description">Clear text</string>
     <string name="clearable_edittext_clear_description">Clear</string>
+    <string name="clip_resource_deleted">This item is no longer available</string>
     <string name="close">Close</string>
     <string name="cloud_trash_bin_title">Deleted notes in the cloud</string>
     <string name="confirm_cancel">"Don't agree"</string>
