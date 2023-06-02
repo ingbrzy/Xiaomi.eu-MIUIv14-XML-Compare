@@ -189,6 +189,7 @@ Removed: [nl] arrays.xml: array/bluetooth_a2dp_codec_sample_rate_titles (item mi
 Removed: [nl] arrays.xml: array/bluetooth_a2dp_codec_summaries (item mismatch)
 Removed: [nl] arrays.xml: array/bluetooth_a2dp_codec_titles (item mismatch)
 Removed: [nl] arrays.xml: array/organized_locales (item mismatch)
+Removed: [pl-v34] strings.xml: string/battery_saver_sticky_description_new (format mismatch)
 Removed: [pl] arrays.xml: array/bluetooth_a2dp_codec_sample_rate_summaries (item mismatch)
 Removed: [pl] arrays.xml: array/bluetooth_a2dp_codec_sample_rate_titles (item mismatch)
 Removed: [pl] arrays.xml: array/bluetooth_a2dp_codec_summaries (item mismatch)
