@@ -393,8 +393,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">8e6aced161bb482bbec29afe7e4ad27c</string>
-    <string name="com.miapm.build_id">9bb436ee108f494a96e1c59d65a7e415</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">42ef7b43f6ab4c90b06f9a98208b9445</string>
+    <string name="com.miapm.build_id">c224da910af4433983d7f05917708302</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="commit">Submit</string>
     <string name="commit_frequently">Submit too frequently, please try again later</string>
