@@ -53,6 +53,12 @@
     <string name="back_triple_tap">Triple back tap</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
+    <string name="bt_enable_pair_connect_cancel">cancle</string>
+    <string name="bt_enable_pair_connect_fail">connect fail, retry</string>
+    <string name="bt_enable_pair_connect_line">Xiaomi Pad Keyboard</string>
+    <string name="bt_enable_pair_connect_ok">connect</string>
+    <string name="bt_enable_pair_connect_succceed">connect succeed</string>
+    <string name="bt_enable_pair_connecting">connecting</string>
     <string name="builtin_keyboard_settings_title">Physical keyboard</string>
     <string name="camera_key_action_app_title">Open app</string>
     <string name="camera_key_action_category_title">"Can't use Camera"</string>
@@ -743,7 +749,7 @@ Double tap to open Recents."</string>
     <string name="tuesday">Tuesday</string>
     <string name="tuesday_short">Tue</string>
     <string name="tuesday_shortest">Tue</string>
-    <string name="turn_on_torch">Turn on torch</string>
+    <string name="turn_on_torch">Turn on flashlight</string>
     <string name="under_keyguard">Screen off</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
