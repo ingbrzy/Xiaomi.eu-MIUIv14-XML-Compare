@@ -154,17 +154,6 @@
         <item>BBC</item>
         <item>http://www.bbc.co.uk/</item>
     </string-array>
-    <string-array name="bookshelf__general_shared__main_categories">
-        <item>Book shelf</item>
-        <item>Library</item>
-        <item>Book shelf</item>
-    </string-array>
-    <array name="bookshelf_recommend_detail_background">
-        <item>@drawable/bookshelf__recommend_book_card_colorful_bg_pink</item>
-        <item>@drawable/bookshelf__recommend_book_card_colorful_bg_yellow</item>
-        <item>@drawable/bookshelf__recommend_book_card_colorful_bg_green</item>
-        <item>@drawable/bookshelf__recommend_book_card_colorful_bg_purple</item>
-    </array>
     <array name="card_game_bg_arr">
         <item>@drawable/game_card_bg_0</item>
         <item>@drawable/game_card_bg_1</item>
@@ -330,15 +319,6 @@
         <item>1.25x</item>
         <item>1.5x</item>
         <item>2x</item>
-    </string-array>
-    <string-array name="general__notification_toolbar_book_tips_array">
-        <item>{\"title\": \"Alien Freedom Heaven\", \"summary\": \"Heaven-level secret code, above all things!\", \"fiction_id\":\"25731 , \"cover\":\"http://cover.read.duokan.com/mfsv2/download/fdsc3/p01faREj2kgH/qdNQgCljVWMNpK.jpg\"}</item>
-        <item>{\"title\": \"Wu Ni Qiankun\", \"summary\": \"Trash to the legend of the peerless strongman\", \"fiction_id\":\"18838\", \" cover\":\"http://cover.read.duokan.com/mfsv2/download/fdsc3/p01NBCjISbV5/wEPQHF3Lij92EQ.jpg\"}</item>
-        <item>{\"title\": \"Ancient Physical Strengthening Techniques\", \"summary\": Waste chai boy, but he abruptly wants to stir the world..., \"fiction_id\":\" 356681\", \"cover\":\"http://cover.read.duokan.com/mfsv2/download/fdsc3/p01pg098DZ6D/zDM8GUENKgDB1u.jpg\"}</item>
-        <item>{\"title\": \"Tao Heart Seed Demon\", \"summary\": \"Seven emotions, six desires and thirteen demon heads cultivate their spirits, and the art of fighting heaven and earth tempers their bodies!\", \"fiction_id\": \"12446\", \"cover\":\"http://cover.read.duokan.com/mfsv2/download/s010/p01BXC9l3TXE/HVg5dOHIdti3HV.jpg\"}</item>
-        <item>{\"title\": \"Sword God of the World\", \"summary\": \"Only set foot on the road of martial arts, let the blood stain half the sky.\", \"fiction_id\":\" 265311\", \"cover\":\"http://cover.read.duokan.com/mfsv2/download/fdsc3/p01SeZGWfKFk/ndQzJYLRkuzPJ1.jpg\"}</item>
-        <item>{\"title\": \"Peerless Cthulhu\", \"summary\": \"Tread through the sky, shake the sky, the world looks up!\", \"fiction_id\":\"265387\", \"cover\":\"http://cover.read.duokan.com/mfsv2/download/fdsc3/p01kpIvnU9pz/KhPZFXcyuHAhhx.jpg\"}</item>
-        <item>{\"title\": \"Alien Freedom Heaven\", \"summary\": \"Heaven-level secret code, above all things!\", \"fiction_id\":\"25731 , \"cover\":\"http://cover.read.duokan.com/mfsv2/download/fdsc3/p01faREj2kgH/qdNQgCljVWMNpK.jpg\"}</item>
     </string-array>
     <string-array name="google">
         <item>Google</item>
@@ -607,43 +587,6 @@
         <item>UTF-8</item>
         <item>https://api.bing.com/osjson.aspx?query={searchTerms}&amp;market={language}</item>
     </string-array>
-    <string-array name="personal__language_code_arr">
-        <item>en</item>
-        <item>es</item>
-        <item>es</item>
-        <item>id</item>
-        <item>tl</item>
-    </string-array>
-    <string-array name="personal__language_country_arr">
-        <item></item>
-        <item>ES</item>
-        <item>US</item>
-        <item>ID</item>
-        <item>PH</item>
-    </string-array>
-    <string-array name="personal__language_name_arr">
-        <item>English</item>
-        <item>Español (España)</item>
-        <item>Español (América)</item>
-        <item>Bahasa Indonesia</item>
-        <item>Filipino</item>
-    </string-array>
-    <array name="personal__personal_item_ic_arr">
-        <item>@drawable/personal__daily_reward</item>
-        <item>@drawable/personal__reading_history</item>
-        <item>@drawable/personal_personal_ic_feedback</item>
-        <item>@drawable/personal_personal_ic_settings</item>
-        <item>@drawable/ic_become_writer</item>
-        <item>@drawable/personal__personal_about_copyright</item>
-    </array>
-    <string-array name="personal__personal_item_title_arr">
-        <item>@string/personal__daily_reward</item>
-        <item>@string/personal__read_history__history</item>
-        <item>@string/feedback</item>
-        <item>@string/settings</item>
-        <item>@string/personal__settings_recruit_contract_writer</item>
-        <item>@string/general__personal_about_item_copy_right</item>
-    </string-array>
     <string-array name="pref_data_preload_values">
         <item>@string/pref_data_preload_value_never</item>
         <item>@string/pref_data_preload_value_wifi_only</item>
@@ -770,13 +713,6 @@
         <item>0</item>
         <item>1</item>
     </string-array>
-    <string-array name="reading_feedback_issue_cases">
-        <item>@string/reeading__reading_feedback_dialog_issue_case1</item>
-        <item>@string/reeading__reading_feedback_dialog_issue_case2</item>
-        <item>@string/reeading__reading_feedback_dialog_issue_case3</item>
-        <item>@string/reeading__reading_feedback_dialog_issue_case4</item>
-        <item>@string/reeading__reading_feedback_dialog_issue_case5</item>
-    </string-array>
     <integer-array name="readmode_theme_bgcolors">
         <item>0xFFEFEFEF</item>
         <item>0xFFCEDBEE</item>
@@ -809,20 +745,6 @@
         <item>Search</item>
         <item>News</item>
     </string-array>
-    <string-array name="settings_timeout_option_entries">
-        <item>@string/reading__settings_timeout_option_follow_system</item>
-        <item>@string/reading__settings_timeout_option_5min</item>
-        <item>@string/reading__settings_timeout_option_15min</item>
-        <item>@string/reading__settings_timeout_option_30min</item>
-        <item>@string/reading__settings_timeout_option_always_on</item>
-    </string-array>
-    <integer-array name="settings_timeout_option_value">
-        <item>0</item>
-        <item>5</item>
-        <item>15</item>
-        <item>30</item>
-        <item>10000</item>
-    </integer-array>
     <string-array name="shortcut_dialog_delete">
         <item>Delete</item>
         <item>No thanks</item>
@@ -889,12 +811,6 @@
         <item>"Current network connection is fast. It's enough for streaming movies!"</item>
         <item>"Current network connection is very fast! You're at the top of your game."</item>
     </string-array>
-    <array name="store__web_page_background">
-        <item>@drawable/dkcommon__menu_view_bg</item>
-    </array>
-    <array name="store__web_page_background_color">
-        <item>@color/dkcommon__bg</item>
-    </array>
     <array name="user_guide_images">
         <item>@drawable/user_guide_video_download</item>
         <item>@drawable/user_guide_whats_app</item>
