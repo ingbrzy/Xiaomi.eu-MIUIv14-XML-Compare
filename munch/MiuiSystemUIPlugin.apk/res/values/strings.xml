@@ -169,7 +169,7 @@
     <string name="controls_edit_added_subtitle">Drag items to rearrange them</string>
     <string name="controls_edit_added_title">Added</string>
     <string name="controls_edit_done_button">Done</string>
-    <string name="controls_edit_go_to_app_guide">Open</string>
+    <string name="controls_edit_go_to_app_guide">Open %s</string>
     <string name="controls_edit_not_added_title">Available</string>
     <string name="controls_edit_panel_not_added_title">Available devices</string>
     <string name="controls_edit_panel_save_button">Done</string>
@@ -233,7 +233,7 @@
     <string name="earthly_branches_yin">寅</string>
     <string name="earthly_branches_you">酉</string>
     <string name="earthly_branches_zi">子</string>
-    <string name="emergency_call">Emergency Call</string>
+    <string name="emergency_call">Emergency call</string>
     <string name="empty" />
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
@@ -607,6 +607,7 @@ Long exposure to loud sounds can cause hearing problems."</string>
     <string name="sunday_shortest">Sun</string>
     <string name="switch_bar_off">Off</string>
     <string name="switch_bar_on">On</string>
+    <string name="system_update">System update</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
     <string name="the_anti_aggression_day">Anti-Aggression Day</string>
     <string name="the_arbor_day">Arbor Day</string>

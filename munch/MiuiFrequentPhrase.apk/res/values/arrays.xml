@@ -222,6 +222,13 @@
         <item>@drawable/input_method_bottom_icon_switch_keyboard_language_black</item>
         <item>@drawable/input_method_bottom_icon_xiaoai_black</item>
     </array>
+    <array name="input_method_function_icons_black_without_xiaoai">
+        <item>@drawable/input_method_bottom_icon_voice_black</item>
+        <item>@drawable/input_method_bottom_icon_switch_black</item>
+        <item>@drawable/input_method_bottom_icon_clipboard_black</item>
+        <item>@drawable/input_method_bottom_icon_switch_keyboard_type_black</item>
+        <item>@drawable/input_method_bottom_icon_switch_keyboard_language_black</item>
+    </array>
     <array name="input_method_function_icons_blue">
         <item>@drawable/input_method_bottom_icon_voice_blue</item>
         <item>@drawable/input_method_bottom_icon_switch_blue</item>
@@ -230,6 +237,13 @@
         <item>@drawable/input_method_bottom_icon_switch_keyboard_language_blue</item>
         <item>@drawable/input_method_bottom_icon_xiaoai_blue</item>
     </array>
+    <array name="input_method_function_icons_blue_without_xiaoai">
+        <item>@drawable/input_method_bottom_icon_voice_blue</item>
+        <item>@drawable/input_method_bottom_icon_switch_blue</item>
+        <item>@drawable/input_method_bottom_icon_clipboard_blue</item>
+        <item>@drawable/input_method_bottom_icon_switch_keyboard_type_blue</item>
+        <item>@drawable/input_method_bottom_icon_switch_keyboard_language_blue</item>
+    </array>
     <string-array name="input_method_function_title">
         <item>@string/input_method_function_voice</item>
         <item>@string/input_method_function_switch</item>
@@ -237,6 +251,13 @@
         <item>@string/input_method_function_switch_keyboard_type</item>
         <item>@string/input_method_function_switch_keyboard_language</item>
         <item>@string/input_method_function_xiaoai</item>
+    </string-array>
+    <string-array name="input_method_function_title_without_xiaoai">
+        <item>@string/input_method_function_voice</item>
+        <item>@string/input_method_function_switch</item>
+        <item>@string/input_method_function_clipboard</item>
+        <item>@string/input_method_function_switch_keyboard_type</item>
+        <item>@string/input_method_function_switch_keyboard_language</item>
     </string-array>
     <string-array name="months">
         <item>@string/month_january</item>
