@@ -7064,6 +7064,7 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
     <string name="ota_disable_automatic_update_summary">Apply updates when device restarts</string>
     <string name="otg_button">OTG</string>
     <string name="otg_closed">Off</string>
+    <string name="otg_new_tip">Turn on OTG to be able to connect your device directly to other devices using USB. This feature will automatically turn off after %d minutes of inactivity.</string>
     <string name="otg_opened">On</string>
     <string name="otg_settings">OTG</string>
     <string name="otg_tip">"USB On-The-Go allows USB drives and portable keyboards to connect to your mobile device and exchange data.
