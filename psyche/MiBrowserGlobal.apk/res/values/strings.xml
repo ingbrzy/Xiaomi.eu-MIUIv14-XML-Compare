@@ -455,8 +455,8 @@ Toggle off to stop syncing."</string>
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">5a90a97e4c454b0bb898d13e969569da</string>
-    <string name="com.miapm.build_id">6bb7e839596443b6994623fc62d6f483</string>
+    <string name="com.crashlytics.android.build_id">c11a81f875a44a9585be26f2b16bf9eb</string>
+    <string name="com.miapm.build_id">9835a68bd4104e939c64126b15b5db0d</string>
     <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
     <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
@@ -734,6 +734,7 @@ Send this code to the supervisor."</string>
     <string name="download_sdcard_busy_dlg_title">SD card unavailable</string>
     <string name="download_sdcard_no_space">"Couldn't download. Not enough storage space."</string>
     <string name="download_secure_download_in_xiaomi_market">Download in GetApps</string>
+    <string name="download_select_dir">Select other folder</string>
     <string name="download_status_failed">"Couldn't download"</string>
     <string name="download_status_pending">Waiting</string>
     <string name="download_title">Downloads</string>
@@ -1006,6 +1007,8 @@ Send this code to the supervisor."</string>
     <string name="general__shared__invaild_book">"This item doesn't exist"</string>
     <string name="general__shared__sd_card_unmounted">Storage permissions required</string>
     <string name="general__shared__unkown_book_format">"This format isn't supported"</string>
+    <string name="generate_gpt">"Summarize the 500-word synopsis with the same language of the article below: 
+ %s"</string>
     <string name="geolocation_permissions_prompt_dont_share">Decline</string>
     <string name="geolocation_permissions_prompt_message">%s wants to know your location</string>
     <string name="geolocation_permissions_prompt_remember">Remember preference</string>
@@ -1857,6 +1860,10 @@ Leave this page now?"</string>
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="pdf_confirm">OK</string>
+    <string name="pdf_failed_message">"Couldn't generate AI summary"</string>
+    <string name="pdf_retry">Try again</string>
+    <string name="pdf_summary">Summary</string>
     <string name="per_month">Per month</string>
     <string name="permission_agree_service">"I've read and agreed to all of the following terms and conditions."</string>
     <string name="permission_alert_window">Allow Browser to display floating windows to be able to use this feature.</string>
@@ -2234,6 +2241,7 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="reject_all_label">Reject All</string>
     <string name="release_to_refresh">Release to refresh</string>
     <string name="relevant_recommendations">Recommended</string>
+    <string name="remember_my_choice">Remember my choice</string>
     <string name="remember_passwords_confirm_message">Turning this feature off may affect usage.</string>
     <string name="remove_bookmark">Delete bookmark</string>
     <string name="remove_bookmark_group">Delete group</string>
@@ -2455,6 +2463,8 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="skip_current_version">Skip this version</string>
     <string name="sku_price_everymonth">%1$s every month</string>
     <string name="slide_card">Swipe for more</string>
+    <string name="smart_subtitle">"Get an AI-generated summary of the article's content to see the main points at a glance."</string>
+    <string name="smart_summary">Smart summary</string>
     <string name="sms_send_success">Sent successfully</string>
     <string name="snapshot">Local</string>
     <string name="snapshot_failed">"Couldn't save page"</string>
@@ -2802,6 +2812,14 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="weather_card_feel">Feels like %s</string>
     <string name="weather_card_rh">Humidity</string>
     <string name="weather_card_vis">Visibility</string>
+    <string name="weather_card_wind_direction_east">E wind</string>
+    <string name="weather_card_wind_direction_north">N wind</string>
+    <string name="weather_card_wind_direction_northeast">NE wind</string>
+    <string name="weather_card_wind_direction_northwest">NW wind</string>
+    <string name="weather_card_wind_direction_south">S wind</string>
+    <string name="weather_card_wind_direction_southeast">SE wind</string>
+    <string name="weather_card_wind_direction_southwest">SW wind</string>
+    <string name="weather_card_wind_direction_west">W wind</string>
     <string name="weather_card_wind_spd">Wind speed</string>
     <string name="weather_cp_des">Weather from Microsoft Start</string>
     <string name="weather_location_confirm_message">Turning this feature off may affect usage.</string>
