@@ -56,4 +56,12 @@
         <item quantity="other">%d minutes ago</item>
         <item quantity="one">1 minute ago</item>
     </plurals>
+    <plurals name="talkback_selection_denominator">
+        <item quantity="other">%1$d items total</item>
+        <item quantity="one">%1$d item total</item>
+    </plurals>
+    <plurals name="talkback_selection_numerator">
+        <item quantity="other">Selected %1$d items</item>
+        <item quantity="one">Selected %1$d item</item>
+    </plurals>
 </resources>

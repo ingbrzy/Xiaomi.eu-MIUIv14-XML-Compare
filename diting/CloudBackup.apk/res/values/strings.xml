@@ -28,7 +28,6 @@
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="about_to_recover">Just a sec…</string>
-    <string name="access_denied_info">Too many attempts. Wait a minute or two and try again.</string>
     <string name="actionbar_button_up_description">Back</string>
     <string name="afternoon">Afternoon</string>
     <string name="am">AM</string>
@@ -45,7 +44,6 @@
     <string name="backup_action_buy_cloud_space">Get more storage space</string>
     <string name="backup_action_check_network">Check network settings</string>
     <string name="backup_action_clean_disk_space">Free up space</string>
-    <string name="backup_action_long_time_not_auto_backup_title">Back up your items</string>
     <string name="backup_action_long_time_not_backup_action">Back up</string>
     <string name="backup_action_long_time_not_backup_title">No recent backups</string>
     <string name="backup_action_no_space_with_wechat_off_content">Not enough cloud storage space to back up items from this device. Tap to view cloud storage options available to you.</string>
@@ -237,7 +235,6 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_restore_from_other_device">"Stop restoring from %s and delete this backup? You can't reverse this action."</string>
     <string name="cloud_restore_task">Restoring…</string>
     <string name="cloud_task_in_process">"Stop %s and delete this backup? You can't reverse this action."</string>
-    <string name="collect_diagnosis_log">Collect diagnosis log</string>
     <string name="confirm_restore">Restore</string>
     <string name="confirm_restore_app_data">"WeChat is already installed on this device. Can't restore WeChat data."</string>
     <string name="confirm_restore_summary">Your Home screen will be relaunched. Backed up apps will be downloaded automatically.</string>
@@ -260,17 +257,9 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="desktop_wait_network">Waiting…</string>
     <string name="desktop_waiting">Waiting</string>
     <string name="device_delete_prompt">Delete backup of %s?</string>
-    <string name="diagnosis_log_send_failed">Diagnosis log sent failed.</string>
-    <string name="diagnosis_log_sent_format">"Diagnosis log has been sent.
-ID:%s
-Please send this code to the technician."</string>
     <string name="dialog_app_usage_consent_message">This feature needs to access app usage data to be able to estimate the size of WeChat backups.</string>
     <string name="dialog_app_usage_consent_title">Allow accessing app usage data</string>
     <string name="dialog_app_usage_denied">Give Backup \"Usage access\" permission in the Settings to be able to back up items.</string>
-    <string name="dialog_auto_backup_condition_normal_content">To be able to regularly back up all important items automatically, make sure that you have enough cloud storage space, and that this device is locked, has over %s battery, and is connected to Wi-Fi at night. You can also back up manually at any time.</string>
-    <string name="dialog_auto_backup_condition_normal_content_china">To be able to regularly back up all important items automatically, make sure that you have enough cloud storage space, and that this device is locked, has over %s battery, and is connected to Wi-Fi at night. You can also back up manually at any time.</string>
-    <string name="dialog_auto_backup_condition_normal_positive">Got it</string>
-    <string name="dialog_auto_backup_condition_normal_title">Back up your items</string>
     <string name="dialog_backup_failed">"Couldn't back up"</string>
     <string name="dialog_btn_cancel_backup">Cancel</string>
     <string name="dialog_btn_confirm2">Got it</string>
@@ -400,7 +389,6 @@ Please send this code to the technician."</string>
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="for_diagnosis_usage_only">Use this info for diagnosis only.</string>
     <string name="friday">Friday</string>
     <string name="friday_short">Fri</string>
     <string name="friday_shortest">Fri</string>
@@ -422,15 +410,6 @@ Please send this code to the technician."</string>
     <string name="home_restore_error">"Couldn't restore Home screen"</string>
     <string name="lack_of_storage">Not enough storage space</string>
     <string name="latest_backup_time_loading">Loading…</string>
-    <string name="library_android_database_sqlcipher_author">Zetetic, LLC</string>
-    <string name="library_android_database_sqlcipher_authorWebsite">https://www.zetetic.net/sqlcipher/</string>
-    <string name="library_android_database_sqlcipher_isOpenSource">true</string>
-    <string name="library_android_database_sqlcipher_libraryDescription">Android SQLite API based on SQLCipher</string>
-    <string name="library_android_database_sqlcipher_libraryName">SQLCipher for Android</string>
-    <string name="library_android_database_sqlcipher_libraryVersion">${clientVersionNumber}</string>
-    <string name="library_android_database_sqlcipher_libraryWebsite">https://www.zetetic.net/sqlcipher/</string>
-    <string name="library_android_database_sqlcipher_licenseLink">https://www.zetetic.net/sqlcipher/license/</string>
-    <string name="library_android_database_sqlcipher_repositoryLink">https://github.com/sqlcipher/android-database-sqlcipher</string>
     <string name="load_backup_failed">"Couldn't load backups"</string>
     <string name="loading_progress_num">Loaded %s%%</string>
     <string name="loading_user_backup">Loading user backups…</string>
@@ -518,8 +497,6 @@ Please send this code to the technician."</string>
     <string name="msg_restore_with_metered_network_hint">If you proceed to restore these items, mobile data will be used for downloading.</string>
     <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> of files will be downloaded."</string>
     <string name="network_error">Connect to network</string>
-    <string name="network_error_info">A network error occurred. Check your network settings and try again.</string>
-    <string name="network_timeout_info">"Couldn't connect to the network. Try again."</string>
     <string name="night">Evening</string>
     <string name="no_account">Not signed in to Xiaomi Account.</string>
     <string name="no_backup">No backups in Xiaomi Cloud.</string>
@@ -527,7 +504,6 @@ Please send this code to the technician."</string>
     <string name="not_set">Not set</string>
     <string name="notification_channel_remind">Reminder</string>
     <string name="notification_channel_service">Service</string>
-    <string name="ok">OK</string>
     <string name="open_backup_switch">Toggle the backup switch</string>
     <string name="other_device_main_space">First space</string>
     <string name="other_device_second_space">Second space</string>
@@ -538,7 +514,6 @@ Please send this code to the technician."</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
     <string name="process_whole_recovery">Restoring \"%s\"</string>
-    <string name="progressbar_title">Checking for security issues…</string>
     <string name="provision_back">Back</string>
     <string name="provision_background_restore_more_data">Restore more items in the background</string>
     <string name="provision_error_connect_msg">"Test network and try again. Backups aren't available when your device is offline."</string>
@@ -618,8 +593,6 @@ Check your network settings and try again."</string>
     <string name="self_device_main_space">First space</string>
     <string name="self_device_second_space">Second space</string>
     <string name="send">Send</string>
-    <string name="send_diagnosis_log">Send diagnosis log</string>
-    <string name="sending">Sending…</string>
     <string name="session_action_btn_text_return_home">Home screen</string>
     <string name="session_backup_apk_data_text">Backing up WeChat data…</string>
     <string name="session_backup_apk_text">Backing up Home screen layout and system settings…</string>
@@ -695,8 +668,6 @@ Check your network settings and try again."</string>
     <string name="sunday">Sunday</string>
     <string name="sunday_short">Sun</string>
     <string name="sunday_shortest">Sun</string>
-    <string name="system_error_info">System is busy. Wait a minute or two and try again.</string>
-    <string name="temporary_not_available">temporary not available</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
     <string name="the_anti_aggression_day">Anti-Aggression Day</string>
     <string name="the_arbor_day">Arbor Day</string>
@@ -754,7 +725,6 @@ Check your network settings and try again."</string>
     <string name="tuesday">Tuesday</string>
     <string name="tuesday_short">Tue</string>
     <string name="tuesday_shortest">Tue</string>
-    <string name="unknown_error_info">Unknown error</string>
     <string name="unselected">Not selected</string>
     <string name="unsupported_home">Update MIUI to the latest version.</string>
     <string name="v7_preference_off">OFF</string>

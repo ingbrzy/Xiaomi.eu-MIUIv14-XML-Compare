@@ -113,7 +113,6 @@
     <string name="chinese_symbol_animals_tiger">虎</string>
     <string name="clearable_edittext_clear_description">Clear</string>
     <string name="close">Off</string>
-    <string name="com.crashlytics.android.build_id">429d611dab784a8ba3fd7a3b95ab5d4c</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -345,6 +344,9 @@
     <string name="noon">Midday</string>
     <string name="ok">OK</string>
     <string name="open">On</string>
+    <string name="operation_original">Compare</string>
+    <string name="operation_redo">Redo</string>
+    <string name="operation_undo">Undo</string>
     <string name="pm">PM</string>
     <string name="project_id">migallery-global</string>
     <string name="refocus_discard_confirm_message">Save changes?</string>
@@ -431,6 +433,7 @@
     <string name="sunday">Sunday</string>
     <string name="sunday_short">Sun</string>
     <string name="sunday_shortest">Sun</string>
+    <string name="talkback_auto_crop_selection_hint">%1$s. %2$s.</string>
     <string name="talkback_ratio_16_9">Sixteen by nine</string>
     <string name="talkback_ratio_1_1">Square</string>
     <string name="talkback_ratio_3_4">Three by four</string>
