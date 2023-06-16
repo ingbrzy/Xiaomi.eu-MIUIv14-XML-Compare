@@ -143,12 +143,12 @@
     <string name="ad_click_type_often">过于频繁</string>
     <string name="ad_floating_window_title">Close floating window to unlock</string>
     <string name="ad_split_screen_title">Exit Split screen to unlock</string>
-    <string name="ad_text_adx">广告</string>
-    <string name="ad_text_btn_download">立即安装</string>
-    <string name="ad_text_develop">开发者:%1$s</string>
-    <string name="ad_text_permission">权限</string>
-    <string name="ad_text_privacy">隐私</string>
-    <string name="ad_text_version">版本:%1$s</string>
+    <string name="ad_text_adx">Ad</string>
+    <string name="ad_text_btn_download">Install</string>
+    <string name="ad_text_develop">Developer: %1$s</string>
+    <string name="ad_text_permission">Permissions</string>
+    <string name="ad_text_privacy">Privacy</string>
+    <string name="ad_text_version">Version: %1$s</string>
     <string name="ad_update_time">Last updated %s</string>
     <string name="ad_update_time_unKnown">Last update unknown</string>
     <string name="adb_install_no_network">Connect to the network and try again</string>
@@ -196,6 +196,7 @@
     <string name="all_address_choose_hint">All numbers in this province</string>
     <string name="allow_all">Allow all</string>
     <string name="allow_notify">allow_notify</string>
+    <string name="allow_onetime">Allow once</string>
     <string name="allow_tips_smart_task">allow_tips_smart_task</string>
     <string name="already_close_gamebooster">Game Turbo is off</string>
     <string name="am">AM</string>
@@ -299,12 +300,12 @@
     <string name="app_behavior_clipboard">%1s accessed or saved items to clipboard</string>
     <string name="app_behavior_clipboard_bg">%1s accessed or saved items to clipboard in the background</string>
     <string name="app_behavior_clipboard_bg_new">%1s copied items to the clipboard in the background</string>
-    <string name="app_behavior_clipboard_bg_single">This app accessed or saved items to clipboard in the background</string>
+    <string name="app_behavior_clipboard_bg_single">This app accessed or saved items to the clipboard in the background</string>
     <string name="app_behavior_clipboard_bg_single_new">This app copied items to the clipboard in the background</string>
     <string name="app_behavior_clipboard_new">%1s copied items to the clipboard</string>
     <string name="app_behavior_clipboard_read_bg_single">This app accessed items in the clipboard in the background</string>
     <string name="app_behavior_clipboard_read_single">This app accessed items in the clipboard</string>
-    <string name="app_behavior_clipboard_single">This app accessed or saved items to clipboard</string>
+    <string name="app_behavior_clipboard_single">This app accessed or saved items to the clipboard</string>
     <string name="app_behavior_clipboard_single_new">This app copied items to the clipboard</string>
     <string name="app_behavior_contacts">%1s accessed your contacts</string>
     <string name="app_behavior_contacts_bg">%1s accessed your contacts in the background</string>
@@ -456,6 +457,15 @@
     <string name="app_install_intercept">Block installation</string>
     <string name="app_install_tips_go_to">Open</string>
     <string name="app_install_tips_install_success">Installed %1$s successfully</string>
+    <string name="app_management_for_chain_start">Block opening other apps</string>
+    <string name="app_management_for_chain_start_desc">Prevent this app from connecting to or opening other apps</string>
+    <string name="app_management_for_device_id">Hide identifiers and prevent tracking</string>
+    <string name="app_management_for_device_id_desc">Prevent this app from accessing your phone number and personally identifying information</string>
+    <string name="app_management_for_independent_storage">Isolate cached data</string>
+    <string name="app_management_for_independent_storage_desc">Only allow the app to access its own files and data</string>
+    <string name="app_management_for_install">Block app downloads</string>
+    <string name="app_management_for_install_desc">Prevent this app from downloading or installing other apps</string>
+    <string name="app_management_measures">App management</string>
     <string name="app_manager_advanced_setting">Advanced settings</string>
     <string name="app_manager_allow">Yes</string>
     <string name="app_manager_anomaly_analysis">Analyze third party app problems</string>
@@ -567,6 +577,7 @@ You will not lose any app data."</string>
     <string name="app_manager_tab_manager">Manage</string>
     <string name="app_manager_thumbnail_blur_summary">Blur app previews in Recents</string>
     <string name="app_manager_thumbnail_blur_title">Blur app previews</string>
+    <string name="app_manager_thumbnail_shield_summary">Mask app previews in Recents</string>
     <string name="app_manager_title">Manage apps</string>
     <string name="app_manager_to_appstore">Discover more apps</string>
     <string name="app_manager_total_size">Total</string>
@@ -587,6 +598,7 @@ You will not lose any app data."</string>
     <string name="app_name_pad">Security</string>
     <string name="app_name_phone">Security</string>
     <string name="app_name_securitycenter">Security</string>
+    <string name="app_name_securitycenter_new">Security</string>
     <string name="app_not_installed_toast">"App isn't installed on your device."</string>
     <string name="app_perm_manager_service">Permissions</string>
     <string name="app_permission_use_group_calendar">Calendar</string>
@@ -749,8 +761,8 @@ You will not lose any app data."</string>
     <string name="apps_item_sign_install_button_text">Replace</string>
     <string name="apps_item_sms_default_set_success">Set successfully</string>
     <string name="apps_item_sms_reset_button_text">Restore defaults</string>
-    <string name="apps_item_sms_title">Default messaging settings</string>
-    <string name="apps_item_summary_sms">%s has access to your messages, it may cause security problems</string>
+    <string name="apps_item_sms_title">Default messaging app has been replaced</string>
+    <string name="apps_item_summary_sms">"%s is managing your SMS now. For a more stable and secure experience, use MIUI's system app instead."</string>
     <string name="apps_item_summary_system_rooted">Root access has been allowed. Restore default settings to avoid security risks.</string>
     <string name="apps_item_summary_system_update">Some bugs were fixed in the new version to make payments more secure.</string>
     <string name="apps_item_title_system">System update</string>
@@ -917,6 +929,7 @@ You will not lose any app data."</string>
     <string name="auto_task_voice_dialog_alarm_title">Alarms</string>
     <string name="auto_task_voice_dialog_call_title">Calls, notifications, reminders</string>
     <string name="auto_task_voice_dialog_media_title">Music, games, media</string>
+    <string name="autostart_now_tip">"Blocked \"%1$s\" from opening \"%2$s\" "</string>
     <string name="back_app_name">Go back to App lock</string>
     <string name="back_description_securitycenter">Back</string>
     <string name="back_modifypassword">Go back to changing password type</string>
@@ -1097,6 +1110,7 @@ However, some of your transactions aren't completed yet. To be able to withdraw 
     <string name="blacklist_prefix_add_hint">Block all numbers that begin with this prefix</string>
     <string name="block_message_number">Messages: &lt;font color=#5fab1b>%d&lt;/font></string>
     <string name="block_phone_number">Calls: &lt;font color=#5fab1b>%d&lt;/font></string>
+    <string name="blur_location_title">Approximate location</string>
     <string name="boost_done">Boosted successfully</string>
     <string name="boost_stop">Turn off speed boost</string>
     <string name="booster_immediately">Boost</string>
@@ -1236,6 +1250,7 @@ However, some of your transactions aren't completed yet. To be able to withdraw 
     <string name="cetus_invisible_mode_warn_location">"You're incognito. Location permissions are suspended."</string>
     <string name="cetus_invisible_mode_warn_open">Incognito mode suspends microphone, camera, and location-related permissions for all apps. Turn on now?</string>
     <string name="cetus_invisible_mode_warn_record_audio">"You're incognito. Microphone permissions are suspended."</string>
+    <string name="chainstart_desc_for_exemption">Unreviewed app \"%1$s\" is opening \"%2$s\". Take care when making payments.</string>
     <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
     <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
@@ -1408,6 +1423,8 @@ However, some of your transactions aren't completed yet. To be able to withdraw 
     <string name="cs_func_toast_headset">Disconnect your headset to be able to use this feature</string>
     <string name="cs_func_toast_light">Switch to the front camera to be able to use this feature</string>
     <string name="cs_func_toast_pickup">Switch to a video call to be able to use this feature</string>
+    <string name="cs_pickup_denoise_desc">Reduce noise of incoming audio while using speakers or earphones</string>
+    <string name="cs_pickup_denoise_title">Noise reduction</string>
     <string name="cs_pickup_multi_desc">%d degree audio pickup</string>
     <string name="cs_pickup_multi_title">Multiple participants</string>
     <string name="cs_pickup_single_desc">Only pick up sound from in front of the screen</string>
@@ -1427,6 +1444,7 @@ However, some of your transactions aren't completed yet. To be able to withdraw 
     <string name="cta_dialog_positive">Agree</string>
     <string name="cta_dialog_title">Internet connection</string>
     <string name="cta_main_purpose">"Welcome to Security! You can use Security and its modules (including MIUI security components, system services, and Joyose) to free up storage space, scan your device for viruses, control battery usage, optimize your device for gaming, manage apps, receive earthquake early warnings, and more. MIUI security components will connect to the internet and perform security scans while you're installing apps and making payments."</string>
+    <string name="cta_main_purpose_new">"Welcome to Security! You can use Security and its modules (including MIUI security components, security and system services, and Joyose) to free up storage space, scan your device for viruses, control battery usage, optimize your device for gaming, manage apps, receive earthquake early warnings, and more. MIUI security components will connect to the internet and perform security scans while you're installing apps and making payments."</string>
     <string name="cta_settings">Allow to connect to the internet and access location</string>
     <string name="current_network_state_not_need_diagnose">Internet connection is normal.</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">For using blocklist and making calls to emergency contacts when earthquake warnings are issued</string>
@@ -1642,6 +1660,8 @@ It will be added to exceptions, but previously blocked items won't appear in cal
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
     <string name="dynamic_md5">cf22c9ca95b12a9404c0b7c59515f3e3</string>
+    <string name="dynamic_performance_optimization_summary">Adjust resolution dynamically during gaming sessions</string>
+    <string name="dynamic_performance_optimization_title">Dynamic performance</string>
     <string name="early_morning">Morning</string>
     <string name="earthly_branches_chen">辰</string>
     <string name="earthly_branches_chou">丑</string>
@@ -2584,6 +2604,8 @@ but also increases power consumption and allows your device to overheat"</string
     <string name="gb_turbo_wonder_subtitle">Record key moments</string>
     <string name="gb_vision_enhance">Enhanced visuals</string>
     <string name="gb_vision_enhance_desc">Improve picture quality and performance</string>
+    <string name="gb_vision_enhance_frme_insertion_tips">"Smart frame rate
+%dFPS"</string>
     <string name="gb_vision_enhance_smart_frame_insertion">Smart frame rate</string>
     <string name="gb_vision_enhance_smart_frame_insertion_desc">Adjust frame rate automatically to make motion smoother</string>
     <string name="gb_vision_enhance_super_resolution">Super resolution</string>
@@ -2862,7 +2884,7 @@ to join our egg hunt!"</string>
     <string name="hints_virus_app_summary">%s (app)</string>
     <string name="hints_virus_lib_update_default_summary">Last update time unknown</string>
     <string name="hongbao_cancel">取消</string>
-    <string name="hongbao_message_slogon">小米手机就是快!</string>
+    <string name="hongbao_message_slogon">小米手机就是快！</string>
     <string name="hongbao_name">小米红包助手</string>
     <string name="hot">Popular</string>
     <string name="hot_today">Popular today</string>
@@ -2905,6 +2927,7 @@ to join our egg hunt!"</string>
     <string name="input_aviable_traffic">Set data usage limit</string>
     <string name="input_celluar_data_quota_hint">Enter data limit</string>
     <string name="input_cellular_data_warn_hint">Enter data usage warning limit</string>
+    <string name="input_hint_search_app">Search apps</string>
     <string name="input_password_hint_text">Enter password</string>
     <string name="input_phone_num_hint">Edit SIM phone number</string>
     <string name="input_title">Tap to enter</string>
@@ -3045,7 +3068,7 @@ Carrier may charge you additional fees if you use mobile data connection again."
     <string name="lucky_my_luckymoney">我的红包战绩</string>
     <string name="lucky_sound_mode_lucky">红包来了</string>
     <string name="lucky_sound_warn">红包声音提醒</string>
-    <string name="lucky_str_yuan">%f元</string>
+    <string name="lucky_str_yuan">%.2f元</string>
     <string name="lucky_warning_count_title">来自微信</string>
     <string name="m3_ref_typeface_brand_medium">sans-serif-medium</string>
     <string name="m3_ref_typeface_brand_regular">sans-serif</string>
@@ -3125,7 +3148,7 @@ to respond"</string>
     <string name="malicious_read_phone_info">获取手机信息</string>
     <string name="malicious_read_sms">读取短信</string>
     <string name="malicious_run_long">运行时间过长</string>
-    <string name="malicious_set_android_widget">高危场景-安卓原生小组件</string>
+    <string name="malicious_set_android_widget">高危场景-安卓原生小部件</string>
     <string name="malicious_system_grant_third_uri">系统授权三方Uri</string>
     <string name="malicious_system_third_call">系统应用与三方应用之间交互</string>
     <string name="malicious_time_bg_run">后台时长</string>
@@ -3466,7 +3489,7 @@ You can turn off the \"Auto adjust data usage stats\" option at any time."</stri
 
 3. Your carrier's network signal may be weak in your current location."</string>
     <string name="network_operator_exception_summary">"Couldn't activate SIM card. Make sure your SIM card is inserted properly and that your mobile plan has been activated by your carrier."</string>
-    <string name="network_permission_exception_tips">"Can't use mobile data to connect to the network"</string>
+    <string name="network_permission_exception_tips">This feature needs to use mobile data to be able to work normally.</string>
     <string name="network_roaming_exception_tips">"Can't use mobile data while roaming to connect to the network."</string>
     <string name="network_route_exception_detail">"There may be a problem with the router you're connected to:
 
@@ -3729,7 +3752,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="optimize_result_summary_sucurity_risk">Some security features are off. Turn on these features to make your device more secure:</string>
     <string name="optimize_result_summary_system_default_settings">"Using default MIUI apps increases the level of the system's stability and security."</string>
     <string name="optimize_result_title_sucurity_risk">Security risks found</string>
-    <string name="optimize_result_title_system_default_settings">Default settings have been changed</string>
+    <string name="optimize_result_title_system_default_settings">Default system settings have been changed</string>
     <string name="optimize_result_title_uninstall_apps">Uninstall apps</string>
     <string name="optimize_result_toast_system_default_settings">Restored default settings</string>
     <string name="optimize_result_toast_system_no_item_selected">No items selected</string>
@@ -3750,6 +3773,14 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="other_milink_connect">"Can't cast. Another feature is being cast now."</string>
     <string name="other_operator_name_virtual_operator">Other virtual carriers</string>
     <string name="over_package_reminder_type">When data plan is used up</string>
+    <string name="overlay_permission_dialog_comment">Allow Security to show items over other apps.</string>
+    <string name="overlay_permission_dialog_comment_pad">Allow Security to show items over other apps.</string>
+    <string name="overlay_permission_dialog_comment_security_service">Allow \"Security tools\" to show items over other apps. You can grant this permission in Settings.</string>
+    <string name="overlay_permission_dialog_message">Security needs permissions to be able to work normally.</string>
+    <string name="overlay_permission_dialog_message_pad">Security needs permissions to be able to work normally.</string>
+    <string name="overlay_permission_dialog_message_security_service">Security needs certain permissions to work normally.</string>
+    <string name="overlay_permission_dialog_open">Settings</string>
+    <string name="overlay_permission_dialog_title">Permissions required</string>
     <string name="package_change_notification_summary">Tap to learn more.</string>
     <string name="package_change_notification_title">Adjust data limit automatically</string>
     <string name="package_setted_error_notification_summary">Tap to view data usage details.</string>
@@ -4415,6 +4446,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="pp_understanding_privacy">Awareness</string>
     <string name="pp_virtual_identity_manager">Virtual ID</string>
     <string name="pp_virtual_identity_summary">A virtual ID (OAID) can be provided to apps instead of your real identifier. It protects your privacy and allows you to control how apps track your behavior.</string>
+    <string name="precise_location_title">Precise location</string>
     <string name="pref_about_traffic_title">Data usage settings</string>
     <string name="pref_adjust_data_usage">Carrier message template</string>
     <string name="pref_adjust_data_usage_summary">After you changed the calibration template, MIUI will use it to get data usage stats from your carrier</string>
@@ -4802,6 +4834,8 @@ Withdraw consent now?"</string>
     <string name="privacy_thumbnail_blur_search_empty">"Couldn't find results"</string>
     <string name="privacy_thumbnail_blur_title">Blur previews</string>
     <string name="privacy_thumbnail_blur_top_tip">Select apps for which previews will be blurred in Recents</string>
+    <string name="privacy_thumbnail_shield_title">Preview masking</string>
+    <string name="privacy_thumbnail_shield_top_tip">Mask previews for apps displayed in Recents</string>
     <string name="privacy_type_open">On</string>
     <string name="privacy_update_dialog_content_1">%s Privacy Policy was updated:</string>
     <string name="privacy_update_dialog_content_2"><Data>Read and agree to the new version of &lt;a href=\"%1$s\">Privacy Policy&lt;/a> before you continue.</Data></string>
@@ -5186,6 +5220,7 @@ Withdraw consent now?"</string>
     <string name="sim_lock_start_summary">This feature protects you from possible risks in case your SIM card is lost.</string>
     <string name="sim_lock_start_title">SIM security</string>
     <string name="sim_lock_toast_no_sim">Install SIM card first</string>
+    <string name="sim_lock_verify_time_out">Verification timed out. Try again.</string>
     <string name="sim_not_ready_toast">"SIM card isn't ready"</string>
     <string name="sim_state_exception_summary">SIM status indicates something may be wrong with your SIM card.</string>
     <string name="sip_phone">SIP Phone</string>
@@ -5469,6 +5504,7 @@ Withdraw consent now?"</string>
     <string name="st_msg_stranger_group">Block messages from strangers</string>
     <string name="st_settings_name">Blocklist settings</string>
     <string name="st_share_settings">Use SIM %d settings</string>
+    <string name="st_sms_intercept_oversea">International SMS</string>
     <string name="st_sub_title_customize_mode_name">Name</string>
     <string name="st_sub_title_whiteblack_list_group">Blocklist</string>
     <string name="st_sum_call_wait">Your away message will also be played as a busy signal for incoming calls.</string>
@@ -5660,7 +5696,7 @@ Formatting will erase existing content on the ^2. To avoid losing content, back 
     <string name="summary_block_calls_from_cantacts">Calls from contacts are blocked.</string>
     <string name="summary_block_calls_from_strangers">Calls from strangers are blocked.</string>
     <string name="summary_cleaner_cloudscan">Upload and compare folder names with online definitions</string>
-    <string name="summary_cloud_account">Get the most out of your Mi device</string>
+    <string name="summary_cloud_account">Use all services provided by Xiaomi</string>
     <string name="summary_cloud_service">Sync your photos, contacts, and more across all your devices</string>
     <string name="summary_cloud_space_almost_full">Get storage</string>
     <string name="summary_cloud_space_full">Get more storage space and access to more features</string>
@@ -6497,7 +6533,7 @@ Try upscaling resolution!"</string>
     <string name="warningcenter_disaster_orange">橙色预警</string>
     <string name="warningcenter_disaster_place_settings">Region</string>
     <string name="warningcenter_disaster_place_subscribe">Select region</string>
-    <string name="warningcenter_disaster_qita">其它地质灾害</string>
+    <string name="warningcenter_disaster_qita">其他地质灾害</string>
     <string name="warningcenter_disaster_receive_info">Warning format</string>
     <string name="warningcenter_disaster_receive_level">Select warning level</string>
     <string name="warningcenter_disaster_receive_level_blue">Blue</string>
