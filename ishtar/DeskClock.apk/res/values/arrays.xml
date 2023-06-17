@@ -190,6 +190,15 @@
         <item>Every day</item>
         <item>Working days</item>
     </string-array>
+    <string-array name="bedtime_guide_repeat_type_international">
+        <item>Mon to Fri</item>
+        <item>Every day</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entires_international">
+        <item>Every day</item>
+        <item>Mon to Fri</item>
+        <item>Custom</item>
+    </string-array>
     <string-array name="bedtime_repeat_entries">
         <item>Every day</item>
         <item>Monday to Friday</item>
@@ -200,6 +209,11 @@
         <item>1</item>
         <item>4</item>
         <item>2</item>
+        <item>5</item>
+    </integer-array>
+    <integer-array name="bedtime_repeat_values_international">
+        <item>1</item>
+        <item>4</item>
         <item>5</item>
     </integer-array>
     <string-array name="chinese_days">
@@ -754,7 +768,7 @@
         <item>Sofia</item>
         <item>Stockholm</item>
         <item>Tallinn</item>
-        <item>Vatican</item>
+        <item>Vatican City</item>
         <item>Vienna</item>
         <item>Vilnius</item>
         <item>Warsaw</item>
