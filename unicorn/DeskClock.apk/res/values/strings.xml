@@ -42,6 +42,7 @@
     <string name="add_timezone_title">Add timezone</string>
     <string name="afternoon">Afternoon</string>
     <string name="agree">Agree</string>
+    <string name="alarm_alert">Alarm is ringing</string>
     <string name="alarm_alert_alert_silenced">Alarm silenced after %1$s.</string>
     <string name="alarm_alert_close_entrance">Turn off</string>
     <string name="alarm_alert_disabled">Off</string>
@@ -239,7 +240,7 @@
     <string name="delete_selected_timer_item">Delete the selected timer task?</string>
     <string name="delete_timer_item_title">Delete timer task</string>
     <string name="delete_timezone_title">Delete timezone</string>
-    <string name="deskclock_sleep_no_disturbance">Clock - Manage bedtime - DND mode</string>
+    <string name="deskclock_sleep_no_disturbance">Clock > Manage bedtime > DND mode</string>
     <string name="device_sounds">Device sounds</string>
     <string name="dialog_confirm_abort">Discard changes?</string>
     <string name="dialog_legal_off_day"><Data>"Looks like you're using holiday alarms.This feature needs to connect to the internet to work normally. Before using this feature, you must agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>. Agree?"</Data></string>
@@ -694,7 +695,7 @@ mm"</string>
     <string name="sleep_notification_title">Time to go to bed</string>
     <string name="sleep_record">Track sleep</string>
     <string name="sleep_record_desc">Turn on to start recording sleep data</string>
-    <string name="sleep_record_desc_detailed">Sleep tracking functionality is provided by Xiaomi Health. Once turned on, Xiaomi Health automatically records your sleep based on your phone usage, activity stats, as well as fall asleep and wake up time you set, showing you stats in the form of charts. To track sleep more accurately, allow Xiaomi Health to autostart. All the related data will be stored locally on your device, which allows you to manage it easily.</string>
+    <string name="sleep_record_desc_detailed">Sleep tracking functionality is provided by Xiaomi Health. Once turned on, Xiaomi Health automatically records your sleep based on your phone usage, activity stats, and the bedtime and wake-up times you set, showing you stats in the form of charts. To track sleep more accurately, allow Xiaomi Health to autostart. All related data will be stored locally on your device for easy management.</string>
     <string name="sleep_record_desc_detailed_new">Sleep tracking is provided by the Mi Fitness Sleep feature. If you turn this feature on, Mi Fitness will automatically collect and display data on your sleep based on your phone usage, activity, and the bedtime and wake-up time you set. To track sleep more accurately, allow Mi Fitness to autostart.</string>
     <string name="sleep_record_no_data">Your stats will appear here after Xiaomi Health analyzes enough data</string>
     <string name="sleep_remind">Bedtime reminder</string>
@@ -702,6 +703,7 @@ mm"</string>
     <string name="sleep_wake_time">%1$s-%2$s</string>
     <string name="slider_text">Swipe up to turn off</string>
     <string name="slider_text_new">Swipe up to stop</string>
+    <string name="snooze_alarm_alert">Snoozed until %s</string>
     <string name="snooze_confirm_cancel">Dismiss alarm</string>
     <string name="snooze_duration">Snooze</string>
     <string name="snooze_duration_text">%1$s | %2$s</string>
@@ -832,6 +834,8 @@ mm"</string>
     <string name="timer_alert_mute_on">"Alarm won't sound when timer stops"</string>
     <string name="timer_alert_mute_remind">Tap to mute alarm</string>
     <string name="timer_alert_mute_switch">Switch for muting timer alarms</string>
+    <string name="timer_alert_pause">Timer is paused</string>
+    <string name="timer_alert_running">Timer is running</string>
     <string name="timer_alert_type_beach">Beach</string>
     <string name="timer_alert_type_forest">Forest</string>
     <string name="timer_alert_type_mute">Default</string>

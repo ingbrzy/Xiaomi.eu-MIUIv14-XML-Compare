@@ -153,8 +153,8 @@
         <item quantity="one">%d item selected</item>
     </plurals>
     <plurals name="noti_quota_full_title_with_icon_text">
-        <item quantity="other">"Storage is full. Couldn't sync &lt;font color=#F22424>%d apps&lt;/font>"</item>
-        <item quantity="one">"Storage is full. Couldn't sync &lt;font color=#F22424>%d app&lt;/font>"</item>
+        <item quantity="other">"Storage is full. Couldn't sync &lt;font color=#F22424>%d apps&lt;/font>."</item>
+        <item quantity="one">"Storage is full. Couldn't sync &lt;font color=#F22424>%d app&lt;/font>."</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minutes ago</item>
