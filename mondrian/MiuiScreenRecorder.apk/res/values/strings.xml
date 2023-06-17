@@ -32,7 +32,7 @@
     <string name="am">AM</string>
     <string name="app_name">Screen Recorder</string>
     <string name="app_notification_channel_record_complete">Notifications about finished recordings</string>
-    <string name="app_notification_info">Screen Recorder is working in the background</string>
+    <string name="app_notification_info">Currently recording screen…</string>
     <string name="app_notification_record_saved">"Saved recording successfully
 Tap to view"</string>
     <string name="app_notification_title">Screen Recorder</string>

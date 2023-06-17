@@ -79,6 +79,9 @@
     <string name="ad_setting">Additional settings</string>
     <string name="add">Add</string>
     <string name="add_music">Add songs</string>
+    <string name="add_songs_manually_bottom">Add</string>
+    <string name="add_songs_manually_home">Add songs manually</string>
+    <string name="add_songs_manually_setting">Add songs manually</string>
     <string name="add_to_group_notify">%1$s joined the family</string>
     <string name="add_to_last_of_playlist">Add to the end of playlist</string>
     <string name="add_to_playlist">Add to queue</string>
@@ -393,8 +396,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">a510a880591e4ba2981eba17b892c1a5</string>
-    <string name="com.miapm.build_id">7ce4d5099e4049818a85db4a2e19ee17</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">5e9760b1aa94416aa81e1f721c884d9d</string>
+    <string name="com.miapm.build_id">be237686d4c24fb083fbadf1d8f8c27c</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="commit">Submit</string>
     <string name="commit_frequently">Submit too frequently, please try again later</string>
@@ -529,6 +532,7 @@ Please check your network"</string>
     <string name="create_playlist">Create playlist</string>
     <string name="create_playlist_failure">"Couldn't create playlist"</string>
     <string name="create_playlist_input_hint">Enter playlist name</string>
+    <string name="create_shortcut_for_playlist">Create a playlist Home screen shortcut?</string>
     <string name="crg_none_address">No address</string>
     <string name="crg_none_gift">No gifts</string>
     <string name="crs_appeal">Appeal</string>
@@ -2887,6 +2891,16 @@ time"</string>
     <string name="weibo_redirect_uri" />
     <string name="welcome_to_entertainment">Check out the new Entertainment feature for music games and more</string>
     <string name="whats_app">WhatsApp</string>
+    <string name="whitelist_add_exist">"Some songs are already listed in Local songs and aren't shown here"</string>
+    <string name="whitelist_add_failed">"Couldn't add files"</string>
+    <string name="whitelist_desc_1">"If Mi Music doesn't find the songs you're looking for on your device, you can add them manually."</string>
+    <string name="whitelist_desc_2">"These files will be displayed even if the file size and song length doesn't match or they're in hidden folders."</string>
+    <string name="whitelist_dialog_content">"Removed files will no longer appear among Mi Music's exceptions, but won't be deleted from your device. Remove now?"</string>
+    <string name="whitelist_dialog_title">Remove files?</string>
+    <string name="whitelist_entrance_desc">"Manually add files that Mi Music doesn't locate automatically"</string>
+    <string name="whitelist_entrance_text_1">"Can't find a song? "</string>
+    <string name="whitelist_multi_add_tips">%1$s. %2$s.</string>
+    <string name="whitelist_title">File exceptions</string>
     <string name="widget_small_text_separator">-</string>
     <string name="wifi_required_body" formatted="false">"Connect to Wi-Fi to complete this %s download. 
 
