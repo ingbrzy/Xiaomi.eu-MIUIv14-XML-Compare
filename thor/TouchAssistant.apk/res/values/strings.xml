@@ -214,15 +214,16 @@
     <string name="midnight">Night</string>
     <string name="miuix_access_state_desc">Selected</string>
     <string name="miuix_alphabet_indexer_name">Index bar</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselect</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_action_mode_select_all">Select all</string>
     <string name="miuix_appcompat_action_mode_title_empty">Select items</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">More</string>
     <string name="miuix_appcompat_cancel_description">Cancel</string>
     <string name="miuix_appcompat_confirm_description">Confirm</string>
     <string name="miuix_appcompat_delete_description">Delete</string>
-    <string name="miuix_appcompat_deselect_all">Deselect</string>
+    <string name="miuix_appcompat_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_deselect_all_description">Deselect all</string>
+    <string name="miuix_appcompat_edit">Edit</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel</string>
     <string name="miuix_appcompat_search_input_description">Search</string>
     <string name="miuix_appcompat_select_all">Select all</string>
@@ -400,7 +401,7 @@
     <string name="the_valentines_day">"Valentine's Day"</string>
     <string name="the_water_lantern_festival">Water Lantern Festival</string>
     <string name="theme_manager_not_supported">"Theme manager isn't supported."</string>
-    <string name="three_seconds_auto_hide">Stick to the edge after 3 seconds of inactivity</string>
+    <string name="three_seconds_auto_hide">Stick to the edge after %d seconds of inactivity</string>
     <string name="thursday">Thursday</string>
     <string name="thursday_short">Thu</string>
     <string name="thursday_shortest">Thu</string>

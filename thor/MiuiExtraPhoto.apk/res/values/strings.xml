@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="acc_return">Back</string>
     <string name="actionbar_button_up_description">Back</string>
     <string name="afternoon">Afternoon</string>
     <string name="am">AM</string>
