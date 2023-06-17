@@ -367,6 +367,8 @@ your devices?"</string>
     <string name="dialog_miplay_permission_message">Allow Casting to record audio, access files in the internal storage, and access your location to be able to use this feature normally. Tap \"Settings\" and select \"App permissions\" to continue.</string>
     <string name="dialog_miplay_permission_positive">Settings</string>
     <string name="dialog_miplay_permission_title">Permissions required</string>
+    <string name="dialog_nearbydevice_permission_message">Allow this device to access nearby devices to be able to use casting features.</string>
+    <string name="dialog_nearbydevice_permission_title">Permissions required</string>
     <string name="dialog_nfc_cast_wifi_off">Turn on Wi-Fi to be able to cast using NFC. Turn on now?</string>
     <string name="dialog_no_device_message"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Connect both your mobile device and TV to the same Wi-Fi network.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. On some TV models, this feature is only available when screen mirroring is on. View &lt;a href=milink://com.milink.service/specification>\"Help\"&lt;/a> to learn more.</Data></string>
     <string name="dialog_no_device_message_china"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Connect both your mobile device and TV to the same Wi-Fi network.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. On some TV models, this feature is only available when screen mirroring is on. View &lt;a href=milink://com.milink.service/specification>\"Help\"&lt;/a> to learn more.</Data></string>
@@ -668,7 +670,7 @@ If you need to turn on Miracast, press the [MENU] button and select My apps > Ca
     <string name="menu_new_display_open">用新窗口打开</string>
     <string name="menu_pc_open">用电脑程序打开</string>
     <string name="midnight">Night</string>
-    <string name="milink_required_permissions">android.permission.BLUETOOTH_SCAN;android.permission.BLUETOOTH_CONNECT;android.permission.BLUETOOTH_ADVERTISE;android.permission.ACCESS_FINE_LOCATION;android.permission.ACCESS_COARSE_LOCATION;android.permission.ACCESS_BACKGROUND_LOCATION;android.permission.READ_PHONE_STATE;android.permission.READ_EXTERNAL_STORAGE;android.permission.RECORD_AUDIO;android.permission.READ_MEDIA_IMAGES;android.permission.READ_MEDIA_VIDEO;android.permission.READ_MEDIA_AUDIO</string>
+    <string name="milink_required_permissions">android.permission.BLUETOOTH_SCAN;android.permission.BLUETOOTH_CONNECT;android.permission.BLUETOOTH_ADVERTISE;android.permission.ACCESS_FINE_LOCATION;android.permission.ACCESS_COARSE_LOCATION;android.permission.ACCESS_BACKGROUND_LOCATION;android.permission.NEARBY_WIFI_DEVICES;android.permission.READ_PHONE_STATE;android.permission.READ_EXTERNAL_STORAGE;android.permission.RECORD_AUDIO;android.permission.READ_MEDIA_IMAGES;android.permission.READ_MEDIA_VIDEO;android.permission.READ_MEDIA_AUDIO</string>
     <string name="mipaly_server_exit_touping">请先退出当前投屏</string>
     <string name="miplay_accessibility_cast">Select device</string>
     <string name="miplay_accessibility_cover">Cover</string>

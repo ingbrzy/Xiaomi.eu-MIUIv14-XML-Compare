@@ -258,4 +258,12 @@ Note: File will be deleted from this device as well."</item>
         <item quantity="other">%d days remaining</item>
         <item quantity="one">%d day remaining</item>
     </plurals>
+    <plurals name="whitelist_multi_added">
+        <item quantity="other">Added %d files</item>
+        <item quantity="one">Added %d file</item>
+    </plurals>
+    <plurals name="whitelist_multi_added_before">
+        <item quantity="other">%d files had been added before</item>
+        <item quantity="one">%d file had been added before</item>
+    </plurals>
 </resources>
