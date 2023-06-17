@@ -29,10 +29,6 @@
         <item quantity="other">%d mins ago</item>
         <item quantity="one">1 min ago</item>
     </plurals>
-    <plurals name="backup_action_long_time_not_auto_backup_content">
-        <item quantity="other">"You haven't backed up your items in %s weeks. Tap to see how to turn on automatic backups."</item>
-        <item quantity="one">"You haven't backed up your items in %s week. Tap to see how to turn on automatic backups."</item>
-    </plurals>
     <plurals name="backup_action_long_time_not_backup_content">
         <item quantity="other">"Looks like you haven't backed up items for %s weeks. Create backups to avoid losing anything important."</item>
         <item quantity="one">"Looks like you haven't backed up items for %s week. Create backups to avoid losing anything important."</item>
