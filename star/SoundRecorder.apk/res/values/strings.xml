@@ -241,7 +241,7 @@
     <string name="friday">Friday</string>
     <string name="friday_short">Fri</string>
     <string name="friday_shortest">Fri</string>
-    <string name="head_set_tip_dialog_msg">Disconnect your earphones to be able to record sound with specific presets (e.g., Music, Voice).</string>
+    <string name="head_set_tip_dialog_msg">Disconnect your earphones to be able to record sound with specific presets (e.g. Music, Voice).</string>
     <string name="head_set_tip_dialog_ok">Got it</string>
     <string name="head_set_tip_dialog_title">Use internal mic</string>
     <string name="heavenly_stems_bing">丙</string>
@@ -428,6 +428,11 @@
 How to grant permission
 Tap \"%1$s\", and then select \"%2$s\"."</string>
     <string name="new_saf_permission_dialog_grant_permission_immediately">Next</string>
+    <string name="new_search_alll_records_hint">Search all recordings</string>
+    <string name="new_search_app_records_hint">Search app recordings</string>
+    <string name="new_search_call_records_hint">Search call recordings</string>
+    <string name="new_search_fm_records_hint">Search radio recordings</string>
+    <string name="new_search_recorder_records_hint">Search in Recorder</string>
     <string name="night">Evening</string>
     <string name="no_content">No items here yet</string>
     <string name="no_file">Empty</string>

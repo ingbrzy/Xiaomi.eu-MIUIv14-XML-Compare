@@ -259,7 +259,7 @@
         <item>@string/month_december_shortest</item>
     </string-array>
     <string-array name="record_format_entries">
-        <item>AAC</item>
+        <item>M4A</item>
         <item>MP3</item>
         <item>WAV</item>
     </string-array>
