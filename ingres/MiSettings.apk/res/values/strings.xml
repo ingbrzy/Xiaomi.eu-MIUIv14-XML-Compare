@@ -391,6 +391,8 @@ aren't generated in Second space"</string>
     <string name="focus_time_exception_tip">Looks like system time changed. Turned off Focus mode.</string>
     <string name="follow_apps_settings">Based on app settings</string>
     <string name="follow_sim1">Apply SIM 1 settings</string>
+    <string name="footer_max_fps" formatted="false">"
+%d. Refresh rate can be adjusted to up to %s Hz for supported apps and games."</string>
     <string name="force_rest">Use session breaks</string>
     <string name="force_rest_summary">Take mandatory breaks when sessions reach set limit</string>
     <string name="force_rest_time">Break duration</string>
@@ -513,19 +515,21 @@ aren't generated in Second space"</string>
     <string name="marabou_stork">Marabou stork</string>
     <string name="marabou_stork_info">The marabou stork is a massive bird, a frequent scavenger.</string>
     <string name="masked_palm_civet">Masked palm civet</string>
+    <string name="max_fps_string">Up to %s Hz</string>
     <string name="medium_tree_finch">Medium tree finch</string>
     <string name="midnight">Night</string>
     <string name="miuix_access_state_desc">Selected</string>
     <string name="miuix_alphabet_indexer_name">Index bar</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselect</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_action_mode_select_all">Select all</string>
     <string name="miuix_appcompat_action_mode_title_empty">Select items</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">More</string>
     <string name="miuix_appcompat_cancel_description">Cancel</string>
     <string name="miuix_appcompat_confirm_description">Confirm</string>
     <string name="miuix_appcompat_delete_description">Delete</string>
-    <string name="miuix_appcompat_deselect_all">Deselect</string>
+    <string name="miuix_appcompat_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_deselect_all_description">Deselect all</string>
+    <string name="miuix_appcompat_edit">Edit</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel</string>
     <string name="miuix_appcompat_search_input_description">Search</string>
     <string name="miuix_appcompat_select_all">Select all</string>
@@ -764,6 +768,7 @@ aren't generated in Second space"</string>
     <string name="stop_summary">All Screen time stats and data will be deleted when you turn this feature off</string>
     <string name="suggestion">Feedback</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="summary_max_fps_for_intelligent">Adjust the refresh rate dynamically to up to %s Hz based on scenarios to balance performance with power consumption</string>
     <string name="sunday">Sunday</string>
     <string name="sunday_short">Sun</string>
     <string name="sunday_shortest">Sun</string>

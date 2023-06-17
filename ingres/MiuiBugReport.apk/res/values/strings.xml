@@ -621,6 +621,7 @@ Send this code to the supervisor."</string>
     <string name="month_september_shortest">Sep</string>
     <string name="more">More</string>
     <string name="morning">Morning</string>
+    <string name="net_daig_network_repair">Network repair</string>
     <string name="net_diag_cancel">Cancel</string>
     <string name="net_diag_continue">Continue</string>
     <string name="net_diag_dialog_msg">Testing your network will help you detect problems and improve your connection.</string>
@@ -635,9 +636,15 @@ Send this code to the supervisor."</string>
     <string name="net_diag_entry_network_protocol">Network protocol</string>
     <string name="net_diag_entry_network_rssi">Signal quality</string>
     <string name="net_diag_entry_router_topology">Network routing</string>
+    <string name="net_diag_fix_guide_window_msg">A network error occurred. Tap to troubleshoot.</string>
+    <string name="net_diag_fixing">Repairing network. This might take a minute.</string>
     <string name="net_diag_header_internet">Internet</string>
     <string name="net_diag_header_router">Router</string>
     <string name="net_diag_header_this_device">This device</string>
+    <string name="net_diag_repair_msg">During this process, Wi-Fi will be disconnected and then connected again. Repair now?</string>
+    <string name="net_diag_repair_msg_china">During this process, Wi-Fi will be disconnected and then connected again. Repair now?</string>
+    <string name="net_diag_repair_static_ip_msg">Network configurations may be reset during this process. Repair now?</string>
+    <string name="net_diag_repair_title">Repair network?</string>
     <string name="net_diag_title">Test network</string>
     <string name="net_diag_toast_cellular_data">To test network, turn off mobile data first.</string>
     <string name="net_diag_toast_other_networks">To test network, connect to Wi-Fi and disconnect from other networks first.</string>

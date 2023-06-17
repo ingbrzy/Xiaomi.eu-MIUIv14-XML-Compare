@@ -1775,6 +1775,7 @@ Your phone will be locked automatically after another failed attempt"</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_jp_sb">3G/GSM</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_lm_cr">WCDMA/GSM auto</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_mx_at">3G/2G (3G preferred)</string>
+    <string name="preferred_network_type_pref_entries_3g_preferred_mx_telcel">WCDMA/GSM auto</string>
     <string name="preferred_network_type_pref_entries_4g_non_preferred_mx_at">4G/3G/2G</string>
     <string name="preferred_network_type_pref_entries_4g_preferred">Prefer LTE</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Prefer 4G (CDMA)</string>
@@ -1783,6 +1784,7 @@ Your phone will be locked automatically after another failed attempt"</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_jp_sb">4G/3G/GSM</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_lm_cr">LTE/WCDMA/GSM auto</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_mx_at">4G/3G/2G (Auto)</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred_mx_telcel">LTE/WCDMA/GSM auto</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_uk_ee">4G/3G/2G</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_vd">4G/3G/2G auto</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_za_mt">2G/3G/4G auto</string>
@@ -1792,6 +1794,7 @@ Your phone will be locked automatically after another failed attempt"</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_jp_sb">5G/4G/3G/GSM</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_lm_cr">5G/LTE/WCDMA/GSM auto</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_mx_at">5G/4G/3G/2G (Auto)</string>
+    <string name="preferred_network_type_pref_entries_5g_preferred_mx_telcel">5G/LTE/WCDMA/GSM auto</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_uk_ee">5G/4G/3G/2G</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_vd">5G/4G/3G/2G auto</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_za_mt">2G/3G/4G/5G auto</string>
@@ -1801,8 +1804,10 @@ Your phone will be locked automatically after another failed attempt"</string>
     <string name="preferred_network_type_pref_entries_only_2g">2G only</string>
     <string name="preferred_network_type_pref_entries_only_2g_jp_sb">GSM</string>
     <string name="preferred_network_type_pref_entries_only_2g_lm_cr">GSM only</string>
+    <string name="preferred_network_type_pref_entries_only_2g_mx_telcel">GSM only</string>
     <string name="preferred_network_type_pref_entries_only_3g">3G only</string>
     <string name="preferred_network_type_pref_entries_only_3g_lm_cr">WCDMA only</string>
+    <string name="preferred_network_type_pref_entries_only_3g_mx_telcel">WCDMA only</string>
     <string name="preferred_network_type_pref_entries_only_4g">LTE only</string>
     <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
     <string name="preferred_network_type_title">Preferred network type</string>
