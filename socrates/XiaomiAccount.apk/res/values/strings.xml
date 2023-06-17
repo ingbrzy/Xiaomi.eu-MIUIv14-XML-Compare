@@ -341,9 +341,8 @@ Send this code to the supervisor."</string>
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="facebook">Facebook</string>
     <string name="facebook_app_id">2263965750590514</string>
-    <string name="facebook_application_id" />
+    <string name="facebook_application_id">2263965750590514</string>
     <string name="facebook_login">Sign in with Facebook</string>
-    <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="failed_dup_secure_phone_number">This phone number is already associated with another Xiaomi Account</string>
     <string name="family_service">Family services</string>
     <string name="family_service_not_open">Invite members</string>
@@ -442,7 +441,7 @@ Send this code to the supervisor."</string>
     <string name="get_phone_bind_exceed_limit">"You can associate up to %d Xiaomi Accounts with a phone number. Can't add new accounts."</string>
     <string name="get_phone_verifycode_exceed_limit">"Can't send more verification codes to this number"</string>
     <string name="google">Google</string>
-    <string name="google_application_id" />
+    <string name="google_application_id">29336734752-hkhmuft60qa4qn1ual7etmp6pfo0ib54.apps.googleusercontent.com</string>
     <string name="google_login">Sign in with Google</string>
     <string name="goto_accept">OK</string>
     <string name="guest_account_label">Xiaomi Guest Account</string>
@@ -473,7 +472,7 @@ Send this code to the supervisor."</string>
     <string name="in_progress">In progress</string>
     <string name="inconsistent_pwd">"Passwords don't match"</string>
     <string name="indeterminate">Neither checked nor unchecked</string>
-    <string name="input_email_address_notice">"We'll use this email to verify your account"</string>
+    <string name="input_email_address_notice">"We'll send an email with a verification code to the address you provide."</string>
     <string name="input_new_pwd">Enter new password</string>
     <string name="io_error_title">Confirm your network</string>
     <string name="item_view_role_description">Tab</string>
@@ -552,15 +551,16 @@ Send this code to the supervisor."</string>
     <string name="mipay_transit_card">Transport card</string>
     <string name="miuix_access_state_desc">Selected</string>
     <string name="miuix_alphabet_indexer_name">Index bar</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselect</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_action_mode_select_all">Select all</string>
     <string name="miuix_appcompat_action_mode_title_empty">Select items</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">More</string>
     <string name="miuix_appcompat_cancel_description">Cancel</string>
     <string name="miuix_appcompat_confirm_description">Confirm</string>
     <string name="miuix_appcompat_delete_description">Delete</string>
-    <string name="miuix_appcompat_deselect_all">Deselect</string>
+    <string name="miuix_appcompat_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_deselect_all_description">Deselect all</string>
+    <string name="miuix_appcompat_edit">Edit</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel</string>
     <string name="miuix_appcompat_search_input_description">Search</string>
     <string name="miuix_appcompat_select_all">Select all</string>
@@ -768,11 +768,11 @@ Send this code to the supervisor."</string>
     <string name="passport_copy_message_text_success">Copied successfully</string>
     <string name="passport_copy_message_vcode">Copy code</string>
     <string name="passport_copy_to_clipboard_successful">Copied successfully</string>
-    <string name="passport_debug_china_failed_to_get_phone_from_both_sim_activate_and_operator">国内:SIM卡激活取号失败,运营商取号失败</string>
-    <string name="passport_debug_china_failed_to_get_phone_from_sim_activate_but_successfully_from_operator_with_count">国内:SIM卡激活取号失败,运营商取号成功(成功%s张)</string>
-    <string name="passport_debug_china_successfully_got_phone_from_sim_activate_with_count">国内:SIM卡激活取号成功(成功%s张)</string>
-    <string name="passport_debug_international_failed_to_get_phone_from_sim_activate">国际:SIM卡激活取号失败</string>
-    <string name="passport_debug_international_successfully_got_phone_from_sim_activate_with_count">国际:SIM卡激活取号成功(成功%s张)</string>
+    <string name="passport_debug_china_failed_to_get_phone_from_both_sim_activate_and_operator">国内：SIM卡激活取号失败，运营商取号失败</string>
+    <string name="passport_debug_china_failed_to_get_phone_from_sim_activate_but_successfully_from_operator_with_count">国内：SIM卡激活取号失败，运营商取号成功（成功%s张）</string>
+    <string name="passport_debug_china_successfully_got_phone_from_sim_activate_with_count">国内：SIM卡激活取号成功（成功%s张）</string>
+    <string name="passport_debug_international_failed_to_get_phone_from_sim_activate">国际：SIM卡激活取号失败</string>
+    <string name="passport_debug_international_successfully_got_phone_from_sim_activate_with_count">国际：SIM卡激活取号成功（成功%s张）</string>
     <string name="passport_delete_account">Sign out</string>
     <string name="passport_dialog_captcha_title">Code</string>
     <string name="passport_dialog_doing_login">Signing in…</string>
@@ -826,7 +826,9 @@ Send this code to the supervisor."</string>
     <string name="passport_error_user_password">"Passwords don't match"</string>
     <string name="passport_error_verify_activator_phone_message">Make sure your SIM card service is activated and the device is connected to the network.</string>
     <string name="passport_error_verify_activator_phone_title">"Couldn't verify phone number"</string>
+    <string name="passport_facebook_application_id">2263965750590514</string>
     <string name="passport_facebook_login_btn_content_description">Sign in with Facebook</string>
+    <string name="passport_facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="passport_failed_to_send_activate_email">"Couldn't send activation email"</string>
     <string name="passport_find_password_on_web_msg">Visit account.mi.com to reset your password.</string>
     <string name="passport_first_login_prompt">Xiaomi Account will be created automatically when you use a phone number for the first time.</string>
@@ -842,6 +844,7 @@ Send this code to the supervisor."</string>
     <string name="passport_get_verify_code">Get code</string>
     <string name="passport_getting_activator_phone">Getting SIM info…</string>
     <string name="passport_getting_verify_code">Getting</string>
+    <string name="passport_google_application_id">29336734752-hkhmuft60qa4qn1ual7etmp6pfo0ib54.apps.googleusercontent.com</string>
     <string name="passport_google_login">Sign in with the previously used Google Account?</string>
     <string name="passport_google_login_agree">Google Account</string>
     <string name="passport_google_login_btn_content_description">Sign in with Google</string>
@@ -853,6 +856,7 @@ Send this code to the supervisor."</string>
     <string name="passport_imei_permission_denied_message">"We're requesting permission to access your device's IMEI. Xiaomi Account uses IMEI to identify the device on which you sign in or register in order to keep your account secure."</string>
     <string name="passport_imei_permission_denied_title">Request IMEI Permission</string>
     <string name="passport_input_captcha_hint">Enter code</string>
+    <string name="passport_input_email_vcode_hint">Enter code</string>
     <string name="passport_input_password_for_login">This number is associated with an existing account, enter your password</string>
     <string name="passport_input_password_hint">Enter password</string>
     <string name="passport_input_phone_hint">Enter phone number</string>
@@ -914,7 +918,9 @@ Send this code to the supervisor."</string>
     <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> characters of at least <xliff id="min_pwd_type" refersto="2">%3$d</xliff> of the following types: letters, digits, special symbols</string>
     <string name="passport_pwd_generate_failure">"Couldn't generate password"</string>
     <string name="passport_pwd_generating">Generating…</string>
+    <string name="passport_qq_application_id" />
     <string name="passport_qq_login_btn_content_description">Sign in with QQ</string>
+    <string name="passport_qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="passport_querying_phone_info">Requesting account info…</string>
     <string name="passport_quick_login">Sign in</string>
     <string name="passport_quick_login_dialog_step2_title">2-step verification</string>
@@ -1048,6 +1054,7 @@ Send this code to the supervisor."</string>
     <string name="passport_user_password_hint">Password</string>
     <string name="passport_user_reg_region">Country/Region</string>
     <string name="passport_user_reg_region_warning">"You won't be able to change your country/region once the account is created."</string>
+    <string name="passport_vcode_email_send_prompt"><Data>Your verification code was sent to &lt;a href=>&lt;xliff:g id=email_address>%s&lt;/xliff:g>&lt;/a></Data></string>
     <string name="passport_vcode_notification_title">Your sign-in verification is incomplete</string>
     <string name="passport_vcode_prompt_long">Enter verification code</string>
     <string name="passport_vcode_sms_send_prompt">Send verification code to %s</string>
@@ -1056,8 +1063,13 @@ Send this code to the supervisor."</string>
     <string name="passport_verify">Verify</string>
     <string name="passport_verifying_activator_phone">Verifying phone security…</string>
     <string name="passport_wait_for_sms_prompt">"Start over now? Verification messages may take to 10 minutes to be delivered when your phone is within range of your carrier's network."</string>
+    <string name="passport_wechat_application_id">wxbf03a31f4135dd16</string>
     <string name="passport_wechat_not_install">Install WeChat first</string>
+    <string name="passport_wechat_scope">snsapi_userinfo</string>
+    <string name="passport_wechat_state">passport_weixin_sns_auth_state</string>
+    <string name="passport_weibo_application_id" />
     <string name="passport_weibo_login_btn_content_description">Sign in with Weibo</string>
+    <string name="passport_weibo_redirect_uri" />
     <string name="passport_weixin_login_btn_content_description">Sign in with WeChat</string>
     <string name="passport_wrong_captcha">The code you entered is incorrect</string>
     <string name="passport_wrong_phone_number_format">The format of the phone number you entered is invalid</string>
@@ -1103,8 +1115,6 @@ Send this code to the supervisor."</string>
     <string name="push_notify_dialog_title">Account verification</string>
     <string name="pwd_width_phone_number_or_mail_num">"Password can't contain your phone number, email, or Xiaomi Account ID"</string>
     <string name="qq">QQ</string>
-    <string name="qq_application_id" />
-    <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="qrcode_login_entry_text"><Data>Signed in on a different device? Use &lt;a href=>quick sign-in&lt;/a></Data></string>
     <string name="qrcode_login_load_refresh"><Data>This QR code expired. Tap to &lt;a href=>refresh&lt;/a>.</Data></string>
     <string name="qrcode_login_load_retry"><Data>"Couldn't load. &lt;a href=>Try again&lt;/a>."</Data></string>
@@ -1160,7 +1170,6 @@ Send this code to the supervisor."</string>
     <string name="send_diagnosis_log">Send diagnosis log</string>
     <string name="send_email_activate_message">Verification email sent</string>
     <string name="sending">Sending…</string>
-    <string name="server_client_id">29336734752-hkhmuft60qa4qn1ual7etmp6pfo0ib54.apps.googleusercontent.com</string>
     <string name="service_error">Service error</string>
     <string name="set_success">Changed successfully</string>
     <string name="setting_later">Not now</string>
@@ -1205,8 +1214,8 @@ Send this code to the supervisor."</string>
     <string name="sunday_short">Sun</string>
     <string name="sunday_shortest">Sun</string>
     <string name="system_ad">Ads in system apps</string>
-    <string name="system_ad_list">View related apps.</string>
-    <string name="system_ad_summary">"Turn this feature on to allow showing a small number of ads in system apps. These ads help us develop and improve our products and services. You can choose to turn this feature off anytime. Thanks for your support! "</string>
+    <string name="system_ad_list">View related apps</string>
+    <string name="system_ad_summary">Turn this feature on to allow showing a small number of ads in system apps. These ads help us develop and improve our products and services. You can choose to turn this feature off anytime.</string>
     <string name="system_ad_switch">Ads in system apps</string>
     <string name="system_ad_switch_failed">"Couldn't apply setting"</string>
     <string name="tab">Tab</string>
@@ -1324,14 +1333,10 @@ Send this code to the supervisor."</string>
     <string name="v7_preference_on">ON</string>
     <string name="vip_account_settings">VIP Settings</string>
     <string name="vip_settings_info">VIP settings</string>
-    <string name="wechat_application_id" />
-    <string name="wechat_scope" />
-    <string name="wechat_state" />
+    <string name="wechat_application_id">wxbf03a31f4135dd16</string>
     <string name="wednesday">Wednesday</string>
     <string name="wednesday_short">Wed</string>
     <string name="wednesday_shortest">Wed</string>
-    <string name="weibo_application_id" />
-    <string name="weibo_redirect_uri" />
     <string name="weixin">WeChat</string>
     <string name="weixin_login">Sign in with WeChat</string>
     <string name="xiao_mi_vip">Mi VIP</string>
