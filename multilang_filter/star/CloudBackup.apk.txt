@@ -1,6 +1,8 @@
 Removed: [de] plurals.xml: plurals/abbrev_a_hour_ago (format mismatch)
 Removed: [de] plurals.xml: plurals/abbrev_in_a_hour (format mismatch)
 Removed: [ko] strings.xml: string/restore_network_pause (format mismatch)
+Removed: [ru] plurals.xml: plurals/abbrev_a_hour_ago (format mismatch)
+Removed: [ru] plurals.xml: plurals/abbrev_in_a_hour (format mismatch)
 Removed: [uk] strings.xml: string/abc_menu_Видалити_shortcut_label (invalid name)
 Removed: [uk] strings.xml: string/abc_menu_пробіл_shortcut_label (invalid name)
 Removed: [uk] strings.xml: string/abc_menu_увійти_shortcut_label (invalid name)
