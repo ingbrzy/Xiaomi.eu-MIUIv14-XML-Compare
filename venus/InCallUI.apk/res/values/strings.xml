@@ -475,16 +475,6 @@
     <string name="remind_unlock_message">Your device is locked now. \"%s\" will be available after you unlock your device. Unlock now?</string>
     <string name="required_permissions">android.permission.READ_CONTACTS;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;android.permission.BLUETOOTH_CONNECT;android.permission.POST_NOTIFICATIONS;android.permission.READ_CALL_LOG</string>
     <string name="respond_via_sms_custom_message">Custom SMS</string>
-    <string name="saf_permission_content">"System permissions were updated. To be able to record calls, grant your permission first.
-
-How to grant permission
-Tap \"%1$s\" and then select \"%2$s\"."</string>
-    <string name="saf_permission_grant_permission_immediately">Next</string>
-    <string name="saf_permission_later">Not now</string>
-    <string name="saf_permission_recorder_unlock_screen_message">To be able to save recordings, unlock your device first. Unlock now?</string>
-    <string name="saf_permission_refused">"Can't record calls due to missing permissions"</string>
-    <string name="saf_permission_title">Permissions required</string>
-    <string name="saf_permission_use_this_folder">Use this folder</string>
     <string name="saturday">Saturday</string>
     <string name="saturday_short">Sat</string>
     <string name="saturday_shortest">Sat</string>

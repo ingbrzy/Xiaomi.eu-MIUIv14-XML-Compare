@@ -153,11 +153,11 @@
         <item quantity="one">%1$d second</item>
     </plurals>
     <plurals name="worldcolock_timezone_gap_fast">
-        <item quantity="other">%s hrs ahead</item>
-        <item quantity="one">%s hr ahead</item>
+        <item quantity="other">+%s hrs</item>
+        <item quantity="one">+%s hr</item>
     </plurals>
     <plurals name="worldcolock_timezone_gap_slow">
-        <item quantity="other">%s hrs behind</item>
-        <item quantity="one">%s hr behind</item>
+        <item quantity="other">-%s hrs</item>
+        <item quantity="one">-%s hr</item>
     </plurals>
 </resources>
