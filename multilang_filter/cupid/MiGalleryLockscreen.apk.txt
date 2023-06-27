@@ -14,6 +14,8 @@ Removed: [ro] strings.xml: string/passport_user_agreement_hint_3rd_app_with_tele
 Removed: [ro] strings.xml: string/passport_user_agreement_hint_3rd_app_with_unicom (format mismatch)
 Removed: [ro] strings.xml: string/privacy_update_summary2 (format mismatch)
 Removed: [ro] strings.xml: string/privacy_update_summary3 (format mismatch)
+Removed: [ru] plurals.xml: plurals/abbrev_a_hour_ago (format mismatch)
+Removed: [ru] plurals.xml: plurals/abbrev_in_a_hour (format mismatch)
 Removed: [sl] strings.xml: string/privacy_update_summary2 (format mismatch)
 Removed: [sl] strings.xml: string/privacy_update_summary3 (format mismatch)
 Removed: [vi] strings.xml: string/xiaomi_market_sdk_update_dialog_title (format mismatch)
