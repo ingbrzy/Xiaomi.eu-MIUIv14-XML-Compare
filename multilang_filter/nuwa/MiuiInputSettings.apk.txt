@@ -7,4 +7,6 @@ Removed: [fr] plurals.xml: plurals/auto_disable_screenbuttons_disabled_header_ti
 Removed: [fr] plurals.xml: plurals/auto_disable_screenbuttons_enabled_header_title (duplicate quantity)
 Removed: [fr] strings.xml: string/mtrl_picker_navigate_to_year_description (format mismatch)
 Removed: [iw-rIL] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)
+Removed: [ru] plurals.xml: plurals/abbrev_a_hour_ago (format mismatch)
+Removed: [ru] plurals.xml: plurals/abbrev_in_a_hour (format mismatch)
 Removed: [uk] arrays.xml: array/alphabet_sub_table_with_starred (item mismatch)

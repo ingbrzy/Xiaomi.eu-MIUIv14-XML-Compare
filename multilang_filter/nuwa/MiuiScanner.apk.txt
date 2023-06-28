@@ -1,3 +1,5 @@
 Removed: [de] plurals.xml: plurals/abbrev_a_hour_ago (format mismatch)
 Removed: [de] plurals.xml: plurals/abbrev_in_a_hour (format mismatch)
 Removed: [it] strings.xml: string/impunity_declaration_content (format mismatch)
+Removed: [ru] plurals.xml: plurals/abbrev_a_hour_ago (format mismatch)
+Removed: [ru] plurals.xml: plurals/abbrev_in_a_hour (format mismatch)

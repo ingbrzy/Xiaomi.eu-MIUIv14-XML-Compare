@@ -65,6 +65,8 @@ Removed: [or-rIN] strings.xml: string/category_choose_no_app_select_tip (format 
 Removed: [or-rIN] strings.xml: string/reset_description_first_time (format mismatch)
 Removed: [pa-rIN] strings.xml: string/category_choose_no_app_select_tip (format mismatch)
 Removed: [pa-rIN] strings.xml: string/reset_description_first_time (format mismatch)
+Removed: [ru] plurals.xml: plurals/abbrev_a_hour_ago (format mismatch)
+Removed: [ru] plurals.xml: plurals/abbrev_in_a_hour (format mismatch)
 Removed: [sq-rAL] strings.xml: string/category_choose_no_app_select_tip (format mismatch)
 Removed: [sq-rAL] strings.xml: string/reset_description_first_time (format mismatch)
 Removed: [ta-rIN] strings.xml: string/category_choose_no_app_select_tip (format mismatch)

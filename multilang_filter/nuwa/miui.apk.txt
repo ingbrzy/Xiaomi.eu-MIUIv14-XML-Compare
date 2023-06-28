@@ -1,2 +1,4 @@
 Removed: [de-rDE] plurals.xml: plurals/abbrev_a_hour_ago (format mismatch)
 Removed: [de-rDE] plurals.xml: plurals/abbrev_in_a_hour (format mismatch)
+Removed: [ru-rRU] plurals.xml: plurals/abbrev_a_hour_ago (format mismatch)
+Removed: [ru-rRU] plurals.xml: plurals/abbrev_in_a_hour (format mismatch)
