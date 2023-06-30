@@ -157,7 +157,7 @@
     <string name="album_favorites_name">Favorites</string>
     <string name="album_from_format">From %s</string>
     <string name="album_hidden_item_button_title">Unhide</string>
-    <string name="album_hidden_page_title">Hide</string>
+    <string name="album_hidden_page_title">Hidden albums</string>
     <string name="album_homepage_show_all_photos">Show all photos</string>
     <string name="album_jump_failed">Wait until albums are synced with the cloud and try again</string>
     <string name="album_lockscreen_wallpapers">Lock screen wallpapers</string>
@@ -3112,7 +3112,7 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="search_syncing">Syncing data, come back in a while</string>
     <string name="search_title_album">Album</string>
     <string name="search_title_app_screenshot">App screenshots</string>
-    <string name="search_title_daily">time</string>
+    <string name="search_title_daily">Time</string>
     <string name="search_title_history">Search history</string>
     <string name="search_title_location">Locations</string>
     <string name="search_title_more">More</string>
