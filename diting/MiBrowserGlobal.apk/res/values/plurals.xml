@@ -41,6 +41,10 @@
         <item quantity="other">Blocked %d ads so far</item>
         <item quantity="one">Blocked %d ad so far</item>
     </plurals>
+    <plurals name="antivirus_desc_not_scanned_virus_in_days">
+        <item quantity="other">"Haven't scanned for %d days"</item>
+        <item quantity="one">"Haven't scanned for %d day"</item>
+    </plurals>
     <plurals name="articles_updated_amount">
         <item quantity="other">Check out %1$d new articles</item>
         <item quantity="one">Check out %1$d new article</item>
