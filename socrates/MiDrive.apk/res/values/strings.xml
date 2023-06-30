@@ -158,7 +158,7 @@
     <string name="cloud_storage_already_used">Occupied: %1$s/%2$s</string>
     <string name="cloud_storage_default_title">Cloud storage</string>
     <string name="cloud_storage_full">Cloud storage is full. Upgrade your plan to get more storage space.</string>
-    <string name="cloud_storage_info_type_backup">Backups</string>
+    <string name="cloud_storage_info_type_backup">Cloud backups</string>
     <string name="cloud_storage_info_type_drive">Mi Drive</string>
     <string name="cloud_storage_info_type_duokan">Duokan</string>
     <string name="cloud_storage_info_type_family">Family</string>
