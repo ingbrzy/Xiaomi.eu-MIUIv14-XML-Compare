@@ -645,7 +645,7 @@ Open WeChat and go to Me > Settings > General > Back up &amp; migrate chats."</s
     <string name="not_support_data_content3">3. Second space data</string>
     <string name="not_support_data_content4">4. Dual apps</string>
     <string name="not_support_data_link">"Items that can't be transferred"</string>
-    <string name="not_support_data_summary1">"Themes, wallpapers, transport cards, key cards can't be transferred using Mi Mover."</string>
+    <string name="not_support_data_summary1">"Transport and access cards can't be transferred; themes and wallpapers can be transferred on some models"</string>
     <string name="not_support_data_summary2">Some apps put strict security measures in place to prevent app data from being transferred. Such apps may include banking apps or financial services.</string>
     <string name="not_support_data_summary3">"Due to system restrictions, items from Second space can't be transferred using Mi Mover."</string>
     <string name="not_support_data_summary4">"Dual apps and their data also can't be transferred. You can transfer corresponding main apps, though."</string>
@@ -835,6 +835,7 @@ Free up at least %s."</string>
     <string name="sender_finish_title">Transferred successfully</string>
     <string name="sender_scanning_code">Place the image in the frame</string>
     <string name="sender_scanning_connecting">Connecting with new device…</string>
+    <string name="set_app_suspend">This app is being backed up now. Wait until the backup is complete and try again.</string>
     <string name="set_new_device_account">Sync with Xiaomi Account</string>
     <string name="set_new_device_lock">Set screen lock</string>
     <string name="set_new_device_more">More system settings…</string>
