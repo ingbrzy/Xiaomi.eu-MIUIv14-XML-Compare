@@ -43,6 +43,8 @@ Removed: [pt-rBR] strings.xml: string/moiton_detection_video_temperature_stop_ti
 Removed: [pt-rPT] strings.xml: string/moiton_detection_video_temperature_stop_tip (format mismatch)
 Removed: [ro] strings.xml: string/moiton_detection_video_3840fps_3840 (format mismatch)
 Removed: [ro] strings.xml: string/moiton_detection_video_temperature_stop_tip (format mismatch)
+Removed: [ru] plurals.xml: plurals/abbrev_a_hour_ago (format mismatch)
+Removed: [ru] plurals.xml: plurals/abbrev_in_a_hour (format mismatch)
 Removed: [ru] strings.xml: string/moiton_detection_video_3840fps_3840 (format mismatch)
 Removed: [ru] strings.xml: string/moiton_detection_video_temperature_stop_tip (format mismatch)
 Removed: [sk] strings.xml: string/moiton_detection_video_temperature_stop_tip (format mismatch)
