@@ -464,6 +464,10 @@
         <item quantity="other">"Couldn't share. Still processing %d photos…"</item>
         <item quantity="one">"Couldn't share. Still processing %d photo…"</item>
     </plurals>
+    <plurals name="send_too_many_files_error">
+        <item quantity="other">Select up to %d items to send</item>
+        <item quantity="one">Select up to %d item to send</item>
+    </plurals>
     <plurals name="send_video_dialog_desc">
         <item quantity="other">%2$d videos from %1$s</item>
         <item quantity="one">%2$d video from %1$s</item>
