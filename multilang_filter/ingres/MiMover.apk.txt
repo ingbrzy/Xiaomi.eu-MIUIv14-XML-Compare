@@ -1,3 +1,5 @@
+Removed: [ru] plurals.xml: plurals/abbrev_a_hour_ago (format mismatch)
+Removed: [ru] plurals.xml: plurals/abbrev_in_a_hour (format mismatch)
 Removed: [uk] strings.xml: string/dialog_request_permission_message (duplicate)
 Removed: [uk] strings.xml: string/fmt_date_long_month_day (duplicate)
 Removed: [uk] strings.xml: string/fmt_date_long_year_month_day (duplicate)
