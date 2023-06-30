@@ -18,7 +18,6 @@ Removed: [en-rGB] strings.xml: string/reset_description_first_time (format misma
 Removed: [en-rIN] strings.xml: string/category_choose_no_app_select_tip (format mismatch)
 Removed: [en-rIN] strings.xml: string/reset_description_first_time (format mismatch)
 Removed: [es-rUS] arrays.xml: array/widget_component_delete_way (item mismatch)
-Removed: [es] arrays.xml: array/widget_component_delete_way (item mismatch)
 Removed: [et-rEE] strings.xml: string/category_choose_no_app_select_tip (format mismatch)
 Removed: [et-rEE] strings.xml: string/reset_description_first_time (format mismatch)
 Removed: [eu-rES] strings.xml: string/category_choose_no_app_select_tip (format mismatch)
