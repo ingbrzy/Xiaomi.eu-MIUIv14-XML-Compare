@@ -374,9 +374,17 @@ You can get a %d-day free trial now!"</item>
         <item quantity="other">"%d apps aren't allowed to autostart"</item>
         <item quantity="one">"%d app isn't allowed to autostart"</item>
     </plurals>
+    <plurals name="hints_auto_start_disable_title_global">
+        <item quantity="other">"%d apps aren't allowed to start in the background"</item>
+        <item quantity="one">"%d app isn't allowed to start in the background"</item>
+    </plurals>
     <plurals name="hints_auto_start_enable_title">
         <item quantity="other">%d apps can autostart</item>
         <item quantity="one">%d app can autostart</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title_global">
+        <item quantity="other">%d apps can start in the background</item>
+        <item quantity="one">%d app can start in the background</item>
     </plurals>
     <plurals name="hints_get_root_disable_title">
         <item quantity="other">"%d apps don't have root access"</item>
