@@ -31,10 +31,6 @@
 %1$s
 
 "</string>
-    <string name="wifi_ca_cert_dialog_message_expiration_text">"Certificate Expiration:
-%1$s
-
-"</string>
     <string name="wifi_ca_cert_dialog_message_hint">"Only allow this network to connect if the information below looks correct.
 
 "</string>
@@ -50,12 +46,12 @@
 %1$s
 
 "</string>
-    <string name="wifi_ca_cert_dialog_message_signature_name_text">"SHA-256 Fingerprint:
+    <string name="wifi_ca_cert_dialog_message_signature_name_text">"Signature:
 %1$s
 
 "</string>
-    <string name="wifi_ca_cert_dialog_preT_abort_text">Disconnect now</string>
-    <string name="wifi_ca_cert_dialog_preT_continue_text">Stay connected</string>
+    <string name="wifi_ca_cert_dialog_preT_abort_text">"Don't connect"</string>
+    <string name="wifi_ca_cert_dialog_preT_continue_text">Connect anyway</string>
     <string name="wifi_ca_cert_dialog_preT_message_hint">The network %1$s is missing a certificate.</string>
     <string name="wifi_ca_cert_dialog_preT_message_link">Learn how to add certificates</string>
     <string name="wifi_ca_cert_dialog_preT_title">"Can't verify this network"</string>

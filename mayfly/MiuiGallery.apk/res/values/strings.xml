@@ -157,7 +157,7 @@
     <string name="album_favorites_name">Favorites</string>
     <string name="album_from_format">From %s</string>
     <string name="album_hidden_item_button_title">Unhide</string>
-    <string name="album_hidden_page_title">Hide</string>
+    <string name="album_hidden_page_title">Hidden albums</string>
     <string name="album_homepage_show_all_photos">Show all photos</string>
     <string name="album_jump_failed">Wait until albums are synced with the cloud and try again</string>
     <string name="album_lockscreen_wallpapers">Lock screen wallpapers</string>
@@ -1732,7 +1732,7 @@ are available"</string>
     <string name="hdr_show_hint">Adjust the display to show more details in the shadows and highlights on items with high dynamic range</string>
     <string name="hdr_show_title">Show HDR</string>
     <string name="hdr_switch_show_hint">Use HDR to show more detail in highlights and shadows</string>
-    <string name="hdr_switch_show_title">Display high dynamic range</string>
+    <string name="hdr_switch_show_title">Pro HDR display</string>
     <string name="header_help">Help</string>
     <string name="heavenly_stems_bing">丙</string>
     <string name="heavenly_stems_ding">丁</string>
@@ -1909,7 +1909,7 @@ are available"</string>
     <string name="loading_image_thumbnail">Downloading thumbnail…</string>
     <string name="loading_members">Loading members…</string>
     <string name="loading_suspend">Download paused. Will resume when Wi-Fi is available.</string>
-    <string name="loading_text_format" formatted="false">Removing private info from photos (%d/%d)…</string>
+    <string name="loading_text_format">Removing private info…</string>
     <string name="loading_video">Downloading video…</string>
     <string name="loading_video_compress_lib">Downloading video compression plug-in…</string>
     <string name="loading_video_fail_sync_without_network">Connect to the network to download metadata</string>
@@ -3112,6 +3112,7 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="search_syncing">Syncing data, come back in a while</string>
     <string name="search_title_album">Album</string>
     <string name="search_title_app_screenshot">App screenshots</string>
+    <string name="search_title_daily">Time</string>
     <string name="search_title_history">Search history</string>
     <string name="search_title_location">Locations</string>
     <string name="search_title_more">More</string>
@@ -3169,7 +3170,6 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="send_public_url">Send album URL</string>
     <string name="send_secret_file_failed">"Couldn't share"</string>
     <string name="send_secret_file_space_low">Not enough storage space</string>
-    <string name="send_too_many_files_error">Can send up to %d items at a time</string>
     <string name="service_error">Server error</string>
     <string name="service_is_provided_by_miui_cloud_service">This service is provided by Xiaomi Cloud</string>
     <string name="set_as_baby_lock_wallpaper">Set as Lock screen wallpaper</string>

@@ -7,19 +7,27 @@
     <string name="CurrentDsi">\u0009\u0009CurrentDsi</string>
     <string name="CurrentDsiAnt0">\u0009Ant0</string>
     <string name="CurrentDsiAnt1">\u0009Ant1</string>
+    <string name="CurrentDsiAnt10">\u0009Ant10</string>
     <string name="CurrentDsiAnt2">\u0009Ant2</string>
     <string name="CurrentDsiAnt3">\u0009Ant3</string>
     <string name="CurrentDsiAnt4">\u0009Ant4</string>
     <string name="CurrentDsiAnt5">\u0009Ant5</string>
+    <string name="CurrentDsiAnt6">\u0009Ant6</string>
+    <string name="CurrentDsiAnt7">\u0009Ant7</string>
+    <string name="CurrentDsiAnt8">\u0009Ant8</string>
+    <string name="CurrentDsiAnt9">\u0009Ant9</string>
     <string name="CurrentDsiDisplay">0</string>
     <string name="CurrentDsiDisplayAnt0">0</string>
     <string name="CurrentDsiDisplayAnt1">0</string>
+    <string name="CurrentDsiDisplayAnt10">0</string>
     <string name="CurrentDsiDisplayAnt2">0</string>
     <string name="CurrentDsiDisplayAnt3">0</string>
     <string name="CurrentDsiDisplayAnt4">0</string>
     <string name="CurrentDsiDisplayAnt5">0</string>
-    <string name="CurrentDsiDisplayOtherAnt">0</string>
-    <string name="CurrentDsiOtherAnt">\u0009OtherAnts</string>
+    <string name="CurrentDsiDisplayAnt6">0</string>
+    <string name="CurrentDsiDisplayAnt7">0</string>
+    <string name="CurrentDsiDisplayAnt8">0</string>
+    <string name="CurrentDsiDisplayAnt9">0</string>
     <string name="DsiSetSwitch">\u0009DSI调试模式</string>
     <string name="GPIODisplay">0</string>
     <string name="GPIO_Status">\u0009\u0009GPIO_Status</string>
@@ -203,17 +211,21 @@ Before you calibrate the device, place it on a flat surface."</string>
     <string name="cit_audio_hw_check_summary">Audio Hardware Check Test</string>
     <string name="cit_audio_hw_check_tips">Test Running</string>
     <string name="cit_audio_hw_check_title">Audio Hardware Check Test</string>
+    <string name="cit_audio_lb_auxmic_to_earpiece_title">Aux mic speaker feedback test</string>
     <string name="cit_audio_lb_backmic_to_earpiece_title">Back mic speaker feedback test</string>
     <string name="cit_audio_lb_mainmic_to_earpiece_title">Main mic speaker feedback test</string>
+    <string name="cit_audio_lb_summary_auxmic_to_earpiece">"Aux microphone to receiver feedback test.
+
+Hold the device as if you are making a call, speak to aux microphone, you should hear voice from receiver"</string>
     <string name="cit_audio_lb_summary_backmic_to_earpiece">"Back microphone to receiver feedback test.
 
-Hold the device as if you are making a call, speak to main microphone, you should hear voice from receiver"</string>
+Hold the device as if you are making a call, speak to back microphone, you should hear voice from receiver"</string>
     <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Main microphone to receiver feedback test.
 
 Hold the device as if you are making a call, speak to main microphone, you should hear voice from receiver"</string>
     <string name="cit_audio_lb_summary_topmic_to_earpiece">"Top microphone to receiver feedback test.
 
-Hold the device as if you are making a call, speak to main microphone, you should hear voice from receiver"</string>
+Hold the device as if you are making a call, speak to top microphone, you should hear voice from receiver"</string>
     <string name="cit_audio_lb_topmic_to_earpiece_title">Top mic speaker feedback test</string>
     <string name="cit_audio_spk_cal_valueF0">F0:</string>
     <string name="cit_audio_spk_cal_valueRe">Re:</string>
@@ -708,6 +720,7 @@ The second line shows the name and version number of Default MBN and Carrier MBN
     <string name="cit_tool_wlan_rxn_test">Rx: n</string>
     <string name="cit_tool_wlan_rxn_test_bw">bandwidth:</string>
     <string name="cit_tool_wlan_rxn_test_channel">channel:</string>
+    <string name="cit_tool_wlan_sar_test_title">Wifi-SAR tool</string>
     <string name="cit_tool_wlan_sniffer">Wi-Fi Sniffer tool</string>
     <string name="cit_tool_wlan_sniffer_settings">Sniffer Settings</string>
     <string name="cit_tool_wlan_sniffer_test_title">Wi-Fi sniffer test tool</string>

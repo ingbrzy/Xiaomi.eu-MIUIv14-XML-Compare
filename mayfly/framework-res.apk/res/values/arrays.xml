@@ -1562,11 +1562,15 @@
     <array name="vendor_disallowed_apps_managed_device" />
     <array name="vendor_disallowed_apps_managed_profile" />
     <array name="vendor_disallowed_apps_managed_user" />
+    <array name="vendor_disallowed_customized_apps_managed_device" />
+    <array name="vendor_disallowed_customized_apps_managed_profile" />
     <array name="vendor_policy_exempt_apps" />
     <array name="vendor_required_apps_managed_device" />
     <array name="vendor_required_apps_managed_profile" />
     <array name="vendor_required_apps_managed_user" />
     <array name="vendor_required_attestation_certificates" />
+    <array name="vendor_required_customized_apps_managed_device" />
+    <array name="vendor_required_customized_apps_managed_profile" />
     <string-array name="wfcOperatorErrorAlertMessages">
         <item>To make calls and send messages over Wi-Fi, first ask your carrier to set up this service. Then turn on Wi-Fi calling again from Settings. (Error code: %1$s)</item>
     </string-array>
