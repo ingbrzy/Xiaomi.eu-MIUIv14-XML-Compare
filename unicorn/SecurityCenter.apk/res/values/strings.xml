@@ -74,6 +74,7 @@
     <string name="abnormal_consume_type_cpu">High CPU usage</string>
     <string name="abnormal_consume_type_wakelock">"The system can't go to sleep"</string>
     <string name="about_autostart">About autostart</string>
+    <string name="about_autostart_gloabl">About background autostart</string>
     <string name="ac_enter_applock">Enter App lock</string>
     <string name="ac_firstUseApplock_subTitle">Use better system-level security tools</string>
     <string name="ac_firstUseApplock_title">Set a password to protect your apps</string>
@@ -119,6 +120,7 @@
     <string name="activity_title_antivirus_kddi">Security scan</string>
     <string name="activity_title_apps_manager">Apps</string>
     <string name="activity_title_auto_start_manager">Autostart</string>
+    <string name="activity_title_auto_start_manager_global">Background autostart</string>
     <string name="activity_title_garbage_cleanup">Cleaner</string>
     <string name="activity_title_license_manager">Permissions</string>
     <string name="activity_title_networkassistants">Data usage</string>
@@ -1017,7 +1019,7 @@ You will not lose any app data."</string>
     <string name="beauty_fun_screen_light">Screen fill light</string>
     <string name="beauty_fun_settings_light">Fill light brightness</string>
     <string name="beauty_fun_video_effect">Beautify for video</string>
-    <string name="beauty_portrait_center">Keep faces centered</string>
+    <string name="beauty_portrait_center">FocusFrame</string>
     <string name="beauty_portrait_center_desc">Automatically identify and center faces in video calls and meetings. This feature is not supported by some apps.</string>
     <string name="beauty_settings">Settings</string>
     <string name="before_execute_notify">before_exclude_notify</string>
@@ -1548,6 +1550,7 @@ All data on your device might be erased and your Lock screen password might be r
     <string name="dialog_change_package_type_summary">Changing data plan type will reset all data usage settings (e.g. data limits) to their default values. Change data plan type now?</string>
     <string name="dialog_change_package_type_title">Changing data plan type</string>
     <string name="dialog_msg_auto_start_declare">Some apps may incorrectly indicate that MIUI has prevented them from starting. Check permissions that have been granted to individual apps in Settings > Apps.</string>
+    <string name="dialog_msg_auto_start_declare_global">Some apps may incorrectly indicate that MIUI has prevented them from starting. Check permissions that have been granted to individual apps in Settings.</string>
     <string name="dialog_msg_create_icon_content">Create a Home screen shortcut now?</string>
     <string name="dialog_msg_create_icon_not_remain_anymore">"Don't show again"</string>
     <string name="dialog_msg_delete_icon_content_pad">Security allows you to clear trash on your device, find and neutralize viruses, save battery, manage permissions, and more.</string>
@@ -1582,6 +1585,7 @@ All data on your device might be erased and your Lock screen password might be r
     <string name="dialog_skt_roaming_warning_title">Data roaming agreement</string>
     <string name="dialog_title_attention">Attention</string>
     <string name="dialog_title_auto_start_declare">About autostart</string>
+    <string name="dialog_title_auto_start_declare_global">About background autostart</string>
     <string name="dialog_title_stop_virus_scan">Stop security scan</string>
     <string name="disable_air_mode">Turn Airplane mode off first</string>
     <string name="disable_sensitive_permissions">Sensitive permissions restricted</string>
@@ -1964,19 +1968,6 @@ volunteer"</string>
     <string name="exit_dialog_scan_message">"Your device's performance score is lower than 75 points. Optimize now?"</string>
     <string name="exit_dialog_scan_positive_button">Optimize</string>
     <string name="exit_dialog_scan_title">Optimize performance</string>
-    <string name="exit_guide_track_component_value_app_predict">应用建议2*4</string>
-    <string name="exit_guide_track_component_value_health">手机健康2*2</string>
-    <string name="exit_guide_track_component_value_power">电量展示2*2</string>
-    <string name="exit_guide_track_component_value_privacy_protect">隐私保护2*2</string>
-    <string name="exit_guide_track_component_value_ram_jat">一键加速2*2</string>
-    <string name="exit_guide_track_function_value_app_predict">应用管理</string>
-    <string name="exit_guide_track_function_value_health">体检结果页</string>
-    <string name="exit_guide_track_function_value_power">省电与电池</string>
-    <string name="exit_guide_track_function_value_privacy_protect">隐私保护</string>
-    <string name="exit_guide_track_function_value_ram_jat">优化加速</string>
-    <string name="exit_guide_track_quite_value_activity_finish">页面关闭</string>
-    <string name="exit_guide_track_quite_value_click_add">点击添加小部件</string>
-    <string name="exit_guide_track_quite_value_click_exit">点击关闭</string>
     <string name="exit_notify">exit_notify</string>
     <string name="exo_controls_cc_disabled_description">Enable subtitles</string>
     <string name="exo_controls_cc_enabled_description">Disable subtitles</string>
@@ -3829,6 +3820,10 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="pc_battery_history_total_consumption_title">Total power consumption</string>
     <string name="pc_battery_history_usetime_title">Active</string>
     <string name="pc_close_notifi_action">Turn off</string>
+    <string name="pc_continuity_has_open_save_mode_notifi_sumary">Battery saver will be turned off when %1$s is %2$s or fully charged</string>
+    <string name="pc_continuity_has_open_save_mode_notifi_title">Turned on Battery saver on %s</string>
+    <string name="pc_continuity_open_save_mode_notifi_sumary">%1$s battery is lower than %2$s. Turn on Battery saver to add %3$s %4$s.</string>
+    <string name="pc_continuity_open_save_mode_notifi_title">%s battery is low</string>
     <string name="pc_emergency_call">Emergency</string>
     <string name="pc_endurance_calculation">Calculating…</string>
     <string name="pc_entered_extreme_mode">Hibernation mode is on</string>
@@ -4666,7 +4661,6 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="privacy_flares_recent_detail_more">This app has used a sensitive permission</string>
     <string name="privacy_global_guide_permission_guide_text">"You'll receive a status bar alert when apps record audio or use camera. To learn which app does that, tap the alert."</string>
     <string name="privacy_guide_permission_guide_text">You can receive an alert in status bar when apps access your location, record audio, or take photos.</string>
-    <string name="privacy_guide_permission_use_text">MIUI will count and display the number of times an app uses sensitive permissions, including location, contact, call history, and storage access, as well as recording audio. You can learn how many times each app uses these permissions and determine whether you need to adjust your permission settings.</string>
     <string name="privacy_hide_other_permissions">Hide other permissions</string>
     <string name="privacy_informed_title">Stats</string>
     <string name="privacy_input_icon_layout_status_bg_content_enable">Protected</string>
@@ -4878,9 +4872,6 @@ Withdraw consent now?"</string>
     <string name="quick_replay_list_title">Available apps</string>
     <string name="quick_reply_title">Quick replies</string>
     <string name="quite_all_string">Cancel</string>
-    <string name="quite_track_value_string_click_add_button">点击添加小部件</string>
-    <string name="quite_track_value_string_click_empty">点击空白处</string>
-    <string name="quite_track_value_string_slide_down">向下划动</string>
     <string name="random_expression">速抢模式</string>
     <string name="reach_daily_limit_value_body">Reduce your mobile data usage.</string>
     <string name="reach_daily_limit_value_title">Daily data limit reached</string>
@@ -5001,9 +4992,6 @@ Withdraw consent now?"</string>
     <string name="scan_status_not_complete">未完成</string>
     <string name="scan_status_risk">Risky</string>
     <string name="scan_status_safe">Secure</string>
-    <string name="scan_widget_guide_button_text">添加小部件</string>
-    <string name="scan_widget_guide_message">更方便，更快捷，全面保护你的手机</string>
-    <string name="scan_widget_guide_title">全新小部件</string>
     <string name="scanning_bar_number_new">%s</string>
     <string name="screen_share_protection_negative_button">"Don't share"</string>
     <string name="screen_share_protection_summary">"The app you're using now contains your personal information which might be visible to other people if you share your screen. Share anyway?"</string>
@@ -6636,15 +6624,11 @@ Try upscaling resolution!"</string>
     <string name="widget_cleaner_message">可清理垃圾</string>
     <string name="widget_cleaner_size">529</string>
     <string name="widget_cleaner_size_unit">MB</string>
-    <string name="widget_cleaner_text_1">"手机
-很干净"</string>
     <string name="widget_health_message">手机很安全，继续优化</string>
     <string name="widget_health_size">86</string>
     <string name="widget_power_size">90</string>
     <string name="widget_power_size_message">可用时长34时２分</string>
     <string name="widget_power_size_unit">%</string>
-    <string name="widget_ramjat_cleaned_summary">已释放823MB内存</string>
-    <string name="widget_ramjat_cleaned_text">加速完成</string>
     <string name="widget_ramjat_message">可释放内存</string>
     <string name="widget_ramjat_size">732</string>
     <string name="widget_safe_size">315.89</string>
