@@ -286,7 +286,9 @@
     <string name="clearable_edittext_clear_description">Clear</string>
     <string name="close">Close</string>
     <string name="cloud_app_restore_title">Pending</string>
-    <string name="com.crashlytics.android.build_id">8e5a9ef531594372839fa7ca85444554</string>
+    <string name="color_group">Group icons by color</string>
+    <string name="color_group_anim">Animations in color categories</string>
+    <string name="com.crashlytics.android.build_id">da4c806ada9948a29e1693e4502004df</string>
     <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
     <string name="common_home_search_delete">Removing search bar</string>
     <string name="common_home_search_delete_cancle">Cancel</string>
@@ -379,6 +381,7 @@
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="failed_to_delete_temporary">"Can't remove"</string>
     <string name="failed_to_drop_widget_invalid">This widget is invalid</string>
+    <string name="find_app_by_color">Group icons by color to find apps faster</string>
     <string name="firebase_database_url">https://miui-home-8d9f8.firebaseio.com</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
@@ -443,17 +446,8 @@
     <string name="folder_picker_options_tab_text">Size</string>
     <string name="folder_picker_sliding_button_tab_text">Suggest highlighted apps</string>
     <string name="folder_picker_tab_text">Folder</string>
-    <string name="free_style_apps_title">Choose app</string>
-    <string name="free_style_drawer_title">All apps</string>
-    <string name="free_style_edit_app">App</string>
-    <string name="free_style_edit_bar_empty">Empty</string>
-    <string name="free_style_edit_drawer">Drawer</string>
-    <string name="free_style_edit_move_tip">Press &amp; hold to move an item</string>
-    <string name="free_style_edit_tab_free_component">Objects</string>
-    <string name="free_style_edit_tab_shortcut">Shortcuts</string>
-    <string name="free_style_edit_tab_widget">Widgets</string>
-    <string name="free_style_enter_tip">To view Mi Space, swipe down from the top of the screen with two fingers</string>
-    <string name="free_style_exit_tip">To return to Home screen, swipe up from the bottom of the screen with two fingers</string>
+    <string name="free_style_title">Mi Space</string>
+    <string name="free_style_unavailable_message">Mi Space is no longer supported in this version. You can keep using this theme, though.</string>
     <string name="friday">Friday</string>
     <string name="friday_short">Fri</string>
     <string name="friday_shortest">Fri</string>
@@ -597,8 +591,6 @@ Enhanced security."</string>
     <string name="menu_back_desktop">Back to Home screen</string>
     <string name="menu_cell_setting">Home screen layout</string>
     <string name="menu_default_screen_preview">Set default screen</string>
-    <string name="menu_edit">Edit Home screen</string>
-    <string name="menu_exit_scene">Exit Mi Space</string>
     <string name="menu_finish">Done</string>
     <string name="menu_lock">Lock Home screen layout</string>
     <string name="menu_more">More</string>
@@ -606,7 +598,6 @@ Enhanced security."</string>
     <string name="menu_no_word">"Don't show text"</string>
     <string name="menu_only_widget_no_word">Remove text from widgets</string>
     <string name="menu_pc_open">用电脑程序打开</string>
-    <string name="menu_reset_scene">Reset to default layout</string>
     <string name="menu_search">Search</string>
     <string name="menu_settings">Settings</string>
     <string name="menu_trans_effect">Transition effects</string>
@@ -793,8 +784,6 @@ Enhanced security."</string>
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
-    <string name="perfect_icons_switch_summary">Render animations on third party app icons</string>
-    <string name="perfect_icons_switch_title">Global icon animations</string>
     <string name="permdesc_install_shortcut">Allows an app to add shortcuts without user intervention.</string>
     <string name="permdesc_install_widget">Allows an app to add widgets without requiring additional actions from the user.</string>
     <string name="permdesc_read_settings">"Allows an app to read Home screen's settings and shortcuts."</string>
@@ -879,7 +868,6 @@ Enhanced security."</string>
     <string name="reset_description_first_time">You can restore the layout from %1$s within 2 hours</string>
     <string name="reset_description_others">You can restore the layout from %1$s</string>
     <string name="reset_fail">"Couldn't restore"</string>
-    <string name="reset_scene_prompt">Screen will be reset to default layout.</string>
     <string name="reset_title">Restore</string>
     <string name="restore_icon_successful">Added successfully</string>
     <string name="risk_app_report">Report this app</string>
@@ -1030,7 +1018,6 @@ Enhanced security."</string>
     <string name="toast_split_app_unsupported">App does not support split-screen.</string>
     <string name="toast_split_select_app">Tap another app to use splitscreen</string>
     <string name="today">Today</string>
-    <string name="toggle_select_title">Choose toggle</string>
     <string name="toggle_title">Toggles</string>
     <string name="tomorrow">Tomorrow</string>
     <string name="tuesday">Tuesday</string>
