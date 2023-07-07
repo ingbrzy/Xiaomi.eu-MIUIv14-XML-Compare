@@ -1,1 +1,0 @@
-Removed: [hr] strings.xml: string/main_mic_check_record_tip (duplicate)
