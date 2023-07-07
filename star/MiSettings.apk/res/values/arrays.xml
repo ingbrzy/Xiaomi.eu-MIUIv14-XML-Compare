@@ -178,6 +178,12 @@
         <item>file:///system/media/audio/ui/AustraliaAnimals_preview.ogg</item>
         <item>file:///system/media/audio/ui/ArcticAnimals_preview.ogg</item>
     </string-array>
+    <string-array name="coolsound_area_mash_up_names">
+        <item>AmazonAnimals_preview</item>
+        <item>AfricaAnimals_preview</item>
+        <item>AustraliaAnimals_preview</item>
+        <item>ArcticAnimals_preview</item>
+    </string-array>
     <string-array name="coolsound_dynamic_source_calendar">
         <item>ui/Cicada_Notification_1.ogg,ui/Cicada_Notification_2.ogg,ui/Bird_Notification_1.ogg,ui/Bird_Notification_2.ogg</item>
         <item>ui/Water_Notification_Day.ogg,ui/Water_Notification_Evening.ogg,ui/Water_Notification_Midday.ogg,ui/Water_Notification_Night.ogg</item>
