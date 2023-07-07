@@ -280,6 +280,7 @@
         <item>@string/solar_term_winter_solstice</item>
     </string-array>
     <string-array name="support_eight_word_calibrate_devices">
+        <item>peux</item>
         <item>veux</item>
         <item>tapas</item>
         <item>topaz</item>
