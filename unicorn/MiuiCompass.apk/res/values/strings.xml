@@ -246,6 +246,7 @@
     <string name="invisible_mode_dialog_title">"You're incognito"</string>
     <string name="keywords_search_compass">Compass;Calibrate compass;Pressure;Altitude;Latitude;Longtitude;Check longtitude; Check latitude;MIUI Compass;Compass app;MIUI Compass app;Where is Compass;Download Compass;Atmospheric pressure; Check altitude;How much is the altitude</string>
     <string name="latitude">LAT</string>
+    <string name="live_action">Live preview</string>
     <string name="location_east">EL</string>
     <string name="location_enable">Allow</string>
     <string name="location_enable_later">Later</string>
@@ -254,6 +255,8 @@
     <string name="location_not_enabled_summary">Compass needs to access your location in order to display coordinates and altitude.</string>
     <string name="location_not_enabled_summary_no_pressure_sensor">Compass needs to access your location to display your current coordinates.</string>
     <string name="location_not_enabled_title">Location services</string>
+    <string name="location_permission_tip_one">Tap to grant location permissions, in order to view latitude, longitude, air pressure, and altitude.</string>
+    <string name="location_permission_tip_two">Tap to grant location permissions, in order to view latitude and longitude.</string>
     <string name="location_south">SL</string>
     <string name="location_west">WL</string>
     <string name="longitude">LON</string>
@@ -328,7 +331,13 @@
     <string name="month_september_shortest">Sep</string>
     <string name="more">More</string>
     <string name="morning">Morning</string>
+    <string name="network_dialog_message">Compass needs to connect to the internet to access more precise altitude data. Allow now?</string>
+    <string name="network_dialog_negative">"Don't allow"</string>
+    <string name="network_dialog_positive">Allow</string>
+    <string name="network_dialog_title">Permissions required</string>
     <string name="new_cta_app_purpose">view directions and coordinates</string>
+    <string name="new_cta_app_purpose_one">Welcome to Compass! You can use this app to locate cardinal directions, latitude, longitude, air pressure, and altitude. This app needs to connect to the internet to provide its services.</string>
+    <string name="new_cta_app_purpose_two">Welcome to Compass! You can use this app to locate cardinal directions, latitude, and longitude. This app needs to connect to the internet to provide its services.</string>
     <string name="new_cta_v2_app_purpose">Showing directions, coordinates, atmospheric pressure, and current altitude</string>
     <string name="new_permission_camera_desc">For showing live previews</string>
     <string name="new_permission_location_desc">For displaying coordinates</string>
@@ -445,6 +454,8 @@
     <string name="unit_degree">Degrees</string>
     <string name="using_camera_confirm_cancel">Exit</string>
     <string name="using_camera_confirm_ok">Agree</string>
+    <string name="v2_permission_location_desc_one">For displaying latitude, longitude, altitude, and air pressure</string>
+    <string name="v2_permission_location_desc_two">For displaying latitude and longitude</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
     <string name="wednesday">Wednesday</string>
