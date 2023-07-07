@@ -5,8 +5,6 @@ Removed: [cs] strings.xml: string/pa_accessibility_picker_home_bigBanner_slected
 Removed: [cs] strings.xml: string/pa_accessibility_picker_home_smallBanner_slected (format mismatch)
 Removed: [es-rUS] strings.xml: string/pa_accessibility_picker_home_bigBanner_slected (format mismatch)
 Removed: [es-rUS] strings.xml: string/pa_accessibility_picker_home_smallBanner_slected (format mismatch)
-Removed: [hr] strings.xml: string/pa_accessibility_picker_home_bigBanner_slected (format mismatch)
-Removed: [hr] strings.xml: string/pa_accessibility_picker_home_smallBanner_slected (format mismatch)
 Removed: [it] strings.xml: string/pa_accessibility_picker_home_bigBanner_slected (format mismatch)
 Removed: [it] strings.xml: string/pa_accessibility_picker_home_smallBanner_slected (format mismatch)
 Removed: [it] strings.xml: string/pa_accessibility_picker_home_widget_slected (format mismatch)
