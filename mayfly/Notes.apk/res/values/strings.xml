@@ -355,7 +355,10 @@
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
     <string name="folder_exist">A folder with the same name already exists</string>
+    <string name="folder_note">Notes folders</string>
     <string name="folder_operation_rename">Rename</string>
+    <string name="folder_other">Other folders</string>
+    <string name="foler_pinned">Pinned folders</string>
     <string name="format_move_note_out_folder">This note was moved</string>
     <string name="format_move_note_to_folder">Moved to %1$s</string>
     <string name="friday">Friday</string>
@@ -633,12 +636,14 @@
     <string name="mtrl_picker_toggle_to_year_selection">Tap to switch to selecting a year</string>
     <string name="network_error_info">A network error occurred. Check your network settings and try again.</string>
     <string name="network_timeout_info">"Couldn't connect to the network. Try again."</string>
+    <string name="new_alert_title_delete">Delete notes</string>
     <string name="new_app_name">Mi Notes</string>
     <string name="new_audio_create_cancel_talkback_des">Canceled</string>
     <string name="new_audio_create_done_talkback_des">Created</string>
     <string name="new_audio_create_talkback_des">Tap to create a text note. Press and hold to create a voice note. Release the button to stop recording and create the note, or slide up to cancel.</string>
     <string name="new_data_empty_note">No items here yet</string>
     <string name="new_lite_audio_create_talkback_des">Tap to create a note</string>
+    <string name="new_sync_desc_state_disable">Turn on cloud sync for notes, tasks, and more</string>
     <string name="night">Evening</string>
     <string name="no_network">"Can't connect to the network"</string>
     <string name="noon">Midday</string>
