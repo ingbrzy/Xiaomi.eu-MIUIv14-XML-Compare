@@ -1,5 +1,3 @@
-Removed: [fr] plurals.xml: plurals/revenu_dépenses_bonus (invalid name)
-Removed: [fr] plurals.xml: plurals/revenu_dépenses_pièces (invalid name)
 Removed: [ko] arrays.xml: array/nf_feedback_reason (item mismatch)
 Removed: [ko] plurals.xml: plurals/le_notification_download_completed (format mismatch)
 Removed: [sl] plurals.xml: plurals/le_notification_download_completed (format mismatch)
