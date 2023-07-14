@@ -330,6 +330,10 @@
     <string name="sunday">Sunday</string>
     <string name="sunday_short">Sun</string>
     <string name="sunday_shortest">Sun</string>
+    <string name="super_clipboard_alert_dialog_cancel_button">Cancel</string>
+    <string name="super_clipboard_alert_dialog_sure_button">OK</string>
+    <string name="super_clipboard_send_file">Paste the file from clipboard?</string>
+    <string name="super_clipboard_send_image">Paste the image from clipboard?</string>
     <string name="sync_phrase_label">Frequent phrases</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
     <string name="the_anti_aggression_day">Anti-Aggression Day</string>
