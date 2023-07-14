@@ -274,6 +274,8 @@
     <string name="open_app">Open app</string>
     <string name="pm">PM</string>
     <string name="prompt">Connection request</string>
+    <string name="sanitized_vpn_label">%1$s ( %2$s)</string>
+    <string name="sanitized_vpn_label_with_ellipsis">%1$s… ( %2$s)</string>
     <string name="saturday">Saturday</string>
     <string name="saturday_short">Sat</string>
     <string name="saturday_shortest">Sat</string>
