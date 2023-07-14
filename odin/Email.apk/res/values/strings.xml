@@ -267,6 +267,7 @@ path prefix"</string>
     <string name="authority_email_provider">com.android.email.provider</string>
     <string name="auto_login_fail">"Couldn't sign in automatically"</string>
     <string name="auto_login_fail_to_retry">"Couldn't sign in automatically, try again."</string>
+    <string name="auto_start_open_prompt">检测到您的自启动权限未开启，将会影响邮件同步，请问是否开启？</string>
     <string name="bContact_list_search_hint">Search for blocked contacts</string>
     <string name="b_contacts">Blocklist</string>
     <string name="b_contacts_remove">Remove from blocklist</string>
