@@ -457,6 +457,7 @@ Tap \"%1$s\", and then select \"%2$s\"."</string>
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
     <string name="path_soundrecorder_setting">System apps/Recorder</string>
+    <string name="pause_status_focus_notification">Paused</string>
     <string name="permission_desc">Permissions details</string>
     <string name="permission_dialog_cancel">Cancel</string>
     <string name="permission_dialog_ok">Settings</string>
@@ -549,6 +550,7 @@ Tap \"%1$s\", and then select \"%2$s\"."</string>
     <string name="recording_quality_high">High quality</string>
     <string name="recording_quality_low">Low quality</string>
     <string name="recording_quality_standard">Standard quality</string>
+    <string name="recording_status_focus_notification">Recording</string>
     <string name="recording_stopped">Stopped</string>
     <string name="recording_timer_format_four_sections" formatted="false">%02d:%02d:%02d.%02d</string>
     <string name="recording_timer_format_three_sections" formatted="false">%02d:%02d.%02d</string>
@@ -625,6 +627,7 @@ Tap \"%1$s\", and then select \"%2$s\"."</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recording">Recording…</string>
     <string name="status_bar_recording_pause">Recorder paused</string>
+    <string name="stop_status_focus_notification">Finished</string>
     <string name="storage_permission_dialog_title">Storage permissions required</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Sunday</string>

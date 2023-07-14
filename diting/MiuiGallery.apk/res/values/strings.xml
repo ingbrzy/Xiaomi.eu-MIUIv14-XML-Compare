@@ -2548,6 +2548,7 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="passport_user_id_hint">Email/phone number/Xiaomi Account ID</string>
     <string name="passport_user_id_intro">Enter password for %1$s</string>
     <string name="passport_user_password_hint">Password</string>
+    <string name="passport_vcode_what_app_send_prompt">Your WhatsApp verification code will be sent to your recovery phone (&lt;font color=#1F93FF>%s&lt;/font>).</string>
     <string name="passport_wechat_not_install">Install WeChat first</string>
     <string name="passport_wrong_captcha">The code you entered is incorrect</string>
     <string name="passport_wrong_phone_number_format">The format of the phone number you entered is invalid</string>
