@@ -247,6 +247,8 @@
     <string name="declaration_title">Terms and conditions</string>
     <string name="delete_pic">Delete image</string>
     <string name="deny_des">Wallpaper Carousel needs access to Gallery to be able to work normally.</string>
+    <string name="detail_ad_download_btn">Download</string>
+    <string name="detail_ad_open_btn">Open</string>
     <string name="detail_ad_type_ad">AD</string>
     <string name="detail_ad_type_close_ad">Close ad</string>
     <string name="detail_ad_type_video">Popular videos</string>
@@ -494,7 +496,6 @@ This may generate additional fees."</string>
     <string name="lockscreen_h5_back_tv">Back</string>
     <string name="lockscreen_h5_close_tv">Off</string>
     <string name="lockscreen_h5_refresh_btn_tv">Refresh</string>
-    <string name="lockscreen_h5_refresh_tip">Check your network settings and try again</string>
     <string name="lockscreen_magazine_summary">Select categories</string>
     <string name="lockscreen_magazine_system_title">Default</string>
     <string name="lockscreen_magazine_title">Wallpaper Carousel</string>
@@ -539,15 +540,16 @@ mm"</string>
 mm"</string>
     <string name="miuix_access_state_desc">Selected</string>
     <string name="miuix_alphabet_indexer_name">Index bar</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselect</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_action_mode_select_all">Select all</string>
     <string name="miuix_appcompat_action_mode_title_empty">Select items</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">More</string>
     <string name="miuix_appcompat_cancel_description">Cancel</string>
     <string name="miuix_appcompat_confirm_description">Confirm</string>
     <string name="miuix_appcompat_delete_description">Delete</string>
-    <string name="miuix_appcompat_deselect_all">Deselect</string>
+    <string name="miuix_appcompat_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_deselect_all_description">Deselect all</string>
+    <string name="miuix_appcompat_edit">Edit</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel</string>
     <string name="miuix_appcompat_search_input_description">Search</string>
     <string name="miuix_appcompat_select_all">Select all</string>
@@ -1167,6 +1169,7 @@ mm"</string>
     <string name="tuesday">Tuesday</string>
     <string name="tuesday_short">Tue</string>
     <string name="tuesday_shortest">Tue</string>
+    <string name="txt_in_image_subscribe_info">%1$s / %2$s</string>
     <string name="understand_band_story">Learn more</string>
     <string name="uninstall_introducation_text_desc">Wallpaper Carousel delivers new quality images directly to your Lock screen. Make sure you can do without its features before you uninstall the app.</string>
     <string name="uninstall_introduction_text_title">About Wallpaper Carousel</string>
