@@ -4922,6 +4922,7 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="keyboard_shortcuts_helper_summary">Display available shortcuts</string>
     <string name="keyboard_skin_follow_system_enable">Switch to Dark mode together with the system</string>
     <string name="keyguard_advance_setting_title">Advanced settings</string>
+    <string name="keyguard_multi_window_tip">"Can't show this page in Split screen. You can go back to the fullscreen version instead."</string>
     <string name="keyguard_security_setting_others">Others</string>
     <string name="keyguard_security_setting_privacy_policy">Privacy Policy</string>
     <string name="keyguard_setting_privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s</string>
