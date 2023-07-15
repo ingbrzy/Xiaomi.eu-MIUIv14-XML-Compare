@@ -131,6 +131,7 @@
     <string name="confirm_cancel_task_files">Cancel sending files to %1$s?</string>
     <string name="confirm_cancel_task_images">Cancel sending images to %1$s?</string>
     <string name="copy">Copy</string>
+    <string name="copy_success_toast">Copied successfully</string>
     <string name="cta_agree_desc">Allow this app to connect to the internet and grant the mandatory permissions listed above.</string>
     <string name="cta_btn_agree">Agree</string>
     <string name="cta_btn_disagree">"Don't agree"</string>
