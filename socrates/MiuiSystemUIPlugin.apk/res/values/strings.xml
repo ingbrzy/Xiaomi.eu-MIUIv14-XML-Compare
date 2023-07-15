@@ -605,6 +605,8 @@ Long exposure to loud sounds can cause hearing problems."</string>
     <string name="sunday">Sunday</string>
     <string name="sunday_short">Sun</string>
     <string name="sunday_shortest">Sun</string>
+    <string name="super_volume_text">200%</string>
+    <string name="super_volume_toast">Volume boost is on</string>
     <string name="switch_bar_off">Off</string>
     <string name="switch_bar_on">On</string>
     <string name="system_update">System update</string>
