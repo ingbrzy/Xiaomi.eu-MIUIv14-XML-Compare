@@ -260,7 +260,7 @@
     <string name="antivirus_third_privacy_title">Third party privacy policies</string>
     <string name="antivirus_toast_already_update">Up to date</string>
     <string name="antivirus_toast_network_unavailable">"Couldn't connect to the network"</string>
-    <string name="antivirus_toast_update_failed">Our servers are busy. Wait a minute or two and try again.</string>
+    <string name="antivirus_toast_update_failed">Wait a minute or two and try again</string>
     <string name="antivirus_toast_update_success">Updated successfully</string>
     <string name="antivirus_toast_updating">Updating…</string>
     <string name="antivirus_update_btn_contiue">Continue</string>
@@ -459,6 +459,7 @@
     <string name="app_install_intercept">Block installation</string>
     <string name="app_install_tips_go_to">Open</string>
     <string name="app_install_tips_install_success">Installed %1$s successfully</string>
+    <string name="app_management_empty_desc">"This app doesn't support this feature"</string>
     <string name="app_management_for_chain_start">Block opening other apps</string>
     <string name="app_management_for_chain_start_desc">Prevent this app from connecting to or opening other apps</string>
     <string name="app_management_for_device_id">Hide identifiers and prevent tracking</string>
@@ -938,7 +939,8 @@ You will not lose any app data."</string>
     <string name="back_sound_data">Turn on mobile data and try again.</string>
     <string name="back_sound_fail">"Couldn't set. Carrier settings changed. Set the current SIM card as your data card, connect to the network, and try again."</string>
     <string name="back_sound_success">Set successfully</string>
-    <string name="back_sound_support">"Your carrier's network doesn't support this setting."</string>
+    <string name="back_sound_support">Turn off Wi-Fi first</string>
+    <string name="back_sound_support_china">Turn off Wi-Fi first</string>
     <string name="background_restrict_app_dialog_message">Restricting background network access for this app might make it impossible for the app to work normally, receive messages, download content, etc. Restrict anyway?</string>
     <string name="background_traffic">Background %s</string>
     <string name="backsound_set_hint">Set your away message to %s?</string>
@@ -1202,6 +1204,8 @@ However, some of your transactions aren't completed yet. To be able to withdraw 
     <string name="card_click_type_close_ad">右上角关闭广告按钮</string>
     <string name="card_click_type_open_or_download">右下角打开/下载</string>
     <string name="card_click_type_other">其他区域</string>
+    <string name="card_main_apkclean_title">Delete APKs</string>
+    <string name="card_main_appdataclean_title">Clear app data</string>
     <string name="card_main_applock_action">Turn on</string>
     <string name="card_main_applock_summary">Protect selected apps with a password.</string>
     <string name="card_main_applock_title">App lock</string>
@@ -1214,6 +1218,8 @@ However, some of your transactions aren't completed yet. To be able to withdraw 
     <string name="card_main_deepclean_wechat_summary">Clear WeChat cache to free up storage space</string>
     <string name="card_main_deepclean_wechat_title">WeChat cache</string>
     <string name="card_main_deepclean_whatsapp_title">WhatsApp cleaner</string>
+    <string name="card_main_facebookclean_title">Facebook cleaner</string>
+    <string name="card_main_galleryclean_title">Delete photos</string>
     <string name="card_main_gamebooster_summary">Boost connection stability for games</string>
     <string name="card_main_gamebooster_title">Game Turbo</string>
     <string name="card_main_hbassistant_summary">Use this tool to grab the envelopes faster</string>
@@ -1231,6 +1237,7 @@ However, some of your transactions aren't completed yet. To be able to withdraw 
     <string name="card_main_private_space_title">Second space</string>
     <string name="card_main_sectool_title">Tools</string>
     <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
+    <string name="card_main_whatsappclean_title">WhatsApp cleaner</string>
     <string name="card_main_xspace_action">Create</string>
     <string name="card_main_xspace_summary">Create dual accounts for any app</string>
     <string name="card_main_xspace_title">Dual apps</string>
@@ -1352,6 +1359,8 @@ However, some of your transactions aren't completed yet. To be able to withdraw 
     <string name="cleaned">Cleared</string>
     <string name="clear_garbage">Clear trash to free up space</string>
     <string name="clear_immediately">Clean now</string>
+    <string name="clear_instant_app_confirmation">Do you want to remove this instant app?</string>
+    <string name="clear_instant_app_data">Clear app</string>
     <string name="clear_text_end_icon_content_description">Clear text</string>
     <string name="clearable_edittext_clear_description">Clear</string>
     <string name="click_to_charge_bill">Top up</string>
@@ -1433,6 +1442,7 @@ However, some of your transactions aren't completed yet. To be able to withdraw 
     <string name="cs_pickup_single_title">Single participant</string>
     <string name="cs_pickup_surround_desc">Uses AI to reduce noise for crisp, clear sound</string>
     <string name="cs_pickup_surround_title">Microphone noise reduction</string>
+    <string name="cs_screen_translation_title">Screen translation</string>
     <string name="cs_title_pickup">Noise reduction</string>
     <string name="cs_title_smart_subtitle">Subtitle transcription</string>
     <string name="cs_title_ultraclear">Ultra HD mode</string>
@@ -2777,6 +2787,8 @@ of your gaming sessions"</string>
     <string name="gtb_exit_game_to_home">Back to Home screen</string>
     <string name="gtb_garbage_clean">Free up storage</string>
     <string name="gtb_garbage_cleaned_tip">Free up %1$s to boost performance</string>
+    <string name="gtb_guide_accelerate">Tap \"Boost\" to optimize your gaming</string>
+    <string name="gtb_guide_accelerated_tips">Game Turbo is optimizing your gaming experience now</string>
     <string name="gtb_guide_finish">Skip</string>
     <string name="gtb_guide_game_mode_tips">Select preferred gaming mode</string>
     <string name="gtb_guide_gtb_button_done">Done</string>
@@ -2787,6 +2799,7 @@ of your gaming sessions"</string>
     <string name="gtb_guide_gtb_game_effected">Applied</string>
     <string name="gtb_guide_gtb_game_new">New</string>
     <string name="gtb_guide_gtb_line_new">Try Performance mode in Game Turbo!</string>
+    <string name="gtb_guide_gtb_line_new_global">Swipe to open Game Turbo</string>
     <string name="gtb_guide_gtb_line_xspace">Step up your game with all-new Game Turbo!</string>
     <string name="gtb_guide_small_window_app_desc">"Use other apps while you're playing"</string>
     <string name="gtb_guide_small_window_app_title">Floating windows</string>
@@ -2927,7 +2940,9 @@ to join our egg hunt!"</string>
     <string name="input_used_max_hint">Enter data usage (less than %s)</string>
     <string name="install">Install</string>
     <string name="install_sucess">Installed %s successfully</string>
+    <string name="install_text">Install</string>
     <string name="install_title">Install via USB</string>
+    <string name="install_type_instant">Instant app</string>
     <string name="installing">Installing</string>
     <string name="intercept_dimension_ratio">612:380</string>
     <string name="intercept_net_fold_external_image_ratio">367:174</string>
@@ -2974,6 +2989,7 @@ to join our egg hunt!"</string>
     <string name="label_callwait">Call waiting notification</string>
     <string name="label_mi_stats">Mi analytics</string>
     <string name="last_check_canceled">Previous scan was canceled</string>
+    <string name="launch_instant_app">Open</string>
     <string name="left_precent">60%</string>
     <string name="legal_workday">Legal workdays</string>
     <string name="legal_workday_invalidate">Mon-Fri (holiday info expired)</string>
@@ -3222,6 +3238,7 @@ Your device is %s faster now."</string>
     <string name="menu_charge_bill">Top-up balance</string>
     <string name="menu_charge_traffic">Buy data</string>
     <string name="menu_edit">Edit</string>
+    <string name="menu_hide_work_profile_text">Hide Work space apps</string>
     <string name="menu_item_about_content">Version %s</string>
     <string name="menu_item_about_privacy_title">Privacy Policy</string>
     <string name="menu_item_about_summary">Version %s</string>
@@ -3248,6 +3265,7 @@ Your device is %s faster now."</string>
     <string name="menu_remove">Delete</string>
     <string name="menu_report">Report error</string>
     <string name="menu_setting_traffic">Set manually</string>
+    <string name="menu_show_work_profile_text">Show Work space apps</string>
     <string name="menu_sms">Send message</string>
     <string name="menu_summary_antispam">Block calls and messages</string>
     <string name="menu_summary_antivirus">Search for viruses on your device</string>
@@ -3466,7 +3484,7 @@ You can turn off the \"Auto adjust data usage stats\" option at any time."</stri
     <string name="network_changed_noti_summary">Using mobile data</string>
     <string name="network_changed_noti_title">Disconnected from Wi-Fi</string>
     <string name="network_connected_exception_title">Test network</string>
-    <string name="network_control">View app settings</string>
+    <string name="network_control">Manage network connection</string>
     <string name="network_diagnostics">Test network</string>
     <string name="network_disable_dialog_btn_text">Got it</string>
     <string name="network_disable_dialog_content">Your device needs to connect to the network for you to be able to withdraw consent. Check your network settings and try again.</string>
@@ -3684,7 +3702,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="om_settings_memory_occupy_notify_never">Never</string>
     <string name="om_settings_notify_manage">Notifications</string>
     <string name="om_settings_speed_up_auto">Auto speed boost</string>
-    <string name="om_settings_title">Settings</string>
+    <string name="om_settings_title">Speed boost settings</string>
     <string name="om_shortcut_added_toast_text">Added successfully</string>
     <string name="om_shortcut_dialog_summary">"RAM Jet allows you to clear memory and boost your device's speed in a single tap. Add RAM Jet to your Home screen?"</string>
     <string name="om_shortcut_dialog_title">RAM Jet</string>
@@ -3864,6 +3882,9 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="pc_high_temp_protection_noti_summary2">"Can't use hotspots now"</string>
     <string name="pc_high_temp_protection_noti_tile">Your device is overheated</string>
     <string name="pc_install_manager">Install via USB</string>
+    <string name="pc_low_batterty_got_it">Got it</string>
+    <string name="pc_low_battery_fast_charge">Speed up charging</string>
+    <string name="pc_low_battery_fast_charge_summary">Connect the supplied charger to speed up charging when the screen is off and the battery is low. This feature may cause your device to heat up.</string>
     <string name="pc_main_activity_back">Back</string>
     <string name="pc_main_battery_text_day">Added %1$sm, about %2$sd remaining</string>
     <string name="pc_main_battery_text_day_hour">Added %1$sm, about %2$sd %3$sh remaining</string>
@@ -3888,6 +3909,11 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="pc_search_keywords_capacity">Battery capacity</string>
     <string name="pc_search_keywords_property">Performance</string>
     <string name="pc_settings_title">Battery</string>
+    <string name="pc_smart_discharge_checkbox_summary">"When using navigation apps, charging will stop automatically when battery reaches a selected level. This feature won't work when Battery saver or Ultra battery saver are on."</string>
+    <string name="pc_smart_discharge_checkbox_title">Charging auto-disconnect</string>
+    <string name="pc_smart_discharge_drop_down_title">Auto-disconnect settings</string>
+    <string name="pc_smart_discharge_protect_notifi_summary">To protect the battery, charging will stop automatically at a selected level when using navigation apps</string>
+    <string name="pc_smart_discharge_protect_notifi_title">Charging auto-disconnect is on</string>
     <string name="pc_statistics_battery_last_hour_minute">%1$dh %2$dm remaining</string>
     <string name="pc_statistics_battery_use_hour_minute">%1$dh %2$dm since last charge</string>
     <string name="pc_statistics_battery_use_summary">%s since last charge</string>
@@ -4022,6 +4048,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="phone_manage_clean_title">Cleaner</string>
     <string name="phone_manage_electric_summary">Optimize your device to save battery</string>
     <string name="phone_manage_electric_title">Battery</string>
+    <string name="phone_manage_privacy_title">Privacy protection</string>
     <string name="phone_manage_recent_use">Recently used</string>
     <string name="phone_manage_special_summary">Explore our additional functionality</string>
     <string name="phone_manage_special_title">Special features</string>
@@ -4044,18 +4071,23 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="pm_root_success_notification_title">Allowed root access</string>
     <string name="popular_action_anti_spam_summary">短信与电话</string>
     <string name="popular_action_anti_spam_title">拦截骚扰</string>
+    <string name="popular_action_anti_spam_title_global">Block calls and messages</string>
     <string name="popular_action_app_lock_summary">隐私更安全</string>
     <string name="popular_action_app_lock_title">给应用加密</string>
+    <string name="popular_action_app_lock_title_global">Protect apps with App lock</string>
     <string name="popular_action_app_manager_summary">升级与卸载</string>
     <string name="popular_action_app_manager_title">管理应用</string>
     <string name="popular_action_auto_launch_manager_summary">自启动应用</string>
     <string name="popular_action_auto_launch_manager_title">一键管理</string>
-    <string name="popular_action_card_title">大家都在用</string>
+    <string name="popular_action_card_title">Popular features</string>
     <string name="popular_action_first_aid_summary">一键检测</string>
     <string name="popular_action_first_aid_title">手机问题</string>
+    <string name="popular_action_first_aid_title_global">For new users</string>
     <string name="popular_action_hb_assistant_summary">抢红包快人一步</string>
+    <string name="popular_action_net_assistant_title_global">Monitor network connection speed</string>
     <string name="popular_action_video_box_summary">边聊天</string>
     <string name="popular_action_video_box_title">边看视频</string>
+    <string name="popular_action_video_clean_title_global">Clear video cache to free up space</string>
     <string name="power_5g_popups_content">5G networks provide high connection speed and lower latency.</string>
     <string name="power_5g_popups_title">Use 5G networks</string>
     <string name="power_ambient_display">Always-on display</string>
@@ -4438,6 +4470,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="pp_special_permission_settings">Special permissions</string>
     <string name="pp_special_permission_settings_detail">Control how apps use special permissions</string>
     <string name="pp_storage_msg">Storage</string>
+    <string name="pp_two_columns_img_ration">306:174</string>
     <string name="pp_understanding_privacy">Awareness</string>
     <string name="pp_virtual_identity_manager">Virtual ID</string>
     <string name="pp_virtual_identity_summary">A virtual ID (OAID) can be provided to apps instead of your real identifier. It protects your privacy and allows you to control how apps track your behavior.</string>
@@ -5555,6 +5588,8 @@ Withdraw consent now?"</string>
     <string name="stop_collecting_data_detail">"The keyboard won't collect data for improving predictive typing and suggesting frequent phrases based on your habits."</string>
     <string name="stop_milink_connect">Stopped casting</string>
     <string name="storage_activity_title">Storage space</string>
+    <string name="storage_activity_title_personage">Personal</string>
+    <string name="storage_activity_title_work">Work</string>
     <string name="storage_app_detail_activity_title">Occupied space</string>
     <string name="storage_app_detail_cache">Cache</string>
     <string name="storage_app_detail_clear_all_data">Clear all data</string>
