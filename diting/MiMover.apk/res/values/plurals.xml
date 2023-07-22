@@ -120,4 +120,8 @@
         <item quantity="other">%d minutes</item>
         <item quantity="one">%d minute</item>
     </plurals>
+    <plurals name="transfer_failed_summary">
+        <item quantity="other">"Couldn't transfer %d items"</item>
+        <item quantity="one">"Couldn't transfer %d item"</item>
+    </plurals>
 </resources>

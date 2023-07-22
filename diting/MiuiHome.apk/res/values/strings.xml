@@ -200,7 +200,7 @@
     <string name="cate_order_reset">Reset</string>
     <string name="category_already_exists">This category already exists</string>
     <string name="category_cannot_empty">Enter category first</string>
-    <string name="category_choose_no_app_select_tip">Every category must contain at least 1 app.</string>
+    <string name="category_choose_no_app_select_tip">Every category must contain at least %d app.</string>
     <string name="category_drawer_name_hint">Enter category name</string>
     <string name="category_edit_back_confirm_dialog_content">Save changes now?</string>
     <string name="category_edit_back_confirm_dialog_negative_button">"Don't save"</string>
@@ -288,7 +288,7 @@
     <string name="cloud_app_restore_title">Pending</string>
     <string name="color_group">Group icons by color</string>
     <string name="color_group_anim">Animations in color categories</string>
-    <string name="com.crashlytics.android.build_id">5db9c5a43ab1464987b67379e4b72342</string>
+    <string name="com.crashlytics.android.build_id">853c7c42741f435b9fac7e9ad004f823</string>
     <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
     <string name="common_home_search_delete">Removing search bar</string>
     <string name="common_home_search_delete_cancle">Cancel</string>
@@ -865,7 +865,7 @@ Enhanced security."</string>
     <string name="request_permission_title">Permissions required</string>
     <string name="reset_cate_tip_content">If you continue, default app groups will be restored. Continue anyway?</string>
     <string name="reset_cate_tip_title">Restore default groups</string>
-    <string name="reset_description_first_time">You can restore the layout from %1$s within 2 hours</string>
+    <string name="reset_description_first_time">You can restore the layout from %2$s within %1$d hours</string>
     <string name="reset_description_others">You can restore the layout from %1$s</string>
     <string name="reset_fail">"Couldn't restore"</string>
     <string name="reset_title">Restore</string>
