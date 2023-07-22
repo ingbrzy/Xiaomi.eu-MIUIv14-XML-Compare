@@ -461,8 +461,8 @@ Toggle off to stop syncing."</string>
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">184ebf4599ed446f8031b1d306062ce2</string>
-    <string name="com.miapm.build_id">283fc9dfc4424db0b3887d9c4bde2a50</string>
+    <string name="com.crashlytics.android.build_id">96a1628b973d492aa0f19b1c20321b66</string>
+    <string name="com.miapm.build_id">426f893fcfdc4924a785e856acb04b91</string>
     <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
     <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
@@ -559,6 +559,7 @@ Toggle off to stop syncing."</string>
     <string name="contextmenu_webpage_pdf">Save as PDF</string>
     <string name="contextmenu_webpage_snapshot">Save page</string>
     <string name="continue_reading">Continue reading</string>
+    <string name="continue_watch_video">Continue watching</string>
     <string name="copy">Copy</string>
     <string name="copy_toast_msg">Link copied to clipboard</string>
     <string name="copy_url">Copy URL</string>
@@ -1728,6 +1729,7 @@ Leave this page now?"</string>
     <string name="notification_download_completed">Downloaded successfully</string>
     <string name="notification_download_failed">"Couldn't download."</string>
     <string name="notification_wechat_expired_empty">WeChat has already deleted these video clips.</string>
+    <string name="notify_rencet_play">Recently played</string>
     <string name="novel_continue_read_popup">Read</string>
     <string name="novel_tab_popup">View your newest books here</string>
     <string name="novel_tab_popup_ok">OK</string>
@@ -2471,6 +2473,7 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="snapshot_failed">"Couldn't save page"</string>
     <string name="snapshot_successed">Open Bookmarks/History->LOCAL to view page</string>
     <string name="sniff_ask_every_times">Ask every time</string>
+    <string name="sniff_description">Get prompts when a web page contains downloadable items</string>
     <string name="sniff_detect_resource">We noticed downloadable content on this page. View now?</string>
     <string name="sniff_dialog">Downloadable content</string>
     <string name="sniff_no_resource">No downloadable content found</string>
