@@ -597,10 +597,10 @@ Double tap to open Recents."</string>
     <string name="stylus_quick_note_summary">When the screen is off, tap it with your stylus to start writing. This feature increases power consumption.</string>
     <string name="stylus_quick_note_title">Write with screen off</string>
     <string name="stylus_quick_write">Write</string>
-    <string name="stylus_quick_write_summary">Press and hold the writing button to write or draw.</string>
+    <string name="stylus_quick_write_summary">Press and hold the writing button to write or draw</string>
     <string name="stylus_schematic_diagram">Demo</string>
     <string name="stylus_screen_shot">Take a screenshot</string>
-    <string name="stylus_screen_shot_summary">Press and hold the screenshot button to take and edit a screenshot.</string>
+    <string name="stylus_screen_shot_summary">Press and hold the screenshot button to take and edit a screenshot</string>
     <string name="stylus_settings_title">Stylus</string>
     <string name="stylus_shortcut_actions_summary">Press and hold the first button to write. Press and hold the second button to take a screenshot.</string>
     <string name="stylus_shortcut_actions_title">Quick actions</string>
