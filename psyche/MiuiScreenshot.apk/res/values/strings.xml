@@ -486,6 +486,8 @@ a scrolling screenshot"</string>
     <string name="screen_talkback_shape">Shape</string>
     <string name="screen_talkback_small">Extra small</string>
     <string name="screen_talkback_text">Text</string>
+    <string name="screenshot_detected_multiple_template">Multiple apps including %1$s have detected this screenshot</string>
+    <string name="screenshot_detected_template">%1$s has detected this screenshot</string>
     <string name="screenshot_edit">Edit</string>
     <string name="screenshot_failed_in_landscape_mode">"Can't make scrolling screenshots in landscape mode"</string>
     <string name="screenshot_feedback_txt">Feedback</string>
