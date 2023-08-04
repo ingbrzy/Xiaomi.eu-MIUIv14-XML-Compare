@@ -724,6 +724,7 @@
     <string name="pc_todo_set_remind_time_hint">Set time</string>
     <string name="permdesc_accessNote">Malicious apps may use this to access your personal data.</string>
     <string name="permission_data_shared_desc">Notes Third Party Data Sharing Statement</string>
+    <string name="permission_get_account_desc">Syncing notes with the cloud</string>
     <string name="permission_intro_contact">For marking notes taken during calls</string>
     <string name="permission_intro_microphone">For recording voice notes</string>
     <string name="permission_intro_phone">For marking notes taken during calls</string>
