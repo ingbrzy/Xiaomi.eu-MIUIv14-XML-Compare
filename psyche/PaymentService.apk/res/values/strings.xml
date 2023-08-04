@@ -337,8 +337,8 @@
     <string name="mibi_cta_agreement_checkbox_description">Please read and agree to the %1$s and %2$s</string>
     <string name="mibi_cta_agreement_tips">Please agree to the terms and use.</string>
     <string name="mibi_cta_description">"Welcome to Mi Coin, this application provides functions such as Mi Coin recharge and gift certificate viewing. We will process your relevant information as required by laws and regulations. Here, we solemnly remind you:
-1. 1. Before you use Mibi products or services, please read and understand the Privacy Policy carefully, and use the relevant products or services after confirming your full understanding and agreement.
-2. 2. During the use of this app, internet and camera permissions are required. We will ask you whether you are allowed to open related permissions item by item when you first call. You can also manage related permissions in the App access Privacy Settings - Authorization Management or your device system Settings.
+1. Before you use Mibi products or services, please read and understand the Privacy Policy carefully, and use the relevant products or services after confirming your full understanding and agreement.
+2. During the use of this app, internet permission is required. Please make sure your device is connected to the Internet and complete relevant configurations.
 %1$s"</string>
     <string name="mibi_cta_description_suffix">"3. We take and protect your personal information very seriously. If you have any questions, comments or suggestions about the content of this policy, you can contact us by visiting %1$s.
 "</string>
@@ -1081,7 +1081,7 @@ Because the provision of MiCoin services relies on the collection of necessary p
     <string name="ppplugin_input_agreement_check_prompt">同意</string>
     <string name="ppplugin_input_agreement_link_prompt">《全民付用户服务协议》</string>
     <string name="ppplugin_input_agreement_link_prompt_customer_equity">《客户权益保障承诺书》</string>
-    <string name="ppplugin_input_agreement_link_prompt_qmf_account_pay">《全民付支付帐户服务协议》</string>
+    <string name="ppplugin_input_agreement_link_prompt_qmf_account_pay">《全民付支付账户服务协议》</string>
     <string name="ppplugin_input_agreement_link_prompt_ums_private">《银联商务隐私政策》</string>
     <string name="ppplugin_input_bankcard_mobile_hint">若您未在银行预留手机号，请联系银行客服。银行联系电话：95599</string>
     <string name="ppplugin_input_cardinfo_cardcvn2_input_prompt">信用卡背面后三位</string>
@@ -1344,7 +1344,7 @@ Because the provision of MiCoin services relies on the collection of necessary p
     <string name="time_picker_label_minute">M</string>
     <string name="timer_count_down_str_tail">秒重发</string>
     <string name="tips_amount_free_pwd">已为您开启200元额度小额免密，可在右上角设置</string>
-    <string name="tips_bank_phone_number">手机号码如在%1$s帐户里有多个，需把该联系号码设置为默认手机，建议用户至柜面修改。</string>
+    <string name="tips_bank_phone_number">手机号码如在%1$s账户里有多个，需把该联系号码设置为默认手机，建议用户至柜面修改。</string>
     <string name="tips_input_password">为了您的账号安全请输入支付密码</string>
     <string name="tips_install_alipay">请先安装支付宝客户端</string>
     <string name="tips_nfc">将手机靠近POS机感应区即可进行NFC支付</string>

@@ -290,8 +290,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">a43c70ad22a44ae6b2858bce189db49b</string>
-    <string name="com.miapm.build_id">d1ebe16a0d254746a44da3f62cea52a3</string>
+    <string name="com.crashlytics.android.build_id">3f5823e04e894f20abc19ee273c8aa1f</string>
+    <string name="com.miapm.build_id">3bb6bff3fbb048828c272f52cfa6b7c2</string>
     <string name="com_permission_desc">"Mi Video can't access videos on your device. Allow access in the Settings."</string>
     <string name="com_permission_title">Permissions required</string>
     <string name="comment_model_add_comment">Add a comment</string>
@@ -1519,18 +1519,11 @@ We will only use this permission to find the videos you search for, and won't ac
     <string name="photoPickerNotFoundText">No photos available.</string>
     <string name="pip">PiP</string>
     <string name="pip_not_supported_toast">Update MIUI to be able to use picture-in-picture.</string>
-    <string name="play_list_delete_title">Delete this playlist now?</string>
-    <string name="play_list_detial_add">Add videos</string>
-    <string name="play_list_detial_delete">Delete</string>
-    <string name="play_list_detial_play">Play</string>
-    <string name="play_list_detial_rename">Rename</string>
     <string name="play_list_player_skeleton_file">mnc_live_tv_list_player_skeleton.json</string>
     <string name="play_list_save_dialog_create">Create playlist</string>
     <string name="play_list_save_dialog_title">Add to playlist</string>
     <string name="play_list_sign_in_dialog_message">Sign in with your Google account to view all your playlists.</string>
     <string name="play_list_skeleton_file">mnc_live_tv_list_skeleton.json</string>
-    <string name="play_list_user_local">Local</string>
-    <string name="play_list_user_online">Online</string>
     <string name="playlist_create">Create</string>
     <string name="playlist_detail_recomm_title">Recommended playlists</string>
     <string name="playlist_finish">Done</string>
@@ -2047,7 +2040,6 @@ We will only use this permission to find the videos you search for, and won't ac
     <string name="v_save">Save</string>
     <string name="v_search">Search</string>
     <string name="v_set_password">Set password</string>
-    <string name="v_txt_login">Sign in to sync your favorites</string>
     <string name="version_update_install_apk_fail">Install failed</string>
     <string name="video_already_download_tip">"You've already downloaded this item"</string>
     <string name="video_download_btn">Download</string>
