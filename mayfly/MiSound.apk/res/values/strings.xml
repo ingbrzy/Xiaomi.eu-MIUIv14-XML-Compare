@@ -151,8 +151,9 @@
     <string name="effect_3dsurround_summary_headphone">Enhance the depth of sound reproduction for earphones</string>
     <string name="effect_dolby">Dolby</string>
     <string name="effect_misound">Misound</string>
-    <string name="effect_none">None</string>
+    <string name="effect_none">Original</string>
     <string name="effect_selection">Sound effects</string>
+    <string name="effect_selection_headset">Earphones effects</string>
     <string name="effect_virtual_surround">Virtual immersive sound</string>
     <string name="effect_virtual_surround_summary">"Enrich sound depth for audio and video playback in headphones (This feature won't work when %.1f audio is played)"</string>
     <string name="effect_virtual_surround_summary_spk">Enrich sound depth for audio and video playback</string>
