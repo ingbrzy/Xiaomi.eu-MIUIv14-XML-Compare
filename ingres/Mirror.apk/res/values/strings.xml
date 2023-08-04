@@ -548,6 +548,9 @@ You can start another session on your computer."</string>
     <string name="settings_how_use">Using handoff</string>
     <string name="settings_log_options">Logs</string>
     <string name="settings_more_help">Help</string>
+    <string name="settings_nfc_transfer_desc1">"·Bring a phone signed in to your Xiaomi Account near this device's NFC module to share screen content or transfer the items selected in File Manager or Gallery."</string>
+    <string name="settings_nfc_transfer_desc2">·You can view the list of compatible devices here: %s</string>
+    <string name="settings_nfc_transfer_title">Transfer items via NFC</string>
     <string name="settings_pad">Tablet</string>
     <string name="settings_pad_handoff_title">Connect automatically</string>
     <string name="settings_pc">Computer</string>
