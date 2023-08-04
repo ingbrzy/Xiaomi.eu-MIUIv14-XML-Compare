@@ -177,7 +177,7 @@
     <string name="delete_space_loading">正在删除儿童空间...</string>
     <string name="dialog_market_score_cancel">Cancel</string>
     <string name="dialog_market_score_dislike">Comment</string>
-    <string name="dialog_market_score_like">5 stars!</string>
+    <string name="dialog_market_score_like">Five stars!</string>
     <string name="dialog_market_score_positive_button">Comment</string>
     <string name="dialog_market_score_submit">Submit</string>
     <string name="dialog_market_score_subtitle_step1">Tap the stars to rate this app</string>
@@ -472,16 +472,15 @@ monitoring program"</string>
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="miuix_access_state_desc">Selected</string>
     <string name="miuix_alphabet_indexer_name">Index bar</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselect all</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselect</string>
     <string name="miuix_appcompat_action_mode_select_all">Select all</string>
     <string name="miuix_appcompat_action_mode_title_empty">Select items</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">More</string>
     <string name="miuix_appcompat_cancel_description">Cancel</string>
     <string name="miuix_appcompat_confirm_description">Confirm</string>
     <string name="miuix_appcompat_delete_description">Delete</string>
-    <string name="miuix_appcompat_deselect_all">Deselect all</string>
+    <string name="miuix_appcompat_deselect_all">Deselect</string>
     <string name="miuix_appcompat_deselect_all_description">Deselect all</string>
-    <string name="miuix_appcompat_edit">Edit</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel</string>
     <string name="miuix_appcompat_search_input_description">Search</string>
     <string name="miuix_appcompat_select_all">Select all</string>
@@ -758,7 +757,7 @@ monitoring program"</string>
     <string name="superpower_third">Third party apps</string>
     <string name="superpower_time">h:mm</string>
     <string name="superpower_time_24">H:mm</string>
-    <string name="superpower_toast_app_select_full">You can add up to 6 items to frequently used apps</string>
+    <string name="superpower_toast_app_select_full_new">You can add up to %d items to frequently used apps</string>
     <string name="switch_kid_mode">切换儿童空间</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
     <string name="the_anti_aggression_day">Anti-Aggression Day</string>
