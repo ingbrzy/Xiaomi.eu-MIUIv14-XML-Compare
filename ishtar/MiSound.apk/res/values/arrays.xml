@@ -269,7 +269,7 @@
     <string-array name="effect_selector_titles">
         <item>@string/dolby_atoms</item>
         <item>@string/music_dirac_control</item>
-        <item>@string/music_dolby_mode_off</item>
+        <item>@string/effect_none</item>
     </string-array>
     <string-array name="effect_selector_values">
         <item>dolby</item>
