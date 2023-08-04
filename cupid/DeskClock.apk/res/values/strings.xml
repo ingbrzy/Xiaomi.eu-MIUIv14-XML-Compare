@@ -546,6 +546,7 @@ mm"</string>
     <string name="sleep_notification_title">Time to go to bed</string>
     <string name="sleep_record">Track sleep</string>
     <string name="sleep_record_desc">Turn on to start recording sleep data</string>
+    <string name="sleep_record_desc_detailed">Sleep tracking functionality is provided by Xiaomi Health. Once turned on, Xiaomi Health automatically records your sleep based on your phone usage, activity stats, and the bedtime and wake-up times you set, showing you stats in the form of charts. To track sleep more accurately, allow Xiaomi Health to autostart. All related data will be stored locally on your device for easy management.</string>
     <string name="sleep_record_desc_detailed_new">Sleep tracking is provided by the Mi Fitness Sleep feature. If you turn this feature on, Mi Fitness will automatically collect and display data on your sleep based on your phone usage, activity, and the bedtime and wake-up time you set. To track sleep more accurately, allow Mi Fitness to autostart.</string>
     <string name="sleep_record_no_data">Your stats will appear here after Xiaomi Health analyzes enough data</string>
     <string name="sleep_remind">Bedtime reminder</string>
