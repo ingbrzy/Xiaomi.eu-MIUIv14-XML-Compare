@@ -344,6 +344,7 @@ Before test you have to insert the headset"</string>
     <string name="cit_front_camera_motor_cali_tips">Do not block the camera during the pop-up camera motor calibration process</string>
     <string name="cit_front_dual_camera_check_title">Front Bokeh camera</string>
     <string name="cit_front_sub_camera_check_title">Front Aux camera</string>
+    <string name="cit_front_sub_camera_check_title_fold">Sub-screen Front Camera</string>
     <string name="cit_get_signature_failed">get signature FAILED</string>
     <string name="cit_gps_check_summary">The corresponding GPS info should be displayed below.</string>
     <string name="cit_gps_check_title">GPS</string>
@@ -958,6 +959,7 @@ Select the correct button according to different vibration conditions"</string>
     <string name="test_speaker">speaker</string>
     <string name="test_speaker_summary">"You will hear two random numbers
 Please click the appropriate button according to the number you hear"</string>
+    <string name="test_sub_front_camera">Sub-screen Front Camera</string>
     <string name="test_top_mic">Top MIC</string>
     <string name="test_top_speaker">top_speaker</string>
     <string name="testing">AutoTest Running...</string>
@@ -982,4 +984,5 @@ Please click the appropriate button according to the number you hear"</string>
     <string name="vibrator_change">Select vibrator mode</string>
     <string name="waiting">Waiting for 4s.</string>
     <string name="warm_light_title">Warm Light</string>
+    <string name="wifi_power_test_testing">Wifi Power Testing...</string>
 </resources>
