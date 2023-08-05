@@ -158,7 +158,7 @@
     <string name="cloud_storage_already_used">Occupied: %1$s/%2$s</string>
     <string name="cloud_storage_default_title">Cloud storage</string>
     <string name="cloud_storage_full">Cloud storage is full. Upgrade your plan to get more storage space.</string>
-    <string name="cloud_storage_info_type_backup">Backups</string>
+    <string name="cloud_storage_info_type_backup">Cloud backups</string>
     <string name="cloud_storage_info_type_drive">Mi Drive</string>
     <string name="cloud_storage_info_type_duokan">Duokan</string>
     <string name="cloud_storage_info_type_family">Family</string>
@@ -268,6 +268,7 @@
     <string name="exception_param_error">An error occurred. Wait a minute or two and try again.</string>
     <string name="exception_rename_conflict">"Couldn't rename. An item with this name already exists."</string>
     <string name="exception_rename_illegal_char">"Filenames can't contain special characters"</string>
+    <string name="exception_share_file">"Couldn't upload. Wait a minute or two and try again."</string>
     <string name="expand_button_title">Advanced</string>
     <string name="fab_menu_sort">Sort</string>
     <string name="file_info_created">"Uploaded: "</string>
@@ -396,15 +397,16 @@ Make sure you're using the current Xiaomi Account as your MIUI system account."<
     <string name="midnight">Night</string>
     <string name="miuix_access_state_desc">Selected</string>
     <string name="miuix_alphabet_indexer_name">Index bar</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselect</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_action_mode_select_all">Select all</string>
     <string name="miuix_appcompat_action_mode_title_empty">Select items</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">More</string>
     <string name="miuix_appcompat_cancel_description">Cancel</string>
     <string name="miuix_appcompat_confirm_description">Confirm</string>
     <string name="miuix_appcompat_delete_description">Delete</string>
-    <string name="miuix_appcompat_deselect_all">Deselect</string>
+    <string name="miuix_appcompat_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_deselect_all_description">Deselect all</string>
+    <string name="miuix_appcompat_edit">Edit</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel</string>
     <string name="miuix_appcompat_search_input_description">Search</string>
     <string name="miuix_appcompat_select_all">Select all</string>

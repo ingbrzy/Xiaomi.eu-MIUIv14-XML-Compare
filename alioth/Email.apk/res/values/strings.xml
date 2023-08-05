@@ -216,7 +216,6 @@ path prefix"</string>
     <string name="always_bcc_myself">Always Bcc self</string>
     <string name="am">AM</string>
     <string name="androidx_startup">androidx.startup</string>
-    <string name="app_loading">Loading…</string>
     <string name="app_name">Mail</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="application_mime_type">application/email-ls</string>
@@ -268,6 +267,7 @@ path prefix"</string>
     <string name="authority_email_provider">com.android.email.provider</string>
     <string name="auto_login_fail">"Couldn't sign in automatically"</string>
     <string name="auto_login_fail_to_retry">"Couldn't sign in automatically, try again."</string>
+    <string name="auto_start_open_prompt">Allow the app to autostart for it to be able to sync your emails. You can grant this permission in Settings.</string>
     <string name="bContact_list_search_hint">Search for blocked contacts</string>
     <string name="b_contacts">Blocklist</string>
     <string name="b_contacts_remove">Remove from blocklist</string>
@@ -283,17 +283,12 @@ path prefix"</string>
     <string name="bottom_bar_more_pdf">Export PDF</string>
     <string name="bottom_bar_more_pdf_exporting">Exporting…</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
-    <string name="broker_helper_manifest">Intent filter for AndroidManifest.xml</string>
-    <string name="broker_helper_package">Package name to enter when registering app</string>
-    <string name="broker_helper_redirect">Redirect URI for configuration json file</string>
-    <string name="broker_helper_signature">Signature to enter when registering app</string>
-    <string name="broker_helper_title">MSAL Redirect URI Info</string>
-    <string name="broker_processing">Broker is processing</string>
     <string name="bytes">%s B</string>
     <string name="calendar_remind_dialog_title">Add to calendar</string>
     <string name="calendar_remind_gridview_pick_date">Pick date</string>
     <string name="cancel">Cancel</string>
     <string name="cancel_action">Cancel</string>
+    <string name="cancel_edit">Stop editing</string>
     <string name="cc">Cc</string>
     <string name="cc_attribution">Cc: %1$s&lt;br></string>
     <string name="cc_bcc">Cc/Bcc</string>
@@ -519,6 +514,7 @@ path prefix"</string>
     <string name="drive_card_code">"Access code: "</string>
     <string name="drive_card_tips">%s shared an item stored in the cloud with you.</string>
     <string name="drive_card_title">Cloud storage URL</string>
+    <string name="drop_sign_operation">Stop editing and discard all changes now?</string>
     <string name="dtend">Ends</string>
     <string name="dtstart">Starts</string>
     <string name="early_morning">Morning</string>
@@ -572,6 +568,7 @@ path prefix"</string>
     <string name="empty" />
     <string name="empty_account_tip">"Couldn't find account"</string>
     <string name="empty_email_tip">"Can't send blank message"</string>
+    <string name="encrypt_app_aes_key">cRCaZZvSn73In2mMPjjFHeE0sEcfyB6h</string>
     <string name="enumeration_delimiter">" | "</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
@@ -769,11 +766,6 @@ path prefix"</string>
     <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
     <string name="hierarchical_folder_top">%1$s∕</string>
     <string name="how_to_login_icloud">How to sign in to iCloud mail</string>
-    <string name="http_auth_dialog_cancel">Cancel</string>
-    <string name="http_auth_dialog_login">Login</string>
-    <string name="http_auth_dialog_password">Password</string>
-    <string name="http_auth_dialog_title">Enter your credentials</string>
-    <string name="http_auth_dialog_username">Username</string>
     <string name="icloud_login_tips">You can create a password to use with your iCloud mail here: iCloud.com</string>
     <string name="icloud_login_tips_url_part">iCloud.com</string>
     <string name="icloud_official_url">https://appleid.apple.com/</string>
@@ -1108,6 +1100,7 @@ This issue might be caused by the account's two-factor authentication. Try enter
     <string name="open_pdf_error">"Couldn't open PDF. Install a PDF reader and try again."</string>
     <string name="operation_settging">Actions</string>
     <string name="optimization_suggestion">Optimization suggestions</string>
+    <string name="other_pdf_open">Open with…</string>
     <string name="others_mail">Other</string>
     <string name="outbox_alert_button_no_resend">"Don't send"</string>
     <string name="outbox_alert_button_resend">Resend</string>
@@ -1148,6 +1141,7 @@ This issue might be caused by the account's two-factor authentication. Try enter
     <string name="pdf_has_signature_prompt_confirm">Signed copy</string>
     <string name="pdf_has_signature_prompt_message">Looks like this attachment has a signed copy. Open it instead?</string>
     <string name="pdf_save_error">"Can't convert to PDF. This message is too long."</string>
+    <string name="pdf_save_local">"Saved to device successfully: "</string>
     <string name="pdf_save_no_body">Wait until the message is fully loaded before converting to PDF</string>
     <string name="pdf_save_to">"Saved to "</string>
     <string name="pdf_signature_add">Add a new signature</string>
@@ -1156,11 +1150,10 @@ This issue might be caused by the account's two-factor authentication. Try enter
     <string name="pdf_signature_manager_max_count">"Can't add more signatures. Delete older signatures to add new ones."</string>
     <string name="pdf_signature_manager_title">Manage signatures</string>
     <string name="pdf_signature_select">Select signature</string>
-    <string name="pdf_viewer_actionbar_more_other">Other apps</string>
-    <string name="pdf_viewer_actionbar_more_wps">Open in WPS</string>
     <string name="pdf_viewer_file_damage_toast">PDF file is corrupted. Check this file and try again.</string>
     <string name="pdf_viewer_new_email">Send</string>
     <string name="pdf_viewer_reply">Reply</string>
+    <string name="pdf_viewer_reply_all">用此文件回复全部</string>
     <string name="pdf_viewer_save_signature">Save signature</string>
     <string name="pdf_viewer_sign_file_damage_toast">"This file doesn't exist"</string>
     <string name="pdf_viewer_signature">Sign PDF</string>
@@ -1187,6 +1180,7 @@ This issue might be caused by the account's two-factor authentication. Try enter
     <string name="personal_data_collection_summary">When the switch is toggled on, you agree that we may collect your personal data. You can toggle the switch off, revoke your authorization, and delete your data from our servers at any time.</string>
     <string name="personal_data_collection_title">Allow collecting personal data</string>
     <string name="pl_select_age">Select age</string>
+    <string name="please_save_sign_first">Save signature first</string>
     <string name="pm">PM</string>
     <string name="pop3_name">POP3</string>
     <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
@@ -1275,6 +1269,7 @@ Wait until it's fully synced or view the message on your computer."</string>
     <string name="saturday_short">Sat</string>
     <string name="saturday_shortest">Sat</string>
     <string name="save_draft_failed">Save draft failed</string>
+    <string name="save_sign_pdf">Save to device</string>
     <string name="search_bar_text">Search for contacts</string>
     <string name="search_menu_title">Search</string>
     <string name="search_remote_again">"Couldn't connect to the network. Tap to try again."</string>
@@ -1506,7 +1501,7 @@ Wait until it's fully synced or view the message on your computer."</string>
     <string name="train_card_title_change_arrival">Changed destination successfully</string>
     <string name="train_card_title_refund">Canceled ticket successfully</string>
     <string name="train_travel_refund_info" formatted="false">退票费 ¥%s，应退票款 ¥%s</string>
-    <string name="translated_text_too_long">翻译内容过长，请减少复制内容后再试</string>
+    <string name="translated_text_too_long">Select less text to copy and try again</string>
     <string name="translation_loading">Just a sec…</string>
     <string name="translation_no_result">No results</string>
     <string name="translation_pronunciation_am">AmE</string>

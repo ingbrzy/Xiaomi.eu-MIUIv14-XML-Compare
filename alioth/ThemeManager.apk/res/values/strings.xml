@@ -54,12 +54,20 @@
     <string name="ad_download_download_now">Download</string>
     <string name="ad_download_install">Install</string>
     <string name="ad_download_now">Download</string>
+    <string name="ad_download_number_text_unit_hundred_million">%1$s亿</string>
+    <string name="ad_download_number_text_unit_ten_thousand">%1$s万</string>
     <string name="ad_download_open">Open</string>
     <string name="ad_download_pause">Pause</string>
     <string name="ad_download_pending">Pending</string>
     <string name="ad_download_resume">Resume</string>
     <string name="ad_downloading_tip">This item is being downloaded. You can view progress in the Notification shade.</string>
     <string name="ad_experience_now">Open</string>
+    <string name="ad_in_downloading">Downloading</string>
+    <string name="ad_in_installing">Installing</string>
+    <string name="ad_sub_textview_ad">广告</string>
+    <string name="ad_sub_textview_divider">m</string>
+    <string name="ad_sub_textview_permission">权限</string>
+    <string name="ad_sub_textview_privacy">隐私</string>
     <string name="ad_tag_text_1">流行</string>
     <string name="ad_tag_text_2">时尚</string>
     <string name="add">Add</string>
@@ -105,6 +113,7 @@
     <string name="apply_not_support_aod">"Always-on display isn't supported on this device"</string>
     <string name="apply_not_support_in_second_space">"Can't apply this item in Second space"</string>
     <string name="apply_not_support_maml_aod">"Can't combine Always-on display with themes on this device"</string>
+    <string name="apply_not_support_video_wallpaper_warning">"4K, 8K, and Dolby videos can't be set as video wallpapers."</string>
     <string name="apply_sensor_video_wallpaper_dialog_message">This wallpaper will be applied to the inner and outer Lock screens and Home screens.</string>
     <string name="apply_succeed">Applied successfully</string>
     <string name="apply_success_not_enable_aod">Turn on Always-on display in the Settings first</string>
@@ -465,6 +474,7 @@
     <string name="favorite_list">Favorites</string>
     <string name="favorite_list_format">Favorite %1$s</string>
     <string name="find_more_font">Find more</string>
+    <string name="find_more_free_theme">View more</string>
     <string name="find_more_theme">Find more</string>
     <string name="find_more_wallpapers">Find more</string>
     <string name="first_page_recommend">Recommended</string>
@@ -1846,6 +1856,10 @@ Go to Themes > My account > Themes lab for more options."</string>
     <string name="wallpaper_share_alert">An error occurred. Wait a minute or two and try again.</string>
     <string name="wallpaper_static">Static</string>
     <string name="wallpaper_subject_version">MI</string>
+    <string name="warning_miui_optimization_closed_dialog_agree">Settings</string>
+    <string name="warning_miui_optimization_closed_dialog_disagree">Apply</string>
+    <string name="warning_miui_optimization_closed_dialog_message">"It looks like you haven't turned on MIUI optimization. Without it, this theme won't work properly when applied. You can apply it anyway or turn on MIUI optimization in Settings."</string>
+    <string name="warning_miui_optimization_closed_dialog_title">Attention</string>
     <string name="warning_subscribe_wallpaper_group_content">"You've turned on Home screen slideshow. %1$s will be applied to your Home screen."</string>
     <string name="wechat_not_found">Install WeChat first</string>
     <string name="wednesday">Wednesday</string>

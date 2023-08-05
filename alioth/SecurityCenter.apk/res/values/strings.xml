@@ -1190,14 +1190,13 @@ However, some of your transactions aren't completed yet. To be able to withdraw 
     <string name="card_main_applock_summary">Protect selected apps with a password.</string>
     <string name="card_main_applock_title">App lock</string>
     <string name="card_main_deepclean_action">Clear</string>
-    <string name="card_main_deepclean_facebook_title">Facebook cleaner</string>
     <string name="card_main_deepclean_qq_title">QQ cleaner</string>
     <string name="card_main_deepclean_summary">Delete unnecessary files</string>
     <string name="card_main_deepclean_title">Deep clean</string>
     <string name="card_main_deepclean_wechat_action">Clear</string>
     <string name="card_main_deepclean_wechat_summary">Clear WeChat cache to free up storage space</string>
     <string name="card_main_deepclean_wechat_title">WeChat cache</string>
-    <string name="card_main_deepclean_whatsapp_title">WhatsApp cleaner</string>
+    <string name="card_main_facebookclean_title">Facebook cleaner</string>
     <string name="card_main_gamebooster_summary">Boost connection stability for games</string>
     <string name="card_main_gamebooster_title">Game Turbo</string>
     <string name="card_main_hbassistant_summary">Use this tool to grab the envelopes faster</string>
@@ -1215,6 +1214,7 @@ However, some of your transactions aren't completed yet. To be able to withdraw 
     <string name="card_main_private_space_title">Second space</string>
     <string name="card_main_sectool_title">Tools</string>
     <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
+    <string name="card_main_whatsappclean_title">WhatsApp cleaner</string>
     <string name="card_main_xspace_action">Create</string>
     <string name="card_main_xspace_summary">Create dual accounts for any app</string>
     <string name="card_main_xspace_title">Dual apps</string>

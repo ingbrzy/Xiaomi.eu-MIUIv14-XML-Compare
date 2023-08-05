@@ -38,8 +38,8 @@
         <item quantity="one">Added %d cloud photo, turn off \"Only show local albums\" to view.</item>
     </plurals>
     <plurals name="add_to_album_failed_with_reason_and_count">
-        <item quantity="other">"%2$d items can't be added to album. %1$s."</item>
-        <item quantity="one">"%2$d item can't be added to album. %1$s."</item>
+        <item quantity="other">" %2$d items can't be added to album. %1$s."</item>
+        <item quantity="one">" %2$d item can't be added to album. %1$s."</item>
     </plurals>
     <plurals name="add_to_secret_failed_with_reason_and_count">
         <item quantity="other">"%2$d items can't be added to private album. %1$s."</item>
@@ -463,6 +463,10 @@
     <plurals name="send_processing_files_error">
         <item quantity="other">"Couldn't share. Still processing %d photos…"</item>
         <item quantity="one">"Couldn't share. Still processing %d photo…"</item>
+    </plurals>
+    <plurals name="send_too_many_files_error">
+        <item quantity="other">Select up to %d items to send</item>
+        <item quantity="one">Select up to %d item to send</item>
     </plurals>
     <plurals name="send_video_dialog_desc">
         <item quantity="other">%2$d videos from %1$s</item>

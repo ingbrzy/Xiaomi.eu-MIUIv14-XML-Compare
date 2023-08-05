@@ -290,8 +290,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">b7771e632193444aa83b505d26769a54</string>
-    <string name="com.miapm.build_id">912d0294fa80401dbb9c5e6b6a8c1973</string>
+    <string name="com.crashlytics.android.build_id">3f5823e04e894f20abc19ee273c8aa1f</string>
+    <string name="com.miapm.build_id">3bb6bff3fbb048828c272f52cfa6b7c2</string>
     <string name="com_permission_desc">"Mi Video can't access videos on your device. Allow access in the Settings."</string>
     <string name="com_permission_title">Permissions required</string>
     <string name="comment_model_add_comment">Add a comment</string>
@@ -406,6 +406,7 @@ Send this code to the supervisor."</string>
     <string name="dialog_privacy_change_info">"We've updated Mi Video Privacy Policy due to the adjustments in the services we offer. To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> before using the app."</string>
     <string name="dialog_privacy_change_title">Privacy Policy update</string>
     <string name="dialog_privacy_info_new4">"Welcome to Mi Video! This app provides the following services:&lt;br>&lt;/br> - Online streaming services&lt;br>&lt;/br>- A local video player&lt;br>&lt;/br>Mi Video needs to collect necessary personal information to provide you with the basic services. You can learn how we handle the information we collect in our Privacy Policy. You'll be able to change the related settings in Settings > Passwords &amp;amp; security.&lt;br>&lt;/br>Read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> before using Mi Video."</string>
+    <string name="dialog_privacy_info_new5">Welcome to Mi Video! This app provides the following services:&lt;br>&lt;/br> - Online streaming services&lt;br>&lt;/br>- A local video player&lt;br>&lt;/br>In order to provide basic services, this app needs to collect necessary personal information. For details, see our Privacy Policy. You can change your settings at any time in Profile > Settings.&lt;br>&lt;/br>Read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> before using Mi Video.</string>
     <string name="dialog_privacy_revoke_cancel">Cancel</string>
     <string name="dialog_privacy_revoke_count_down">Withdraw (%1$ds)</string>
     <string name="dialog_privacy_revoke_description">"You're about to withdraw your consent to the Privacy Policy of Mi Video. We'll cease to collect your personal information. The personal information already collected and retained will be deleted within the specific period as required by applicable laws. Your withdrawal of consent to the Privacy Policy will be held as refusing to accept online services based on collected personal information."</string>
@@ -820,15 +821,7 @@ This operation won't affect your gallery pictures."</string>
     <string name="identity">Identification</string>
     <string name="incentive_details">Details</string>
     <string name="incentive_dialog_cancel_not_interested">No thanks</string>
-    <string name="incentive_dialog_continue_to_watch">Continue</string>
-    <string name="incentive_dialog_default_message">Watch for %1$s more to earn %2$s!</string>
-    <string name="incentive_dialog_default_title">Continue watching?</string>
-    <string name="incentive_dialog_exit">Exit</string>
-    <string name="incentive_dialog_negative_give_up">No thanks</string>
-    <string name="incentive_dialog_negative_play_next_video">Play next video</string>
     <string name="incentive_dialog_ok_receive_task">Complete</string>
-    <string name="incentive_dialog_positive_get_credits">Claim points</string>
-    <string name="incentive_dialog_positive_login_and_get_credits">Sign in</string>
     <string name="incentive_exchange">Redeem</string>
     <string name="incentive_exchange_code">Code</string>
     <string name="incentive_exchange_code_copy">Copy</string>
@@ -846,6 +839,7 @@ This operation won't affect your gallery pictures."</string>
     <string name="incentive_login_success_for_already_claimd">Signed in successfully. Points claimed.</string>
     <string name="incentive_login_tip">Sign in to earn points and get rewards</string>
     <string name="incentive_my_points">My points</string>
+    <string name="incentive_offline">"We're sorry to let you know that we're discontinuing our tasks feature. You can redeem your existing coins until July 31, 2023."</string>
     <string name="incentive_popup_window_share">Share to earn points</string>
     <string name="incentive_popup_window_subscribe">Subscribe to earn points</string>
     <string name="incentive_rules_title_bar">Rules</string>
@@ -1075,6 +1069,13 @@ for videos"</string>
     <string name="m3_sys_typescale_title_medium_font">sans-serif-medium</string>
     <string name="m3_sys_typescale_title_small_font">sans-serif-medium</string>
     <string name="manage">Manage</string>
+    <string name="manager_request_Content">"Due to Android's policy on file management, Mi Video can't access videos from other apps.
+You can allow Mi Video to access and play all video files.
+We will only use this permission to find the videos you search for, and won't access any other files. Allow now?"</string>
+    <string name="manager_request_cancel">Cancel</string>
+    <string name="manager_request_continue">Allow</string>
+    <string name="manager_request_tip">"Don't show again"</string>
+    <string name="manager_request_title">"Can't access this file"</string>
     <string name="mangotv_feature_list_title3">Added episode %s</string>
     <string name="mangotv_feature_more">More</string>
     <string name="mangotv_feature_title1">Episodes</string>
@@ -1165,15 +1166,16 @@ for videos"</string>
     <string name="midnight">Night</string>
     <string name="miuix_access_state_desc">Selected</string>
     <string name="miuix_alphabet_indexer_name">Index bar</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselect</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_action_mode_select_all">Select all</string>
     <string name="miuix_appcompat_action_mode_title_empty">Select items</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">More</string>
     <string name="miuix_appcompat_cancel_description">Cancel</string>
     <string name="miuix_appcompat_confirm_description">Confirm</string>
     <string name="miuix_appcompat_delete_description">Delete</string>
-    <string name="miuix_appcompat_deselect_all">Deselect</string>
+    <string name="miuix_appcompat_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_deselect_all_description">Deselect all</string>
+    <string name="miuix_appcompat_edit">Edit</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel</string>
     <string name="miuix_appcompat_search_input_description">Search</string>
     <string name="miuix_appcompat_select_all">Select all</string>
@@ -1315,6 +1317,8 @@ for videos"</string>
     <string name="my_feedback_title">My feedback</string>
     <string name="need_update_app">Update Mi Video to use all its features</string>
     <string name="network_connect_info">"Couldn't connect to the network."</string>
+    <string name="network_error_and_retry_tip">"Couldn't connect to the network. Check your network settings and try again."</string>
+    <string name="network_error_tip">"Couldn't connect to the network. Check your network settings."</string>
     <string name="network_failed">"Couldn't connect to the network"</string>
     <string name="newyearfestival_go_to_draw_prizes">Go to lucky draw</string>
     <string name="newyearfestival_watch_the_video_to_draw_prizes">Watch videos to enter lucky draw</string>
@@ -1515,18 +1519,11 @@ for videos"</string>
     <string name="photoPickerNotFoundText">No photos available.</string>
     <string name="pip">PiP</string>
     <string name="pip_not_supported_toast">Update MIUI to be able to use picture-in-picture.</string>
-    <string name="play_list_delete_title">Delete this playlist now?</string>
-    <string name="play_list_detial_add">Add videos</string>
-    <string name="play_list_detial_delete">Delete</string>
-    <string name="play_list_detial_play">Play</string>
-    <string name="play_list_detial_rename">Rename</string>
     <string name="play_list_player_skeleton_file">mnc_live_tv_list_player_skeleton.json</string>
     <string name="play_list_save_dialog_create">Create playlist</string>
     <string name="play_list_save_dialog_title">Add to playlist</string>
     <string name="play_list_sign_in_dialog_message">Sign in with your Google account to view all your playlists.</string>
     <string name="play_list_skeleton_file">mnc_live_tv_list_skeleton.json</string>
-    <string name="play_list_user_local">Local</string>
-    <string name="play_list_user_online">Online</string>
     <string name="playlist_create">Create</string>
     <string name="playlist_detail_recomm_title">Recommended playlists</string>
     <string name="playlist_finish">Done</string>
@@ -1901,6 +1898,8 @@ for videos"</string>
     <string name="talkback_voice_search">Voice search</string>
     <string name="target_sdk_version_30_upgrade_tips">Some videos may not be viewed here due to Android restrictions. Tap \"Files\" to find other videos.</string>
     <string name="temporary_not_available">"This feature isn't available yet"</string>
+    <string name="test_text_description">Qui asperiores quasi et omnis quidem et quam iure est repellendus repellat. Quo voluptatem ipsa sed aliquid libero ut pariatur similique eum facilis quia quo consequatur ipsam eos deserunt odio qui voluptas quod. Ut voluptatem earum ut odio facilis aut expedita possimus nam quia dolorum ut maxime recusandae At vitae nesciunt. At maiores voluptatem et laudantium recusandae sit perferendis eligendi 33 soluta optio in fugit pariatur aut magni molestiae et Quis veniam.</string>
+    <string name="test_text_title">Sit repudiandae aspernatur qui error autem.</string>
     <string name="text_default_ad_description">Ad</string>
     <string name="text_default_ad_title">You might like</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
@@ -2041,7 +2040,6 @@ for videos"</string>
     <string name="v_save">Save</string>
     <string name="v_search">Search</string>
     <string name="v_set_password">Set password</string>
-    <string name="v_txt_login">Sign in to sync your favorites</string>
     <string name="version_update_install_apk_fail">Install failed</string>
     <string name="video_already_download_tip">"You've already downloaded this item"</string>
     <string name="video_download_btn">Download</string>

@@ -99,7 +99,7 @@
     <string name="cancel_moving_dialog_message">Stop importing now?</string>
     <string name="cancel_moving_dialog_title">Stop importing</string>
     <string name="cancel_tranfer">Cancel</string>
-    <string name="cannot_use_mi_huanji_bacause_of_qqdownloader">"It looks like QQ Downloader is your system's backup service. Uninstall it and reboot your device to be able to use Mi Mover."</string>
+    <string name="cannot_use_mi_huanji_bacause_of_downloader">\"%s\" is already providing system backup services. Uninstall it and reboot your device to be able to use Mi Mover.</string>
     <string name="cannot_use_mi_huanji_button">Got it</string>
     <string name="cannot_use_mi_huanji_summary">Looks like MIUI is backing up items now. Stop ongoing backups or reboot your device to allow Mi Mover to start the transfer.</string>
     <string name="cannot_use_mi_huanji_title">"Can't transfer now"</string>
@@ -645,7 +645,7 @@ Open WeChat and go to Me > Settings > General > Back up &amp; migrate chats."</s
     <string name="not_support_data_content3">3. Second space data</string>
     <string name="not_support_data_content4">4. Dual apps</string>
     <string name="not_support_data_link">"Items that can't be transferred"</string>
-    <string name="not_support_data_summary1">"Themes, wallpapers, transport cards, key cards can't be transferred using Mi Mover."</string>
+    <string name="not_support_data_summary1">"Transport and access cards can't be transferred; themes and wallpapers can be transferred on some models"</string>
     <string name="not_support_data_summary2">Some apps put strict security measures in place to prevent app data from being transferred. Such apps may include banking apps or financial services.</string>
     <string name="not_support_data_summary3">"Due to system restrictions, items from Second space can't be transferred using Mi Mover."</string>
     <string name="not_support_data_summary4">"Dual apps and their data also can't be transferred. You can transfer corresponding main apps, though."</string>
@@ -758,7 +758,9 @@ Open WeChat and go to Me > Settings > General > Back up &amp; migrate chats."</s
     <string name="receiver_finish_detail_button">View report</string>
     <string name="receiver_finish_detail_fail">"Couldn't transfer"</string>
     <string name="receiver_finish_detail_success">Transferred items</string>
+    <string name="receiver_finish_not_transferred">Not transferred</string>
     <string name="receiver_finish_title">"You're all set!"</string>
+    <string name="receiver_finish_transferred">Transferred</string>
     <string name="receiver_video_summary">Unlock your old device, tap \"Transfer\", and scan this image</string>
     <string name="receiver_video_title">Transfer from old device</string>
     <string name="recent_one_year">Past 1 year</string>
@@ -835,6 +837,7 @@ Free up at least %s."</string>
     <string name="sender_finish_title">Transferred successfully</string>
     <string name="sender_scanning_code">Place the image in the frame</string>
     <string name="sender_scanning_connecting">Connecting with new device…</string>
+    <string name="set_app_suspend">This app is being backed up now. Wait until the backup is complete and try again.</string>
     <string name="set_new_device_account">Sync with Xiaomi Account</string>
     <string name="set_new_device_lock">Set screen lock</string>
     <string name="set_new_device_more">More system settings…</string>

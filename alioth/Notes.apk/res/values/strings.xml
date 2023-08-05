@@ -46,6 +46,7 @@
     <string name="actionbar_close_description">Close</string>
     <string name="actionbar_home_description">Back</string>
     <string name="add_account_desc">Sync your notes with your Xiaomi Account?</string>
+    <string name="added_to_clipboard">Copied successfully</string>
     <string name="afternoon">Afternoon</string>
     <string name="alarm_bar_title">Reminder</string>
     <string name="alert_action_edit_anyway">Keep editing</string>
@@ -79,6 +80,8 @@
     <string name="audio_create_will_cancel_state">Release to cancel</string>
     <string name="audio_dialog_mode_meeting">Meeting mode (Beta)</string>
     <string name="audio_dialog_mode_meeting_exit">No thanks</string>
+    <string name="audio_dialog_mode_meeting_recognize_close">Voice recognition is off</string>
+    <string name="audio_dialog_mode_meeting_recognize_fail">"Couldn't complete voice recognition"</string>
     <string name="audio_dialog_mode_meeting_sum">Meeting mode allows you to recognize the voices of %1$d-%2$d different people. Some recognition errors might occur in Beta version.</string>
     <string name="audio_dialog_mode_meeting_use">Start</string>
     <string name="audio_toast_file_invalid">Audio file is invalid</string>
@@ -165,6 +168,7 @@
     <string name="chip_text">Chip text</string>
     <string name="clear_text_end_icon_content_description">Clear text</string>
     <string name="clearable_edittext_clear_description">Clear</string>
+    <string name="clip_resource_deleted">This item is no longer available</string>
     <string name="close">Close</string>
     <string name="cloud_trash_bin_title">Deleted notes in the cloud</string>
     <string name="confirm_cancel">"Don't agree"</string>
@@ -351,7 +355,10 @@
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
     <string name="folder_exist">A folder with the same name already exists</string>
+    <string name="folder_note">Notes folders</string>
     <string name="folder_operation_rename">Rename</string>
+    <string name="folder_other">Other folders</string>
+    <string name="foler_pinned">Pinned folders</string>
     <string name="format_move_note_out_folder">This note was moved</string>
     <string name="format_move_note_to_folder">Moved to %1$s</string>
     <string name="friday">Friday</string>
@@ -629,12 +636,14 @@
     <string name="mtrl_picker_toggle_to_year_selection">Tap to switch to selecting a year</string>
     <string name="network_error_info">A network error occurred. Check your network settings and try again.</string>
     <string name="network_timeout_info">"Couldn't connect to the network. Try again."</string>
+    <string name="new_alert_title_delete">Delete notes</string>
     <string name="new_app_name">Mi Notes</string>
     <string name="new_audio_create_cancel_talkback_des">Canceled</string>
     <string name="new_audio_create_done_talkback_des">Created</string>
     <string name="new_audio_create_talkback_des">Tap to create a text note. Press and hold to create a voice note. Release the button to stop recording and create the note, or slide up to cancel.</string>
     <string name="new_data_empty_note">No items here yet</string>
     <string name="new_lite_audio_create_talkback_des">Tap to create a note</string>
+    <string name="new_sync_desc_state_disable">Turn on cloud sync for notes, tasks, and more</string>
     <string name="night">Evening</string>
     <string name="no_network">"Can't connect to the network"</string>
     <string name="noon">Midday</string>
@@ -680,6 +689,7 @@
     <string name="pad_note_create_hint">Tap the button to create a note</string>
     <string name="pad_note_list_not_text_stub">No text</string>
     <string name="password_toggle_content_description">Show password</string>
+    <string name="paste_unsupported_data">"Can't paste this content"</string>
     <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
@@ -969,6 +979,7 @@
     <string name="toast_refuse_to_use_external_storage">"Storage permissions are restricted.
 Allow Notes to read the contents of your SD card."</string>
     <string name="toast_refuse_to_use_photos_in_excerpt">Allow this app to access your photos to be able to add images to notes</string>
+    <string name="toast_refuse_to_use_photos_in_excerpt_v14">To be able to insert images into notes, allow this app to access all photos</string>
     <string name="toast_refuse_to_use_record_audio">"Microphone permissions are restricted.
 Allow Notes to record audio."</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">Allow Notes to access storage to be able to add images to your notes</string>

@@ -30,7 +30,6 @@
     <string name="actionbar_button_up_description">Back</string>
     <string name="afternoon">Afternoon</string>
     <string name="am">AM</string>
-    <string name="androidx_startup">androidx.startup</string>
     <string name="app_name">View Pager Dots Indicator</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
@@ -114,6 +113,7 @@
     <string name="clear_text_end_icon_content_description">Clear text</string>
     <string name="clearable_edittext_clear_description">Clear</string>
     <string name="close">Close</string>
+    <string name="content_preview_ratio">1:1</string>
     <string name="copy">Copy</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -250,15 +250,16 @@
     <string name="midnight">Night</string>
     <string name="miuix_access_state_desc">Selected</string>
     <string name="miuix_alphabet_indexer_name">Index bar</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselect</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_action_mode_select_all">Select all</string>
     <string name="miuix_appcompat_action_mode_title_empty">Select items</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">More</string>
     <string name="miuix_appcompat_cancel_description">Cancel</string>
     <string name="miuix_appcompat_confirm_description">Confirm</string>
     <string name="miuix_appcompat_delete_description">Delete</string>
-    <string name="miuix_appcompat_deselect_all">Deselect</string>
+    <string name="miuix_appcompat_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_deselect_all_description">Deselect all</string>
+    <string name="miuix_appcompat_edit">Edit</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel</string>
     <string name="miuix_appcompat_search_input_description">Search</string>
     <string name="miuix_appcompat_select_all">Select all</string>
@@ -566,6 +567,7 @@ You can also track express delivery on the official websites of courier services
     <string name="pa_express_widget_all">All packages</string>
     <string name="pa_express_widget_list_item_desc">"Tracking number: "</string>
     <string name="pa_express_widget_logout">Sign in to view your express delivery packages</string>
+    <string name="pa_express_widget_logout_description">登录查看快递物流状态,点按两次可以激活</string>
     <string name="pa_express_widget_order_42">Enter tracking number</string>
     <string name="pa_express_widget_post">Send package</string>
     <string name="pa_express_widget_search">Search</string>
@@ -845,7 +847,7 @@ to show widgets."</string>
     <string name="pa_shopping_page_product_delete_bar_desc">Delete products</string>
     <string name="pa_shopping_page_product_delete_error">An error occurred. Check your network settings and try again.</string>
     <string name="pa_shopping_page_product_delete_limit">已达到删除上限，无法继续勾选。</string>
-    <string name="pa_shopping_page_product_item_icon_tag_new">猜你喜欢</string>
+    <string name="pa_shopping_page_product_item_icon_tag_new">猜您喜欢</string>
     <string name="pa_shopping_page_product_jump_setting_error">An error occurred. Check your network settings and try again.</string>
     <string name="pa_shopping_page_setting_source_desc">Get discounts and deals on products</string>
     <string name="pa_shopping_page_setting_statement">Disclaimer</string>
@@ -872,6 +874,7 @@ to show widgets."</string>
     <string name="pa_shortcut_desc_add_button_install">To be able to use \"%2$s\", install %1$s first.</string>
     <string name="pa_shortcut_desc_delete_button">Remove %1$s from start page</string>
     <string name="pa_shortcut_desc_more_button">View all shortcuts</string>
+    <string name="pa_shortcut_desc_more_title">更多功能</string>
     <string name="pa_shortcut_download_tip">To be able to use \"%2$s\", install %1$s first.</string>
     <string name="pa_shortcut_empty">Not added</string>
     <string name="pa_shortcut_group_title_start_page">Start page</string>

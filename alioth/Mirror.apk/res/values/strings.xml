@@ -141,7 +141,7 @@
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Chinese Traditional Calendar</string>
     <string name="date_time_picker_dialog_title">Set date and time</string>
-    <string name="default_boss_terminal_name">Mi Notebook</string>
+    <string name="default_boss_terminal_name">Xiaomi computer</string>
     <string name="default_error_msg">Unknown error</string>
     <string name="device_max_screen_count_toast">This device only supports opening two windows at the same time</string>
     <string name="display_max_screen_count_toast">You can open up to 3 windows in this version</string>
@@ -295,7 +295,8 @@ You can start another session on your computer."</string>
     <string name="login_xiaomi_account_summary_phone">To be able to connect to other tablets, use the same Xiaomi Account on both connected devices. Sign in now?</string>
     <string name="login_xiaomi_account_title">Sign in to Xiaomi Account</string>
     <string name="low_battery_notification_action">Turn on</string>
-    <string name="low_battery_notification_content">Less than %2$d%% of battery remaining on %1$s. Turn on Battery saver.</string>
+    <string name="low_battery_notification_content">Less than %2$s of battery remaining on %1$s</string>
+    <string name="low_battery_notification_content_default">Phone battery is lower than %1$s</string>
     <string name="low_battery_notification_title">Low battery</string>
     <string name="low_version_dialog_message">Update MIUI+ on your computer or download the latest version from plus.miui.com.</string>
     <string name="low_version_dialog_title">Update MIUI+</string>
@@ -384,7 +385,11 @@ You can start another session on your computer."</string>
     <string name="nfc_login">Sign in</string>
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan">To connect the devices, turn on Wi-Fi and Bluetooth on this device first. Turn on now?</string>
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan_china">To connect the devices, turn on Wi-Fi and Bluetooth on this device first. Turn on now?</string>
+    <string name="nfc_need_to_enable_your_bluetooth_and_wlan_pc">"Couldn't connect to computer. Make sure Wi-Fi and Bluetooth are turned on on both devices."</string>
+    <string name="nfc_need_to_enable_your_bluetooth_and_wlan_pc_china">"Couldn't connect to computer. Make sure Wi-Fi and Bluetooth are turned on on both devices."</string>
     <string name="nfc_no_xiaomi_account">"Looks like you haven't signed in to your Xiaomi Account. To transfer items, sign in to the Xiaomi Account you're using on your tablet."</string>
+    <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan">"Couldn't connect to computer. Make sure you've turned on Wi-Fi and Bluetooth on both your phone and computer, and that your computer is running MIUI+."</string>
+    <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">"Couldn't connect to computer. Make sure you've turned on Wi-Fi and Bluetooth on both your phone and computer, and that your computer is running MIUI+."</string>
     <string name="nfc_wifi_and_bluetooth">Turn on Wi-Fi and Bluetooth</string>
     <string name="nfc_wifi_and_bluetooth_china">Turn on Wi-Fi and Bluetooth</string>
     <string name="night">Evening</string>
@@ -514,7 +519,7 @@ You can start another session on your computer."</string>
     <string name="send">Send</string>
     <string name="settings_bluetooth_enable_summary">To be able to find devices nearby, turn on Bluetooth first. Turn on now?</string>
     <string name="settings_connect_more_help"><u>Help</u></string>
-    <string name="settings_connect_summary1">Download and install MIUI+ Beta on your computer: https://plus.miui.com.</string>
+    <string name="settings_connect_summary1">Open Mi Smart Share on your computer and select \"Screen Combo\". You can download Mi Smart Share from www.miui.com.</string>
     <string name="settings_connect_summary2">Scan the QR code on the computer screen with your mobile device. You can use multiple system apps (e.g. Scanner, Camera, Mi Browser) to do that.</string>
     <string name="settings_connect_title1">Step 1</string>
     <string name="settings_connect_title2">Step 2</string>
@@ -543,6 +548,9 @@ You can start another session on your computer."</string>
     <string name="settings_how_use">Using handoff</string>
     <string name="settings_log_options">Logs</string>
     <string name="settings_more_help">Help</string>
+    <string name="settings_nfc_transfer_desc1">"·Bring a phone signed in to your Xiaomi Account near this device's NFC module to share screen content or transfer the items selected in File Manager or Gallery."</string>
+    <string name="settings_nfc_transfer_desc2">·You can view the list of compatible devices here: %s</string>
+    <string name="settings_nfc_transfer_title">Transfer items via NFC</string>
     <string name="settings_pad">Tablet</string>
     <string name="settings_pad_handoff_title">Connect automatically</string>
     <string name="settings_pc">Computer</string>

@@ -239,6 +239,7 @@ Try moving files from your device to Mi Drive."</string>
     <string name="create_folder">Create</string>
     <string name="create_shortcut_success">Added shortcut successfully</string>
     <string name="cta_function_account_operation">For quick sign-in to your Xiaomi Account</string>
+    <string name="cta_use_sync_midrive_file">For syncing files to Mi Drive</string>
     <string name="data_consume_dialog_message">"You're currently using mobile data. If you continue, this will use %s of data."</string>
     <string name="data_consume_dialog_title">Use mobile data?</string>
     <string name="data_consume_dialog_upload_title">Upload using mobile data</string>
@@ -726,6 +727,8 @@ Try moving files from your device to Mi Drive."</string>
     <string name="operation_compress">Compress</string>
     <string name="operation_compressing">Compressing…</string>
     <string name="operation_copy">Copy</string>
+    <string name="operation_copy_clipboard">Copy to clipboard</string>
+    <string name="operation_copy_local">Copy to folder</string>
     <string name="operation_create_folder">Create folder</string>
     <string name="operation_create_folder_message">Enter folder name</string>
     <string name="operation_create_folder_name_conflict">"Couldn't create folder. A folder with this name already exists."</string>
@@ -923,6 +926,7 @@ Try moving files from your device to Mi Drive."</string>
     <string name="select_dest_folder">Select folder</string>
     <string name="select_image">Images</string>
     <string name="select_music">Audio files</string>
+    <string name="select_pdf">Select PDF</string>
     <string name="select_video">Video files</string>
     <string name="select_volume">Select storage location</string>
     <string name="send">Send</string>
@@ -1061,6 +1065,7 @@ Try moving files from your device to Mi Drive."</string>
     <string name="title_select_volume">Select folder</string>
     <string name="to_open">Settings</string>
     <string name="to_setting">Settings</string>
+    <string name="toast_copy_clipboard">Added to clipboard</string>
     <string name="toast_file_not_can_read">No app was found to handle this action.</string>
     <string name="today">Today</string>
     <string name="tomorrow">Tomorrow</string>

@@ -4,13 +4,13 @@
         <item quantity="other">1 hour ago</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 hour ago</item>
+        <item quantity="other">%d hour ago</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Half an hour ago</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">In 1 hour</item>
+        <item quantity="other">In %d hour</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">In half an hour</item>
@@ -19,15 +19,15 @@
         <item quantity="other">Immediately</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %d mins</item>
-        <item quantity="one">in 1 min</item>
+        <item quantity="other">In %d mins</item>
+        <item quantity="one">In %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Just now</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d mins ago</item>
-        <item quantity="one">1 min ago</item>
+        <item quantity="one">%d min ago</item>
     </plurals>
     <plurals name="days_ago">
         <item quantity="other">%1$d days ago</item>
@@ -40,6 +40,10 @@
     <plurals name="download_fail_info_for_sys_content">
         <item quantity="other">"Couldn't download %1$d items"</item>
         <item quantity="one">"Couldn't download %1$d item"</item>
+    </plurals>
+    <plurals name="download_notification_wait_network">
+        <item quantity="other">Waiting to download. %1$s files remaining.</item>
+        <item quantity="one">Waiting to download. %1$s file remaining.</item>
     </plurals>
     <plurals name="downloading_info_for_sys_title">
         <item quantity="other">Downloading… %1$d items left (%2$s%%)</item>
@@ -111,6 +115,10 @@
     <plurals name="upload_fail_info_for_sys_content">
         <item quantity="other">"Couldn't upload %1$d items"</item>
         <item quantity="one">"Couldn't upload %1$d item"</item>
+    </plurals>
+    <plurals name="upload_notification_wait_network">
+        <item quantity="other">Waiting to upload. %1$s files remaining.</item>
+        <item quantity="one">Waiting to upload. %1$s file remaining.</item>
     </plurals>
     <plurals name="uploading_info_for_sys_title">
         <item quantity="other">Uploading… %1$d items left (%2$s%%)</item>
