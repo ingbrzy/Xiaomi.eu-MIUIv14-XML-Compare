@@ -1856,6 +1856,10 @@ Go to Themes > My account > Themes lab for more options."</string>
     <string name="wallpaper_share_alert">An error occurred. Wait a minute or two and try again.</string>
     <string name="wallpaper_static">Static</string>
     <string name="wallpaper_subject_version">MI</string>
+    <string name="warning_miui_optimization_closed_dialog_agree">Settings</string>
+    <string name="warning_miui_optimization_closed_dialog_disagree">Apply</string>
+    <string name="warning_miui_optimization_closed_dialog_message">"It looks like you haven't turned on MIUI optimization. Without it, this theme won't work properly when applied. You can apply it anyway or turn on MIUI optimization in Settings."</string>
+    <string name="warning_miui_optimization_closed_dialog_title">Attention</string>
     <string name="warning_subscribe_wallpaper_group_content">"You've turned on Home screen slideshow. %1$s will be applied to your Home screen."</string>
     <string name="wechat_not_found">Install WeChat first</string>
     <string name="wednesday">Wednesday</string>

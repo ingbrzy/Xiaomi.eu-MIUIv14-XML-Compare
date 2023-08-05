@@ -4746,9 +4746,6 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="privacy_pop_record">Recorded audio today</string>
     <string name="privacy_pop_storage">Accessed storage today</string>
     <string name="privacy_prompt_tc_sms_report_message">"Your phone number and carrier details will be encrypted and uploaded to Mi's servers in order to update your data usage info."</string>
-    <string name="privacy_prompt_traffic_adjust_message">"After you start the calibration, MIUI will connect to the network, encode your carrier's info, phone number, IMEI, and Xiaomi Account, and upload these items to Mi servers. This is done in order to acquire the carrier's calibration template and learn if it's possible to purchase data in your location.
-
-While calibrating, MIUI will send a text message to your carrier to receive the calibration template."</string>
     <string name="privacy_prompt_upload">Upload</string>
     <string name="privacy_protect_summary">Protect your personal info</string>
     <string name="privacy_protect_title">Privacy protection</string>
@@ -6480,6 +6477,7 @@ Try upscaling resolution!"</string>
     <string name="virus_app_type_uninstalled">APK</string>
     <string name="virus_app_verison_text">Version: %s</string>
     <string name="virus_auto_update_engine">Auto updates: %s</string>
+    <string name="virus_auto_update_engine_1">Update definitions automatically</string>
     <string name="virus_clear_dialog_title">Clear malicious apps</string>
     <string name="virus_detail_app">Contains viruses</string>
     <string name="virus_detail_split_line_text"> | </string>

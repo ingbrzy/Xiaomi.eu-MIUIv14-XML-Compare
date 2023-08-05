@@ -37,14 +37,6 @@
         <item quantity="other">%d days</item>
         <item quantity="one">%d day</item>
     </plurals>
-    <plurals name="delete_alarm_confirm">
-        <item quantity="other">Delete the selected alarms?</item>
-        <item quantity="one">Delete this alarm?</item>
-    </plurals>
-    <plurals name="delete_timezone_confirm">
-        <item quantity="other">Delete the selected timezones?</item>
-        <item quantity="one">Delete this timezone?</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Half an hour ago</item>
     </plurals>
@@ -68,17 +60,9 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Just now</item>
     </plurals>
-    <plurals name="life_post_wake_up_item_acumu_day">
-        <item quantity="other">%1$d days</item>
-        <item quantity="one">%1$d day</item>
-    </plurals>
     <plurals name="minute">
         <item quantity="other">%d minutes</item>
         <item quantity="one">%d minute</item>
-    </plurals>
-    <plurals name="minute_text">
-        <item quantity="other">" mins"</item>
-        <item quantity="one">" min"</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d items selected</item>
@@ -116,17 +100,9 @@
         <item quantity="other">Go off %1$s times</item>
         <item quantity="one">Go off %1$s time</item>
     </plurals>
-    <plurals name="snooze_duration_desc">
-        <item quantity="other">Every %1$s min, go off %2$s times</item>
-        <item quantity="one">Every %1$s min, go off %2$s time</item>
-    </plurals>
     <plurals name="snooze_duration_min">
         <item quantity="other">Every %1$s mins</item>
         <item quantity="one">Every %1$s min</item>
-    </plurals>
-    <plurals name="snooze_duration_summary">
-        <item quantity="other">Alarm will go off %2$s times (%1$s min. each)</item>
-        <item quantity="one">Alarm will go off %2$s time (%1$s min.)</item>
     </plurals>
     <plurals name="snooze_message">
         <item quantity="other">Snooze for %d mins</item>
