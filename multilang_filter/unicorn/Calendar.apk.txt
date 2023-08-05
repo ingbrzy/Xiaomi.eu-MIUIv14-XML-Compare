@@ -52,6 +52,7 @@ Removed: [pt-rBR] strings.xml: string/edit_event_reminder_summary_3_days_before_
 Removed: [pt-rPT] strings.xml: string/birthday_event_title (format mismatch)
 Removed: [pt-rPT] strings.xml: string/edit_event_reminder_summary_3_days_before_today (format mismatch)
 Removed: [ro] strings.xml: string/edit_event_reminder_summary_3_days_before_today (format mismatch)
+Removed: [ru] plurals.xml: plurals/abbrev_a_hour_ago (format mismatch)
 Removed: [ru] strings.xml: string/edit_event_reminder_summary_3_days_before_today (format mismatch)
 Removed: [sk] strings.xml: string/edit_event_reminder_summary_3_days_before_today (format mismatch)
 Removed: [sl] strings.xml: string/edit_event_reminder_summary_3_days_before_today (format mismatch)
