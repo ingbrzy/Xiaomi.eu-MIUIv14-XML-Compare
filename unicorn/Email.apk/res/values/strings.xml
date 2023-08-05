@@ -267,7 +267,7 @@ path prefix"</string>
     <string name="authority_email_provider">com.android.email.provider</string>
     <string name="auto_login_fail">"Couldn't sign in automatically"</string>
     <string name="auto_login_fail_to_retry">"Couldn't sign in automatically, try again."</string>
-    <string name="auto_start_open_prompt">检测到您的自启动权限未开启，将会影响邮件同步，请问是否开启？</string>
+    <string name="auto_start_open_prompt">Allow the app to autostart for it to be able to sync your emails. You can grant this permission in Settings.</string>
     <string name="bContact_list_search_hint">Search for blocked contacts</string>
     <string name="b_contacts">Blocklist</string>
     <string name="b_contacts_remove">Remove from blocklist</string>
@@ -288,7 +288,7 @@ path prefix"</string>
     <string name="calendar_remind_gridview_pick_date">Pick date</string>
     <string name="cancel">Cancel</string>
     <string name="cancel_action">Cancel</string>
-    <string name="cancel_edit">取消编辑</string>
+    <string name="cancel_edit">Stop editing</string>
     <string name="cc">Cc</string>
     <string name="cc_attribution">Cc: %1$s&lt;br></string>
     <string name="cc_bcc">Cc/Bcc</string>
@@ -514,7 +514,7 @@ path prefix"</string>
     <string name="drive_card_code">"Access code: "</string>
     <string name="drive_card_tips">%s shared an item stored in the cloud with you.</string>
     <string name="drive_card_title">Cloud storage URL</string>
-    <string name="drop_sign_operation">要舍弃您所做的更改吗？</string>
+    <string name="drop_sign_operation">Stop editing and discard all changes now?</string>
     <string name="dtend">Ends</string>
     <string name="dtstart">Starts</string>
     <string name="early_morning">Morning</string>
@@ -1100,7 +1100,7 @@ This issue might be caused by the account's two-factor authentication. Try enter
     <string name="open_pdf_error">"Couldn't open PDF. Install a PDF reader and try again."</string>
     <string name="operation_settging">Actions</string>
     <string name="optimization_suggestion">Optimization suggestions</string>
-    <string name="other_pdf_open">其他打开方式</string>
+    <string name="other_pdf_open">Open with…</string>
     <string name="others_mail">Other</string>
     <string name="outbox_alert_button_no_resend">"Don't send"</string>
     <string name="outbox_alert_button_resend">Resend</string>
@@ -1141,7 +1141,7 @@ This issue might be caused by the account's two-factor authentication. Try enter
     <string name="pdf_has_signature_prompt_confirm">Signed copy</string>
     <string name="pdf_has_signature_prompt_message">Looks like this attachment has a signed copy. Open it instead?</string>
     <string name="pdf_save_error">"Can't convert to PDF. This message is too long."</string>
-    <string name="pdf_save_local">文件保存到本地</string>
+    <string name="pdf_save_local">"Saved to device successfully: "</string>
     <string name="pdf_save_no_body">Wait until the message is fully loaded before converting to PDF</string>
     <string name="pdf_save_to">"Saved to "</string>
     <string name="pdf_signature_add">Add a new signature</string>
@@ -1150,8 +1150,6 @@ This issue might be caused by the account's two-factor authentication. Try enter
     <string name="pdf_signature_manager_max_count">"Can't add more signatures. Delete older signatures to add new ones."</string>
     <string name="pdf_signature_manager_title">Manage signatures</string>
     <string name="pdf_signature_select">Select signature</string>
-    <string name="pdf_viewer_actionbar_more_other">其他打开方式</string>
-    <string name="pdf_viewer_actionbar_more_wps">保存到本地文件</string>
     <string name="pdf_viewer_file_damage_toast">PDF file is corrupted. Check this file and try again.</string>
     <string name="pdf_viewer_new_email">Send</string>
     <string name="pdf_viewer_reply">Reply</string>
@@ -1182,7 +1180,7 @@ This issue might be caused by the account's two-factor authentication. Try enter
     <string name="personal_data_collection_summary">When the switch is toggled on, you agree that we may collect your personal data. You can toggle the switch off, revoke your authorization, and delete your data from our servers at any time.</string>
     <string name="personal_data_collection_title">Allow collecting personal data</string>
     <string name="pl_select_age">Select age</string>
-    <string name="please_save_sign_first">请保存签名</string>
+    <string name="please_save_sign_first">Save signature first</string>
     <string name="pm">PM</string>
     <string name="pop3_name">POP3</string>
     <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
@@ -1271,7 +1269,7 @@ Wait until it's fully synced or view the message on your computer."</string>
     <string name="saturday_short">Sat</string>
     <string name="saturday_shortest">Sat</string>
     <string name="save_draft_failed">Save draft failed</string>
-    <string name="save_sign_pdf">保存文件到本地</string>
+    <string name="save_sign_pdf">Save to device</string>
     <string name="search_bar_text">Search for contacts</string>
     <string name="search_menu_title">Search</string>
     <string name="search_remote_again">"Couldn't connect to the network. Tap to try again."</string>
@@ -1503,7 +1501,7 @@ Wait until it's fully synced or view the message on your computer."</string>
     <string name="train_card_title_change_arrival">Changed destination successfully</string>
     <string name="train_card_title_refund">Canceled ticket successfully</string>
     <string name="train_travel_refund_info" formatted="false">退票费 ¥%s，应退票款 ¥%s</string>
-    <string name="translated_text_too_long">翻译内容过长，请减少复制内容后再试</string>
+    <string name="translated_text_too_long">Select less text to copy and try again</string>
     <string name="translation_loading">Just a sec…</string>
     <string name="translation_no_result">No results</string>
     <string name="translation_pronunciation_am">AmE</string>
