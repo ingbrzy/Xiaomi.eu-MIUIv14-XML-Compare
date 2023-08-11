@@ -1666,6 +1666,7 @@ It will be added to exceptions, but previously blocked items won't appear in cal
     <string name="domestic_roaming_setting">National roaming</string>
     <string name="dont_bore">"Don't let buttons and notifications distract you"</string>
     <string name="download">Download</string>
+    <string name="download_tvm_title">Phone Key Component plug-in</string>
     <string name="downloading">Downloading</string>
     <string name="doze_optimization_summary">Increase touch response and sensitivity</string>
     <string name="doze_optimization_title">Optimized touch controls</string>
@@ -2941,6 +2942,8 @@ to join our egg hunt!"</string>
     <string name="install_sucess">Installed %s successfully</string>
     <string name="install_text">Install</string>
     <string name="install_title">Install via USB</string>
+    <string name="install_tvm_component_desc">To ensure the security of your transactions, install Phone Key Component plug-in.</string>
+    <string name="install_tvm_component_title">Install Phone Key Component plug-in</string>
     <string name="install_type_instant">Instant app</string>
     <string name="installing">Installing</string>
     <string name="intercept_dimension_ratio">612:380</string>
@@ -5668,8 +5671,8 @@ To use this ^1 with this device, you have to set it up first."</string>
     <string name="storage_entry_file">文件管理器</string>
     <string name="storage_entry_other">其他</string>
     <string name="storage_entry_setting">设置</string>
-    <string name="storage_fbo_clear">FBO storage refresh</string>
-    <string name="storage_fbo_des">"Internal storage suffers from fragmentation, which might significantly slow down your device. FBO storage refresh works automatically while you aren't using the device. It physically organizes your files into the smallest number of fragments reducing the lag."</string>
+    <string name="storage_fbo_clear">Storage refresh</string>
+    <string name="storage_fbo_des">"Internal storage suffers from fragmentation, which might significantly slow down your device. Storage refresh works automatically while you aren't using the device. It physically organizes your files into the smallest number of fragments reducing the lag."</string>
     <string name="storage_fbo_number_tip">Processed on %1$s</string>
     <string name="storage_fbo_tools">Storage optimization</string>
     <string name="storage_file_delete_tip">Delete selected items permanently? Some of them may be loaded again when necessary.</string>
@@ -6300,6 +6303,9 @@ Remaining data includes data that has been rolled over from the previous month."
     <string name="tuesday_short">Tue</string>
     <string name="tuesday_shortest">Tue</string>
     <string name="turn_off_auto_correction">Turning off auto sync</string>
+    <string name="tvm_install_failed">"Couldn't install plug-in"</string>
+    <string name="tvm_install_successed">Installed plug-in successfully</string>
+    <string name="tvm_version_too_low">Update Phone Key Component plug-in first</string>
     <string name="two_address_choose_hint">%1$s and %2$s</string>
     <string name="txv_dnd_end_time_title">结束时间</string>
     <string name="txv_dnd_start_time">0:00</string>
@@ -6333,6 +6339,8 @@ Remaining data includes data that has been rolled over from the previous month."
     <string name="untrust_app_perm_oaid">Allow accessing your virtual ID</string>
     <string name="untrust_app_perm_title">App from an unknown source</string>
     <string name="untrust_app_perm_warn">This app comes from an unknown source and might pose security risks. It may use the permissions listed below to compromise your privacy. Grant these permissions after careful consideration.</string>
+    <string name="upgrade_tvm_component_desc">To ensure the security of your transactions, update Phone Key Component plug-in.</string>
+    <string name="upgrade_tvm_component_title">Update Phone Key Component plug-in</string>
     <string name="usage_sorted_activity_lable">Data usage</string>
     <string name="usage_sorted_empty_text">Empty</string>
     <string name="usage_sorted_loading_text">Just a sec…</string>
