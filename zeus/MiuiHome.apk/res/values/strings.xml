@@ -288,13 +288,14 @@
     <string name="cloud_app_restore_title">Pending</string>
     <string name="color_group">Group icons by color</string>
     <string name="color_group_anim">Animations in color categories</string>
-    <string name="com.crashlytics.android.build_id">853c7c42741f435b9fac7e9ad004f823</string>
+    <string name="com.crashlytics.android.build_id">d79dc9bcd55a45db966750ff1baccb58</string>
     <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
     <string name="common_home_search_delete">Removing search bar</string>
     <string name="common_home_search_delete_cancle">Cancel</string>
     <string name="common_home_search_delete_confirm">Remove</string>
     <string name="common_home_search_delete_content">"You won't be able to use quick search after you remove the search bar from your Home screen. Remove anyway?"</string>
     <string name="confirm_btn_label">OK</string>
+    <string name="content_center">Content Center</string>
     <string name="content_description_button_add">Tap to add to current apps</string>
     <string name="content_description_button_disable">"Can't add more current apps"</string>
     <string name="content_description_button_remove">Tap to remove from current apps</string>
@@ -511,6 +512,11 @@
     <string name="in_app_result_by">In-App results by</string>
     <string name="install">Install</string>
     <string name="intelligent_exposed_button_summary_text">Use smart suggestions based on your app usage to highlight apps in enlarged folders</string>
+    <string name="international_home_pull_down_content">Swipe down on the Home screen to search on this device and the internet.</string>
+    <string name="international_home_pull_down_sub_content">You can switch this gesture to open Control center instead in Settings > Home screen > Swipe down on the Home screen.</string>
+    <string name="international_home_pull_down_up_btn_get">Got it</string>
+    <string name="international_home_pull_up_content">Swipe up on the Home screen to open Content Center.</string>
+    <string name="international_home_pull_up_sub_content">To open search, swipe down from the center of your Home screen.</string>
     <string name="item_view_role_description">Tab</string>
     <string name="jeejen_description">"Bigger UI elements.
 More accessible calling.
