@@ -290,8 +290,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">3f5823e04e894f20abc19ee273c8aa1f</string>
-    <string name="com.miapm.build_id">3bb6bff3fbb048828c272f52cfa6b7c2</string>
+    <string name="com.crashlytics.android.build_id">0316dc15239e4589934b120ab2f05a88</string>
+    <string name="com.miapm.build_id">3795f95b46df4cb58461c9803feb43b2</string>
     <string name="com_permission_desc">"Mi Video can't access videos on your device. Allow access in the Settings."</string>
     <string name="com_permission_title">Permissions required</string>
     <string name="comment_model_add_comment">Add a comment</string>
@@ -405,6 +405,10 @@ Send this code to the supervisor."</string>
     <string name="dialog_open_internet_btn">Connect to the network</string>
     <string name="dialog_privacy_change_info">"We've updated Mi Video Privacy Policy due to the adjustments in the services we offer. To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> before using the app."</string>
     <string name="dialog_privacy_change_title">Privacy Policy update</string>
+    <string name="dialog_privacy_info">"Welcome to Mi Video! This app provides the following services:
+- Online streaming
+- A local video player
+Mi Video needs to collect necessary personal information to provide you with basic services. You can learn how we handle the information we collect in our Privacy Policy. You can change the related settings in Profile > Settings."</string>
     <string name="dialog_privacy_info_new4">"Welcome to Mi Video! This app provides the following services:&lt;br>&lt;/br> - Online streaming services&lt;br>&lt;/br>- A local video player&lt;br>&lt;/br>Mi Video needs to collect necessary personal information to provide you with the basic services. You can learn how we handle the information we collect in our Privacy Policy. You'll be able to change the related settings in Settings > Passwords &amp;amp; security.&lt;br>&lt;/br>Read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> before using Mi Video."</string>
     <string name="dialog_privacy_info_new5">Welcome to Mi Video! This app provides the following services:&lt;br>&lt;/br> - Online streaming services&lt;br>&lt;/br>- A local video player&lt;br>&lt;/br>In order to provide basic services, this app needs to collect necessary personal information. For details, see our Privacy Policy. You can change your settings at any time in Profile > Settings.&lt;br>&lt;/br>Read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> before using Mi Video.</string>
     <string name="dialog_privacy_revoke_cancel">Cancel</string>

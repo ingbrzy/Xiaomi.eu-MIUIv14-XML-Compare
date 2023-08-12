@@ -54,6 +54,7 @@
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="aboard_mail_body_content">The app is compatible with multiple doc formats, in small size and permanently free. Get it here:</string>
+    <string name="androidx_startup">androidx.startup</string>
     <string name="app_name">pdf-android-tools</string>
     <string name="app_unknownError">Exit caused by unknown error</string>
     <string name="chart_NotSupportedPic_bmw">This image cannot currently be displayed.</string>
@@ -68,7 +69,8 @@
     <string name="chart_power_bmw">Power</string>
     <string name="chart_series_bmw">Series</string>
     <string name="chart_unsupport_bmw">Unable to draw this chart</string>
-    <string name="com.crashlytics.android.build_id">00000000000000000000000000000000</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">00000000000000000000000000000000</string>
+    <string name="crash_upload_url">https://mo-dump.wps.cn/errorReport/up</string>
     <string name="doc_scan_save_to_album">Saved to Gallery</string>
     <string name="documentmanager_addPic_failed">"Couldn't insert picture"</string>
     <string name="documentmanager_checkUpdate">Check for updates</string>
@@ -135,6 +137,7 @@
     <string name="et_sorter_expand_selection">"It's detected that there is data next to the selection. Which data do you want to sort?"</string>
     <string name="et_sorter_expand_selection_cancel">Current selection</string>
     <string name="et_sorter_expand_selection_ok">Extend to other areas</string>
+    <string name="exception_report">wpsoffice_exception_report@kingsoft.com</string>
     <string name="exception_report_cn">wpsoffice_exception_report_cn@kingsoft.com</string>
     <string name="feedback_display_subject">Display error</string>
     <string name="feedback_display_subject_jp">文字化け/データ表示不具合</string>
@@ -166,6 +169,7 @@
     <string name="feedback_suggestion_subject_zh">需求建议</string>
     <string name="file_format_error">此文档格式不支持操作</string>
     <string name="filter">Filter</string>
+    <string name="find_path">com.netease.mail.fileprovider#netease/Mail/;com.netease.mobimail.fileprovider#netease/163mail/;com.tencent.wework.external.fileprovider#tencent/WeixinWork/filecache;com.baidu.searchbox.fileprovider#baidu/searchbox/downloads/;com.yearsdiary.tenyear.mis.fileprovider#/Android/data/com.yearsdiary.tenyear/files/wwwroot;com.android.fileexplorer.myprovider#/documents;im.yixin.fileprovider#/Android/data/im.yixin/files/Yixin/file;com.baidu.wenku.fileProvider#BaiduWenku/download/original;com.android.providers.downloads.documents#/document;com.android.chrome.FileProvider#/downloads;com.tencent.mm.external.fileprovider#/tencent/MicroMsg/Download;999@com.tencent.mm.external.fileprovider#/tencent/MicroMsg/Download;com.synology.dsfile.fileprovider#DSfile/;com.tencent.weworklocal.fileprovider#Tencent/WeixinWork/filecache/;com.synology.dsdrive.external#DSfile/;im.yixin.qiye.fileprovider#Android/data/im.yixin/files/Yixin/file/;com.microsoft.emmx.FileProvider#Android/data/com.microsoft.emmx/files/Download/;</string>
     <string name="func_extract_sheet">Extract</string>
     <string name="func_output_as_pic">Image</string>
     <string name="func_pdf_to_word">Word</string>
@@ -176,6 +180,7 @@
     <string name="highlight">Highlight</string>
     <string name="kslite_sign_url" />
     <string name="kslite_sign_url_test" />
+    <string name="kslite_sign_url_v2" />
     <string name="online_security_error_code_no_operation_permission">权限不足，无法进行本次操作</string>
     <string name="oppo_app_packageName">OPPO文档查看器（WPS定制）</string>
     <string name="oppo_scre_dialog_message" formatted="false"><Data>“WPS文档查看器”是用于查看用户办公文档的软件，需要您提供文件存储的权限才能正常使用。为了更好的改进产品体验，WPS Office会收集功能使用信息，并将严格按照&lt;a href=\"%s\">《最终用户许可协议》&lt;/a>和&lt;a href=\"%s\">《隐私政策》&lt;/a>的说明，保护您的信息安全。</Data></string>
@@ -220,7 +225,10 @@
     <string name="ppt_video_extracting_video_file">Extracting the video file…</string>
     <string name="ppt_video_install_videoplayer_tip">Install a video player</string>
     <string name="ppt_volume_is_too_low_tip">Put on your headphones or turn up the volume</string>
+    <string name="privacy_mobile">https://www.wps.com/privacy/mobile/</string>
+    <string name="privacy_protecte">https://www.wps.com/privacy/privacyprotect/</string>
     <string name="projection_fail">"Couldn't cast. Check your external monitor and try again."</string>
+    <string name="public_ack">知道了</string>
     <string name="public_amazon_autosave_finished">The document has been auto saved</string>
     <string name="public_app_language">2052</string>
     <string name="public_bad_doc_to_process">"Invalid document, can't complete operation"</string>
@@ -294,6 +302,7 @@
     <string name="public_lite_update_right_now">Update now</string>
     <string name="public_lite_use_right_now">Use now</string>
     <string name="public_loadDocumentError">"File doesn't exist or can't be opened"</string>
+    <string name="public_loadDocumentFileUnsupportedEncryptionError">文件含有不支持的加密方式，无法打开。</string>
     <string name="public_loadDocumentFormatError">"File format error, can't open the file."</string>
     <string name="public_loadDocumentLackOfStorageError">"Not enough storage, can't open the file."</string>
     <string name="public_loadDocumentOutOfMemoryError">"Not enough storage, can't open the file."</string>
@@ -310,6 +319,9 @@
     <string name="public_no_format">No format</string>
     <string name="public_not_support_in_multiwindow">"This feature isn't supported when you use Split screen"</string>
     <string name="public_ok">OK</string>
+    <string name="public_onlineSecurityDialogConfirm">使用WPS打开</string>
+    <string name="public_onlineSecurityDialogMsg">此文件是WPS生成的安全文件，仅可用支持安全文档的WPS客户端打开，请使用WPS客户端访问</string>
+    <string name="public_onlineSecurityDialogTitle">无法打开文件</string>
     <string name="public_online_security_no_network">使用WPS在线安全文档格式，请先连接网络。</string>
     <string name="public_online_security_permission_denied">该文档使用WPS在线安全格式加密保存。由于您的账户权限不足，无法进行本次操作。</string>
     <string name="public_online_security_permission_denied_need_login">该文档使用WPS在线安全格式加密保存。请使用已授予权限的WPS账号登录后再打开。</string>
@@ -427,13 +439,15 @@
     <string name="reader_writer_table_edit_add_column">add column</string>
     <string name="reader_writer_table_edit_add_row">add row</string>
     <string name="search_menu_title">Search</string>
+    <string name="secret_internation_policy_url">https://www.wps.com/privacy-policy/</string>
+    <string name="secret_internation_service_url">https://www.wps.com/eula</string>
     <string name="ss_card_mode_filter_title_text">Select items to display</string>
     <string name="ss_card_view_mode">卡片视图</string>
     <string name="ss_grid_view_mode">表格视图</string>
     <string name="ss_toolbar_sheets_unhided">全部工作表</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="wps_lite_app_svn">svn</string>
-    <string name="wps_lite_app_version">3.1.1</string>
+    <string name="wps_lite_app_version">3.3.0</string>
     <string name="wps_lite_xiaomi_app_packageName">Mi Doc Viewer (Powered by WPS)</string>
     <string name="writer_characters">Characters (no spaces)</string>
     <string name="writer_characters_with_spaces">Characters (with spaces)</string>
