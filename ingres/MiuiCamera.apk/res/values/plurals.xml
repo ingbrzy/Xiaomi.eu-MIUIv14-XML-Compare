@@ -57,6 +57,10 @@
         <item quantity="other">&lt;Data>This device is too hot now.&lt;br>The app will be closed in &lt;font color=#FFCE16>&lt;b>%1$d secs&lt;/b>&lt;/font>. Current progress was saved automatically.&lt;/Data></item>
         <item quantity="one">&lt;Data>This device is too hot now.&lt;br>The app will be closed in &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. Current progress was saved automatically.&lt;/Data></item>
     </plurals>
+    <plurals name="exit_version_hint">
+        <item quantity="other">&lt;Data>"The Camera version you're using isn't compatible with your device model.&lt;br>The app will close in &lt;font color=#FFCE16>&lt;b>%1$d secs&lt;/b>&lt;/font>. Uninstall Camera updates and try again."&lt;/Data></item>
+        <item quantity="one">&lt;Data>"The Camera version you're using isn't compatible with your device model.&lt;br>The app will close in &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. Uninstall Camera updates and try again."&lt;/Data></item>
+    </plurals>
     <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$d mins</item>
         <item quantity="one">%1$d min</item>
