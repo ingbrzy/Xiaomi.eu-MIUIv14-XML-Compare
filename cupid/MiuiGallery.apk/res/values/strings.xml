@@ -1133,6 +1133,7 @@ Connect charger and turn off screen to make memories appear."</string>
     <string name="creativity_title">Creativity</string>
     <string name="crop_label">Cropped photos</string>
     <string name="cta_agreement_declare"><Data>To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a> before using this app.</Data></string>
+    <string name="cta_hybrid_feedback_network_declare">To view solutions to the most common problems, allow this app to connect to the network first.</string>
     <string name="cta_network_declare">To sync photos and videos with Xiaomi Cloud, this app needs to connect to the internet.</string>
     <string name="cta_screenthrow_declare">"To be able to cast this device's screen to external monitors, this app needs to connect to the internet."</string>
     <string name="custom_select_title_deselect_all">Deselect</string>
@@ -2787,6 +2788,7 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="picker_title_specify_format">Select %d photos</string>
     <string name="picker_title_specify_format_one">Select %d photo</string>
     <string name="picker_title_unlimit">Select photos</string>
+    <string name="picture_not_support_privacy_watermark">"Can't add watermarks. This image is too small."</string>
     <string name="places_album_empty_title">Photos can be sorted by location</string>
     <string name="play_gif_desc">Play GIF</string>
     <string name="play_video_desc">Play video</string>
@@ -3070,6 +3072,7 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="search_clear_histories">Clear search history</string>
     <string name="search_connection_error">"Couldn't connect to the network"</string>
     <string name="search_connection_error_and_set">Tap to check network settings</string>
+    <string name="search_domestic_edit_hint">Search photos and videos</string>
     <string name="search_edit_hint">Search for files or albums</string>
     <string name="search_empty_title">Find photos with specific people, places, and objects in your Gallery</string>
     <string name="search_error">An error occurred</string>
@@ -3747,6 +3750,7 @@ Until %1$s, you can move your items to Google Photos or visit i.mi.com to downlo
     <string name="title_dynamicfeature_story_7350">Feature_story_7350</string>
     <string name="title_dynamicfeature_story_8450">Feature_story_8450</string>
     <string name="title_dynamicfeature_story_8550">Feature_story_8550</string>
+    <string name="title_dynamicfeature_story_8650">Feature_story_8650</string>
     <string name="title_dynamicfeature_story_basefeature">Feature_story_basefeature</string>
     <string name="title_dynamicfeature_story_default">Feature_story_default</string>
     <string name="title_dynamicfeature_story_mtk">Feature_story_mtk</string>
