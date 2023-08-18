@@ -586,6 +586,8 @@ You can also track express delivery on the official websites of courier services
     <string name="pa_font_mi_sans_regular">sans-serif-regular</string>
     <string name="pa_font_mi_type_semi_bold">mitype-semibold</string>
     <string name="pa_get_installed_app_permission_description">For installing apps and adding widgets</string>
+    <string name="pa_global_search_description">Search</string>
+    <string name="pa_global_search_hint">Search…</string>
     <string name="pa_guide_dialog_desc">Press and hold a widget to rearrange. Tap the plus to add more widgets.</string>
     <string name="pa_guide_dialog_sure">Got it</string>
     <string name="pa_guide_dialog_title">Check out our widget store</string>
