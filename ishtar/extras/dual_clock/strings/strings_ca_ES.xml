@@ -3,7 +3,7 @@
     <string name="date_time">EEE, dd MMMM</string>
     <string name="date_time_12">EEE, dd MMMM</string>
     <string name="location">Local</string>
-    <string name="resident_city">Ciutat per defecte</string>
+    <string name="resident_city">Segon rellotge</string>
     <string name="clock_local">Local</string>
     <string name="clock_city">City</string>
 </resources>

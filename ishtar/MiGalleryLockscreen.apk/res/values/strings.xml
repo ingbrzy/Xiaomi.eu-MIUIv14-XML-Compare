@@ -41,11 +41,12 @@
     <string name="ad_btn_installing">Installing</string>
     <string name="ad_btn_open">Open</string>
     <string name="ad_btn_pending">Pending</string>
-    <string name="ad_delimiter_4">%1$s | %2$s | %3$s | %4$s</string>
     <string name="ad_delimiter_5">%1$s | %2$s | %3$s | %4$s | %5$s</string>
     <string name="ad_delimiter_6">%1$s | %2$s | %3$s | %4$s | %5$s | %6$s</string>
+    <string name="ad_delimiter_7">%1$s | %2$s | %3$s | %4$s | %5$s | %6$s | %7$s</string>
     <string name="ad_download_now">Download</string>
     <string name="ad_feed_badge">AD</string>
+    <string name="ad_introduction">介绍</string>
     <string name="ad_permission">权限</string>
     <string name="ad_pop_btn_hidden">Hide</string>
     <string name="ad_pop_des">Downloading app:</string>
