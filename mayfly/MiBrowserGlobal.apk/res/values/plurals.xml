@@ -54,6 +54,18 @@
         <item quantity="other">Playing next video in %d seconds</item>
         <item quantity="one">Playing next video in %d second</item>
     </plurals>
+    <plurals name="back_dialog_antivirus_content_des">
+        <item quantity="other">"You haven't scanned your device in %d days. Scan now?"</item>
+        <item quantity="one">"You haven't scanned your device in %d day. Scan now?"</item>
+    </plurals>
+    <plurals name="back_dialog_day">
+        <item quantity="other">days</item>
+        <item quantity="one">day</item>
+    </plurals>
+    <plurals name="back_dialog_health_check_content_des">
+        <item quantity="other">"You haven't optimized your device in %d days. Optimize now?"</item>
+        <item quantity="one">"You haven't optimized your device in %d day. Optimize now?"</item>
+    </plurals>
     <plurals name="count_likes">
         <item quantity="other">%s likes</item>
         <item quantity="one">%s like</item>
