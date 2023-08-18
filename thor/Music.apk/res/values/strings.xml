@@ -275,8 +275,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">6f719a83d6964adeb094671d0b8bc374</string>
-    <string name="com.miapm.build_id">dadd0895d349433ba037d8f566bf356c</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">ba4357bf37fe4a43b1fb907f8e81a74b</string>
+    <string name="com.miapm.build_id">bf240cb273b24370b41c60afa950e5bb</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">Enable</string>
     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
@@ -1928,4 +1928,6 @@ Delta update size: %2$s"</string>
     <string name="youtube_share_guide_tip">You can now share videos with friends</string>
     <string name="youtube_tab_explore">Discover</string>
     <string name="youtube_tab_playlist">Playlists</string>
+    <string name="youtube_tab_radar">Radar</string>
+    <string name="youtube_tab_trend">Trending</string>
 </resources>
