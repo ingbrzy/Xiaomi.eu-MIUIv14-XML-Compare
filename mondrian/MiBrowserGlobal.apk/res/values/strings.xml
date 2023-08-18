@@ -214,6 +214,13 @@
     <string name="autologin_bar_text">Sign in as</string>
     <string name="back">返回</string>
     <string name="back_description">Back</string>
+    <string name="back_dialog_antivirus_primary_btn">Scan</string>
+    <string name="back_dialog_health_check_primary_btn">Optimize</string>
+    <string name="back_dialog_storage_content">"%1$s of your device's storage is occupied. Clear now?"</string>
+    <string name="back_dialog_storage_primary_btn">Clear</string>
+    <string name="back_dialog_title_antivirus">Security scan</string>
+    <string name="back_dialog_title_health_check">Optimize device</string>
+    <string name="back_dialog_title_storage">Manage storage</string>
     <string name="back_home">Release for Homepage</string>
     <string name="batch_download">Download</string>
     <string name="batch_download_tip">Looks like multiple items are being downloaded at the same time. Block these downloads?</string>
@@ -264,6 +271,7 @@ Toggle off to stop syncing."</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
     <string name="branch_app_suggestion">Recommended</string>
+    <string name="branch_app_title">Search apps</string>
     <string name="branch_apps">Apps</string>
     <string name="branch_contacts">Contacts</string>
     <string name="branch_give_relevant_permissions">Grant Mi Browser the relevant permissions in Settings</string>
@@ -461,8 +469,8 @@ Toggle off to stop syncing."</string>
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">96a1628b973d492aa0f19b1c20321b66</string>
-    <string name="com.miapm.build_id">426f893fcfdc4924a785e856acb04b91</string>
+    <string name="com.crashlytics.android.build_id">44c1f25b311840baa24a4c64f911038c</string>
+    <string name="com.miapm.build_id">98c4b8307d2441d7bd0b4ef88de8ed4f</string>
     <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
     <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
@@ -561,6 +569,7 @@ Toggle off to stop syncing."</string>
     <string name="continue_reading">Continue reading</string>
     <string name="continue_watch_video">Continue watching</string>
     <string name="copy">Copy</string>
+    <string name="copy_success">Copied successfully</string>
     <string name="copy_toast_msg">Link copied to clipboard</string>
     <string name="copy_url">Copy URL</string>
     <string name="core_functions_of_browser">Core features at your fingertips</string>
@@ -622,9 +631,20 @@ Pages you view won't appear in history."</string>
     <string name="diagnosis_log_sent_format">"Sent logs successfully.
 ID:%s
 Send this code to the supervisor."</string>
+    <string name="dialog_ad_callback_cancel">Cancel</string>
+    <string name="dialog_ad_callback_fraud_info">Fraud or scam</string>
+    <string name="dialog_ad_callback_inappropriate_picture">Inappropriate images</string>
+    <string name="dialog_ad_callback_others">Other</string>
+    <string name="dialog_ad_callback_title">Report an issue</string>
     <string name="dialog_channel_cancel">Cancel</string>
     <string name="dialog_channel_confirm">OK</string>
     <string name="dialog_channel_remove_content">Removing all channels will also remove Content feed.</string>
+    <string name="dialog_dislike_reason_cancel">Cancel</string>
+    <string name="dialog_dislike_reason_not_interested">"I'm not interested"</string>
+    <string name="dialog_dislike_reason_others">Other reason</string>
+    <string name="dialog_dislike_reason_poor_quality">Poor quality</string>
+    <string name="dialog_dislike_reason_repetitive">Repetitive</string>
+    <string name="dialog_dislike_title">"Why don't you like this ad?"</string>
     <string name="dialog_game_close">Cancel</string>
     <string name="dialog_game_play">Play</string>
     <string name="display__quick_entry_of_search">Show feature shortcuts in the Notification shade</string>
@@ -2229,6 +2249,7 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="readmodelist_bookmarks_to_show">Reading list</string>
     <string name="reboot">Reboot</string>
     <string name="recent_apk_status_install">INSTALLED</string>
+    <string name="recent_search_hint_text">%s</string>
     <string name="recommend">Recommended</string>
     <string name="recommend_button">Follow (%s)</string>
     <string name="recommend_description">"We've picked some creators you might like to follow."</string>
@@ -2372,6 +2393,8 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="search_file_type_picture">Photo</string>
     <string name="search_file_type_video">Video</string>
     <string name="search_for_anything">Search for anything</string>
+    <string name="search_for_anything_test_1">Search the internet or your device</string>
+    <string name="search_for_anything_test_2">Search for apps and more</string>
     <string name="search_google">Google</string>
     <string name="search_hint">Search</string>
     <string name="search_label">Browser</string>
