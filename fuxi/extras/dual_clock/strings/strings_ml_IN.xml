@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="date_time">EEEE, dd MMMM</string>
-    <string name="date_time_12">EEEE, dd MMMM</string>
-    <string name="location">പ്രാദേശികം</string>
-    <string name="resident_city">ഡിഫോൾട്ട് നഗരം</string>
+    <string name="date_time">EEE dd/MM</string>
+    <string name="date_time_12">EEE dd/MM</string>
+    <string name="location">നിലവിലുള്ളത്</string>
+    <string name="resident_city">തിരഞ്ഞെടുത്തു</string>
+    <string name="talkback_TimeDesc">DQWZ-ലെ സമയം</string>
+    <string name="talkback_date_time">EEEE, dd MMMM</string>
+    <string name="talkback_date_time_12">EEEE, dd MMMM</string>
+    <string name="talkback_location">നിലവിലെ ലൊക്കേഷനിലെ സമയം</string>
+    <string name="talkback_resident_city">തിരഞ്ഞെടുത്ത ലൊക്കേഷനിലെ സമയം</string>
     <string name="clock_local">Local</string>
     <string name="clock_city">City</string>
 </resources>

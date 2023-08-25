@@ -2,8 +2,13 @@
 <resources>
     <string name="date_time">EEEE, d MMMM</string>
     <string name="date_time_12">EEEE, d MMMM</string>
-    <string name="location">Lokaal</string>
-    <string name="resident_city">Standaard stad</string>
+    <string name="location">Huidig</string>
+    <string name="resident_city">Geselecteerd</string>
+    <string name="talkback_TimeDesc">Tijd in DQWZ</string>
+    <string name="talkback_date_time">EEEE dd MMMM</string>
+    <string name="talkback_date_time_12">EEEE dd MMMM</string>
+    <string name="talkback_location">Tijd op de huidige locatie</string>
+    <string name="talkback_resident_city">Tijd op geselecteerde locatie</string>
     <string name="clock_local">Local</string>
     <string name="clock_city">City</string>
 </resources>

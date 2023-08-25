@@ -2,8 +2,13 @@
 <resources>
     <string name="date_time">EEE, dd MMMM</string>
     <string name="date_time_12">EEE, dd MMMM</string>
-    <string name="location">Lokalny</string>
-    <string name="resident_city">Domyślne miasto</string>
+    <string name="location">Aktualna</string>
+    <string name="resident_city">Wybrana</string>
+    <string name="talkback_TimeDesc">Czas w DQWZ</string>
+    <string name="talkback_date_time">EEEE, d MMMM</string>
+    <string name="talkback_date_time_12">EEEE, d MMMM</string>
+    <string name="talkback_location">Czas w aktualnej lokalizacji</string>
+    <string name="talkback_resident_city">Czas w wybranej lokalizacji</string>
     <string name="clock_local">Lokalnie</string>
     <string name="clock_city">Miasto</string>
 </resources>
