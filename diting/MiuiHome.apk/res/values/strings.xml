@@ -288,7 +288,7 @@
     <string name="cloud_app_restore_title">Pending</string>
     <string name="color_group">Group icons by color</string>
     <string name="color_group_anim">Animations in color categories</string>
-    <string name="com.crashlytics.android.build_id">d79dc9bcd55a45db966750ff1baccb58</string>
+    <string name="com.crashlytics.android.build_id">717e4f5a0bd240f6961197861d1ebc79</string>
     <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
     <string name="common_home_search_delete">Removing search bar</string>
     <string name="common_home_search_delete_cancle">Cancel</string>
@@ -961,6 +961,7 @@ Enhanced security."</string>
     <string name="switch_personal_assistant_app_vault">App vault</string>
     <string name="switch_personal_assistant_google">Google Discover</string>
     <string name="switch_personal_assistant_none">None</string>
+    <string name="switch_personal_assistant_summary">Swipe right on the Home screen to open Google Discover</string>
     <string name="switch_screen_button_order">Mirror buttons</string>
     <string name="switch_screen_button_order_desc">Mirror Back and Menu buttons</string>
     <string name="system_shortcuts_edit">Edit</string>
@@ -1021,7 +1022,7 @@ Enhanced security."</string>
     <string name="title_jeejen">Jeejen Home screen</string>
     <string name="toast_drag_to_assistant_reject">Initializing App vault…</string>
     <string name="toast_screen_icons_misplaced">Restored from other source, some icons may be misplaced.</string>
-    <string name="toast_split_app_unsupported">App does not support split-screen.</string>
+    <string name="toast_split_app_unsupported">App does not support split-screen</string>
     <string name="toast_split_select_app">Tap another app to use splitscreen</string>
     <string name="today">Today</string>
     <string name="toggle_title">Toggles</string>
@@ -1043,7 +1044,7 @@ Enhanced security."</string>
     <string name="uninstall_xspace_dialog_message">Uninstalling dual app will remove all app data.</string>
     <string name="uninstall_xspace_dialog_title_format">Uninstall dual \"%s\"?</string>
     <string name="unnamed_folder_name">Folder</string>
-    <string name="unstable_dialog_message">This device is enrolled in the Android 13 Developer Preview Program. The program allows Android developers and enthusiasts to try out pre-release versions of Android 13.This pre-release version may contain errors and defects that can affect normal functioning of your device.</string>
+    <string name="unstable_dialog_message">This device is enrolled in the Android 14 Developer Preview Program. The program allows Android developers and enthusiasts to try out pre-release versions of Android 14.This pre-release version may contain errors and defects that can affect normal functioning of your device.</string>
     <string name="unstable_dialog_title">Android Developer Preview Program</string>
     <string name="upgrade_remove_small_window_in_recents">You can use sidebar to open apps in floating windows</string>
     <string name="v7_preference_off">OFF</string>
