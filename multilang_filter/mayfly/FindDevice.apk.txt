@@ -1,7 +1,4 @@
 Removed: [de] plurals.xml: plurals/abbrev_a_hour_ago (format mismatch)
 Removed: [de] plurals.xml: plurals/abbrev_in_a_hour (format mismatch)
-Removed: [pl] strings.xml: string/custom_define_permission_desc_android.permission.READ_PHONE_STATE (duplicate)
-Removed: [pl] strings.xml: string/custom_define_permission_desc_android.permission.SEND_SMS (duplicate)
-Removed: [pl] strings.xml: string/custom_define_permission_desc_android.permission_group.LOCATION (duplicate)
 Removed: [ru] plurals.xml: plurals/abbrev_a_hour_ago (format mismatch)
 Removed: [ru] plurals.xml: plurals/abbrev_in_a_hour (format mismatch)
