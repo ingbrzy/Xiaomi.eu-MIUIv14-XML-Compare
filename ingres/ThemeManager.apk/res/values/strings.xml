@@ -1408,6 +1408,7 @@ You can grant this permission in Settings > Privacy."</string>
     <string name="selected_resource_file_invalid">"Can't use selected resource file"</string>
     <string name="send">Send</string>
     <string name="server_internal_error">A server error occurred. Wait a minute or two and try again.</string>
+    <string name="server_message">Customer service hotline: 400–100–5678</string>
     <string name="set_as_colorring">Set as custom ringing tone</string>
     <string name="set_calling">Set</string>
     <string name="set_color_ring_back_tone">Set a custom ringback tone</string>
