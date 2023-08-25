@@ -40,6 +40,7 @@
     <string name="auto_disable_screenbuttons_ask">Ask to disable</string>
     <string name="auto_disable_screenbuttons_auto">Always disable</string>
     <string name="auto_disable_screenbuttons_cancel">Cancel</string>
+    <string name="auto_disable_screenbuttons_dialog_title">Disable screen buttons for %s?</string>
     <string name="auto_disable_screenbuttons_no">Never disable</string>
     <string name="auto_disable_screenbuttons_rotation_summary">When your device is in landscape mode, the navigation buttons will be blocked</string>
     <string name="auto_disable_screenbuttons_rotation_title">Block navigation buttons in landscape</string>
