@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="alphabet_table">
         <item>A</item>
         <item>B</item>
@@ -63,23 +89,6 @@
         <item>@string/am</item>
         <item>@string/pm</item>
     </string-array>
-    <string-array name="animation_rate_entries">
-        <item>Relaxed</item>
-        <item>Balanced</item>
-        <item>Fast</item>
-    </string-array>
-    <string-array name="animation_rate_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <array name="app_locating_animation_scaler">
-        <item>1.0</item>
-        <item>1.4</item>
-        <item>0.9</item>
-        <item>1.1</item>
-        <item>1.0</item>
-    </array>
     <string-array name="chinese_days">
         <item>@string/chinese_day_1</item>
         <item>@string/chinese_day_2</item>
@@ -166,13 +175,6 @@
         <item>@string/evening</item>
         <item>@string/night</item>
     </string-array>
-    <string-array name="drawer_alpha">
-        <item>0%</item>
-        <item>25%</item>
-        <item>50%</item>
-        <item>75%</item>
-        <item>100%</item>
-    </string-array>
     <string-array name="earthly_branches">
         <item>@string/earthly_branches_zi</item>
         <item>@string/earthly_branches_chou</item>
@@ -187,66 +189,9 @@
         <item>@string/earthly_branches_xu</item>
         <item>@string/earthly_branches_hai</item>
     </string-array>
-    <string-array name="editing_mode_entries">
-        <item>Wallpaper</item>
-        <item>Widgets</item>
-        <item>Settings</item>
-    </string-array>
-    <string-array name="editing_mode_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="elderly_man_like_apps">
-        <item>com.tencent.mm</item>
-        <item>com.eg.android.AlipayGphone</item>
-        <item>com.ss.android.ugc.aweme</item>
-        <item>com.xunmeng.pinduoduo</item>
-        <item>com.taobao.taobao</item>
-        <item>com.smile.gifmaker</item>
-        <item>com.ss.android.article.news</item>
-        <item>com.baidu.searchbox</item>
-        <item>com.tencent.mobileqq</item>
-        <item>com.baidu.haokan</item>
-        <item>com.autonavi.minimap</item>
-    </string-array>
     <string-array name="eras">
         <item>@string/eras_bc</item>
         <item>@string/eras_ad</item>
-    </string-array>
-    <string-array name="global_elderly_man_like_apps">
-        <item>com.whatsapp</item>
-        <item>com.google.android.youtube</item>
-        <item>com.facebook.katana</item>
-        <item>com.instagram.android</item>
-        <item>com.facebook.orca</item>
-        <item>com.zhiliaoapp.musically</item>
-        <item>com.facebook.lite</item>
-        <item>com.mxtech.videoplayer.ad</item>
-        <item>com.viber.voip</item>
-        <item>com.nemo.vidmate</item>
-        <item>org.telegram.messenger</item>
-        <item>com.UCMobile.intl</item>
-        <item>app.buzz.share</item>
-        <item>com.lenovo.anyshare.gps</item>
-        <item>video.like</item>
-        <item>com.imo.android.imoim</item>
-        <item>com.vkontakte.android</item>
-        <item>com.snapchat.android</item>
-        <item>in.startv.hotstar</item>
-        <item>com.phonepe.app</item>
-        <item>com.tencent.ig</item>
-        <item>com.dts.freefireth</item>
-        <item>com.twitter.android</item>
-        <item>com.king.candycrushsaga</item>
-        <item>com.flipkart.android</item>
-        <item>com.spotify.music</item>
-        <item>com.jio.myjio</item>
-        <item>ru.sberbankmobile</item>
-        <item>ru.ok.android</item>
-        <item>net.one97.paytm</item>
-        <item>in.amazon.mShop.android.shopping</item>
-        <item>jp.naver.line.android</item>
     </string-array>
     <string-array name="heavenly_stems">
         <item>@string/heavenly_stems_jia</item>
@@ -259,29 +204,6 @@
         <item>@string/heavenly_stems_xin</item>
         <item>@string/heavenly_stems_ren</item>
         <item>@string/heavenly_stems_gui</item>
-    </string-array>
-    <string-array name="icon_size">
-        <item>XS</item>
-        <item>S</item>
-        <item>M</item>
-        <item>L</item>
-        <item>XL</item>
-    </string-array>
-    <string-array name="miui_home_branch_region">
-        <item>IN</item>
-    </string-array>
-    <string-array name="miui_lite_fancy_icon_app">
-        <item>com.android.calendar</item>
-        <item>com.miui.weather2</item>
-        <item>com.android.deskclock</item>
-        <item>com.xiaomi.calendar</item>
-    </string-array>
-    <string-array name="monochrome_color_entries">
-        <item>Default</item>
-        <item>Blue</item>
-        <item>Green</item>
-        <item>Purple</item>
-        <item>Brown</item>
     </string-array>
     <string-array name="months">
         <item>@string/month_january</item>
@@ -325,41 +247,6 @@
         <item>@string/month_november_shortest</item>
         <item>@string/month_december_shortest</item>
     </string-array>
-    <string-array name="not_show_uninstall_icon_array">
-        <item>com.mi.globalbrowser</item>
-    </string-array>
-    <string-array name="poco_branch_region">
-        <item>IN</item>
-        <item>TH</item>
-        <item>PH</item>
-        <item>MY</item>
-        <item>VN</item>
-        <item>ID</item>
-        <item>BR</item>
-        <item>MX</item>
-        <item>CO</item>
-        <item>EG</item>
-    </string-array>
-    <string-array name="recents_thumbnail_blur_white_pkgs">
-        <item>com.android.camera</item>
-        <item>com.mt.mtxx.mtxx</item>
-        <item>com.gorgeous.lite</item>
-        <item>com.lemon.faceu</item>
-        <item>com.campmobile.snowcamera</item>
-        <item>com.meitu.meiyancamera</item>
-        <item>com.benqu.wuta</item>
-        <item>vStudio.Android.Camera360</item>
-        <item>com.chinamworld.bocmbci</item>
-        <item>cmb.pb</item>
-        <item>com.chinamworld.main</item>
-        <item>com.icbc</item>
-        <item>com.android.bankabc</item>
-        <item>com.bankcomm.Bankcomm</item>
-        <item>com.ecitic.bank.mobile</item>
-        <item>cn.com.cmbc.newmbank</item>
-        <item>com.cebbank.mobile.cemb</item>
-        <item>cn.com.spdb.mobilebank.per</item>
-    </string-array>
     <string-array name="solar_terms">
         <item>@string/empty</item>
         <item>@string/solar_term_slight_cold</item>
@@ -387,32 +274,6 @@
         <item>@string/solar_term_heavy_snow</item>
         <item>@string/solar_term_winter_solstice</item>
     </string-array>
-    <string-array name="transformation_entries">
-        <item>Slide</item>
-        <item>Crossfade</item>
-        <item>Tumble</item>
-        <item>Page</item>
-        <item>Cascade</item>
-        <item>Rotate</item>
-        <item>Cube</item>
-    </string-array>
-    <string-array name="transformation_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>5</item>
-        <item>7</item>
-        <item>8</item>
-        <item>4</item>
-    </string-array>
-    <string-array name="wallpaper_provider_blacklist">
-        <item>content://com.android.thememanager.theme_lockwallpaper</item>
-        <item>content://com.android.thememanager.theme_lock_live_wallpaper</item>
-        <item>content://com.android.thememanager.theme_lock_video_wallpaper</item>
-        <item>content://com.android.thememanager.set_lockwallpaper</item>
-        <item>content://com.android.thememanager.loopwallpaper</item>
-        <item>content://com.miui.home.none_provider</item>
-    </string-array>
     <string-array name="week_days">
         <item>@string/sunday</item>
         <item>@string/monday</item>
@@ -439,82 +300,5 @@
         <item>@string/thursday_shortest</item>
         <item>@string/friday_shortest</item>
         <item>@string/saturday_shortest</item>
-    </string-array>
-    <string-array name="widget_component_add_source">
-        <item>桌面picker</item>
-        <item>应用端内</item>
-        <item>应用shortcut</item>
-        <item>主题专题页</item>
-        <item>经典组件</item>
-        <item>负一屏picker</item>
-        <item>负一屏推荐卡片推荐位</item>
-        <item>负一屏推荐卡片兜底图</item>
-        <item>人工PUSH</item>
-        <item>桌面shortcut更换按钮</item>
-    </string-array>
-    <string-array name="widget_component_add_way">
-        <item>从picker详情页拖拽</item>
-        <item>picker详情页添加按钮</item>
-        <item>从picker首页拖拽</item>
-        <item>从瀑布流页拖拽</item>
-        <item>从筛选器页面点更换</item>
-        <item>首页横滑卡片添加按钮</item>
-        <item>编辑页应用按钮</item>
-        <item>从筛选器页面拖拽</item>
-        <item>从分类页面横滑卡片拖拽</item>
-        <item>从搜索结果页拖拽</item>
-    </string-array>
-    <string-array name="widget_component_default_source">
-        <item>非默认</item>
-        <item>桌面</item>
-        <item>负一屏</item>
-    </string-array>
-    <string-array name="widget_component_delete_way">
-        <item>shortcut删除</item>
-        <item>顶部删除</item>
-        <item>APP卸载</item>
-        <item>shortcut更换</item>
-        <item>PUSH下线</item>
-        <item>鉴权失败</item>
-        <item>其他</item>
-    </string-array>
-    <string-array name="widget_component_source">
-        <item>默认布局</item>
-        <item>主动添加</item>
-        <item>运营强插</item>
-    </string-array>
-    <string-array name="widget_drag_type_name">
-        <item>桌面内</item>
-        <item>负一屏内</item>
-        <item>桌面到负一屏</item>
-        <item>负一屏到桌面</item>
-    </string-array>
-    <string-array name="widget_host_module_name">
-        <item>桌面</item>
-        <item>负一屏_组件区</item>
-        <item>负一屏_实时动态</item>
-    </string-array>
-    <string-array name="widget_package_install_status">
-        <item>未安装</item>
-        <item>已安装</item>
-        <item>可升级</item>
-    </string-array>
-    <string-array name="widget_sizes">
-        <item>home_edit_box_area_1_1</item>
-        <item>home_edit_box_area_1_2</item>
-        <item>home_edit_box_area_1_3</item>
-        <item>home_edit_box_area_1_4</item>
-        <item>home_edit_box_area_2_1</item>
-        <item>home_edit_box_area_2_2</item>
-        <item>home_edit_box_area_2_3</item>
-        <item>home_edit_box_area_2_4</item>
-        <item>home_edit_box_area_3_1</item>
-        <item>home_edit_box_area_3_2</item>
-        <item>home_edit_box_area_3_3</item>
-        <item>home_edit_box_area_3_4</item>
-        <item>home_edit_box_area_4_1</item>
-        <item>home_edit_box_area_4_2</item>
-        <item>home_edit_box_area_4_3</item>
-        <item>home_edit_box_area_4_4</item>
     </string-array>
 </resources>
