@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="date_time">EEEE, dd MMMM</string>
-    <string name="date_time_12">EEEE, dd MMMM</string>
-    <string name="location">Local</string>
-    <string name="resident_city">Default city</string>
+    <string name="date_time">EEE dd/MM</string>
+    <string name="date_time_12">EEE dd/MM</string>
+    <string name="location">Current</string>
+    <string name="resident_city">Selected</string>
+    <string name="talkback_TimeDesc">Time in DQWZ</string>
+    <string name="talkback_date_time">EEEE, dd MMMM</string>
+    <string name="talkback_date_time_12">EEEE, dd MMMM</string>
+    <string name="talkback_location">Time in current location</string>
+    <string name="talkback_resident_city">Time in selected location</string>
     <string name="clock_local">Local</string>
     <string name="clock_city">City</string>
 </resources>

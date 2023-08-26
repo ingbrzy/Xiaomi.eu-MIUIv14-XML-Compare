@@ -4,6 +4,11 @@
     <string name="date_time_12">dd.MM. EEEE</string>
     <string name="location">Lokalno</string>
     <string name="resident_city">Privzeto mesto</string>
+    <string name="talkback_TimeDesc">Čas v mestu DQWZ</string>
+    <string name="talkback_date_time">EEEE, d. MMMM</string>
+    <string name="talkback_date_time_12">EEEE, d. MMMM</string>
+    <string name="talkback_location">Čas na trenutni lokaciji</string>
+    <string name="talkback_resident_city">Čas na izbrani lokaciji</string>
     <string name="clock_local">Lokalno</string>
     <string name="clock_city">Mesto</string>
 </resources>
