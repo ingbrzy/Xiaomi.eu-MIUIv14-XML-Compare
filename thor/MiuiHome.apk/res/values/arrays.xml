@@ -267,6 +267,9 @@
         <item>L</item>
         <item>XL</item>
     </string-array>
+    <string-array name="miui_home_branch_region">
+        <item>IN</item>
+    </string-array>
     <string-array name="miui_lite_fancy_icon_app">
         <item>com.android.calendar</item>
         <item>com.miui.weather2</item>
@@ -324,6 +327,18 @@
     </string-array>
     <string-array name="not_show_uninstall_icon_array">
         <item>com.mi.globalbrowser</item>
+    </string-array>
+    <string-array name="poco_branch_region">
+        <item>IN</item>
+        <item>TH</item>
+        <item>PH</item>
+        <item>MY</item>
+        <item>VN</item>
+        <item>ID</item>
+        <item>BR</item>
+        <item>MX</item>
+        <item>CO</item>
+        <item>EG</item>
     </string-array>
     <string-array name="recents_thumbnail_blur_white_pkgs">
         <item>com.android.camera</item>
