@@ -32,6 +32,7 @@
     <string name="add_clock">Add clock</string>
     <string name="add_timer">Frequent timer</string>
     <string name="afternoon">Afternoon</string>
+    <string name="alarm_alert">Alarm is ringing</string>
     <string name="alarm_alert_close_entrance">Turn off</string>
     <string name="alarm_alert_now">%s alarm</string>
     <string name="alarm_alert_snooze_button">Snooze</string>
@@ -553,6 +554,7 @@ mm"</string>
     <string name="sleep_time">Fall asleep</string>
     <string name="sleep_wake_time">%1$s-%2$s</string>
     <string name="slider_text_new">Swipe up to stop</string>
+    <string name="snooze_alarm_alert">Snoozed until %s</string>
     <string name="snooze_duration">Snooze</string>
     <string name="snooze_duration_title">Snooze</string>
     <string name="snooze_duration_value">Interval (minutes)</string>
@@ -657,6 +659,8 @@ mm"</string>
     <string name="timer_alert_mute_off">Alarm will sound when timer stops</string>
     <string name="timer_alert_mute_on">"Alarm won't sound when timer stops"</string>
     <string name="timer_alert_mute_switch">Switch for muting timer alarms</string>
+    <string name="timer_alert_pause">Timer is paused</string>
+    <string name="timer_alert_running">Timer is running</string>
     <string name="timer_can_continue_in_timer">Open Timer to resume</string>
     <string name="timer_cancel_hint">Stop</string>
     <string name="timer_cancel_timer">Cancel timer</string>
