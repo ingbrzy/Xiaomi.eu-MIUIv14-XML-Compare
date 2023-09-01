@@ -1266,7 +1266,7 @@ If you're using a hotspot to connect, set its AP band to %s GHz in Settings > Co
     <string name="friend_mode_searching_tips_china">Connect two devices to the same Wi-Fi network or hotspot and open Assist cam to be able to take photos with one device from the other one.</string>
     <string name="friend_mode_select_device">Select assisting device</string>
     <string name="friend_mode_transfer_picture">Transferring photos…</string>
-    <string name="frind_sign_button_desc">退出帮拍功能</string>
+    <string name="frind_sign_button_accessibility">Turn off Assist cam</string>
     <string name="fromkeyguard_not_permission">To be able to use this feature, unlock your device first.</string>
     <string name="front_camera_hint_text_place">"Taking selfies will be easier
 if you rotate your phone"</string>
