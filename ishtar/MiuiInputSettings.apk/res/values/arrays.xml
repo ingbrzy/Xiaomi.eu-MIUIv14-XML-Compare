@@ -85,6 +85,11 @@
         <item>Z</item>
         <item>\#</item>
     </string-array>
+    <string-array name="altgr_keyboard_layout_list">
+        <item>keyboard_layout_spanish</item>
+        <item>keyboard_layout_french</item>
+        <item>keyboard_layout_german</item>
+    </string-array>
     <string-array name="am_pms">
         <item>@string/am</item>
         <item>@string/pm</item>
@@ -298,6 +303,9 @@
         <item>@string/solar_term_light_snow</item>
         <item>@string/solar_term_heavy_snow</item>
         <item>@string/solar_term_winter_solstice</item>
+    </string-array>
+    <string-array name="strg_keyboard_layout_list">
+        <item>keyboard_layout_german</item>
     </string-array>
     <string-array name="week_days">
         <item>@string/sunday</item>
