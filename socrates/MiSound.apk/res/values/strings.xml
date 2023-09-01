@@ -608,6 +608,7 @@
     <string name="sound_id_function_description">Personalize the EQ curve based on your preferences</string>
     <string name="sound_id_function_name">Personalized sound</string>
     <string name="sound_id_headset_status">Current earphones</string>
+    <string name="sound_id_hz"> %d Hz</string>
     <string name="sound_id_hz_high">Treble %d Hz</string>
     <string name="sound_id_hz_low">Bass %d Hz</string>
     <string name="sound_id_hz_media">Midrange %d Hz</string>
