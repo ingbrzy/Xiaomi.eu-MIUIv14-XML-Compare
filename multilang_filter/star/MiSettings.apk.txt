@@ -21,6 +21,7 @@ Removed: [ne-rNP] plurals.xml: plurals/usage_new_home_total_unlocks_new (format 
 Removed: [or-rIN] plurals.xml: plurals/usage_new_home_total_unlocks_new (format mismatch)
 Removed: [pa-rIN] plurals.xml: plurals/usage_new_home_total_unlocks_new (format mismatch)
 Removed: [ro] arrays.xml: array/exo_playback_speeds (item mismatch)
+Removed: [sw] plurals.xml: plurals/usage_new_home_avg_unlockc (format mismatch)
 Removed: [ta-rIN] plurals.xml: plurals/usage_new_home_total_unlocks_new (format mismatch)
 Removed: [te-rIN] plurals.xml: plurals/usage_new_home_total_unlocks_new (format mismatch)
 Removed: [ur-rIN] plurals.xml: plurals/usage_new_home_total_unlocks_new (format mismatch)
