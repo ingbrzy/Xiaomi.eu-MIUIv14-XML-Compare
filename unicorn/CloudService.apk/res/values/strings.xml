@@ -331,7 +331,6 @@
     <string name="heavenly_stems_xin">辛</string>
     <string name="heavenly_stems_yi">乙</string>
     <string name="help_and_feedback">Help and feedback</string>
-    <string name="hybrid_provider">Provided by %1$s</string>
     <string name="i_know">OK</string>
     <string name="input_password_hint">Enter password</string>
     <string name="keybag_create_by_new_passcode_prompt">"This passcode protects your passwords stored in the cloud. You won't be able to access them if you forget this passcode."</string>
@@ -690,7 +689,6 @@ Make sure you're using the associated Xiaomi Account as your MIUI system account
     <string name="more">More</string>
     <string name="morning">Morning</string>
     <string name="night">Evening</string>
-    <string name="no_network">"Can't connect to the network"</string>
     <string name="no_sim">"Couldn't find SIM card"</string>
     <string name="noon">Midday</string>
     <string name="not_set">Not set</string>
@@ -1069,9 +1067,11 @@ Location info might not be reported when network connection is poor."</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
     <string name="waiting_for_sync">Waiting…</string>
-    <string name="web_sso_login_fail">You need to sign in again</string>
-    <string name="web_sso_login_message">Signing in…</string>
-    <string name="webview_reload">Try again</string>
+    <string name="web_view_auto_login_fail">"Couldn't sign in. Try again."</string>
+    <string name="web_view_login_text">Signing in…</string>
+    <string name="web_view_reload_btn_text">Try again</string>
+    <string name="web_view_reload_description_text">"Couldn't connect to the network.
+Check your network settings and try again."</string>
     <string name="wednesday">Wednesday</string>
     <string name="wednesday_short">Wed</string>
     <string name="wednesday_shortest">Wed</string>
