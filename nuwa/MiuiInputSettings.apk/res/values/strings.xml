@@ -305,6 +305,7 @@ You can view generated logs in File Manager."</string>
     <string name="keyboard_function_summary_first_line">·Press and hold to display shortcuts.</string>
     <string name="keyboard_function_summary_second_line">·Touch the NFC area of the keyboard with a phone signed in to the same account to transfer the screen. Select a file or photo to easily transfer between devices.</string>
     <string name="keyboard_funtion_key">Function key</string>
+    <string name="keyboard_layout_arabic">Arabic</string>
     <string name="keyboard_layout_default_label">Default</string>
     <string name="keyboard_layout_dialog_setup_button">Set up keyboard layouts</string>
     <string name="keyboard_layout_dialog_switch_hint">To switch, press Ctrl+Space</string>
