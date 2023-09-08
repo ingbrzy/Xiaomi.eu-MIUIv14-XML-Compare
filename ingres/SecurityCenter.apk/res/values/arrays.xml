@@ -682,15 +682,15 @@
         <item>@string/solar_term_winter_solstice</item>
     </string-array>
     <string-array name="sort_title_new">
-        <item>Sort by app name</item>
-        <item>Sort by usage frequency</item>
-        <item>Sort by used storage</item>
-        <item>Sort by installation time</item>
+        <item>Sorting by app name</item>
+        <item>Sorting by most recently used</item>
+        <item>Sorting by storage used</item>
+        <item>Sorting by installation time</item>
     </string-array>
     <string-array name="sort_type_new">
         <item>App name</item>
-        <item>Usage frequency</item>
-        <item>Used storage</item>
+        <item>Used recently</item>
+        <item>Storage used</item>
         <item>Installation time</item>
     </string-array>
     <string-array name="st_antispam_callwait_setting">
