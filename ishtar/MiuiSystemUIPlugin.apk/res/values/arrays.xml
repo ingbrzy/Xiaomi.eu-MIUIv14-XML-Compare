@@ -166,6 +166,9 @@
         <item>@string/chinese_symbol_animals_dog</item>
         <item>@string/chinese_symbol_animals_pig</item>
     </string-array>
+    <string-array name="config_OpOngoingPackages">
+        <item>com.tencent.mm</item>
+    </string-array>
     <string-array name="config_controlsPreferredPackages">
         <item>com.xiaomi.smarthome</item>
         <item>com.google.android.apps.chromecast.app</item>
