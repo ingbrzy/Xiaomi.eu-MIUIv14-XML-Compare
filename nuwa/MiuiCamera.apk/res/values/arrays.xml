@@ -431,20 +431,20 @@
         <item>arm</item>
     </string-array>
     <string-array name="com.google.firebase.crashlytics.build_ids_build_id">
-        <item>66764270899f3b90283820c5b54f1a9f04eee353</item>
-        <item>ece72a2ebc3774a1be9fd21271258acd3bcdfaa7</item>
         <item>1d373aecb1c692c3929c9364174ec433c4732675</item>
-        <item>db380403602525608a5c46f047006f9e4b99f0a2</item>
-        <item>762708dbc6120b26bddc4ab5d3e081f6c9ae6e58</item>
+        <item>1376b8f3d617a881cc2ecf49d9ee3a252e3a21f0</item>
+        <item>ece72a2ebc3774a1be9fd21271258acd3bcdfaa7</item>
         <item>8032386920ac9c64974a38cc1f9ed78e274dfa99</item>
+        <item>0239eecdd09a0e3af1dc524a64309d7b0e34bdf5</item>
+        <item>762708dbc6120b26bddc4ab5d3e081f6c9ae6e58</item>
     </string-array>
     <string-array name="com.google.firebase.crashlytics.build_ids_lib">
-        <item>libcamera_mi_handgesture.so</item>
-        <item>libc++_shared.so</item>
         <item>libAIPOSE.so</item>
         <item>libcamera_mi_handgesture.so</item>
         <item>libc++_shared.so</item>
         <item>libAIPOSE.so</item>
+        <item>libcamera_mi_handgesture.so</item>
+        <item>libc++_shared.so</item>
     </string-array>
     <string-array name="detailed_am_pms">
         <item>@string/midnight</item>

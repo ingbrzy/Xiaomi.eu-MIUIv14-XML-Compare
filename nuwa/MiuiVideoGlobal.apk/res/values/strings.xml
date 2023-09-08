@@ -120,6 +120,9 @@
     <string name="auth_fail_warning">Session expired. Sign in again.</string>
     <string name="auto_play_next_off">Autoplay is off</string>
     <string name="auto_play_next_on">Autoplay is on</string>
+    <string name="back_recommend_exchange">View</string>
+    <string name="back_recommend_exit">Exit</string>
+    <string name="back_recommend_title">Check out more popular videos</string>
     <string name="back_to_mainpage">Discover</string>
     <string name="background_playback_enabled">Background playback is on</string>
     <string name="before_yestoday_new">%d days ago</string>
@@ -290,8 +293,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">0316dc15239e4589934b120ab2f05a88</string>
-    <string name="com.miapm.build_id">3795f95b46df4cb58461c9803feb43b2</string>
+    <string name="com.crashlytics.android.build_id">624f3248c4bc4394a57275307f2c7e4a</string>
+    <string name="com.miapm.build_id">3f39b1524a7c4bcaa3062a1392d76c0a</string>
     <string name="com_permission_desc">"Mi Video can't access videos on your device. Allow access in the Settings."</string>
     <string name="com_permission_title">Permissions required</string>
     <string name="comment_model_add_comment">Add a comment</string>
@@ -815,6 +818,7 @@ This operation won't affect your gallery pictures."</string>
     <string name="hidden_channels">"The following channels won't be displayed on the Home page."</string>
     <string name="hide">Hide</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
+    <string name="hide_video_toast">This item has been hidden. You can find and manage hidden items in Local > Folders > Hidden items.</string>
     <string name="hint_icon_ad_title">Recommended</string>
     <string name="hint_in_mivideo">You can check the side panel for additional features now</string>
     <string name="history">History</string>
@@ -928,6 +932,7 @@ for videos"</string>
     <string name="local_hide_folder_dialog_title">Hidden videos</string>
     <string name="local_hide_folder_setting_goto">Settings</string>
     <string name="local_hide_folder_setting_tip">You can manage your hidden videos in Profile > Settings > Manage hidden videos.</string>
+    <string name="local_new_user_speed_guide">Press, hold, and slide to adjust playback speed</string>
     <string name="local_play_end_camera_title">View more videos</string>
     <string name="local_play_end_close_tip">"Recommendations won't be shown again today"</string>
     <string name="local_play_end_download_drag_up_guide">Tap or swipe to download</string>
@@ -938,6 +943,14 @@ for videos"</string>
     <string name="local_push_setting_power_tag">Notifications about local videos</string>
     <string name="local_push_title">Popular today</string>
     <string name="local_push_video_title">Scan for new local videos</string>
+    <string name="local_reset_confirm">Enter again</string>
+    <string name="local_reset_error_dif_info">"New PIN can't be the same as the old one"</string>
+    <string name="local_reset_error_wrong_info">"PINs don't match. Try again."</string>
+    <string name="local_reset_new_password">Enter new PIN</string>
+    <string name="local_reset_old_password">Enter current PIN</string>
+    <string name="local_reset_password_done">Changed PIN successfully</string>
+    <string name="local_reset_password_title">Change PIN</string>
+    <string name="local_reset_tips">Enter %d-digit PIN</string>
     <string name="local_stretch_zoom_mode">Picture is stretched</string>
     <string name="local_subtitle_choose_language_text">Language</string>
     <string name="local_subtitle_exemption_hint">Search for subtitles on opensubtitle.org</string>
@@ -1106,6 +1119,7 @@ We will only use this permission to find the videos you search for, and won't ac
     <string name="material_timepicker_text_input_mode_description">Switch to text input mode for the time input.</string>
     <string name="mediation_ad">AD</string>
     <string name="mediation_ad_can_not_share">"Can't share this video"</string>
+    <string name="mediation_russian_ad">Реклама</string>
     <string name="member">VIP</string>
     <string name="message_notify">New message notification</string>
     <string name="mgmi_ad_mid_wait">Take a break. Continue larter.</string>
@@ -1319,6 +1333,9 @@ We will only use this permission to find the videos you search for, and won't ac
     <string name="music_new_user_dialog_tip">Welcome to Mi Video! This app provides a local video player and online music and video streaming services.</string>
     <string name="my_favorite_channels">My favorite channels</string>
     <string name="my_feedback_title">My feedback</string>
+    <string name="native_body">Body</string>
+    <string name="native_headline">Headline</string>
+    <string name="native_media_view">Media View</string>
     <string name="need_update_app">Update Mi Video to use all its features</string>
     <string name="network_connect_info">"Couldn't connect to the network."</string>
     <string name="network_error_and_retry_tip">"Couldn't connect to the network. Check your network settings and try again."</string>
@@ -1779,6 +1796,7 @@ We will only use this permission to find the videos you search for, and won't ac
     <string name="sign_in_mi_account">Sign in with Xiaomi Account</string>
     <string name="sign_in_progress">Signing in…</string>
     <string name="sign_in_title">Sign in with your Mi Account</string>
+    <string name="skip_ad">Skip</string>
     <string name="slid_fail_message">"Couldn't save"</string>
     <string name="slide_save_message">Generating video…</string>
     <string name="small_video_load_more_hint">Swipe up to play more videos</string>
@@ -2087,6 +2105,7 @@ We will only use this permission to find the videos you search for, and won't ac
     <string name="vp_replay">Replay</string>
     <string name="vp_upcoming_auto_play">Autoplay</string>
     <string name="vp_upcoming_title">Up next</string>
+    <string name="watermark_label_prefix">"AdMob - "</string>
     <string name="website_button_add_bookmarks">Add bookmark</string>
     <string name="wechat_application_id" />
     <string name="wechat_scope" />

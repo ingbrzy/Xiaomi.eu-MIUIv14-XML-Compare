@@ -469,8 +469,8 @@ Toggle off to stop syncing."</string>
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">afe97a952f0d4ae6a7102d97cc145059</string>
-    <string name="com.miapm.build_id">197ca7a90c0940ba8629acb7e55739dd</string>
+    <string name="com.crashlytics.android.build_id">1a44531dfffd47b68cbdaa7985404fba</string>
+    <string name="com.miapm.build_id">9179a3bf1d04468ab21f61484fbc287c</string>
     <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
     <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
@@ -2517,6 +2517,7 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="sign_message">http://%s needs your username and password.</string>
     <string name="sign_out">Sign out</string>
     <string name="simple_page_toast">You can switch to default in Settings > Start page settings</string>
+    <string name="site_content_has_update">Page content updated</string>
     <string name="skip">Skip</string>
     <string name="skip_current_version">Skip this version</string>
     <string name="sku_price_everymonth">%1$s every month</string>
@@ -2706,6 +2707,9 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="time_picker_dialog_title">Set time</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
+    <string name="time_segmented_evening_title">Evening chillout</string>
+    <string name="time_segmented_morning_title">Good morning</string>
+    <string name="time_segmented_noon_title">Afternoon picks</string>
     <string name="tip_drag">Long press to edit and drag to sort.</string>
     <string name="tip_not_support_external_sdcard_modify">"Can't edit files stored on the SD card"</string>
     <string name="tip_sync_disabled_by_incognito">"Can't sync items in Incognito mode"</string>
