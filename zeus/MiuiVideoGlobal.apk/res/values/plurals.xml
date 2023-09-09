@@ -84,6 +84,10 @@
         <item quantity="other">%d videos</item>
         <item quantity="one">%d video</item>
     </plurals>
+    <plurals name="local_longpress_speed_chenge_tip">
+        <item quantity="other">Playing at %sX speed. Release to play at normal speed.</item>
+        <item quantity="one">Playing at %sX speed. Release to play at normal speed.</item>
+    </plurals>
     <plurals name="local_video_floder">
         <item quantity="other">%d folders</item>
         <item quantity="one">%d folder</item>

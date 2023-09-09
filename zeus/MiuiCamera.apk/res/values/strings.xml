@@ -1562,8 +1562,8 @@ look larger on photos"</string>
     <string name="network_connection_prerequisites_china">Turn on Bluetooth and Wi-Fi in Control center to be able to use Dual phone recording.</string>
     <string name="network_connection_rejected">Rejected</string>
     <string name="network_connection_timed_out">Connection timed out</string>
-    <string name="new_bie_dialog_cancel">引导页取消按钮</string>
-    <string name="new_bie_dialog_desc">引导页</string>
+    <string name="new_bie_dialog_cancel">Close feature description</string>
+    <string name="new_bie_dialog_desc">Feature description</string>
     <string name="newbie_privacy_watermark_msg">Use watermarks to protect your documents from unauthorized copying</string>
     <string name="newbie_privacy_watermark_title">Protect your documents</string>
     <string name="night">Evening</string>
