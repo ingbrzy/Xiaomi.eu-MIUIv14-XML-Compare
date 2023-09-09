@@ -129,6 +129,10 @@
         <item quantity="other">Uninstall %d apps</item>
         <item quantity="one">Uninstall %d app</item>
     </plurals>
+    <plurals name="app_manager_updater_title">
+        <item quantity="other">Update %d apps</item>
+        <item quantity="one">Update %d app</item>
+    </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">Used %d days ago</item>
         <item quantity="one">Used %d day ago</item>
