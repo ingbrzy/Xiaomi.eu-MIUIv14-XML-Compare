@@ -146,8 +146,11 @@
     <string name="ad_floating_window_title">Close floating window to unlock</string>
     <string name="ad_split_screen_title">Exit Split screen to unlock</string>
     <string name="ad_text_adx">Ad</string>
+    <string name="ad_text_btn_cancel">Cancel</string>
     <string name="ad_text_btn_download">Install</string>
+    <string name="ad_text_btn_resume">Resume</string>
     <string name="ad_text_develop">Developer: %1$s</string>
+    <string name="ad_text_introduce">About</string>
     <string name="ad_text_permission">Permissions</string>
     <string name="ad_text_privacy">Privacy</string>
     <string name="ad_text_version">Version: %1$s</string>
@@ -456,6 +459,7 @@
     <string name="app_detail">Details</string>
     <string name="app_error_tip_for_launcher">"Your device's hardware components or Android system version may cause compatibility issues and make some apps misbehave, freeze, or be force stopped. If you encounter such issues, share your feedback with the app developers."</string>
     <string name="app_error_tip_for_store">"Your device's hardware components or Android system version may cause compatibility issues which may result in failing to install some apps. If you encounter such issues or some apps misbehave, freeze, or are being force stopped, ​wait until the app developers fix bugs and try installing the app again."</string>
+    <string name="app_info_all_services_label">All services</string>
     <string name="app_install_intercept">Block installation</string>
     <string name="app_install_tips_go_to">Open</string>
     <string name="app_install_tips_install_success">Installed %1$s successfully</string>
@@ -540,7 +544,7 @@
     <string name="app_manager_mobile_slot">Mobile data (SIM %d)</string>
     <string name="app_manager_mobile_slot1">Mobile data (SIM 1)</string>
     <string name="app_manager_mobile_slot2">Mobile data (SIM 2)</string>
-    <string name="app_manager_net_control_title">Restrict data usage</string>
+    <string name="app_manager_net_control_title">Connection method</string>
     <string name="app_manager_net_mobile">Mobile data</string>
     <string name="app_manager_net_wifi">Wi-Fi</string>
     <string name="app_manager_not_allow">No</string>
@@ -571,6 +575,7 @@ You will not lose any app data."</string>
     <string name="app_manager_reset_app_preferences_title">Reset app preferences?</string>
     <string name="app_manager_restricted_settings_title">Allow restricted settings</string>
     <string name="app_manager_search_prompt">"Couldn't find results? Try showing results from all apps."</string>
+    <string name="app_manager_shortcut_manager">Manage Home screen shortcuts</string>
     <string name="app_manager_show_all_apps">Show all apps</string>
     <string name="app_manager_show_all_apps_opened">Showing results from all apps…</string>
     <string name="app_manager_show_detail_infos">View all</string>
@@ -678,8 +683,15 @@ You will not lose any app data."</string>
     <string name="app_summary">"微信/QQ/米聊抢红包神器
 支持个人红包与群红包
 春节红包活动，不错过每一个红包"</string>
+    <string name="app_usage_half_year">Last %d months</string>
+    <string name="app_usage_more_year">More than %d year ago</string>
     <string name="app_usage_never">Never used</string>
+    <string name="app_usage_never_1">Never used</string>
+    <string name="app_usage_one_day">Today</string>
+    <string name="app_usage_one_month">Last %d days</string>
+    <string name="app_usage_one_week">Last %d days</string>
     <string name="app_usage_recently">Recently used</string>
+    <string name="app_usage_year">Within %d year</string>
     <string name="app_version">Version:</string>
     <string name="app_wifi">Wi-Fi</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
@@ -1215,7 +1227,7 @@ However, some of your transactions aren't completed yet. To be able to withdraw 
     <string name="card_main_deepclean_title">Deep clean</string>
     <string name="card_main_deepclean_wechat_action">Clear</string>
     <string name="card_main_deepclean_wechat_summary">Clear WeChat cache to free up storage space</string>
-    <string name="card_main_deepclean_wechat_title">WeChat cache</string>
+    <string name="card_main_deepclean_wechat_title">WeChat cleaner</string>
     <string name="card_main_facebookclean_title">Facebook cleaner</string>
     <string name="card_main_galleryclean_title">Delete photos</string>
     <string name="card_main_gamebooster_summary">Boost connection stability for games</string>
@@ -1235,6 +1247,7 @@ However, some of your transactions aren't completed yet. To be able to withdraw 
     <string name="card_main_private_space_title">Second space</string>
     <string name="card_main_sectool_title">Tools</string>
     <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
+    <string name="card_main_video_manage_title">Manage videos</string>
     <string name="card_main_whatsappclean_title">WhatsApp cleaner</string>
     <string name="card_main_xspace_action">Create</string>
     <string name="card_main_xspace_summary">Create dual accounts for any app</string>
@@ -1458,12 +1471,16 @@ However, some of your transactions aren't completed yet. To be able to withdraw 
     <string name="cta_settings">Allow to connect to the internet and access location</string>
     <string name="current_network_state_not_need_diagnose">Internet connection is normal.</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">For using blocklist and making calls to emergency contacts when earthquake warnings are issued</string>
+    <string name="custom_define_permission_desc_android.permission.GET_ACCOUNTS">For managing authorization when performing cross-device identity verification, USB debugging, and restoring Privacy protection password and App lock</string>
     <string name="custom_define_permission_desc_android.permission.READ_CALL_LOG">For displaying blocked calls in your call history</string>
     <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">For using blocklist</string>
+    <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">For recognizing call status in high temperature or low battery situations</string>
     <string name="custom_define_permission_desc_android.permission.READ_SMS">For using blocklist and recognizing messages from your carrier</string>
     <string name="custom_define_permission_desc_android.permission.SEND_SMS">For using blocklist and sending calibration messages to your carrier</string>
     <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">For deleting messages from your blocklist</string>
+    <string name="custom_define_permission_desc_android.permission.group.SENSORS">For detecting seismic waves for earthquake monitoring</string>
     <string name="custom_define_permission_desc_android.permission_group.LOCATION">For providing the features relevant to your location in MIUI Warning Center, Emergency SOS, App battery saver, payment security scanner, and approximate location service</string>
+    <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">For recording audio while using Game Turbo</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">For clearing trash and performing antivirus scans</string>
     <string name="customize_limit_pkg">%s (custom)</string>
     <string name="customizer_mode_user_define_name">My rules</string>
@@ -1941,7 +1958,7 @@ volunteer"</string>
     <string name="ew_settings_set_level_summary">Receive warnings about earthquakes when their intensity is %s or higher</string>
     <string name="ew_settings_set_level_title">Set earthquake warning threshold</string>
     <string name="ew_signature_default">成都高新减灾研究所 大陆地震预警中心</string>
-    <string name="ew_sleep_mode_alert_content">"To make sure you can receive earthquake early warnings, MIUI wull turn off Sleep mode. Background apps, NFC, Bluetooth, GPS, mobile data, and Wi-Fi will work normally even when you're sleeping. Turn on Earthquake warning now?"</string>
+    <string name="ew_sleep_mode_alert_content">"To make sure you can receive earthquake early warnings, MIUI will turn off Sleep mode. Background apps, NFC, Bluetooth, GPS, mobile data, and Wi-Fi will work normally even when you're sleeping. Turn on Earthquake warning now?"</string>
     <string name="ew_sleep_mode_alert_title">Earthquake warning</string>
     <string name="ew_subscribe_area_title">Manage added areas</string>
     <string name="ew_subscribe_city">Added areas</string>
@@ -2094,7 +2111,7 @@ volunteer"</string>
     <string name="firewall_restrict_notify_title">"%s can't use network"</string>
     <string name="firewall_restrict_wlan">Restrict using Wi-Fi connection</string>
     <string name="firewall_rule_group_title_roaming">Overseas roaming</string>
-    <string name="firewall_system_title">Data usage for system apps</string>
+    <string name="firewall_system_title">System app connections</string>
     <string name="firewall_temp_rule_reason">%2$s restricted internet connection for %1$s​</string>
     <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">"The installed app won't be able to connect to the internet using Wi-Fi when this switch is off.​"</string>
@@ -2397,6 +2414,7 @@ volunteer"</string>
     <string name="gb_audition_play_instruction">Use earphones for best effect</string>
     <string name="gb_award_noti_message">Turn on Game for Peace background updates in Game Turbo to get rewards</string>
     <string name="gb_award_noti_title">Game for Peace rewards are here!</string>
+    <string name="gb_barrage_app_manger">Manage apps</string>
     <string name="gb_barrage_chat_desc">Always believe that something wonderful is about to happen</string>
     <string name="gb_barrage_chat_pre_desc">Preview</string>
     <string name="gb_barrage_chat_text_color">Color</string>
@@ -2408,6 +2426,7 @@ volunteer"</string>
     <string name="gb_barrage_chat_text_speed_moderate">Medium</string>
     <string name="gb_barrage_chat_text_speed_slow">Slow</string>
     <string name="gb_barrage_dnd_conflict_toast">To use on-screen comments, turn off DND first</string>
+    <string name="gb_barrage_guide_text">Tap a comment to reply or open a floating window</string>
     <string name="gb_beauty_cold_light">Cold</string>
     <string name="gb_beauty_face">Beautify</string>
     <string name="gb_beauty_light">Fill light</string>
@@ -2704,7 +2723,8 @@ of your gaming sessions"</string>
     <string name="global_satisfaction_notification_button">Rate</string>
     <string name="global_satisfaction_notification_channel">User satisfaction survey</string>
     <string name="global_satisfaction_notification_subhead">Tell us about your experience</string>
-    <string name="global_satisfaction_notification_title">Rate this device</string>
+    <string name="global_satisfaction_notification_summary">Tell us how you feel about this device</string>
+    <string name="global_satisfaction_notification_title">Rate your experience</string>
     <string name="global_wa_setting_alert_dialog_content">You can free up %s</string>
     <string name="global_wa_setting_alert_dialog_title">WhatsApp Cleaner</string>
     <string name="gmscore_support_remind">Turn this feature on if you experience problems with using Gmail, Google Maps, and other Google apps. It will slightly reduce battery life.</string>
@@ -2715,7 +2735,6 @@ of your gaming sessions"</string>
     <string name="go_to_setting_fingerprint">Settings</string>
     <string name="google_api_key">AIzaSyCLTk-WlTTx8UwHK2EdapM_Pu-CiQHYaio</string>
     <string name="google_app_id">1:436805358632:android:6a6f70fc95cb7011dfd11d</string>
-    <string name="google_base_app_fail">"Couldn't download. Check whether Security is allowed to connect to the internet."</string>
     <string name="google_base_app_install_choice">The application requires Google Services Framework to work normally, download and install it?</string>
     <string name="google_base_app_installed">Installed successfully</string>
     <string name="google_base_app_installing">Installing…</string>
@@ -2942,7 +2961,7 @@ to join our egg hunt!"</string>
     <string name="install_sucess">Installed %s successfully</string>
     <string name="install_text">Install</string>
     <string name="install_title">Install via USB</string>
-    <string name="install_tvm_component_desc">To ensure the security of your transactions, install Phone Key Component plug-in.</string>
+    <string name="install_tvm_component_desc">To ensure the security of your transactions, install Phone Key Component plug-in via Security.</string>
     <string name="install_tvm_component_title">Install Phone Key Component plug-in</string>
     <string name="install_type_instant">Instant app</string>
     <string name="installing">Installing</string>
@@ -3133,7 +3152,7 @@ to calibrate"</string>
 to respond"</string>
     <string name="main_today_used">Used today</string>
     <string name="main_toolbar_custom_service">Customers service</string>
-    <string name="main_toolbar_firewall">Restrict data usage</string>
+    <string name="main_toolbar_firewall">Manage network connection</string>
     <string name="main_toolbar_purchase">Top up</string>
     <string name="main_toolbar_recharge_record">Recharge record</string>
     <string name="main_toolbar_statistic">Data usage stats</string>
@@ -3202,7 +3221,7 @@ to respond"</string>
     <string name="mark_time_setting_dialog_title">Report number</string>
     <string name="mark_time_text">%d</string>
     <string name="marked_by_user">"You marked it as "</string>
-    <string name="marketSdkVersion">3.2.22</string>
+    <string name="marketSdkVersion">3.2.26</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Select AM or PM</string>
     <string name="material_hour_selection">Select hour</string>
@@ -3271,7 +3290,7 @@ Your device is %s faster now."</string>
     <string name="menu_sms">Send message</string>
     <string name="menu_summary_antispam">Block calls and messages</string>
     <string name="menu_summary_antivirus">Search for viruses on your device</string>
-    <string name="menu_summary_app_manager">Update and uninstall apps</string>
+    <string name="menu_summary_app_manager">Manage app settings</string>
     <string name="menu_summary_garbage_cleanup">No trash found</string>
     <string name="menu_summary_garbage_cleanup_ex">Free up %s</string>
     <string name="menu_summary_garbage_cleanup_new">%d%% of storage space</string>
@@ -3839,6 +3858,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="pc_battery_history_show_imei">IMEI:</string>
     <string name="pc_battery_history_total_consumption_title">Total power consumption</string>
     <string name="pc_battery_history_usetime_title">Active</string>
+    <string name="pc_category_charge_settings">Charging settings</string>
     <string name="pc_close_notifi_action">Turn off</string>
     <string name="pc_continuity_has_open_save_mode_notifi_sumary">Battery saver will be turned off when %1$s is %2$s or fully charged</string>
     <string name="pc_continuity_has_open_save_mode_notifi_title">Turned on Battery saver on %s</string>
@@ -3883,6 +3903,9 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="pc_high_temp_protection_noti_summary">"Can't use hotspots, mobile data, and location services now"</string>
     <string name="pc_high_temp_protection_noti_summary2">"Can't use hotspots now"</string>
     <string name="pc_high_temp_protection_noti_tile">Your device is overheated</string>
+    <string name="pc_hight_refresh_rate_reminder_content">Your device is using a higher refresh rate for a better viewing experience. This may increase power consumption and device temperature.</string>
+    <string name="pc_hight_refresh_rate_reminder_summary">Using a higher refresh rate. This may increase power consumption and device temperature.</string>
+    <string name="pc_hight_refresh_rate_reminder_title">Watching a high frame rate video</string>
     <string name="pc_install_manager">Install via USB</string>
     <string name="pc_low_batterty_got_it">Got it</string>
     <string name="pc_low_battery_fast_charge">Speed up charging</string>
@@ -3915,6 +3938,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="pc_smart_discharge_checkbox_title">Charging auto-disconnect</string>
     <string name="pc_smart_discharge_drop_down_title">Auto-disconnect settings</string>
     <string name="pc_smart_discharge_protect_notifi_summary">To protect the battery, charging will stop automatically at a selected level when using navigation apps</string>
+    <string name="pc_smart_discharge_protect_notifi_summary2">To protect the battery, charging will stop automatically at a selected level when using navigation apps</string>
     <string name="pc_smart_discharge_protect_notifi_title">Charging auto-disconnect is on</string>
     <string name="pc_statistics_battery_last_hour_minute">%1$dh %2$dm remaining</string>
     <string name="pc_statistics_battery_use_hour_minute">%1$dh %2$dm since last charge</string>
@@ -5069,10 +5093,9 @@ Withdraw consent now?"</string>
     <string name="security_scan_optimizing">Optimizing…</string>
     <string name="securityadd_install_fail">"Couldn't update plug-in. Try again."</string>
     <string name="securityadd_update_tips_cancle">Not now</string>
-    <string name="securityadd_update_tips_message">Update Security service plug-in to get access to the latest gaming features. %1$dMB will be downloaded.</string>
+    <string name="securityadd_update_tips_message">Update Security service plug-in to get access to the latest gaming features. %1$d MB will be downloaded.</string>
     <string name="securityadd_update_tips_now">Update</string>
     <string name="securityadd_update_tips_title">Update</string>
-    <string name="securitycenter_tab_title">Security</string>
     <string name="see_all_app_behavior_record">View all app behavior</string>
     <string name="see_detail">Details</string>
     <string name="see_more_content">Update Games to see more highlights</string>
@@ -5409,6 +5432,8 @@ Withdraw consent now?"</string>
     <string name="special_perm_intercept_analyze_title">Analyze your preferences and behavior</string>
     <string name="special_perm_intercept_app_msg">Including notifications from social media and banking apps</string>
     <string name="special_perm_intercept_app_title">Read all notifications</string>
+    <string name="special_perm_intercept_autostart_msg">Allow the app to start in the background anytime without restrictions</string>
+    <string name="special_perm_intercept_autostart_title">Unlimited autostart</string>
     <string name="special_perm_intercept_barrier_free">Accessibility</string>
     <string name="special_perm_intercept_camera_msg">Restrict any camera activity</string>
     <string name="special_perm_intercept_camera_title">Restrict camera usage</string>
@@ -6339,7 +6364,7 @@ Remaining data includes data that has been rolled over from the previous month."
     <string name="untrust_app_perm_oaid">Allow accessing your virtual ID</string>
     <string name="untrust_app_perm_title">App from an unknown source</string>
     <string name="untrust_app_perm_warn">This app comes from an unknown source and might pose security risks. It may use the permissions listed below to compromise your privacy. Grant these permissions after careful consideration.</string>
-    <string name="upgrade_tvm_component_desc">To ensure the security of your transactions, update Phone Key Component plug-in.</string>
+    <string name="upgrade_tvm_component_desc">To ensure the security of your transactions, update Phone Key Component plug-in via Security.</string>
     <string name="upgrade_tvm_component_title">Update Phone Key Component plug-in</string>
     <string name="usage_sorted_activity_lable">Data usage</string>
     <string name="usage_sorted_empty_text">Empty</string>
@@ -6383,12 +6408,15 @@ Remaining data includes data that has been rolled over from the previous month."
     <string name="vb_fps_display_unit">Hz</string>
     <string name="vb_fps_settings">Auto refresh rate</string>
     <string name="vb_fps_settings_tips">This feature adjusts screen refresh rate to video frame rate, which saves battery and makes playback smooth. Turning on floating comments will turn off auto refresh rate.</string>
+    <string name="vb_power_performance_mode_conflict_toast">"Can't use this feature when Performance mode is on"</string>
+    <string name="vb_power_save_mode_conflict_toast">"Can't use this feature when Battery saver is on"</string>
     <string name="vb_quick_func_auto_bgm">Recognize background music</string>
     <string name="vb_quick_func_hangup_listening">Play video sound with screen off</string>
     <string name="vb_quick_func_screen_capture">Screenshot</string>
     <string name="vb_quick_func_screen_record">Record</string>
     <string name="vb_quick_func_screening">Cast</string>
     <string name="vb_settings">Settings</string>
+    <string name="vb_super_power_save_mode_conflict_toast">"Can't use this feature when Ultra battery saver is on"</string>
     <string name="vb_ve_settings_ai_stronger">AI</string>
     <string name="vb_ve_settings_display_style_tips">*These effects are applied to the whole screen</string>
     <string name="vb_ve_settings_display_style_tips_new">*Effects will be applied to video playback area only</string>
@@ -6550,7 +6578,7 @@ Try upscaling resolution!"</string>
     <string name="warningcenter_disaster_hanchao">寒潮</string>
     <string name="warningcenter_disaster_icon_title">Demo warning</string>
     <string name="warningcenter_disaster_info">"Published by CMA's Warning Center"</string>
-    <string name="warningcenter_disaster_info_from">MIUI预警中心 | 信息来自国家预警中心</string>
+    <string name="warningcenter_disaster_info_from">MIUI预警中心 | 国家预警信息发布中心权威发布</string>
     <string name="warningcenter_disaster_info_title">About warnings</string>
     <string name="warningcenter_disaster_leiyudafeng">雷雨大风</string>
     <string name="warningcenter_disaster_level_1">Level I (Extremely severe)</string>

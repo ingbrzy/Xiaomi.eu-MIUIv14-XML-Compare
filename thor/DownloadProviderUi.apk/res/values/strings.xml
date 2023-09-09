@@ -296,13 +296,14 @@
     <string name="install">Install</string>
     <string name="installing">Installing…</string>
     <string name="insufficient_space">Not enough storage</string>
+    <string name="introduction">介绍</string>
     <string name="invalid_address">The file path you entered is invalid</string>
     <string name="jump_rank_hint">"Take a look at today's download rankings >"</string>
     <string name="jump_rank_hint2">View top downloads</string>
     <string name="kilobyteShort">KB</string>
     <string name="load_finish_hint">You can continue viewing tomorrow</string>
     <string name="loading">Just a sec…</string>
-    <string name="marketSdkVersion">3.2.22</string>
+    <string name="marketSdkVersion">3.2.26</string>
     <string name="megabyteShort">MB</string>
     <string name="menu_des_vip">Xunlei membership</string>
     <string name="menu_title_fileexplore">File Manager</string>
