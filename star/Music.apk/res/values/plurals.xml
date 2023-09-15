@@ -186,6 +186,10 @@ Note: File will be deleted from this device as well."</item>
         <item quantity="other">%d followers</item>
         <item quantity="one">%d follower</item>
     </plurals>
+    <plurals name="reward_seconds_remaining">
+        <item quantity="other">VIP membership in %d seconds</item>
+        <item quantity="one">VIP membership in %d second</item>
+    </plurals>
     <plurals name="send_songs_toast">
         <item quantity="other">%d songs will be sent</item>
         <item quantity="one">%d song will be sent</item>
@@ -221,6 +225,10 @@ Note: File will be deleted from this device as well."</item>
     <plurals name="vip_remain_days_hint">
         <item quantity="other">%d days remaining</item>
         <item quantity="one">%d day remaining</item>
+    </plurals>
+    <plurals name="web_reward_dialog_title">
+        <item quantity="other">"If you watch for %d seconds, you'll get a VIP membership as a reward. Exit anyway?"</item>
+        <item quantity="one">"If you watch for %d second, you'll get a VIP membership as a reward. Exit anyway?"</item>
     </plurals>
     <plurals name="whitelist_multi_added">
         <item quantity="other">Added %d files</item>
