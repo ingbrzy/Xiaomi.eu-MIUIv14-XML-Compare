@@ -1,4 +1,3 @@
-Removed: [be] strings.xml: string/default_condition_summary (format mismatch)
 Removed: [it] strings.xml: string/menu_summary_power_manager_2 (format mismatch)
 Removed: [it] strings.xml: string/power_center_battery_last (format mismatch)
 Removed: [ko] strings.xml: string/app_running_tip_dialog_text (format mismatch)
