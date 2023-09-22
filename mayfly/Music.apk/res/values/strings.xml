@@ -64,6 +64,7 @@
     <string name="actionbar_button_up_description">Back</string>
     <string name="ad_close">Close</string>
     <string name="ad_data_exception">Ad data error</string>
+    <string name="ad_flag_text">AD</string>
     <string name="ad_recommend">Show ads</string>
     <string name="ad_setting">Additional settings</string>
     <string name="add">Add</string>
@@ -275,8 +276,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">1ff40696b42f43fd8ef1acdc2fd41b7f</string>
-    <string name="com.miapm.build_id">18b9294d79b34f879d10226e2817dfa1</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">407cf69307264edc967807fa1fa11644</string>
+    <string name="com.miapm.build_id">8b3ec557caf8490e9a2fd17fda636644</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">Enable</string>
     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
