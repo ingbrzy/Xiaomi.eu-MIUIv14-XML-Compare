@@ -1,3 +1,4 @@
+Removed: [be] strings.xml: string/ussdinitiated_title (duplicate)
 Removed: [de] plurals.xml: plurals/abbrev_a_hour_ago (format mismatch)
 Removed: [de] plurals.xml: plurals/abbrev_in_a_hour (format mismatch)
 Removed: [fr] strings.xml: string/arriérés_sim_title (invalid name)
