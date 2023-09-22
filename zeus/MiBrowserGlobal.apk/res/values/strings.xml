@@ -103,6 +103,7 @@
     <string name="actionbar_button_up_description">Back</string>
     <string name="activate_email_notice">Make sure to activate your account within 24 hours</string>
     <string name="activity_not_found_notice">"Can't find the app"</string>
+    <string name="ad_flag_text">AD</string>
     <string name="ad_loading_tips_text">Loading ad…</string>
     <string name="ad_mark">Ad</string>
     <string name="ad_permission_name">Block ads</string>
@@ -182,7 +183,7 @@
     <string name="app_name_downloads">Downloads</string>
     <string name="app_name_market">App Store</string>
     <string name="app_name_midrop">ShareMe</string>
-    <string name="app_name_miui">MIUI</string>
+    <string name="app_name_miui">System resources</string>
     <string name="app_name_miuimusic">Music</string>
     <string name="app_name_miuiringtone">Ringtone</string>
     <string name="app_name_miuiwallpaper">Wallpapers</string>
@@ -195,12 +196,12 @@
     <string name="application">Apps</string>
     <string name="application_name">Browser</string>
     <string name="application_upgrade">Updates</string>
-    <string name="aqi_quality_index_break">Severely hazardous</string>
-    <string name="aqi_quality_index_dangerous">Dangerous</string>
+    <string name="aqi_quality_index_break">Beyond index</string>
+    <string name="aqi_quality_index_dangerous">Severe</string>
     <string name="aqi_quality_index_good">Good</string>
     <string name="aqi_quality_index_hazardous">Hazardous</string>
-    <string name="aqi_quality_index_light_pollution">Light pollution</string>
-    <string name="aqi_quality_index_moderate">Moderate</string>
+    <string name="aqi_quality_index_light_pollution">Moderate</string>
+    <string name="aqi_quality_index_moderate">Fair</string>
     <string name="aqi_quality_index_pure">Excellent</string>
     <string name="aqi_quality_index_unhealthy">Unhealthy</string>
     <string name="articles_collection_empty">No articles here yet</string>
@@ -293,6 +294,16 @@ Toggle off to stop syncing."</string>
     <string name="browserFrameFormResubmitLabel" />
     <string name="browserFrameFormResubmitMessage">"The page you're trying to view contains data that has already been submitted. If you resend the data, previous actions (e.g. searches or purchases) will be repeated."</string>
     <string name="browserFrameNetworkErrorLabel">Connection error</string>
+    <string name="browser_wallpaper">Wallpapers</string>
+    <string name="browser_wallpaper_application">Apply</string>
+    <string name="browser_wallpaper_art">Art</string>
+    <string name="browser_wallpaper_currently_in_use">Applied</string>
+    <string name="browser_wallpaper_landscape">Scenery</string>
+    <string name="browser_wallpaper_more_btn">View more</string>
+    <string name="browser_wallpaper_preview">Preview</string>
+    <string name="browser_wallpaper_subtitle">Personalize Mi Browser with beautiful wallpapers.</string>
+    <string name="browser_wallpaper_system_default">Default</string>
+    <string name="browser_wallpaper_title">Wallpapers</string>
     <string name="btn_agree">Agree</string>
     <string name="btn_cancel">Cancel</string>
     <string name="camera_permission_name">Use camera</string>
@@ -428,8 +439,6 @@ Toggle off to stop syncing."</string>
     <string name="clear_result_page_show_more">View more</string>
     <string name="clear_search_history">Clear history</string>
     <string name="clear_text_end_icon_content_description">Clear text</string>
-    <string name="clear_transfer_summary">Clear system settings flags, so you can re-transfer</string>
-    <string name="clear_transfer_title">Clear transfer flags</string>
     <string name="clearable_edittext_clear_description">Clear</string>
     <string name="cleared_garbage">Cleared %d MB of trash</string>
     <string name="click_always">Tap \"Always\"</string>
@@ -469,8 +478,8 @@ Toggle off to stop syncing."</string>
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">34afd0a33fba46298070d4d7e6864791</string>
-    <string name="com.miapm.build_id">89467c0fb4564c789d075b735566614d</string>
+    <string name="com.crashlytics.android.build_id">a2f8e3fecaa94ed584824ed5dcfeb1e9</string>
+    <string name="com.miapm.build_id">f4733af439e34e358cb1771c4c3534db</string>
     <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
     <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
@@ -766,7 +775,6 @@ Send this code to the supervisor."</string>
     <string name="download_status_pending">Waiting</string>
     <string name="download_title">Downloads</string>
     <string name="download_unknown_title">Unknown</string>
-    <string name="download_update_background">Downloading updates in the background</string>
     <string name="download_video_from_social_site">Download videos from social media</string>
     <string name="download_videos_from_here">You can download videos from these services</string>
     <string name="download_wait_connect">Waiting to connect</string>
@@ -972,7 +980,7 @@ Send this code to the supervisor."</string>
     <string name="filename_illegal_alert_message">An invalid character was removed from the file name</string>
     <string name="files_stored_in_the_phone">Files stored on this device</string>
     <string name="find_garbage">Found %d MB of trash</string>
-    <string name="find_new_version">NEW UPDATE AVAILABLE</string>
+    <string name="find_new_version">Update available</string>
     <string name="find_on_page_cancel">Cancel</string>
     <string name="find_on_page_hint">Search page</string>
     <string name="find_on_page_next">Next</string>
@@ -1691,6 +1699,9 @@ Leave this page now?"</string>
     <string name="my_channel">My channels</string>
     <string name="my_prize_entry">My rewards</string>
     <string name="name_empty">You must enter a name.</string>
+    <string name="native_body">Body</string>
+    <string name="native_headline">Headline</string>
+    <string name="native_media_view">Media View</string>
     <string name="nav_bottom_bar_back">Back</string>
     <string name="nav_bottom_bar_close_all">Close all</string>
     <string name="nav_bottom_bar_new_tab">New tab</string>
@@ -1710,7 +1721,6 @@ Leave this page now?"</string>
     <string name="network_show_wifi_setting_tip_dialog_description">Found a Wi-Fi hotspot nearby. Try to connect?</string>
     <string name="network_show_wifi_setting_tip_dialog_title">Wi-Fi network is available</string>
     <string name="new_update_available">An update is available</string>
-    <string name="new_version_name">New version %s</string>
     <string name="news_flow_more_recommend">More recommended items</string>
     <string name="news_load_failed">Tap to try again</string>
     <string name="news_loading">Loading…</string>
@@ -2050,8 +2060,6 @@ Leave this page now?"</string>
     <string name="pref_images_preload_value_always">2</string>
     <string name="pref_images_preload_value_never">0</string>
     <string name="pref_images_preload_value_wifi_only">1</string>
-    <string name="pref_js_downloader">Download images and videos</string>
-    <string name="pref_js_downloader_detail">Display a download button on images and videos from social media websites</string>
     <string name="pref_key_gesture_title">Buttons &amp; gestures</string>
     <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
     <string name="pref_link_prefetch_value_always">ALWAYS</string>
@@ -2519,6 +2527,7 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="simple_page_toast">You can switch to default in Settings > Start page settings</string>
     <string name="site_content_has_update">Page content updated</string>
     <string name="skip">Skip</string>
+    <string name="skip_ad">Skip</string>
     <string name="skip_current_version">Skip this version</string>
     <string name="sku_price_everymonth">%1$s every month</string>
     <string name="slide_card">Swipe for more</string>
@@ -2761,7 +2770,6 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="update_email_address_dialog_message">You need to verify your identity before you update the recovery email.</string>
     <string name="update_email_address_dialog_title">Update recovery email</string>
     <string name="update_no_network_toast">"Can't connect to the network"</string>
-    <string name="update_now">UPDATE NOW</string>
     <string name="update_phone_notice">Change security settings</string>
     <string name="upgrade">Update</string>
     <string name="upload_error_log">Upload log</string>
@@ -2809,7 +2817,6 @@ You can always opt out in Settings > Privacy &amp; security."</string>
     <string name="version_check_button_resume_download">Resume download</string>
     <string name="version_check_button_update">Update</string>
     <string name="version_check_failed">"Couldn't check for updates"</string>
-    <string name="version_dialog_4G_checkbox">You can update system apps using mobile data. This might generate additional data fees.</string>
     <string name="version_dialog_buttion_ok">OK</string>
     <string name="version_dialog_buttion_update">Update</string>
     <string name="version_update_file_download_toast">Downloading</string>
@@ -2871,6 +2878,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="vpn_subscribe_tips_3">Enjoy high speed</string>
     <string name="vpn_used_all_free_data_toast">"You're out of traffic. Subscribe to continue."</string>
     <string name="vpn_used_all_toast">"You're out of traffic"</string>
+    <string name="watermark_label_prefix">"AdMob - "</string>
     <string name="weather_card_aqi">AQI</string>
     <string name="weather_card_baro">Pressure</string>
     <string name="weather_card_dew_pt">Dew point</string>
