@@ -127,6 +127,7 @@
     <string name="auto_clean_time_every_day">Every day</string>
     <string name="auto_cleaner_open">Turn on</string>
     <string name="back">Back</string>
+    <string name="be_figuring">Calculating…</string>
     <string name="browser_scan_history_desc">Browser History</string>
     <string name="browser_search_history_desc">Searched items</string>
     <string name="btn_text_done">Done</string>
@@ -326,6 +327,7 @@
     <string name="dc_item_title_wechat_chat">Clear WeChat history</string>
     <string name="dc_storage_cleaned">Freed up %s</string>
     <string name="dc_storage_info">Available %1$s | Total %2$s</string>
+    <string name="dc_storage_info_new">%1$s available</string>
     <string name="deep_clean_completed_tips">Cleaned successfully</string>
     <string name="deep_clean_data_path_clean_title">Clear cache</string>
     <string name="deep_clean_uninstall_completed_tips">Uninstalled successfully</string>
