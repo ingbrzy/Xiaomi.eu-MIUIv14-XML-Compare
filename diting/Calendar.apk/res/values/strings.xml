@@ -549,7 +549,7 @@
     <string name="gas_event_delete_successfully">燃气缴费事件删除成功</string>
     <string name="gas_interval_label">计费时段</string>
     <string name="gcm_defaultSenderId">94707104894</string>
-    <string name="glance_card_sub_title">Get exciting stories with every unlock</string>
+    <string name="glance_card_sub_title">Get exciting stories on your Lock screen</string>
     <string name="glance_card_title">Glance for Mi</string>
     <string name="global_action_text_card_manager">Customize your calendar</string>
     <string name="global_cricket_no_match">No cricket matches are scheduled for today. Check out other days.</string>
