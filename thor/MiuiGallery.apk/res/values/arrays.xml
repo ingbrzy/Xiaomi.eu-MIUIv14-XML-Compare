@@ -474,6 +474,14 @@
         <item>\#5B576F</item>
         <item>\#937373</item>
     </string-array>
+    <string-array name="global_backup_display_title">
+        <item>@string/backup_google_name</item>
+        <item>@string/backup_onedrive_single_name</item>
+    </string-array>
+    <string-array name="global_backup_display_value">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
     <array name="gradual_color">
         <item>#ffff6565</item>
         <item>#ffffbb55</item>

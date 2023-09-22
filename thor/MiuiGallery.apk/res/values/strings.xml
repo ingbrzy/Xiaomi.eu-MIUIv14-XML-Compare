@@ -331,6 +331,7 @@ Connect charger and turn off screen to make memories appear."</string>
     <string name="backup_automatically_title">Sync automatically</string>
     <string name="backup_battery_low_desc">You can resume sync when the battery is low</string>
     <string name="backup_battery_low_title">Backup paused due to low battery</string>
+    <string name="backup_category_title">BACKUP</string>
     <string name="backup_close">Close backup</string>
     <string name="backup_cloud_space_low_btn_text">Get more</string>
     <string name="backup_cloud_space_low_desc">%1$s in Xiaomi Cloud | Available %2$s</string>
@@ -346,7 +347,10 @@ Connect charger and turn off screen to make memories appear."</string>
     <string name="backup_dirty_num">Total: %s</string>
     <string name="backup_dirty_tip">Not backed up photos and videos</string>
     <string name="backup_disable_message">Gallery needs to clear app cache because you turned off sync with the cloud.</string>
+    <string name="backup_display">Storage reminders</string>
     <string name="backup_file_over_size_desc">"Photos bigger than %1$s and videos bigger than %2$s can't be backed up."</string>
+    <string name="backup_google_description">Keep your photos safe by backing them up to your Google Account</string>
+    <string name="backup_google_name">Google Photos</string>
     <string name="backup_immediately">Back up</string>
     <string name="backup_need_sync_desc">Tap to continue backing up</string>
     <string name="backup_need_sync_title">Backup stopped</string>
@@ -356,6 +360,10 @@ Connect charger and turn off screen to make memories appear."</string>
     <string name="backup_no_wifi_btn_text">Use data</string>
     <string name="backup_no_wifi_desc">You can resume sync while using mobile data</string>
     <string name="backup_no_wifi_title">Sync will resume after you connect to Wi-Fi</string>
+    <string name="backup_off_des">Turn on sync with the cloud to back up photos and videos automatically</string>
+    <string name="backup_onedrive_description">Protect your photos in the cloud and access them on any device</string>
+    <string name="backup_onedrive_name">Microsoft OneDrive</string>
+    <string name="backup_onedrive_single_name">OneDrive</string>
     <string name="backup_only_in_wifi">Only use Wi-Fi to sync photos and videos</string>
     <string name="backup_only_in_wifi_summary">Never use mobile data to sync photos or videos</string>
     <string name="backup_only_wifi_dialog_message">Use mobile data to sync photos and videos?</string>
@@ -1699,6 +1707,8 @@ are available"</string>
     <string name="getverifycode_seconde">s</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
+    <string name="global_cloud_action_upgrade_onedrive">Upgrade OneDrive</string>
+    <string name="global_cloud_full_space_tip_message">Upgrade your cloud storage plan to be able to back up all your photos and videos to the cloud.</string>
     <string name="global_pad">My tablet</string>
     <string name="global_pc">My laptop</string>
     <string name="global_phone">My phone</string>
@@ -2032,6 +2042,7 @@ are available"</string>
     <string name="main_save_compress">Compress and save</string>
     <string name="main_save_error_msg">"Couldn't save changes due to an error"</string>
     <string name="main_save_origin">Save original file</string>
+    <string name="manager_backup">Manage</string>
     <string name="manual_hide_manage">Add \".nomedia\" files</string>
     <string name="manual_hide_state">Added \".nomedia\" files successfully</string>
     <string name="map_album">Map</string>
@@ -2378,6 +2389,7 @@ to personalize Gallery"</string>
     <string name="online_video_vip_transcoding">"About to start VIP streaming…
 Transcoding might take some time when you use this feature for the first time."</string>
     <string name="open">Turn on</string>
+    <string name="open_backup">Turn on</string>
     <string name="open_public_message">Create URL to share with your friends</string>
     <string name="open_public_title">Share</string>
     <string name="open_settings">Settings</string>
@@ -3157,6 +3169,7 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="see_ignore_faces">"View people you've ignored"</string>
     <string name="see_more_settings">Additional settings</string>
     <string name="select_all">Select all</string>
+    <string name="select_backup">Select backup</string>
     <string name="select_image_operation">Adding photos</string>
     <string name="select_item_face">"Is this '%s'?"</string>
     <string name="select_origin_tip">Original file (%s)</string>

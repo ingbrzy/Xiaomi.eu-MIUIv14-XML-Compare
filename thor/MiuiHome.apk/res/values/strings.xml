@@ -288,7 +288,7 @@
     <string name="cloud_app_restore_title">Pending</string>
     <string name="color_group">Group icons by color</string>
     <string name="color_group_anim">Animations in color categories</string>
-    <string name="com.crashlytics.android.build_id">1d8cabade6214052b2e5d01b8b056329</string>
+    <string name="com.crashlytics.android.build_id">0f10011e1f2541cd940e8d826b5160ba</string>
     <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
     <string name="common_home_search_delete">Removing search bar</string>
     <string name="common_home_search_delete_cancle">Cancel</string>
