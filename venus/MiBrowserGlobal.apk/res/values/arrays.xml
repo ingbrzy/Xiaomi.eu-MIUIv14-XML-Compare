@@ -93,19 +93,6 @@
         <item>@string/am</item>
         <item>@string/pm</item>
     </string-array>
-    <string-array name="baidu">
-        <item>百度</item>
-        <item>baidu.com</item>
-        <item>https://m.baidu.com/favicon.ico</item>
-        <item>https://m.baidu.com/s?from=1269a&amp;wd={searchTerms}</item>
-        <item>UTF-8</item>
-        <item>https://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
-    </string-array>
-    <string-array name="baidu_in_list">
-        <item>search_baidu</item>
-        <item>ic_search_engine_baidu</item>
-        <item>baidu</item>
-    </string-array>
     <string-array name="bing">
         <item>Bing</item>
         <item>bing.com</item>
@@ -118,11 +105,6 @@
         <item>search_bing</item>
         <item>ic_search_engine_bing</item>
         <item>bing</item>
-    </string-array>
-    <string-array name="bing_zh_CN_in_list">
-        <item>search_bing</item>
-        <item>ic_search_engine_bing</item>
-        <item>bing_zh_CN</item>
     </string-array>
     <string-array name="bookmarks">
         <item>Google</item>
@@ -756,19 +738,6 @@
     <string-array name="shortcut_dialog_title">
         <item>Message from Browser</item>
         <item>Follow the Olympics with Mi</item>
-    </string-array>
-    <string-array name="sogou">
-        <item>搜狗</item>
-        <item>sogou.com</item>
-        <item>https://wap.sogou.com/favicon.ico</item>
-        <item>https://wap.sogou.com/web/sl?keyword={searchTerms}&amp;bid=sogou-mobp-95e62984b87e9064</item>
-        <item>UTF-8</item>
-        <item>https://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
-    </string-array>
-    <string-array name="sogou_in_list">
-        <item>search_sogou</item>
-        <item>ic_search_engine_sogou</item>
-        <item>sogou</item>
     </string-array>
     <string-array name="solar_terms">
         <item>@string/empty</item>
