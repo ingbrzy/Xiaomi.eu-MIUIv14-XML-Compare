@@ -295,12 +295,16 @@ Toggle off to stop syncing."</string>
     <string name="browserFrameFormResubmitMessage">"The page you're trying to view contains data that has already been submitted. If you resend the data, previous actions (e.g. searches or purchases) will be repeated."</string>
     <string name="browserFrameNetworkErrorLabel">Connection error</string>
     <string name="browser_wallpaper">Wallpapers</string>
+    <string name="browser_wallpaper_activity">Promotions</string>
     <string name="browser_wallpaper_application">Apply</string>
     <string name="browser_wallpaper_art">Art</string>
     <string name="browser_wallpaper_currently_in_use">Applied</string>
+    <string name="browser_wallpaper_gallery">My photos</string>
     <string name="browser_wallpaper_landscape">Scenery</string>
     <string name="browser_wallpaper_more_btn">View more</string>
+    <string name="browser_wallpaper_my">My wallpapers</string>
     <string name="browser_wallpaper_preview">Preview</string>
+    <string name="browser_wallpaper_sub">Get recommendations for holiday-themed and special wallpapers</string>
     <string name="browser_wallpaper_subtitle">Personalize Mi Browser with beautiful wallpapers.</string>
     <string name="browser_wallpaper_system_default">Default</string>
     <string name="browser_wallpaper_title">Wallpapers</string>
@@ -478,8 +482,8 @@ Toggle off to stop syncing."</string>
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">a2f8e3fecaa94ed584824ed5dcfeb1e9</string>
-    <string name="com.miapm.build_id">f4733af439e34e358cb1771c4c3534db</string>
+    <string name="com.crashlytics.android.build_id">abc92d198ddb4df6bdeeb1a0a27a570a</string>
+    <string name="com.miapm.build_id">cd3d33322add49a08caf4baba656b1a6</string>
     <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
     <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
@@ -2531,6 +2535,7 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="skip_current_version">Skip this version</string>
     <string name="sku_price_everymonth">%1$s every month</string>
     <string name="slide_card">Swipe for more</string>
+    <string name="slide_next_video_text">"Next video: "</string>
     <string name="smart_subtitle">"Get an AI-generated summary of the article's content to see the main points at a glance."</string>
     <string name="smart_summary">Smart summary</string>
     <string name="sms_send_success">Sent successfully</string>

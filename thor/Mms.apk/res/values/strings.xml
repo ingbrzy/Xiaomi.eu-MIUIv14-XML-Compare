@@ -46,8 +46,12 @@
     <string name="add_timing">Timed</string>
     <string name="add_to_block_by_number">"Added %s
 to blocklist"</string>
+    <string name="add_to_block_by_number_failed">"Couldn't add %s to blocklist.
+Try again."</string>
     <string name="add_to_block_by_tag">"Messages containing \"%s\"
 added to blocklist"</string>
+    <string name="add_to_block_by_tag_failed">"Couldn't add messages containing \"%s\" to block list.
+Try again."</string>
     <string name="add_to_browser_favorite_failed">"Couldn't add"</string>
     <string name="add_to_browser_favorite_success">Added successfully</string>
     <string name="add_video">Add video</string>
@@ -197,6 +201,7 @@ added to blocklist"</string>
     <string name="click_to_update">Tap to check for updates</string>
     <string name="click_to_view">Tap to view</string>
     <string name="close">Close</string>
+    <string name="cloud_space_not_enough">Cloud storage is full. Upgrade your membership to sync latest items.</string>
     <string name="cloud_state_disabled">Turn on sync with the cloud to sync messages</string>
     <string name="cm_privacy_dialog_allow">Agree</string>
     <string name="cm_privacy_dialog_cancel">Cancel</string>
@@ -250,6 +255,8 @@ added to blocklist"</string>
     <string name="converting_to_text_message">Converting to text message…</string>
     <string name="converting_vcard_failed">"Couldn't convert contact"</string>
     <string name="copy">Copy</string>
+    <string name="copy_message">Copy</string>
+    <string name="copy_message_success">Copied successfully</string>
     <string name="copy_message_text">Copy</string>
     <string name="copy_message_text_success">Copied successfully</string>
     <string name="copy_to_sdcard">Save attachment</string>
@@ -288,7 +295,7 @@ added to blocklist"</string>
     <string name="dialog_complain_tips">Allow Messaging to connect to the network to be able to report items.</string>
     <string name="dialog_message_correct_as_ad">All messages from %s (except verification codes) will be moved to promotional messages.</string>
     <string name="dialog_message_fake_cell_detect_error">Correct the info about this message? To do this, MIUI needs to upload the phone number (%1$s), the contents of the message, and the info about nearby location to its servers.</string>
-    <string name="dialog_message_mx">Mi Message allows you to send messages to other MIUI users without incurring charges. An outgoing SMS message is required to activate Mi Message. Your carrier will charge you for this message. You must agree to our \"%1$s\" and \"%2$s\" before using Mi Message.</string>
+    <string name="dialog_message_mx">Mi Message allows you to send messages to other Xiaomi users without incurring charges. An outgoing SMS message is required to activate Mi Message. Your carrier will charge you for this message. You must agree to our \"%1$s\" and \"%2$s\" before using Mi Message.</string>
     <string name="dialog_quit">Exit</string>
     <string name="dialog_revoke">Withdraw</string>
     <string name="dialog_sim_locked_confirm">OK</string>
@@ -349,6 +356,7 @@ added to blocklist"</string>
     <string name="expire_on">Expires: %s</string>
     <string name="exporting_progress_private_message">Exporting…</string>
     <string name="fail_to_add_attachment">"Couldn't add attachment"</string>
+    <string name="fail_to_add_image">"Couldn't access copied items"</string>
     <string name="fail_to_view_attachment">"Attachment isn't available"</string>
     <string name="failed_to_add_media">"You can't add this %1$s to your message."</string>
     <string name="failed_to_resize_image">Picture not resized.</string>
@@ -418,7 +426,7 @@ added to blocklist"</string>
     <string name="forward_prefix">"Fwd: "</string>
     <string name="found_old_messages">Upload messages from %1$s to %2$s?</string>
     <string name="found_old_messages_title">Upload messages from your other SIM cards?</string>
-    <string name="found_wild_messages_guide_cloud_desc">To sync messages from Xiaomi Cloud, sign in to your Mi Account and turn on SMS sync.</string>
+    <string name="found_wild_messages_guide_cloud_desc">To sync messages from Xiaomi Cloud, sign in to your Xiaomi Account and turn on SMS sync.</string>
     <string name="found_wild_messages_guide_settings_desc">Sync messages from Xiaomi Cloud in the Messaging settings.</string>
     <string name="found_wild_messages_guide_sync_not_started">Sync not started yet</string>
     <string name="found_wild_messages_title">Sync messages from Xiaomi Cloud</string>
@@ -650,8 +658,8 @@ This message might be unsolicited."</string>
     <string name="mx_btn_enable_now">Activate</string>
     <string name="mx_count_dspt">"You've sent %1$d SMS and %2$d MMS for free"</string>
     <string name="mx_current_status">Settings</string>
-    <string name="mx_dspt">"Send SMS and MMS messages to other MIUI devices without incurring charges when you're connected to Wi-Fi."</string>
-    <string name="mx_dspt_listview">Send messages to other MIUI devices without incurring charges</string>
+    <string name="mx_dspt">"Send SMS and MMS messages to other Xiaomi devices without incurring charges when you're connected to Wi-Fi."</string>
+    <string name="mx_dspt_listview">Send messages to other Xiaomi devices without incurring charges</string>
     <string name="mx_dspt_provision_ex2">Privacy Policy</string>
     <string name="mx_enable">Mi Message</string>
     <string name="mx_filter_message_from_stranger">Block Mi Messages from unknown numbers</string>
@@ -747,6 +755,7 @@ An outgoing SMS message is required to activate Mi Message. Your carrier will ch
     <string name="pref_collapse_sp_messages_summary">Automatically group SMS notifications together</string>
     <string name="pref_delivery_ringtone">Delivery sound</string>
     <string name="pref_edit_smsc_address">Short Message service center (SMSC)</string>
+    <string name="pref_feedback_title">Feedback</string>
     <string name="pref_forward_title">Forward</string>
     <string name="pref_hide_verification_code_summary">Automatically hide one-time passwords in message notifications on secured Lock screen</string>
     <string name="pref_messages_to_save">Set number of messages to save</string>
@@ -1045,8 +1054,8 @@ Check out recommended chatbots!"</string>
     <string name="recipients_contain_sub_sim_number">"Looks like there's a secondary SIM number among the recipients. Send this message using secondary SIM."</string>
     <string name="recipients_over_size">Too many recipients.</string>
     <string name="recommend_bar_cancel">Ignore</string>
-    <string name="recommend_bar_message_mx">Mi Message allows you to send messages to other MIUI users without incurring charges.</string>
-    <string name="recommend_bar_message_mx_rcs">Mi Message allows you to send messages to other MIUI users and China Mobile users on the Chinese mainland without incurring charges.</string>
+    <string name="recommend_bar_message_mx">Mi Message allows you to send messages to other Xiaomi users without incurring charges.</string>
+    <string name="recommend_bar_message_mx_rcs">Mi Message allows you to send messages to other Xiaomi users and China Mobile users on the Chinese mainland without incurring charges.</string>
     <string name="recommend_bar_message_rcs">China Mobile Messaging allows you to send messages to other China Mobile users on the Chinese mainland without incurring charges.</string>
     <string name="recommend_bar_message_smart_message">Copy one-time passwords, track packages, use smart menus, and more</string>
     <string name="recommend_bar_ok">Turn on</string>
@@ -1122,7 +1131,8 @@ Check out recommended chatbots!"</string>
     <string name="search_menu_title">Search</string>
     <string name="search_setting_description">Text in your messages</string>
     <string name="search_show_more_results">Show more</string>
-    <string name="second_mms_introduction">Go to Second space</string>
+    <string name="search_sms">Search messages</string>
+    <string name="second_mms_introduction">Switch to Second space to be able to view private messages</string>
     <string name="second_mms_switch">Switch</string>
     <string name="secs">secs</string>
     <string name="security_alert_desc"><font color="#7f000000">"The sender isn't in your contacts.
@@ -1356,6 +1366,7 @@ If you don't agree to grant such permissions or share and upload your personal i
     <string name="title_show_photo_word">Assign contact photos</string>
     <string name="title_show_sms_template">Smart Messaging</string>
     <string name="title_timed_message_dialog">Set timed message</string>
+    <string name="title_timed_remind_message_dialog">Set reminder time</string>
     <string name="title_use_gsm_alphabet">Use GSM alphabet</string>
     <string name="to_address_label">"To: "</string>
     <string name="to_send_wrapper">Will send at %s</string>

@@ -46,6 +46,7 @@
     <string name="alarm_notify_snooze_label">%s snooze</string>
     <string name="alarm_permanent_alert">Ringing</string>
     <string name="alarm_repeat">Repeat</string>
+    <string name="alarm_repeat_self_define_button">Customize</string>
     <string name="alarm_ringtone_picker">Alarms</string>
     <string name="alarm_set_new">Alarm will go off in less than %d minute.</string>
     <string name="alert">Ringtone</string>
@@ -333,6 +334,7 @@
     <string name="life_post_weather_invalid">Tap to get weather info</string>
     <string name="life_post_weather_no_network">Connect to the network to update weather info</string>
     <string name="listen_news_privacy"><Data>In order to provide personalized services and include morning news into your alarms, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our &lt;a href=\"%2$s\">User Agreement&lt;/a> and &lt;a href=\"%3$s\">Privacy Policy&lt;/a>. Agree?</Data></string>
+    <string name="look_sleep_data">View sleep data</string>
     <string name="midnight">Night</string>
     <string name="miui_clock_city_name_local">Local</string>
     <string name="miui_clock_city_name_second">Second clock</string>
@@ -471,6 +473,10 @@ mm"</string>
     <string name="notification_adv_time_entries4"><xliff id="HOUR" refersto="1">%d</xliff> hour in advance</string>
     <string name="notification_adv_time_entries5">None</string>
     <string name="notification_permission_desc">"If you don't grant Notification permissions, you won't be able to turn off alarms when they ring. Grant permission now?"</string>
+    <string name="notification_permission_dialog_content">Allow this app to send notifications in order to receive alarm notifications. You can grant this permission in Settings.</string>
+    <string name="notification_permission_dialog_not_open">Not now</string>
+    <string name="notification_permission_dialog_open">Settings</string>
+    <string name="notification_permission_dialog_title">Permissions required</string>
     <string name="oneshot_alarm">Delete after goes off</string>
     <string name="open_keep_screen">Screen will be kept on</string>
     <string name="open_notification_permission_remind">Allow notifications to be able to turn off alarms</string>
@@ -694,6 +700,7 @@ mm"</string>
     <string name="tv_world_clock_edit_title2">Other saved locations</string>
     <string name="upcoming_alarm">Upcoming alarm: %s</string>
     <string name="upcoming_alarm_hint">You can turn off this alarm now</string>
+    <string name="upcoming_alarm_new">Upcoming alarm: %s</string>
     <string name="update_health_app_desc_new">The sleep tracking feature is provided by Mi Fitness. Update Mi Fitness to its latest version to access related features.</string>
     <string name="update_health_app_new">Update Mi Fitness</string>
     <string name="update_it">Update</string>
