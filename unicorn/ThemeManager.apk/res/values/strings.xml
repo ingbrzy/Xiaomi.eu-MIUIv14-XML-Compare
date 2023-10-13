@@ -65,6 +65,7 @@
     <string name="ad_experience_now">Open</string>
     <string name="ad_in_downloading">Downloading</string>
     <string name="ad_in_installing">Installing</string>
+    <string name="ad_installing">Installing</string>
     <string name="ad_sub_textview_ad">广告</string>
     <string name="ad_sub_textview_divider">m</string>
     <string name="ad_sub_textview_introduction">介绍</string>
