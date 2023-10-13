@@ -276,8 +276,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">407cf69307264edc967807fa1fa11644</string>
-    <string name="com.miapm.build_id">8b3ec557caf8490e9a2fd17fda636644</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">fa55acf97f30434a8fd142c4c3f380f9</string>
+    <string name="com.miapm.build_id">4ff0dc0c419e40099f0b80291966f529</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">Enable</string>
     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
@@ -915,6 +915,13 @@
     <string name="lyric_label">Lyrics</string>
     <string name="lyric_open_other_connect">Download lyrics using mobile network</string>
     <string name="lyric_setting">Lyrics settings</string>
+    <string name="lyrics_guide_button_text">Try it out</string>
+    <string name="lyrics_guide_four">Return to the lyrics page to view</string>
+    <string name="lyrics_guide_one">Tap a search result to select it</string>
+    <string name="lyrics_guide_three">Edit and save the lyrics</string>
+    <string name="lyrics_guide_title">How to search and save lyrics</string>
+    <string name="lyrics_guide_two">Select the lyrics you want and copy them</string>
+    <string name="lyrics_popup_title">Tap to search lyrics</string>
     <string name="m3_ref_typeface_brand_medium">sans-serif-medium</string>
     <string name="m3_ref_typeface_brand_regular">sans-serif</string>
     <string name="m3_ref_typeface_plain_medium">sans-serif-medium</string>
@@ -1557,6 +1564,7 @@ Be Happy"</string>
     <string name="select_local_cover">Select local cover</string>
     <string name="select_local_lyric">Select file</string>
     <string name="select_local_lyric_file">Select local lyrics file</string>
+    <string name="select_lyrics_copy">Select and copy lyric text</string>
     <string name="select_none">Deselect all</string>
     <string name="select_one_language">Select at least %d language</string>
     <string name="select_three_languages">You can select up to %d languages</string>

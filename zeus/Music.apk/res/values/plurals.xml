@@ -158,6 +158,10 @@ Note: File will be deleted from this device as well."</item>
         <item quantity="other">Following %d people</item>
         <item quantity="one">Following %d person</item>
     </plurals>
+    <plurals name="media_store_new_songs_add">
+        <item quantity="other">%d new songs</item>
+        <item quantity="one">%d new song</item>
+    </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d items selected</item>
         <item quantity="one">%d item selected</item>
