@@ -226,8 +226,9 @@
     <string name="ppt_video_install_videoplayer_tip">Install a video player</string>
     <string name="ppt_volume_is_too_low_tip">Put on your headphones or turn up the volume</string>
     <string name="privacy_mobile">https://www.wps.com/privacy/mobile/</string>
-    <string name="privacy_protecte">https://www.wps.com/privacy/privacyprotect/</string>
+    <string name="privacy_protecte">https://privacy.wps.cn/policies/privacy/wps-file-viewer</string>
     <string name="projection_fail">"Couldn't cast. Check your external monitor and try again."</string>
+    <string name="public_2pic">Export to image</string>
     <string name="public_ack">知道了</string>
     <string name="public_amazon_autosave_finished">The document has been auto saved</string>
     <string name="public_app_language">2052</string>
@@ -273,6 +274,7 @@
     <string name="public_et_filter_search_empty">请输入查找内容</string>
     <string name="public_exit_phonemode">Exit mobile view</string>
     <string name="public_exit_play">Exit</string>
+    <string name="public_export_pdf">Export to PDF</string>
     <string name="public_feedback">我要反馈</string>
     <string name="public_fileNotExist">File no longer exists. The file may be renamed, moved, cleared or deleted by other programs.</string>
     <string name="public_file_cant_write_tips">"File can't be saved to the current directory. Save to another directory as a new file?"</string>
@@ -334,6 +336,8 @@
     <string name="public_other_app">Open in another app</string>
     <string name="public_outline">Contents</string>
     <string name="public_paste">Paste</string>
+    <string name="public_pdf2word">PDF to Word</string>
+    <string name="public_pdfFillForm">Fill Form</string>
     <string name="public_pdf_converter_item_name">PDF</string>
     <string name="public_pdf_converter_normal">Regular</string>
     <string name="public_pdf_converter_open_tip">Open this document?</string>
@@ -353,6 +357,7 @@
     <string name="public_picture_savefail">图片损坏，无法保存</string>
     <string name="public_play">Play</string>
     <string name="public_ppt_label">Mi Presentation Viewer</string>
+    <string name="public_privacy_policy">Privacy Policy</string>
     <string name="public_privacy_update">&lt;Data>To fully understand your rights as a user as well as the ways in which we use your data, read and agree to the new version of our &lt;a href=\"%s\">Privacy Policy&lt;/a> before you continue.&lt;/Data></string>
     <string name="public_re_licensing">Grant authorization</string>
     <string name="public_readOnlyMode">Read only</string>
@@ -414,6 +419,7 @@
     <string name="public_wpscloud_recovery_edit_not_exist_tips">The document was deleted by other apps and has been recovered by WPS Cloud Docs.</string>
     <string name="public_wpscloud_recovery_edit_not_save_tips">"Last edited content wasn't saved and has been recovered by WPS Cloud Docs."</string>
     <string name="public_wpscloud_recovery_edit_not_saved_and_to_save">Save the document securely</string>
+    <string name="public_writer2pic">Export to Image-Only File</string>
     <string name="public_writer_font_enlarge">放大字号</string>
     <string name="public_writer_font_narrow">缩小字号</string>
     <string name="public_writer_label">Mi Text Viewer</string>
@@ -447,7 +453,7 @@
     <string name="ss_toolbar_sheets_unhided">全部工作表</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="wps_lite_app_svn">svn</string>
-    <string name="wps_lite_app_version">3.3.0</string>
+    <string name="wps_lite_app_version">3.5.0</string>
     <string name="wps_lite_xiaomi_app_packageName">Mi Doc Viewer (Powered by WPS)</string>
     <string name="writer_characters">Characters (no spaces)</string>
     <string name="writer_characters_with_spaces">Characters (with spaces)</string>
