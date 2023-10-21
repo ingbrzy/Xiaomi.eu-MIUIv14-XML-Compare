@@ -63,40 +63,6 @@
         <item>@string/am</item>
         <item>@string/pm</item>
     </string-array>
-    <string-array name="animator_duration_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
-    </string-array>
-    <string-array name="animator_duration_scale_values">
-        <item>0</item>
-        <item>.5</item>
-        <item>1</item>
-        <item>1.5</item>
-        <item>2</item>
-        <item>5</item>
-        <item>10</item>
-    </string-array>
-    <string-array name="app_process_limit_entries">
-        <item>Standard limit</item>
-        <item>No background processes</item>
-        <item>At most 1 process</item>
-        <item>At most 2 processes</item>
-        <item>At most 3 processes</item>
-        <item>At most 4 processes</item>
-    </string-array>
-    <string-array name="app_process_limit_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </string-array>
     <array name="avatar_image_descriptions" />
     <array name="avatar_images" />
     <string-array name="avoid_disturb_app_whitelist">
@@ -134,245 +100,31 @@
         <item>@drawable/square_ripple</item>
         <item>@drawable/right_rounded_ripple</item>
     </array>
-    <string-array name="battery_labels">
-        <item>0%</item>
-        <item>50%</item>
-        <item>100%</item>
-    </string-array>
     <string-array name="battery_options">
         <item>Always show percentage</item>
         <item>Show percentage when charging (default)</item>
         <item>"Don't show this icon"</item>
     </string-array>
-    <integer-array name="batterymeter_bolt_points">
-        <item>73</item>
-        <item>0</item>
-        <item>392</item>
-        <item>0</item>
-        <item>201</item>
-        <item>259</item>
-        <item>442</item>
-        <item>259</item>
-        <item>4</item>
-        <item>703</item>
-        <item>157</item>
-        <item>334</item>
-        <item>0</item>
-        <item>334</item>
-    </integer-array>
     <integer-array name="batterymeter_color_levels">
-        <item>15</item>
+        <item>20</item>
         <item>100</item>
     </integer-array>
     <array name="batterymeter_color_values">
         <item>?android:colorError</item>
         <item>@android:color/white</item>
     </array>
-    <integer-array name="batterymeter_plus_points">
-        <item>3</item>
-        <item>0</item>
-        <item>5</item>
-        <item>0</item>
-        <item>5</item>
-        <item>3</item>
-        <item>8</item>
-        <item>3</item>
-        <item>8</item>
-        <item>5</item>
-        <item>5</item>
-        <item>5</item>
-        <item>5</item>
-        <item>8</item>
-        <item>3</item>
-        <item>8</item>
-        <item>3</item>
-        <item>5</item>
-        <item>0</item>
-        <item>5</item>
-        <item>0</item>
-        <item>3</item>
-        <item>3</item>
-        <item>3</item>
-    </integer-array>
-    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Use System Selection (Default)</item>
-        <item>16 bits/sample</item>
-        <item>24 bits/sample</item>
-        <item>32 bits/sample</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Use System Selection (Default)</item>
-        <item>16 bits/sample</item>
-        <item>24 bits/sample</item>
-        <item>32 bits/sample</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_bits_per_sample_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>4</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>Use System Selection (Default)</item>
-        <item>Mono</item>
-        <item>Stereo</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>Use System Selection (Default)</item>
-        <item>Mono</item>
-        <item>Stereo</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_channel_mode_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
-        <item>Optimized for Audio Quality</item>
-        <item>Balanced Audio And Connection Quality</item>
-        <item>Optimized for Connection Quality</item>
-        <item>Best Effort (Adaptive Bit Rate)</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
-        <item>Optimized for Audio Quality (990kbps/909kbps)</item>
-        <item>Balanced Audio And Connection Quality (660kbps/606kbps)</item>
-        <item>Optimized for Connection Quality (330kbps/303kbps)</item>
-        <item>Best Effort (Adaptive Bit Rate)</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_values">
-        <item>1000</item>
-        <item>1001</item>
-        <item>1002</item>
-        <item>1003</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Use System Selection (Default)</item>
-        <item>44.1 kHz</item>
-        <item>48.0 kHz</item>
-        <item>88.2 kHz</item>
-        <item>96.0 kHz</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Use System Selection (Default)</item>
-        <item>44.1 kHz</item>
-        <item>48.0 kHz</item>
-        <item>88.2 kHz</item>
-        <item>96.0 kHz</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>4</item>
-        <item>8</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>Use System Selection (Default)</item>
-        <item>SBC</item>
-        <item>AAC</item>
-        <item>Qualcomm® aptX™ audio</item>
-        <item>Qualcomm® aptX™ HD audio</item>
-        <item>LDAC</item>
-        <item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LC3</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_titles">
-        <item>Use System Selection (Default)</item>
-        <item>SBC</item>
-        <item>AAC</item>
-        <item>Qualcomm® aptX™ audio</item>
-        <item>Qualcomm® aptX™ HD audio</item>
-        <item>LDAC</item>
-        <item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LC3</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_values">
-        <item>1000000</item>
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-    </string-array>
-    <string-array name="bluetooth_audio_active_device_summaries">
-        <item></item>
-        <item>, active</item>
-        <item>, active (media)</item>
-        <item>, active (phone)</item>
-    </string-array>
-    <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp15</item>
-        <item>avrcp13</item>
-        <item>avrcp14</item>
-        <item>avrcp16</item>
-    </string-array>
-    <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.5 (Default)</item>
-        <item>AVRCP 1.3</item>
-        <item>AVRCP 1.4</item>
-        <item>AVRCP 1.6</item>
-    </string-array>
-    <string-array name="bluetooth_map_version_values">
-        <item>map12</item>
-        <item>map13</item>
-        <item>map14</item>
-    </string-array>
-    <string-array name="bluetooth_map_versions">
-        <item>MAP 1.2 (Default)</item>
-        <item>MAP 1.3</item>
-        <item>MAP 1.4</item>
-    </string-array>
-    <string-array name="bt_hci_snoop_log_entries">
-        <item>Disabled</item>
-        <item>Enabled Filtered</item>
-        <item>Enabled</item>
-        <item>Enabled Headers Filtered</item>
-        <item>Enabled Media Pkts Filtered</item>
-    </string-array>
-    <string-array name="bt_hci_snoop_log_values">
-        <item>disabled</item>
-        <item>filtered</item>
-        <item>full</item>
-        <item>snoopheadersfiltered</item>
-        <item>mediapktsfiltered</item>
-    </string-array>
-    <string-array name="bt_hci_snoop_log_values_enhanced">
-        <item>snoopheadersfiltered</item>
-        <item>mediapktsfiltered</item>
-    </string-array>
-    <array name="bt_icon_bg_colors">
-        <item>@color/bt_color_bg_1</item>
-        <item>@color/bt_color_bg_2</item>
-        <item>@color/bt_color_bg_3</item>
-        <item>@color/bt_color_bg_4</item>
-        <item>@color/bt_color_bg_5</item>
-        <item>@color/bt_color_bg_6</item>
-        <item>@color/bt_color_bg_7</item>
+    <array name="bouncer_pin_shapes">
+        <item>@drawable/pin_dot_shape_1_avd</item>
+        <item>@drawable/pin_dot_shape_2_avd</item>
+        <item>@drawable/pin_dot_shape_3_avd</item>
+        <item>@drawable/pin_dot_shape_4_avd</item>
+        <item>@drawable/pin_dot_shape_5_avd</item>
+        <item>@drawable/pin_dot_shape_6_avd</item>
     </array>
-    <array name="bt_icon_fg_colors">
-        <item>@color/bt_color_icon_1</item>
-        <item>@color/bt_color_icon_2</item>
-        <item>@color/bt_color_icon_3</item>
-        <item>@color/bt_color_icon_4</item>
-        <item>@color/bt_color_icon_5</item>
-        <item>@color/bt_color_icon_6</item>
-        <item>@color/bt_color_icon_7</item>
+    <array name="carrierId_2032_iconOverrides">
+        <item>5G_PLUS</item>
+        <item>@drawable/ic_5g_plus_mobiledata_default</item>
     </array>
-    <string-array name="cached_apps_freezer_entries">
-        <item>@string/cached_apps_freezer_device_default</item>
-        <item>@string/cached_apps_freezer_enabled</item>
-        <item>@string/cached_apps_freezer_disabled</item>
-    </string-array>
-    <string-array name="cached_apps_freezer_values">
-        <item>device_default</item>
-        <item>enabled</item>
-        <item>disabled</item>
-    </string-array>
     <string-array name="chinese_days">
         <item>@string/chinese_day_1</item>
         <item>@string/chinese_day_2</item>
@@ -455,29 +207,6 @@
         <item>Show hours and minutes (default)</item>
         <item>"Don't show this icon"</item>
     </string-array>
-    <string-array name="color_mode_descriptions">
-        <item>Enhanced colors</item>
-        <item>Natural colors as seen by the eye</item>
-        <item>Colors optimized for digital content</item>
-    </string-array>
-    <integer-array name="color_mode_ids">
-        <item>0</item>
-        <item>-1</item>
-        <item>7</item>
-    </integer-array>
-    <string-array name="color_mode_names">
-        <item>Vibrant (default)</item>
-        <item>Natural</item>
-        <item>Standard</item>
-    </string-array>
-    <integer-array name="config_5g_signal_rsrp_thresholds">
-        <item>-140</item>
-        <item>-125</item>
-        <item>-115</item>
-        <item>-110</item>
-        <item>-102</item>
-        <item>-44</item>
-    </integer-array>
     <string-array name="config_allowFloatPackages">
         <item>com.apple.android.music</item>
         <item>com.amazon.avod.thirdpartyclient</item>
@@ -853,6 +582,7 @@
         <item>com.google.android.apps.messaging</item>
         <item>com.ss.android.lark.kami</item>
     </string-array>
+    <array name="config_appsSupportMultiInstancesSplit" />
     <array name="config_blockBadgePackages" />
     <array name="config_blockFloatPackages" />
     <array name="config_blockKeyguardPackages" />
@@ -907,6 +637,7 @@
         <item>400</item>
     </integer-array>
     <string-array name="config_canCustomNotificationAppIcon">
+        <item>com.android.bluetooth</item>
         <item>com.android.nfc</item>
         <item>com.xiaomi.bluetooth</item>
         <item>com.miui.securitycenter</item>
@@ -918,6 +649,9 @@
         <item>com.miui.voiceassist</item>
         <item>com.xiaomi.mirror</item>
         <item>com.milink.service</item>
+    </string-array>
+    <string-array name="config_canCustomNotificationBg">
+        <item>com.google.android.apps.maps</item>
     </string-array>
     <string-array name="config_canSendSubstituteNotificationPackages">
         <item>com.xiaomi.xmsf</item>
@@ -1028,16 +762,14 @@
         <item>cn.xuexi.android</item>
         <item>com.turkcell.bip</item>
     </string-array>
-    <string-array name="config_charge_supportWirelessStrongSuper">
-        <item>cas</item>
-        <item>venus</item>
-        <item>star</item>
-        <item>mars</item>
-    </string-array>
     <string-array name="config_charge_support_lite">
         <item>ginkgo</item>
         <item>wayne</item>
+        <item>river</item>
+        <item>sky</item>
+        <item>opal</item>
         <item>whyred</item>
+        <item>camellian</item>
         <item>tulip</item>
         <item>lavender</item>
         <item>lotus</item>
@@ -1053,12 +785,10 @@
         <item>cannon</item>
         <item>sunny</item>
         <item>camellia</item>
+        <item>rosemary</item>
+        <item>evergo</item>
+        <item>XIG03</item>
     </string-array>
-    <array name="config_collapsed_statusbar_icon_blocklist">
-        <item>@android:string/status_bar_volume</item>
-        <item>@android:string/status_bar_alarm_clock</item>
-        <item>@android:string/status_bar_call_strength</item>
-    </array>
     <array name="config_controlsPreferredPackages" />
     <string-array name="config_disableAutoGroupSummaryPackages">
         <item>com.xiaomi.xmsf</item>
@@ -1080,55 +810,43 @@
         <item>0</item>
         <item>0</item>
     </integer-array>
-    <string-array name="config_drip_left_statusBarIcons">
-        <item>zen</item>
-        <item>volume</item>
-        <item>alarm_clock</item>
-        <item>nfc</item>
-        <item>headset</item>
-        <item>micphone</item>
-        <item>ble_unlock_mode</item>
-    </string-array>
-    <string-array name="config_drip_right_block_statusBarIcons">
-        <item>network_speed</item>
-        <item>micphone</item>
-        <item>headset</item>
-        <item>mikey</item>
-        <item>call_record</item>
-        <item>privacy_mode</item>
-        <item>ble_unlock_mode</item>
-        <item>zen</item>
-        <item>gps</item>
-        <item>missed_call</item>
-        <item>ime</item>
-        <item>cast</item>
-        <item>bluetooth_handsfree_battery</item>
-        <item>nfc</item>
-        <item>tty</item>
-        <item>speakerphone</item>
-        <item>volume</item>
-        <item>alarm_clock</item>
-    </string-array>
-    <string-array name="config_except_charge_support_lite">
-        <item>curtana</item>
-        <item>excalibur</item>
-        <item>joyeuse</item>
-        <item>gram</item>
-    </string-array>
+    <array name="config_face_acquire_device_entry_ignorelist" />
     <array name="config_face_auth_props" />
-    <array name="config_keyguard_statusbar_icon_blocklist">
-        <item>@android:string/status_bar_volume</item>
-        <item>@android:string/status_bar_alarm_clock</item>
-        <item>@android:string/status_bar_call_strength</item>
-    </array>
+    <integer-array name="config_face_auth_wake_up_triggers">
+        <item>1</item>
+        <item>4</item>
+        <item>6</item>
+        <item>7</item>
+        <item>9</item>
+        <item>10</item>
+        <item>12</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+    </integer-array>
+    <array name="config_face_help_msgs_defer_until_timeout" />
+    <integer-array name="config_face_help_msgs_when_fingerprint_enrolled">
+        <item>3</item>
+        <item>25</item>
+        <item>26</item>
+    </integer-array>
+    <string-array name="config_keyguardQuickAffordanceDefaults">
+        <item>bottom_start:</item>
+        <item>bottom_end:</item>
+    </string-array>
+    <string-array name="config_keyguardQuickAffordanceSlots">
+        <item>bottom_start:1</item>
+        <item>bottom_end:1</item>
+    </string-array>
     <integer-array name="config_notification_snooze_times">
         <item>15</item>
         <item>30</item>
         <item>60</item>
         <item>120</item>
     </integer-array>
-    <string-array name="config_pluginWhitelist">
+    <string-array name="config_pluginAllowlist">
         <item>com.android.systemui</item>
+        <item>com.miui.aod</item>
         <item>miui.systemui.plugin</item>
     </string-array>
     <string-array name="config_preInstalledPackages">
@@ -1170,29 +888,14 @@
         <item>wind_down_first_time_setup:custom(com.google.android.apps.wellbeing/.screen.ui.GrayscaleTileService)</item>
         <item>focus_mode_first_time_setup:custom(com.google.android.apps.wellbeing/.focusmode.quicksettings.FocusModeTileService)</item>
     </string-array>
-    <array name="config_roundedCornerBottomDrawableArray">
-        <item>@drawable/rounded_corner_bottom</item>
-        <item>@drawable/rounded_corner_bottom_secondary</item>
-    </array>
-    <array name="config_roundedCornerDrawableArray">
-        <item>@drawable/rounded</item>
-        <item>@drawable/rounded_secondary</item>
-    </array>
-    <array name="config_roundedCornerTopDrawableArray">
-        <item>@drawable/rounded_corner_top</item>
-        <item>@drawable/rounded_corner_top_secondary</item>
-    </array>
-    <array name="config_showSpnByGIDWhenAirPlane" />
     <string-array name="config_statusBarIcons">
         <item>network_speed</item>
+        <item>mute</item>
         <item>micphone</item>
         <item>headset</item>
         <item>mikey</item>
-        <item>call_record</item>
         <item>privacy_mode</item>
-        <item>ble_unlock_mode</item>
         <item>nfc</item>
-        <item>zen</item>
         <item>gps</item>
         <item>missed_call</item>
         <item>managed_profile</item>
@@ -1200,21 +903,21 @@
         <item>ime</item>
         <item>cast</item>
         <item>location</item>
-        <item>bluetooth</item>
-        <item>bluetooth_handsfree_battery</item>
         <item>stealth</item>
         <item>tty</item>
-        <item>speakerphone</item>
-        <item>volume</item>
         <item>alarm_clock</item>
         <item>vpn</item>
         <item>ethernet</item>
-        <item>no_sim</item>
+        <item>bluetooth</item>
+        <item>bluetooth_handsfree_battery</item>
+        <item>hotspot</item>
+        <item>zen</item>
+        <item>volume</item>
+        <item>airplane</item>
+        <item>hd</item>
         <item>mobile</item>
         <item>demo_mobile</item>
-        <item>airplane</item>
-        <item>hotspot</item>
-        <item>slave_wifi</item>
+        <item>no_sim</item>
         <item>wifi</item>
         <item>demo_wifi</item>
     </string-array>
@@ -1274,16 +977,6 @@
     <array name="data_type_name_mcc_mnc_key" />
     <array name="data_type_name_mcc_mnc_value" />
     <array name="data_type_name_mcc_value" />
-    <string-array name="debug_hw_overdraw_entries">
-        <item>Off</item>
-        <item>Show overdraw areas</item>
-        <item>Show areas for Deuteranomaly</item>
-    </string-array>
-    <string-array name="debug_hw_overdraw_values">
-        <item>false</item>
-        <item>show</item>
-        <item>show_deuteranomaly</item>
-    </string-array>
     <string-array name="detailed_am_pms">
         <item>@string/midnight</item>
         <item>@string/early_morning</item>
@@ -1293,12 +986,6 @@
         <item>@string/evening</item>
         <item>@string/night</item>
     </string-array>
-    <string-array name="device_support_pickup_by_MTK">
-        <item>cactus</item>
-        <item>cereus</item>
-        <item>lotus</item>
-    </string-array>
-    <array name="device_support_video_24_wallpaper" />
     <array name="doze_brightness_sensor_name_posture_mapping" />
     <integer-array name="doze_single_tap_uses_prox_posture_mapping">
         <item>1</item>
@@ -1320,36 +1007,18 @@
         <item>@string/earthly_branches_xu</item>
         <item>@string/earthly_branches_hai</item>
     </string-array>
-    <string-array name="enable_opengl_traces_entries">
-        <item>None</item>
-        <item>Logcat</item>
-        <item>Systrace (Graphics)</item>
-        <item>Call stack on glGetError</item>
-    </string-array>
-    <string-array name="enable_opengl_traces_values">
-        <item>0</item>
-        <item>1</item>
-        <item>systrace</item>
-        <item>error</item>
+    <string-array name="entryvalues_font_size">
+        <item>0.85</item>
+        <item>1.0</item>
+        <item>1.15</item>
+        <item>1.30</item>
+        <item>1.50</item>
+        <item>1.80</item>
+        <item>2.0</item>
     </string-array>
     <string-array name="eras">
         <item>@string/eras_bc</item>
         <item>@string/eras_ad</item>
-    </string-array>
-    <string-array name="hdcp_checking_summaries">
-        <item>Never use HDCP checking</item>
-        <item>Use HDCP checking for DRM content only</item>
-        <item>Always use HDCP checking</item>
-    </string-array>
-    <string-array name="hdcp_checking_titles">
-        <item>Never check</item>
-        <item>Check for DRM content only</item>
-        <item>Always check</item>
-    </string-array>
-    <string-array name="hdcp_checking_values">
-        <item>never</item>
-        <item>drm-only</item>
-        <item>always</item>
     </string-array>
     <string-array name="heavenly_stems">
         <item>@string/heavenly_stems_jia</item>
@@ -1397,7 +1066,6 @@
         <item>com.whatsapp</item>
         <item>com.skype.raider</item>
     </string-array>
-    <array name="kg_wrong_puk_code_message_list" />
     <string-array name="local_white_list">
         <item>com.xiaomi.wearable</item>
         <item>com.sohu.inputmethod.sogou.xiaomi</item>
@@ -1556,7 +1224,6 @@
         <item>com.miui.bugreport</item>
         <item>com.android.systemui</item>
     </string-array>
-    <array name="locale_carrier_names" />
     <string-array name="lockscreen_num_pad_klondike">
         <item>+</item>
         <item></item>
@@ -1568,21 +1235,6 @@
         <item>PQRS</item>
         <item>TUV</item>
         <item>WXYZ</item>
-    </string-array>
-    <string-array name="lockscreen_sc_slide_not_open_camera">
-        <item>com.android.camera</item>
-        <item>com.android.phone</item>
-        <item>com.android.incallui</item>
-        <item>com.tencent.mobileqq</item>
-        <item>com.tencent.qqlite</item>
-        <item>com.tencent.mm</item>
-    </string-array>
-    <integer-array name="miui_config_hideKeyguardPresentationDisplayIds">
-        <item>-1</item>
-    </integer-array>
-    <string-array name="miui_notification_aggregate_category">
-        <item>This is recommended content.</item>
-        <item>This is an ad.</item>
     </string-array>
     <string-array name="months">
         <item>@string/month_january</item>
@@ -1650,35 +1302,6 @@
         <item>left,back,home,recent,right;space;space</item>
         <item>space;space;left,back,home,recent,right</item>
     </string-array>
-    <array name="origin_carrier_names" />
-    <string-array name="overlay_display_devices_entries">
-        <item>None</item>
-        <item>480p</item>
-        <item>480p (secure)</item>
-        <item>720p</item>
-        <item>720p (secure)</item>
-        <item>1080p</item>
-        <item>1080p (secure)</item>
-        <item>4K</item>
-        <item>4K (secure)</item>
-        <item>4K (upscaled)</item>
-        <item>4K (upscaled, secure)</item>
-        <item>720p, 1080p (dual screen)</item>
-    </string-array>
-    <string-array name="overlay_display_devices_values">
-        <item></item>
-        <item>720x480/142</item>
-        <item>720x480/142,secure</item>
-        <item>1280x720/213</item>
-        <item>1280x720/213,secure</item>
-        <item>1920x1080/320</item>
-        <item>1920x1080/320,secure</item>
-        <item>3840x2160/320</item>
-        <item>3840x2160/320,secure</item>
-        <item>1920x1080/320|3840x2160/640</item>
-        <item>1920x1080/320|3840x2160/640,secure</item>
-        <item>1280x720/213;1920x1080/320</item>
-    </string-array>
     <array name="proximity_sensor_posture_mapping" />
     <array name="proximity_sensor_secondary_posture_mapping" />
     <string-array name="qs_control_independent_tiles">
@@ -1702,78 +1325,6 @@
         <item>SG</item>
         <item>US</item>
         <item>TR</item>
-    </string-array>
-    <string-array name="select_logd_size_lowram_titles">
-        <item>Off</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-    </string-array>
-    <string-array name="select_logd_size_summaries">
-        <item>Off</item>
-        <item>64K per log buffer</item>
-        <item>256K per log buffer</item>
-        <item>1M per log buffer</item>
-        <item>4M per log buffer</item>
-        <item>8M per log buffer</item>
-    </string-array>
-    <string-array name="select_logd_size_titles">
-        <item>Off</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-        <item>4M</item>
-        <item>8M</item>
-    </string-array>
-    <string-array name="select_logd_size_values">
-        <item>32768</item>
-        <item>65536</item>
-        <item>262144</item>
-        <item>1048576</item>
-        <item>4194304</item>
-        <item>8388608</item>
-    </string-array>
-    <string-array name="select_logpersist_summaries">
-        <item>Off</item>
-        <item>All log buffers</item>
-        <item>All but radio log buffers</item>
-        <item>kernel log buffer only</item>
-    </string-array>
-    <string-array name="select_logpersist_titles">
-        <item>Off</item>
-        <item>All</item>
-        <item>All but radio</item>
-        <item>kernel only</item>
-    </string-array>
-    <string-array name="select_logpersist_values">
-        <item></item>
-        <item>all</item>
-        <item>default,security,kernel</item>
-        <item>kernel</item>
-    </string-array>
-    <string-array name="show_non_rect_clip_entries">
-        <item>Off</item>
-        <item>Draw non-rectangular clip region in blue</item>
-        <item>Highlight tested drawing commands in green</item>
-    </string-array>
-    <string-array name="show_non_rect_clip_values">
-        <item>hide</item>
-        <item>region</item>
-        <item>highlight</item>
-    </string-array>
-    <string-array name="simulate_color_space_entries">
-        <item>@string/daltonizer_mode_disabled</item>
-        <item>@string/daltonizer_mode_monochromacy</item>
-        <item>@string/daltonizer_mode_deuteranomaly</item>
-        <item>@string/daltonizer_mode_protanomaly</item>
-        <item>@string/daltonizer_mode_tritanomaly</item>
-    </string-array>
-    <string-array name="simulate_color_space_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>2</item>
-        <item>1</item>
-        <item>3</item>
     </string-array>
     <string-array name="solar_terms">
         <item>@string/empty</item>
@@ -1809,6 +1360,7 @@
         <item>com.xiaomi.gamecenter.sdk.service</item>
     </string-array>
     <string-array name="system_foreground_notification_whitelist">
+        <item>com.xiaomi.mis</item>
         <item>com.miui.voicetrigger</item>
         <item>com.xiaomi.uatalive:mimonitor_bootload</item>
         <item>com.jtom.userprobation</item>
@@ -1920,7 +1472,17 @@
         <item>Off</item>
         <item>On</item>
     </string-array>
+    <string-array name="tile_states_dream">
+        <item>Unavailable</item>
+        <item>Off</item>
+        <item>On</item>
+    </string-array>
     <string-array name="tile_states_flashlight">
+        <item>Unavailable</item>
+        <item>Off</item>
+        <item>On</item>
+    </string-array>
+    <string-array name="tile_states_font_scaling">
         <item>Unavailable</item>
         <item>Off</item>
         <item>On</item>
@@ -2005,93 +1567,11 @@
         <item>Off</item>
         <item>On</item>
     </string-array>
-    <string-array name="track_frame_time_entries">
-        <item>Off</item>
-        <item>On screen as bars</item>
-        <item>In adb shell dumpsys gfxinfo</item>
-    </string-array>
-    <string-array name="track_frame_time_values">
-        <item>false</item>
-        <item>visual_bars</item>
-        <item>true</item>
-    </string-array>
-    <string-array name="transition_animation_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
-    </string-array>
-    <string-array name="transition_animation_scale_values">
-        <item>0</item>
-        <item>.5</item>
-        <item>1</item>
-        <item>1.5</item>
-        <item>2</item>
-        <item>5</item>
-        <item>10</item>
-    </string-array>
-    <string-array name="tts_demo_string_langs">
-        <item>eng</item>
-        <item>fra</item>
-        <item>deu</item>
-        <item>ita</item>
-        <item>spa</item>
-        <item>kor</item>
-    </string-array>
-    <string-array name="tts_demo_strings">
-        <item>This is an example of speech synthesis in English.</item>
-        <item>Voici un échantillon de synthèse vocale en français.</item>
-        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
-        <item>Questo è un esempio di sintesi vocale in italiano.</item>
-        <item>Este es un ejemplo de síntesis de voz en español.</item>
-        <item>이것은 한국어 음성 합성의 예입니다.</item>
-    </string-array>
-    <string-array name="tts_rate_entries">
-        <item>Very slow</item>
-        <item>Slow</item>
-        <item>Normal</item>
-        <item>Fast</item>
-        <item>Faster</item>
-        <item>Very fast</item>
-        <item>Rapid</item>
-        <item>Very rapid</item>
-        <item>Fastest</item>
-    </string-array>
-    <string-array name="tts_rate_values">
-        <item>60</item>
-        <item>80</item>
-        <item>100</item>
-        <item>150</item>
-        <item>200</item>
-        <item>250</item>
-        <item>300</item>
-        <item>350</item>
-        <item>400</item>
-    </string-array>
     <string-array name="udfps_accessibility_touch_hints">
         <item>Move left</item>
         <item>Move down</item>
         <item>Move right</item>
         <item>Move up</item>
-    </string-array>
-    <string-array name="usb_configuration_titles">
-        <item>Charging</item>
-        <item>MTP (Media Transfer Protocol)</item>
-        <item>PTP (Picture Transfer Protocol)</item>
-        <item>RNDIS (USB Ethernet)</item>
-        <item>Audio Source</item>
-        <item>MIDI</item>
-    </string-array>
-    <string-array name="usb_configuration_values">
-        <item>none</item>
-        <item>mtp</item>
-        <item>ptp</item>
-        <item>rndis</item>
-        <item>audio_source</item>
-        <item>midi</item>
     </string-array>
     <string-array name="week_days">
         <item>@string/sunday</item>
@@ -2120,34 +1600,6 @@
         <item>@string/friday_shortest</item>
         <item>@string/saturday_shortest</item>
     </string-array>
-    <string-array name="wifi_status">
-        <item></item>
-        <item>Scanning…</item>
-        <item>Connecting…</item>
-        <item>Authenticating…</item>
-        <item>Obtaining IP address…</item>
-        <item>Connected</item>
-        <item>Suspended</item>
-        <item>Disconnecting…</item>
-        <item>Disconnected</item>
-        <item>Unsuccessful</item>
-        <item>Blocked</item>
-        <item>Temporarily avoiding poor connection</item>
-    </string-array>
-    <string-array name="wifi_status_with_ssid">
-        <item></item>
-        <item>Scanning…</item>
-        <item>Connecting to %1$s…</item>
-        <item>Authenticating with %1$s…</item>
-        <item>Obtaining IP address from %1$s…</item>
-        <item>Connected to %1$s</item>
-        <item>Suspended</item>
-        <item>Disconnecting from %1$s…</item>
-        <item>Disconnected</item>
-        <item>Unsuccessful</item>
-        <item>Blocked</item>
-        <item>Temporarily avoiding poor connection</item>
-    </string-array>
     <string-array name="wifitrackerlib_wifi_status">
         <item></item>
         <item>Scanning…</item>
@@ -2161,23 +1613,5 @@
         <item>Unsuccessful</item>
         <item>Blocked</item>
         <item>Temporarily avoiding poor connection</item>
-    </string-array>
-    <string-array name="window_animation_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
-    </string-array>
-    <string-array name="window_animation_scale_values">
-        <item>0</item>
-        <item>.5</item>
-        <item>1</item>
-        <item>1.5</item>
-        <item>2</item>
-        <item>5</item>
-        <item>10</item>
     </string-array>
 </resources>

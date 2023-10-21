@@ -76,7 +76,7 @@
         <item>334</item>
     </integer-array>
     <integer-array name="batterymeter_color_levels">
-        <item>15</item>
+        <item>20</item>
         <item>100</item>
     </integer-array>
     <array name="batterymeter_color_values">
@@ -157,12 +157,6 @@
         <item>24 bits/sample</item>
         <item>32 bits/sample</item>
     </string-array>
-    <string-array name="bluetooth_a2dp_codec_bits_per_sample_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>4</item>
-    </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
         <item>Use System Selection (Default)</item>
         <item>Mono</item>
@@ -172,11 +166,6 @@
         <item>Use System Selection (Default)</item>
         <item>Mono</item>
         <item>Stereo</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_channel_mode_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
         <item>Optimized for Audio Quality</item>
@@ -189,12 +178,6 @@
         <item>Balanced Audio And Connection Quality (660kbps/606kbps)</item>
         <item>Optimized for Connection Quality (330kbps/303kbps)</item>
         <item>Best Effort (Adaptive Bit Rate)</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_values">
-        <item>1000</item>
-        <item>1001</item>
-        <item>1002</item>
-        <item>1003</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Use System Selection (Default)</item>
@@ -210,13 +193,6 @@
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>4</item>
-        <item>8</item>
-    </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
         <item>Use System Selection (Default)</item>
         <item>SBC</item>
@@ -224,9 +200,10 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
+        <item>LC3</item>
+        <item>Opus</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LC3</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Use System Selection (Default)</item>
@@ -235,20 +212,10 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
+        <item>LC3</item>
+        <item>Opus</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LC3</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_values">
-        <item>1000000</item>
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -284,6 +251,29 @@
         <item>Enabled</item>
         <item>Enabled Headers Filtered</item>
         <item>Enabled Media Pkts Filtered</item>
+        <item>Enabled Profiles Filtered</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_filters_entries">
+        <item>Leave only ACL headers</item>
+        <item>Filter A2DP media packets</item>
+        <item>Filter RFCOMM channel</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_filters_values">
+        <item>headers</item>
+        <item>profiles.a2dp</item>
+        <item>profiles.rfcomm</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_profile_filter_entries">
+        <item>Disable</item>
+        <item>Fill with string of characters</item>
+        <item>Leave only header</item>
+        <item>Fully remove</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_profile_filter_values">
+        <item>disabled</item>
+        <item>magic</item>
+        <item>header</item>
+        <item>fullfilter</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_values">
         <item>disabled</item>
@@ -291,10 +281,12 @@
         <item>full</item>
         <item>snoopheadersfiltered</item>
         <item>mediapktsfiltered</item>
+        <item>profilesfiltered</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_values_enhanced">
         <item>snoopheadersfiltered</item>
         <item>mediapktsfiltered</item>
+        <item>profilesfiltered</item>
     </string-array>
     <array name="bt_icon_bg_colors">
         <item>@color/bt_color_bg_1</item>
@@ -324,6 +316,10 @@
         <item>enabled</item>
         <item>disabled</item>
     </string-array>
+    <array name="carrierId_2032_iconOverrides">
+        <item>5G_PLUS</item>
+        <item>@drawable/ic_5g_plus_mobiledata_default</item>
+    </array>
     <string-array name="color_mode_descriptions">
         <item>Enhanced colors</item>
         <item>Natural colors as seen by the eye</item>
@@ -360,6 +356,15 @@
         <item>1</item>
         <item>systrace</item>
         <item>error</item>
+    </string-array>
+    <string-array name="entryvalues_font_size">
+        <item>0.85</item>
+        <item>1.0</item>
+        <item>1.15</item>
+        <item>1.30</item>
+        <item>1.50</item>
+        <item>1.80</item>
+        <item>2.0</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>Never use HDCP checking</item>
@@ -534,15 +539,15 @@
         <item>이것은 한국어 음성 합성의 예입니다.</item>
     </string-array>
     <string-array name="tts_rate_entries">
-        <item>Very slow</item>
-        <item>Slow</item>
-        <item>Normal</item>
-        <item>Fast</item>
-        <item>Faster</item>
-        <item>Very fast</item>
-        <item>Rapid</item>
-        <item>Very rapid</item>
-        <item>Fastest</item>
+        <item>60%</item>
+        <item>80%</item>
+        <item>100%</item>
+        <item>150%</item>
+        <item>200%</item>
+        <item>250%</item>
+        <item>300%</item>
+        <item>350%</item>
+        <item>400%</item>
     </string-array>
     <string-array name="tts_rate_values">
         <item>60</item>
@@ -554,6 +559,12 @@
         <item>300</item>
         <item>350</item>
         <item>400</item>
+    </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Move left</item>
+        <item>Move down</item>
+        <item>Move right</item>
+        <item>Move up</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Charging</item>

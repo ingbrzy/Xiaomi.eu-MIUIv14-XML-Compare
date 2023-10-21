@@ -4,11 +4,6 @@
     <string name="date_time_12">EEEE, d MMMM</string>
     <string name="location">Местное</string>
     <string name="resident_city">Город по умолчанию</string>
-    <string name="talkback_TimeDesc">Время в городе DQWZ</string>
-    <string name="talkback_date_time">EEEE, d MMMM</string>
-    <string name="talkback_date_time_12">EEEE, d MMMM</string>
-    <string name="talkback_location">Время в текущем месте</string>
-    <string name="talkback_resident_city">Время в выбранном месте</string>
     <string name="clock_local">Местное</string>
     <string name="clock_city">Город</string>
 </resources>
