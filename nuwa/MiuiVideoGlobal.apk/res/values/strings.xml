@@ -78,6 +78,8 @@
     <string name="activity_not_found_notice">"Can't find the app"</string>
     <string name="ad_bar_notification_setting_sub_title">Show events in the Notification shade</string>
     <string name="ad_bar_notification_setting_title">Events</string>
+    <string name="ad_click_to_play">Tap to play</string>
+    <string name="ad_flag_text">AD</string>
     <string name="ad_left_time">seconds left in the commercial</string>
     <string name="add_local_shortcut_add">Add</string>
     <string name="add_local_shortcut_des">Add \"My videos\" to Home screen to access local video files in a single tap.</string>
@@ -293,8 +295,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">2225b4bc76154bcdb7693c68b295b3a2</string>
-    <string name="com.miapm.build_id">c0b2dbb2b68c4a0490be1e122a9408f9</string>
+    <string name="com.crashlytics.android.build_id">b4561d6c15c24a38919282819ef41c85</string>
+    <string name="com.miapm.build_id">52f25a7176c944d9834bc39a87b5e03b</string>
     <string name="com_permission_desc">"Mi Video can't access videos on your device. Allow access in the Settings."</string>
     <string name="com_permission_title">Permissions required</string>
     <string name="comment_model_add_comment">Add a comment</string>
@@ -940,6 +942,16 @@ for videos"</string>
     <string name="local_play_end_drag_up_guide">Tap or swipe up to play Shorts</string>
     <string name="local_play_recommend_guide_card_bottom">More videos</string>
     <string name="local_play_tip">Playing local video</string>
+    <string name="local_push_random_title_1">"Check out today's most popular videos"</string>
+    <string name="local_push_random_title_10">"Watch, enjoy, and share today's most popular videos"</string>
+    <string name="local_push_random_title_2">"See what's happening in the world today"</string>
+    <string name="local_push_random_title_3">"Don't miss today's headlines"</string>
+    <string name="local_push_random_title_4">"View today's most popular videos in your region"</string>
+    <string name="local_push_random_title_5">"Don't miss this week's hottest videos"</string>
+    <string name="local_push_random_title_6">Take a look at these new and popular videos</string>
+    <string name="local_push_random_title_7">"You won't be able to stop watching this week's top short videos!"</string>
+    <string name="local_push_random_title_8">"Check out today's fresh, fun new videos"</string>
+    <string name="local_push_random_title_9">These videos are blowing up!</string>
     <string name="local_push_setting_power_tag">Notifications about local videos</string>
     <string name="local_push_title">Popular today</string>
     <string name="local_push_video_title">Scan for new local videos</string>
@@ -1372,6 +1384,7 @@ We will only use this permission to find the videos you search for, and won't ac
     <string name="notification_last_played_status">Playback history</string>
     <string name="notification_open_tip">Receive notifications when new local videos are found</string>
     <string name="notification_promotion">Recommended</string>
+    <string name="notification_pupular_today_open_tip">Display popular videos</string>
     <string name="notification_recall_action">Turn on</string>
     <string name="notification_recall_desc">Mi Video can notify you about popular videos and your subscriptions.</string>
     <string name="notification_recall_title">Turn on notifications</string>
@@ -1539,7 +1552,7 @@ We will only use this permission to find the videos you search for, and won't ac
     <string name="phone_number">Phone number</string>
     <string name="photoPickerNotFoundText">No photos available.</string>
     <string name="pip">PiP</string>
-    <string name="pip_not_supported_toast">Update MIUI to be able to use picture-in-picture.</string>
+    <string name="pip_not_supported_toast">Update to the latest system version to be able to use picture-in-picture.</string>
     <string name="play_list_player_skeleton_file">mnc_live_tv_list_player_skeleton.json</string>
     <string name="play_list_save_dialog_create">Create playlist</string>
     <string name="play_list_save_dialog_title">Add to playlist</string>

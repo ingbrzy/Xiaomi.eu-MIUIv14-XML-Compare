@@ -55,14 +55,14 @@
     <string name="add">Add</string>
     <string name="add_cw_fail_tip">"Couldn't add wallpaper"</string>
     <string name="add_cw_success_tip">Added wallpaper successfully</string>
-    <string name="add_first_cw_toast1">Added successfully. Turned on Wallpaper Carousel and started the slideshow.</string>
-    <string name="add_first_cw_toast2">Added some items successfully. Turned on Wallpaper Carousel and started the slideshow.</string>
-    <string name="add_first_cw_toast3">Added wallpapers successfully. Turned on Wallpaper Carousel and started the slideshow.</string>
-    <string name="add_first_cw_toast4">Turned on Wallpaper Carousel and started the slideshow</string>
+    <string name="add_first_cw_toast1">Added successfully. Showing your selected wallpapers.</string>
+    <string name="add_first_cw_toast2">Added some selected wallpapers successfully</string>
+    <string name="add_first_cw_toast3">Added your wallpapers successfully</string>
+    <string name="add_first_cw_toast4">Wallpaper Carousel is on. Showing your selected wallpapers.</string>
     <string name="add_launch_hint_text">Add Home screen shortcut</string>
     <string name="add_local_picture">Gallery</string>
     <string name="add_online_picture">Online images</string>
-    <string name="add_to_cw">Add to slideshow</string>
+    <string name="add_to_cw">Add to custom slideshow</string>
     <string name="add_wallpaper">Add wallpapers</string>
     <string name="addcw_apply_btn_txt">Add wallpaper</string>
     <string name="afternoon">Afternoon</string>
@@ -77,6 +77,7 @@
     <string name="app_self_upgrade_dlg_title">Update available</string>
     <string name="app_self_upgrade_toast_downloading_install">Starting the update…</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="applied_and_added_to_custom_wallpaper">"Added to your slideshow successfully. &lt;font color ='#3482FF'>&lt;a href='%1$s'>View&lt;/font>&lt;/a>"</string>
     <string name="apply">Apply</string>
     <string name="apply_to_above_all">Set both</string>
     <string name="apply_to_screenlock">Set as Lock screen</string>
@@ -207,9 +208,9 @@
     <string name="custom_wallpaper_des">Turn on Wallpaper Carousel, add your photos and online images to the mix to make them appear in the slideshow automatically.</string>
     <string name="cw_add">Add</string>
     <string name="cw_add2">Add (%1$d)</string>
-    <string name="cw_add_fail">"Couldn't add to slideshow"</string>
-    <string name="cw_add_num_tip">"Can't add more items to the slideshow"</string>
-    <string name="cw_add_success">Added to slideshow successfully</string>
+    <string name="cw_add_fail">"Couldn't add"</string>
+    <string name="cw_add_num_tip">"Can't select more wallpapers to add"</string>
+    <string name="cw_add_success">Added successfully</string>
     <string name="cw_add_tip_fail">"Couldn't add"</string>
     <string name="cw_add_wallpaper">Add wallpaper</string>
     <string name="cw_add_wallpaper_more_recomm">More recommendations</string>
@@ -234,8 +235,8 @@
     <string name="cw_my_fav">Favorites</string>
     <string name="cw_permission_tip">Allow Wallpaper Carousel to access storage in Settings > App settings.</string>
     <string name="cw_wallpaper_empty_dlg_btn">Got it</string>
-    <string name="cw_wallpaper_empty_dlg_content">"You haven't added any items to your slideshow. Switched to recommendations."</string>
-    <string name="cw_wallpaper_empty_dlg_title">No items</string>
+    <string name="cw_wallpaper_empty_dlg_content">"You haven't added any wallpapers to your custom slideshow. Wallpaper Carousel will display recommended wallpapers instead."</string>
+    <string name="cw_wallpaper_empty_dlg_title">No items added</string>
     <string name="cw_wallpaper_manager">Manage wallpapers</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -309,9 +310,9 @@
     <string name="earthly_branches_zi">子</string>
     <string name="edit_wallpaper">Manage wallpapers</string>
     <string name="empty" />
-    <string name="enable_toast_ar">Switched to recommendations</string>
-    <string name="enable_toast_cw">Switched to slideshow</string>
-    <string name="enable_toast_cwo">Turned on Wallpaper Carousel and started the slideshow</string>
+    <string name="enable_toast_ar">Showing recommended wallpapers</string>
+    <string name="enable_toast_cw">Showing custom slideshow</string>
+    <string name="enable_toast_cwo">Wallpaper Carousel and custom slideshow are on</string>
     <string name="enable_toast_subscribe">Turned on Wallpaper Carousel and activated subscriptions.</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
@@ -321,7 +322,7 @@
     <string name="explorer_activity_title">Wallpaper Carousel</string>
     <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
     <string name="external_storage_permission">Access storage</string>
-    <string name="external_storage_permission_summary">For selecting custom wallpapers and saving downloaded items</string>
+    <string name="external_storage_permission_summary">Allow this app to access files on your device to be able to add your own wallpapers to Wallpaper Carousel and save downloaded content to your device.</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="facebook_application_id" />
@@ -422,7 +423,7 @@
     <string name="lks_cta_ok">Agree</string>
     <string name="lks_cta_reject">"Don't agree"</string>
     <string name="lks_cta_summary1">Wallpaper Carousel provides the following features:</string>
-    <string name="lks_cta_summary2">"1. Automatically updated wallpapers&lt;br>2. Fresh images and stories delivered to your Lock screen&lt;br>3. Customization options&lt;br>This feature needs to connect to the internet to work normally.&lt;br>&lt;br>To provide additional services, we might ask for permission to access and save items to this device's storage. Read and agree to our &lt;font color ='#37A5FF'>&lt;a href='%1$s'>User Agreement&lt;/font>&lt;/a> and &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Privacy Policy&lt;/font>&lt;/a> before you continue."</string>
+    <string name="lks_cta_summary2">"1. Automatically updated wallpapers&lt;br>2. Fresh images and stories delivered to your Lock screen&lt;br>3. Customization options&lt;br>This feature needs to connect to the internet to work normally.&lt;br>&lt;br>To provide additional services, we might ask for permission to access and save items to this device's storage. Read and agree to our &lt;font color ='#0D84FF'>&lt;a href='%1$s'>User Agreement&lt;/font>&lt;/a> and &lt;font color ='#0D84FF'>&lt;a href='%2$s'>Privacy Policy&lt;/font>&lt;/a> before you continue."</string>
     <string name="lks_cta_title">Terms and conditions</string>
     <string name="lks_current_lks_wallpaper" />
     <string name="lks_data_warning_toast_1">"You're using mobile data to browse wallpapers.
@@ -684,7 +685,6 @@ mm"</string>
     <string name="open_guid_des">Go to Settings > Permissions > Other permissions > Wallpaper Carousel and give the app all the required permissions.</string>
     <string name="open_sub_title">Select categories</string>
     <string name="open_title">Wallpaper Carousel</string>
-    <string name="open_unable">"Wallpaper Carousel only works with MIUI's default Lock screen."</string>
     <string name="opened">On</string>
     <string name="pager_load_hd">View original image</string>
     <string name="passport_access_denied">Access denied</string>
@@ -895,6 +895,7 @@ mm"</string>
     <string name="pull_to_refresh_release_label">Release to refresh</string>
     <string name="qq_application_id" />
     <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
+    <string name="reach_custom_limitation">"Can't add more wallpapers. &lt;font color ='#3482FF'>&lt;a href='%1$s'>Manage&lt;/font>&lt;/a>"</string>
     <string name="recommend_switch_desc">Receive content recommendations based on your preferences</string>
     <string name="recommend_switch_dlg_close">Turn off</string>
     <string name="recommend_switch_dlg_desc">"You won't be able to receive recommendations based on your preferences if you turn this feature off."</string>
@@ -905,7 +906,7 @@ mm"</string>
     <string name="remove">Remove</string>
     <string name="req_permission_dis_tip">Permissions required</string>
     <string name="require_permission">Permissions required</string>
-    <string name="require_permission_text">To be able save and view items, allow Wallpaper Carousel to access storage.</string>
+    <string name="require_permission_text">This app needs permission to access files on your device to be able to add your own wallpapers to Wallpaper Carousel and save downloaded content to your device.</string>
     <string name="required_permissions">android.permission.POST_NOTIFICATIONS</string>
     <string name="resource_apply">Apply</string>
     <string name="resource_no_network_text">Check your network connection and try again</string>
@@ -938,6 +939,7 @@ mm"</string>
     <string name="see_detail">View</string>
     <string name="see_more">View more</string>
     <string name="see_more_content">View more</string>
+    <string name="select_at_least_one_mode">Select a Wallpaper Carousel mode</string>
     <string name="select_package">Select version</string>
     <string name="select_photo_album">Select images</string>
     <string name="select_picture">Select images</string>
@@ -946,10 +948,12 @@ mm"</string>
     <string name="setting_about_item_des">Version</string>
     <string name="setting_about_item_title">About Wallpaper Carousel</string>
     <string name="setting_des">Slideshow services are provided by Wallpaper Carousel. Search for \"Wallpaper Carousel\" in the Settings app to view all available options.</string>
+    <string name="setting_des_custom_only">Our slideshow feature is now fully customizable. You can adjust how often your wallpaper changes in Settings > Lock screen > Wallpaper Carousel settings.</string>
+    <string name="setting_des_recommend_selected">"Our slideshow feature is now fully customizable. Get recommendations of images you'll like and add your own. You can adjust how often your wallpaper changes in Settings > Lock screen > Wallpaper Carousel settings."</string>
     <string name="setting_head">Settings</string>
     <string name="setting_ok">Settings</string>
     <string name="setting_tip">"Don't show again"</string>
-    <string name="setting_title">Slideshow</string>
+    <string name="setting_title">Added successfully</string>
     <string name="settings">Settings</string>
     <string name="share">Share</string>
     <string name="share_today_morning">Share</string>
@@ -994,7 +998,7 @@ mm"</string>
     <string name="solar_term_winter_begins">Winter begins</string>
     <string name="solar_term_winter_solstice">Winter solstice</string>
     <string name="sst_auto_recommand_desc">Subscribe to your favorite categories to receive fresh images and stories delivered to your Lock screen daily.</string>
-    <string name="sst_auto_recommand_title">Get recommendations for customized wallpapers</string>
+    <string name="sst_auto_recommand_title">Recommend wallpapers</string>
     <string name="sst_change_wallpaper_desc">"Select where you'd like to apply the wallpaper"</string>
     <string name="sst_change_wallpaper_desk">Home screen</string>
     <string name="sst_change_wallpaper_lock">Lock screen</string>
@@ -1006,7 +1010,7 @@ mm"</string>
     <string name="sst_cover_chg_enable_title">Show when charging</string>
     <string name="sst_custom_wallpaper_desc">Select images from Gallery and recommendations</string>
     <string name="sst_custom_wallpaper_title">Custom slideshow</string>
-    <string name="sst_custom_wallpaper_title2">Slideshow</string>
+    <string name="sst_custom_wallpaper_title2">Select my wallpapers</string>
     <string name="sst_disable_unopen">Beta feature</string>
     <string name="sst_effect_next_wallpaper">Set a new wallpaper to apply changes</string>
     <string name="sst_favor_desc">View favorite wallpapers</string>
@@ -1045,13 +1049,13 @@ mm"</string>
     <string name="sst_subscrible_manager_title_bar_text">Manage subscriptions</string>
     <string name="sst_subscripted">Subscribed</string>
     <string name="sst_subscripted2">Available categories</string>
-    <string name="sst_switch_wallpaper_order_desc">Select the order with which wallpapers are updated</string>
+    <string name="sst_switch_wallpaper_order_desc">Select the slide order</string>
     <string name="sst_switch_wallpaper_order_fixed">Sequence</string>
     <string name="sst_switch_wallpaper_order_random">Random</string>
     <string name="sst_switch_wallpaper_order_title">Update order</string>
     <string name="sst_wallpaper_define_desc">Manage</string>
-    <string name="sst_wallpaper_define_title">My slideshow</string>
-    <string name="sst_wallpaper_define_title2">Add images</string>
+    <string name="sst_wallpaper_define_title">Custom slideshow</string>
+    <string name="sst_wallpaper_define_title2">Add slides</string>
     <string name="sst_wallpaper_history_des">View recent recommendations</string>
     <string name="sst_wallpaper_history_title">History</string>
     <string name="sst_wifi_only_desc">Turn off to update wallpapers over Wi-Fi only</string>
@@ -1172,7 +1176,7 @@ mm"</string>
     <string name="tuesday_shortest">Tue</string>
     <string name="txt_in_image_subscribe_info">%1$s / %2$s</string>
     <string name="understand_band_story">Learn more</string>
-    <string name="uninstall_introducation_text_desc">Wallpaper Carousel delivers new quality images directly to your Lock screen. Make sure you can do without its features before you uninstall the app.</string>
+    <string name="uninstall_introducation_text_desc">Wallpaper Carousel delivers new, high-quality images directly to your Lock screen. Make sure you can do without its features before you uninstall the app.</string>
     <string name="uninstall_introduction_text_title">About Wallpaper Carousel</string>
     <string name="uninstall_warning_text_desc">"Without Wallpaper Carousel you won't be able to receive new Lock screen wallpapers regularly. However, you'll be able to download and install the app again. Delete Wallpaper Carousel?"</string>
     <string name="uninstall_warning_text_title">Deleting Wallpaper Carousel</string>

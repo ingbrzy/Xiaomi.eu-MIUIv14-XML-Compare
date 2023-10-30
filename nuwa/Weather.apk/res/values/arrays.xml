@@ -473,6 +473,30 @@
         <item>@string/month_november_shortest</item>
         <item>@string/month_december_shortest</item>
     </string-array>
+    <string-array name="realtime_humidity_status">
+        <item>Dry</item>
+        <item>Comfortable</item>
+        <item>Humid</item>
+    </string-array>
+    <string-array name="realtime_pressure_status">
+        <item>High</item>
+        <item>Moderate</item>
+        <item>Low</item>
+    </string-array>
+    <string-array name="realtime_temperature_status">
+        <item>Cold</item>
+        <item>Cool</item>
+        <item>Comfortable</item>
+        <item>Warm</item>
+        <item>Hot</item>
+    </string-array>
+    <string-array name="realtime_uv_level">
+        <item>Weak</item>
+        <item>Moderate</item>
+        <item>Strong</item>
+        <item>Very strong</item>
+        <item>Severe</item>
+    </string-array>
     <string-array name="settings_atmospheric_pressure_unit_detail">
         <item>@string/settings_atmospheric_pressure_hpa</item>
         <item>@string/settings_atmospheric_pressure_mbar</item>
@@ -589,7 +613,7 @@
         <item>Strong sandstorm</item>
         <item>Sand storm</item>
         <item>Sand</item>
-        <item>Windy</item>
+        <item>Dust storm</item>
         <item>Hail</item>
         <item>Dust</item>
         <item>Haze</item>

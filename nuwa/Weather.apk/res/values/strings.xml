@@ -222,6 +222,7 @@
     <string name="daily_forecast_add_city_add">Follow</string>
     <string name="daily_forecast_add_city_message">Follow the weather in %1$s for a more detailed forecast.</string>
     <string name="daily_forecast_add_city_title">Follow the weather in %1$s</string>
+    <string name="daily_forecast_card_title">%d-day forecast</string>
     <string name="daily_forecast_detail_date">M/d</string>
     <string name="data_provided_by">Data provided in part by</string>
     <string name="data_source_time_fromat">"yyyy-MM-dd'T'HH:mm:ssz"</string>
@@ -310,7 +311,7 @@
     <string name="feedback_result_fail_no_reason">Thanks for your feedback!</string>
     <string name="feedback_result_fail_same_type">"Looks like your report isn't different from the current weather. Try again."</string>
     <string name="feedback_result_success">Submitted successfully. Thanks for your feedback.</string>
-    <string name="feedback_sandy">Sandy</string>
+    <string name="feedback_sandy">Dust storm</string>
     <string name="feedback_sunny">Clear</string>
     <string name="firebase_database_url">https://globalmiuiweather.firebaseio.com</string>
     <string name="fmt_chinese_date">N月e</string>
@@ -583,7 +584,6 @@
     <string name="share_button">Share</string>
     <string name="share_menu_title">Share</string>
     <string name="share_subject">Share</string>
-    <string name="share_weather_desc">\#MIUI Weather#Today %1$s %2$s</string>
     <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">"Couldn't take screenshot"</string>

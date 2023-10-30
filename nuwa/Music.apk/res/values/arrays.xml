@@ -192,6 +192,18 @@
         <item>@string/chinese_symbol_animals_dog</item>
         <item>@string/chinese_symbol_animals_pig</item>
     </string-array>
+    <array name="cover_icon_arrays">
+        <item>@drawable/music_icon_d_0</item>
+        <item>@drawable/music_icon_d_1</item>
+        <item>@drawable/music_icon_d_2</item>
+        <item>@drawable/music_icon_d_3</item>
+        <item>@drawable/music_icon_d_4</item>
+        <item>@drawable/music_icon_d_5</item>
+        <item>@drawable/music_icon_d_6</item>
+        <item>@drawable/music_icon_d_7</item>
+        <item>@drawable/music_icon_d_8</item>
+        <item>@drawable/music_icon_d_9</item>
+    </array>
     <array name="desktop_lyric_seekbar_track_color">
         <item>#ff13baff</item>
         <item>#ff616acb</item>
