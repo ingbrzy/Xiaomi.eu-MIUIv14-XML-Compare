@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="date_time">EEEE, d. MMMM</string>
-    <string name="date_time_12">EEEE, d. MMMM</string>
-    <string name="location">Lokal</string>
-    <string name="resident_city">Standard by</string>
+    <string name="date_time">EEE dd.MM</string>
+    <string name="date_time_12">EEE dd.MM</string>
+    <string name="location">Aktuel</string>
+    <string name="resident_city">Valgt</string>
+    <string name="talkback_TimeDesc">Klokken i DQWZ</string>
+    <string name="talkback_date_time">EEEE d. MMMM</string>
+    <string name="talkback_date_time_12">EEEE d. MMMM</string>
+    <string name="talkback_location">Klokken i aktuel placering</string>
+    <string name="talkback_resident_city">Klokken i valgt placering</string>
     <string name="clock_local">Local</string>
     <string name="clock_city">City</string>
 </resources>

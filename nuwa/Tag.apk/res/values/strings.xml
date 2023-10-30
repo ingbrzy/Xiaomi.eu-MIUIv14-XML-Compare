@@ -2,16 +2,8 @@
 <resources>
     <string name="action_call">Call %s</string>
     <string name="action_text">Text %s</string>
-    <string name="androidx_startup">androidx.startup</string>
     <string name="app_name">Tags</string>
     <string name="button_done">Done</string>
-    <string name="call_notification_answer_action">Answer</string>
-    <string name="call_notification_answer_video_action">Video</string>
-    <string name="call_notification_decline_action">Decline</string>
-    <string name="call_notification_hang_up_action">Hang Up</string>
-    <string name="call_notification_incoming_text">Incoming call</string>
-    <string name="call_notification_ongoing_text">Ongoing call</string>
-    <string name="call_notification_screening_text">Screening an incoming call</string>
     <string name="call_phone_permission_denied">This application needs to access Telephone permission in order to make calls. You can manage Tag permission in Settings</string>
     <string name="empty_tag_prompt">This tag is empty.</string>
     <string name="external_storage_permission_denied">This application needs to access External Storage permission in order to access files. You can manage Tag permission in Settings</string>

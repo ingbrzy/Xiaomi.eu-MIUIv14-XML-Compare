@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="date_time">EEEE, d MMMM</string>
-    <string name="date_time_12">EEEE, d MMMM</string>
-    <string name="location">Տեղական</string>
-    <string name="resident_city">Լռելյայն քաղաք</string>
+    <string name="date_time">EEE, dd MMM</string>
+    <string name="date_time_12">EEE, dd MMM</string>
+    <string name="location">Ընթացիկ</string>
+    <string name="resident_city">Ընտրված</string>
+    <string name="talkback_TimeDesc">Ժամանակը DQWZ-ում</string>
+    <string name="talkback_date_time">EEEE, dd MMMM</string>
+    <string name="talkback_date_time_12">EEEE, dd MMMM</string>
+    <string name="talkback_location">Ժամանակը ընթացիկ վայրում</string>
+    <string name="talkback_resident_city">Ժամանակը ընտրված վայրում</string>
     <string name="clock_local">Local</string>
     <string name="clock_city">City</string>
 </resources>

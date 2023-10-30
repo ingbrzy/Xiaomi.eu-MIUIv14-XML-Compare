@@ -4,32 +4,6 @@
         <item>ABSENT NUMBER</item>
         <item>ABSENTNUMBER</item>
     </string-array>
-    <string-array name="alphabet_sub_table_with_starred">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
     <string-array name="alphabet_table">
         <item>A</item>
         <item>B</item>
@@ -352,47 +326,6 @@
         <item>@string/afternoon</item>
         <item>@string/evening</item>
         <item>@string/night</item>
-    </string-array>
-    <string-array name="device_support_3gonly2gonly">
-        <item>merlin</item>
-        <item>lancelot</item>
-        <item>lime</item>
-        <item>venus</item>
-        <item>sweet</item>
-        <item>renoir</item>
-        <item>haydn</item>
-        <item>camellian</item>
-        <item>selene</item>
-        <item>vili</item>
-        <item>agate</item>
-        <item>lisa</item>
-        <item>zeus</item>
-        <item>cupid</item>
-        <item>spes</item>
-        <item>spesn</item>
-        <item>veux</item>
-        <item>opal</item>
-        <item>fog</item>
-        <item>taoyao</item>
-        <item>light</item>
-    </string-array>
-    <string-array name="drop_down_pref_data_sim_entries">
-        <item>@string/pref_sim_entries_item1</item>
-        <item>@string/pref_sim_entries_item2</item>
-    </string-array>
-    <string-array name="drop_down_pref_data_sim_entry_values">
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="drop_down_pref_voice_sim_entries">
-        <item>@string/pref_sim_entries_item1</item>
-        <item>@string/pref_sim_entries_item2</item>
-        <item>@string/pref_sim_item_no_default</item>
-    </string-array>
-    <string-array name="drop_down_pref_voice_sim_entry_values">
-        <item>1</item>
-        <item>2</item>
-        <item>0</item>
     </string-array>
     <string-array name="dtmf_tone_entries">
         <item>@string/dtmf_tone_entries_normal</item>
@@ -910,9 +843,6 @@
     <integer-array name="support_networktypes_cdma_vice">
         <item>10</item>
         <item>7</item>
-    </integer-array>
-    <integer-array name="support_networktypes_gsm_lte">
-        <item>11</item>
     </integer-array>
     <integer-array name="support_networktypes_gsm_lte_nr">
         <item>24</item>

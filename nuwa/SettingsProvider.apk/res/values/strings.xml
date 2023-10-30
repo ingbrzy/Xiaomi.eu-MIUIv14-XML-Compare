@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="airplane_mode_toggleable_radios">bluetooth,wifi</string>
+    <string name="airplane_mode_toggleable_radios">bluetooth,wifi,nfc</string>
     <string name="app_label">Settings Storage</string>
-    <string name="def_airplane_mode_radios">cell,bluetooth,uwb,wifi,wimax</string>
+    <string name="def_airplane_mode_radios">cell,bluetooth,wifi,nfc,wimax</string>
     <string name="def_backup_agent_timeout_parameters" />
     <string name="def_backup_local_transport_parameters" />
     <string name="def_backup_manager_constants" />
@@ -21,7 +21,6 @@
     <string name="def_low_battery_sound">/system/media/audio/ui/LowBattery.ogg</string>
     <string name="def_nfc_payment_component" />
     <string name="def_ntp_server_2">persist.vendor.ntp.svr_2</string>
-    <string name="def_satellite_mode_radios" />
     <string name="def_trusted_sound">/system/media/audio/ui/Trusted.ogg</string>
     <string name="def_unlock_sound">/system/media/audio/ui/Unlock.ogg</string>
     <string name="def_wearable_androidWearVersion">2</string>

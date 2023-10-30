@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <array name="config_oemPrivilegedWifiAdminPackages" />
-    <array name="config_wifiBackgroundRttThrottleExceptionList" />
     <array name="config_wifiBackgroundScanThrottleExceptionList" />
-    <string-array name="config_wifiCharsetsForSsidTranslation">
-        <item>all,GBK</item>
-    </string-array>
     <integer-array name="config_wifiConnectedScanIntervalScheduleSec">
         <item>20</item>
         <item>40</item>
@@ -15,12 +11,6 @@
     <integer-array name="config_wifiConnectedScanType">
         <item>2</item>
     </integer-array>
-    <string-array name="config_wifiDisableReasonAuthenticationFailureCarrierSpecificDurationMs_carrier_overrides">
-        <item>:::1839:::14400000</item>
-    </string-array>
-    <string-array name="config_wifiDisableReasonAuthenticationFailureCarrierSpecificThreshold_carrier_overrides">
-        <item>:::1839:::2</item>
-    </string-array>
     <integer-array name="config_wifiDisconnectedScanIntervalScheduleSec">
         <item>20</item>
         <item>40</item>
@@ -32,12 +22,8 @@
     </integer-array>
     <array name="config_wifiExcludedFromUserApprovalForD2dInterfacePriority" />
     <array name="config_wifiForceDisableMacRandomizationSsidList" />
-    <array name="config_wifiForceDisableMacRandomizationSsidPrefixList" />
     <array name="config_wifiForegroundScanThrottleExceptionList" />
     <array name="config_wifiInterfacePriorityTreatAsForegroundList" />
-    <array name="config_wifiOobPseudonymEnabled_carrier_overrides" />
-    <array name="config_wifiOobPseudonymEntitlementServerUrl_carrier_overrides" />
-    <array name="config_wifiPasspointUseApWanLinkStatusAnqpElementFqdnAllowlist" />
     <integer-array name="config_wifiRssiLevelThresholds">
         <item>-88</item>
         <item>-77</item>
@@ -50,10 +36,10 @@
     <array name="config_wifi_non_persistent_randomization_ssid_allowlist" />
     <array name="config_wifi_non_persistent_randomization_ssid_blocklist" />
     <string-array name="wifi_eap_error_message_code_16384_carrier_overrides">
-        <item>:::1839:::%1$s : There is a problem connecting you to Verizon Wi-Fi. (Error = 16384)</item>
+        <item>:::1839:::%1$s : There is a problem connecting you to Verizon Wi-Fi Access due to error 16384.</item>
     </string-array>
     <string-array name="wifi_eap_error_message_code_16385_carrier_overrides">
-        <item>:::1839:::%1$s : There is a problem connecting you to Verizon Wi-Fi. (Error = 16385)</item>
+        <item>:::1839:::%1$s : There is a problem connecting you to Verizon Wi-Fi Access due to error 16385.</item>
     </string-array>
     <string-array name="wifi_eap_error_message_code_32756_carrier_overrides">
         <item>:::1839:::</item>
@@ -80,9 +66,9 @@
         <item>:::1839:::%1$s : Verizon Wi-Fi Access is not available from your location. Try again later or try from a different location. (Error = 32766)</item>
     </string-array>
     <string-array name="wifi_eap_error_message_code_32767_carrier_overrides">
-        <item>:::1839:::%1$s : There is a problem connecting you to Verizon Wi-Fi Access. Try again later or try from a different location. (Error = 32767)</item>
+        <item>:::1839:::%1$s : There is a problem connecting you to Verizon Wi-Fi Access. Try again later or try from a different location.</item>
     </string-array>
     <string-array name="wifi_eap_error_message_unknown_error_code_carrier_overrides">
-        <item>:::1839:::%1$s : There is a problem connecting you to Verizon Wi-Fi. (Error = Unknown)</item>
+        <item>:::1839:::%1$s : There is a problem connecting you to Verizon Wi-Fi Access.</item>
     </string-array>
 </resources>

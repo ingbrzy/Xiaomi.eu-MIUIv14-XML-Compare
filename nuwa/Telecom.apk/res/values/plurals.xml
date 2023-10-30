@@ -52,10 +52,6 @@
         <item quantity="other">%d items selected</item>
         <item quantity="one">%d item selected</item>
     </plurals>
-    <plurals name="notification_All_AI_MissedCallTitle">
-        <item quantity="other">Mi AI answered %1$d calls for you</item>
-        <item quantity="one">Mi AI answered %1$d call for you</item>
-    </plurals>
     <plurals name="notification_missedCallTitle_miui">
         <item quantity="other">Missed calls</item>
         <item quantity="one">Missed call</item>

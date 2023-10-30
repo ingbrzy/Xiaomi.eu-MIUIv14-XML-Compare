@@ -4,6 +4,11 @@
     <string name="date_time_12">EEEE, d 'de' MMMM</string>
     <string name="location">Local</string>
     <string name="resident_city">Cidade predefinida</string>
+    <string name="talkback_TimeDesc">Hora em DQWZ</string>
+    <string name="talkback_date_time">EEEE, dd MMMM</string>
+    <string name="talkback_date_time_12">EEEE, dd MMMM</string>
+    <string name="talkback_location">Hora na localização atual</string>
+    <string name="talkback_resident_city">Hora na localização selecionada</string>
     <string name="clock_local">Local</string>
     <string name="clock_city">Cidade</string>
 </resources>

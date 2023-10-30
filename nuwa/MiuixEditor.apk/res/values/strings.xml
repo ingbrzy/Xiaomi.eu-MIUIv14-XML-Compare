@@ -3,13 +3,6 @@
     <string name="add_frequent_phrases">Add frequent phrases</string>
     <string name="app_name">textaction</string>
     <string name="call">Call</string>
-    <string name="call_notification_answer_action">Answer</string>
-    <string name="call_notification_answer_video_action">Video</string>
-    <string name="call_notification_decline_action">Decline</string>
-    <string name="call_notification_hang_up_action">Hang Up</string>
-    <string name="call_notification_incoming_text">Incoming call</string>
-    <string name="call_notification_ongoing_text">Ongoing call</string>
-    <string name="call_notification_screening_text">Screening an incoming call</string>
     <string name="edit_frequent_phrases">Edit frequent phrases</string>
     <string name="floating_toolbar_close_overflow_description">Close overflow</string>
     <string name="floating_toolbar_menu_item_text_tag">floating_toolbar_menu_item_text</string>

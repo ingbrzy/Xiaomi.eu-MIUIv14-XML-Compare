@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="date_time">EEEE, dd MMMM</string>
-    <string name="date_time_12">EEEE, dd MMMM</string>
-    <string name="location">ସ୍ଥାନୀୟ</string>
-    <string name="resident_city">ଡିଫଲ୍ଟ୍‌ ସହର</string>
+    <string name="date_time">EEE dd/MM</string>
+    <string name="date_time_12">EEE dd/MM</string>
+    <string name="location">ବର୍ତ୍ତମାନର</string>
+    <string name="resident_city">ଚୟନିତ</string>
+    <string name="talkback_TimeDesc">DQWZରେ ସମୟ</string>
+    <string name="talkback_date_time">EEEE, dd MMMM</string>
+    <string name="talkback_date_time_12">EEEE, dd MMMM</string>
+    <string name="talkback_location">ବର୍ତ୍ତମାନର ସ୍ଥାନରେ ସମୟ</string>
+    <string name="talkback_resident_city">ଚୟନିତ ସ୍ଥାନରେ ସମୟ</string>
     <string name="clock_local">Local</string>
     <string name="clock_city">City</string>
 </resources>

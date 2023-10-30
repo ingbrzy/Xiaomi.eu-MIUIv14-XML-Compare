@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="date_time">EE d. MMMM</string>
-    <string name="date_time_12">EEEE, dd. MMMM</string>
-    <string name="location">Místní</string>
-    <string name="resident_city">Výchozí město</string>
+    <string name="date_time_12">EEE MM/dd</string>
+    <string name="location">Aktuální</string>
+    <string name="resident_city">Vybráno</string>
+    <string name="talkback_TimeDesc">Čas v DQWZ</string>
+    <string name="talkback_date_time">EEEE, MMMM dd</string>
+    <string name="talkback_date_time_12">EEEE, MMMM dd</string>
+    <string name="talkback_location">Čas v aktuální oblasti</string>
+    <string name="talkback_resident_city">Čas ve vybrané oblasti</string>
     <string name="clock_local">Local</string>
     <string name="clock_city">City</string>
 </resources>
