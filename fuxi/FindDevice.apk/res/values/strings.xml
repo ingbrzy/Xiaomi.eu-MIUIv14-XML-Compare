@@ -32,7 +32,15 @@
     <string name="adding_or_updating_account">Updating account…</string>
     <string name="afternoon">Afternoon</string>
     <string name="am">AM</string>
+    <string name="androidx_startup">androidx.startup</string>
     <string name="app_name">Find device</string>
+    <string name="call_notification_answer_action">Answer</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Decline</string>
+    <string name="call_notification_hang_up_action">Hang Up</string>
+    <string name="call_notification_incoming_text">Incoming call</string>
+    <string name="call_notification_ongoing_text">Ongoing call</string>
+    <string name="call_notification_screening_text">Screening an incoming call</string>
     <string name="captcha">Captcha</string>
     <string name="change_find_device_status_failed">"Couldn't unlock. %s."</string>
     <string name="chinese_day_1">初一</string>
@@ -105,10 +113,9 @@
     <string name="chinese_symbol_animals_tiger">虎</string>
     <string name="clearable_edittext_clear_description">Clear</string>
     <string name="close">Close</string>
-    <string name="copy">Copy</string>
     <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">"For accessing phone number in order to locate this device when it isn't connected to the internet"</string>
     <string name="custom_define_permission_desc_android.permission.SEND_SMS">"For locating this device when it isn't connected to the internet"</string>
-    <string name="custom_define_permission_desc_android.permission_group.LOCATION">For locating your device and switching to the lost mode</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">For locating your device and switching to Lost mode</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -116,7 +123,7 @@
     <string name="date_time_picker_dialog_title">Set date and time</string>
     <string name="default_debt_msg_words">"This device is locked due to an overdue installment payment.
 Contact your sales agent for details."</string>
-    <string name="default_lock_msg_words">This device is associated with an existing Mi Account. For security reasons, you need to enter password to verify the device.</string>
+    <string name="default_lock_msg_words">This device is associated with an existing Xiaomi Account. For security reasons, you need to enter password to verify the device.</string>
     <string name="default_lock_msg_words_with_phone">Hi! I lost this device. Could you please contact me? Thanks!</string>
     <string name="device_locked">This device is locked</string>
     <string name="device_lost">This device is lost</string>
@@ -143,16 +150,14 @@ Contact your sales agent for details."</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
     <string name="evening">Afternoon</string>
-    <string name="expand_button_title">Advanced</string>
-    <string name="find_device">Find device</string>
     <string name="find_device_capture_done_notification_content">View the photo on i.mi.com</string>
     <string name="find_device_capture_done_notification_title">Find device took a photo remotely</string>
     <string name="find_device_capture_notification_content">A request to take a photo remotely with this device was submitted by your account</string>
     <string name="find_device_capture_notification_title">Find device is about to take a photo</string>
     <string name="find_device_crash">Find Device closed unexpectedly.</string>
     <string name="find_device_error_access_denied">Access denied.</string>
-    <string name="find_device_error_account_sys_timeout">"Couldn't connect to Mi Account. "</string>
-    <string name="find_device_error_account_unknown_error">Mi Account error (%s).</string>
+    <string name="find_device_error_account_sys_timeout">"Couldn't connect to Xiaomi Account."</string>
+    <string name="find_device_error_account_unknown_error">Xiaomi Account error (%s).</string>
     <string name="find_device_error_custom">%s</string>
     <string name="find_device_error_network">Network error.</string>
     <string name="find_device_error_password_changed">Account password has been recently changed.</string>
@@ -239,15 +244,16 @@ Contact your sales agent for details."</string>
     <string name="midnight">Night</string>
     <string name="miuix_access_state_desc">Selected</string>
     <string name="miuix_alphabet_indexer_name">Index bar</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselect</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_action_mode_select_all">Select all</string>
     <string name="miuix_appcompat_action_mode_title_empty">Select items</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">More</string>
     <string name="miuix_appcompat_cancel_description">Cancel</string>
     <string name="miuix_appcompat_confirm_description">Confirm</string>
     <string name="miuix_appcompat_delete_description">Delete</string>
-    <string name="miuix_appcompat_deselect_all">Deselect</string>
+    <string name="miuix_appcompat_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_deselect_all_description">Deselect all</string>
+    <string name="miuix_appcompat_edit">Edit</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel</string>
     <string name="miuix_appcompat_search_input_description">Search</string>
     <string name="miuix_appcompat_select_all">Select all</string>
@@ -306,8 +312,8 @@ Contact your sales agent for details."</string>
     <string name="morning">Morning</string>
     <string name="night">Evening</string>
     <string name="noon">Midday</string>
-    <string name="not_set">Not set</string>
     <string name="open_wifi_settings">Open Wi-Fi settings</string>
+    <string name="open_wifi_settings_china">Open Wi-Fi settings</string>
     <string name="passport_checking_vcode">Checking password…</string>
     <string name="passport_error_empty_vcode">Enter verification code</string>
     <string name="passport_notification_need_unlock_again">Try to unlock again</string>
@@ -316,11 +322,10 @@ Contact your sales agent for details."</string>
     <string name="passport_vcode_prompt_long">Enter verification code</string>
     <string name="passport_verify">Verify</string>
     <string name="password">Enter password</string>
-    <string name="phone_locked">This device is associated with a Mi Account (%s). Enter password to activate device.</string>
+    <string name="phone_locked">This device is associated with a Xiaomi Account (%s). Enter password to activate device.</string>
     <string name="phone_locked_account_email">, associated email: %s</string>
     <string name="phone_locked_account_phone">, associated phone number: %s</string>
     <string name="pm">PM</string>
-    <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
     <string name="required_permissions">android.permission.READ_PHONE_STATE;android.permission.ACCESS_FINE_LOCATION;android.permission.ACCESS_BACKGROUND_LOCATION;android.permission.ACCESS_COARSE_LOCATION;android.permission.SEND_SMS</string>
     <string name="return_to_call">Return to call</string>
     <string name="saturday">Saturday</string>
@@ -355,7 +360,6 @@ Contact your sales agent for details."</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_on_empty_captcha">"Captcha can't be blank"</string>
     <string name="stop_on_empty_password">"Password can't be blank"</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Sunday</string>
     <string name="sunday_short">Sun</string>
     <string name="sunday_shortest">Sun</string>
@@ -426,10 +430,8 @@ Contact your sales agent for details."</string>
     <string name="unlock_error_device_id">"Can't get device ID"</string>
     <string name="unlock_error_interrupted">Interrupted</string>
     <string name="unlock_error_network">"Can't connect to network"</string>
-    <string name="unlock_error_passport_sdk_timeout">"Mi Account SDK isn't responding"</string>
     <string name="unlock_error_rpc">RPC error</string>
     <string name="unlock_error_server">Server error</string>
-    <string name="unlock_error_ssl_hand_shake">"Couldn't connect to the server. Try setting date and time manually."</string>
     <string name="unlock_error_unknown">"Can't sign in"</string>
     <string name="unlock_error_user_name">Invalid username</string>
     <string name="unlock_error_wrong_vcode">The code you entered is incorrect</string>
@@ -441,14 +443,20 @@ Go to id.mi.com, select \"Forgot password?\", and follow the instructions.
 
 Can't activate device?
 Go to i.mi.com/ss and submit your application to unlock the device."</string>
+    <string name="unlock_help_china">"Connect to the network.
+Insert a working SIM card and don't connect to invalid Wi-Fi networks.
+
+Forgot password?
+Go to id.mi.com, select \"Forgot password?\", and follow the instructions.
+
+Can't activate device?
+Go to i.mi.com/ss and submit your application to unlock the device."</string>
     <string name="unlock_help_title">Unlock help:</string>
     <string name="unlock_number">Unlock code: %s</string>
     <string name="unlock_wrong_captcha">The code you entered is incorrect</string>
     <string name="unlocking">Activating…</string>
-    <string name="v7_preference_off">OFF</string>
-    <string name="v7_preference_on">ON</string>
     <string name="verifing_account">Verifying password…</string>
-    <string name="verify_password_failed">"Couldn't verify Mi Account ID. %s."</string>
+    <string name="verify_password_failed">"Couldn't verify Xiaomi Account ID. %s."</string>
     <string name="wednesday">Wednesday</string>
     <string name="wednesday_short">Wed</string>
     <string name="wednesday_shortest">Wed</string>

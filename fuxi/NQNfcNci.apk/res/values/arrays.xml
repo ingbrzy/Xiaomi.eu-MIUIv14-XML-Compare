@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="alphabet_table">
         <item>A</item>
         <item>B</item>
@@ -63,6 +89,8 @@
         <item>@string/am</item>
         <item>@string/pm</item>
     </string-array>
+    <array name="antenna_x" />
+    <array name="antenna_y" />
     <string-array name="chinese_days">
         <item>@string/chinese_day_1</item>
         <item>@string/chinese_day_2</item>
@@ -231,8 +259,11 @@
         <item>com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.AlipayLogin</item>
         <item>com.eg.android.AlipayGphone/com.alipay.mobile.onsitepay.merge.OnsitepayActivity</item>
         <item>com.eg.android.AlipayGphone/com.alipay.android.phone.wallet.aptrip.ui.ApTripActivity</item>
+        <item>com.eg.android.AlipayGphone/com.alipay.mobile.verifyidentity.module.password.pay.ui.PayPwdDialogActivity</item>
         <item>com.unionpay/com.unionpay.activity.payment.UPActivityPaymentQrCodeOut</item>
         <item>com.unionpay/com.unionpay.activity.react.UPActivityReactNative</item>
+        <item>cn.com.bmac.nfc/cn.com.bmac.nfc.ui.activity.QRMainActivity</item>
+        <item>enfc.metro/enfc.metro.main.MainActivity</item>
     </string-array>
     <string-array name="solar_terms">
         <item>@string/empty</item>

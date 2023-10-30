@@ -4,11 +4,6 @@
     <string name="date_time_12">M월 d일 EEEE</string>
     <string name="location">현지</string>
     <string name="resident_city">기본 도시</string>
-    <string name="talkback_TimeDesc">DQWZ 시간</string>
-    <string name="talkback_date_time">M월d일 EEEE</string>
-    <string name="talkback_date_time_12">M월d일 EEEE</string>
-    <string name="talkback_location">현재 위치의 시간</string>
-    <string name="talkback_resident_city">선택된 위치의 시간</string>
     <string name="clock_local">지역</string>
     <string name="clock_city">현지</string>
 </resources>

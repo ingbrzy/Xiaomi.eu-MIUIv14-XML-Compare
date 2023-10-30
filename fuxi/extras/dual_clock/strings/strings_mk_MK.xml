@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="date_time">EEEE, dd. MM</string>
-    <string name="date_time_12">EEEE, dd. MM</string>
-    <string name="location">Моментално</string>
-    <string name="resident_city">Одбрано</string>
-    <string name="talkback_TimeDesc">Време во DQWZ</string>
-    <string name="talkback_date_time">EEEE, d MMMM</string>
-    <string name="talkback_date_time_12">EEEE, d MMMM</string>
-    <string name="talkback_location">Време во вашата моментална локација</string>
-    <string name="talkback_resident_city">Време во одбраната локација</string>
+    <string name="date_time">EEEE, MMMM dd</string>
+    <string name="date_time_12">EEEE, MMMM dd</string>
+    <string name="location">Локално</string>
+    <string name="resident_city">Стандарден град</string>
     <string name="clock_local">Local</string>
     <string name="clock_city">City</string>
 </resources>

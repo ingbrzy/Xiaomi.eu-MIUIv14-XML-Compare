@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="date_time">MM/dd EEE</string>
-    <string name="date_time_12">MM/dd EEE</string>
-    <string name="location">現在</string>
-    <string name="resident_city">選択済み</string>
-    <string name="talkback_TimeDesc">DQWZの時刻</string>
-    <string name="talkback_date_time">M月d日 EEEE</string>
-    <string name="talkback_date_time_12">M月d日 EEEE</string>
-    <string name="talkback_location">現在地の時刻</string>
-    <string name="talkback_resident_city">選択した場所の時刻</string>
+    <string name="date_time">M月d日 EEEE</string>
+    <string name="date_time_12">M月d日 EEEE</string>
+    <string name="location">ローカル</string>
+    <string name="resident_city">デフォルトの都市</string>
     <string name="clock_local">Local</string>
     <string name="clock_city">City</string>
 </resources>

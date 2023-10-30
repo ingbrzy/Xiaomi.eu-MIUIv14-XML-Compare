@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accept">Accept</string>
+    <string name="apm_enabled_first_time_message">"Your device remembers to keep Wi‑Fi on in airplane mode. Turn off Wi‑Fi if you don't want it to stay on."</string>
+    <string name="apm_enabled_first_time_title">Wi‑Fi stays on</string>
+    <string name="config_wifiApmEnhancementHelpLink">https://support.google.com/pixelphone/answer/12639358</string>
+    <string name="config_wifiBugreportDeepLink">com.google.android.apps.betterbug.intent.FILE_BUG_DEEPLINK</string>
     <string name="config_wifiCertInstallationHelpLink">https://support.google.com/pixelphone/answer/2844832</string>
     <string name="config_wifiCoexTableFilepath">/vendor/etc/wifi/coex_table.xml</string>
     <string name="config_wifiDriverWorldModeCountryCode">00</string>
+    <string name="config_wifiOobPseudonymEntitlementServerUrl" />
     <string name="config_wifiP2pDeviceNamePrefix">Android_</string>
+    <string name="config_wifiP2pGoEapolIpAddressRangeEnd" />
+    <string name="config_wifiP2pGoEapolIpAddressRangeStart" />
+    <string name="config_wifiSelfRecoveryInterfaceName">wlan0</string>
     <string name="config_wifiSoftap2gChannelList">1-11</string>
     <string name="config_wifiSoftap5gChannelList" />
     <string name="config_wifiSoftap60gChannelList" />
@@ -13,6 +21,7 @@
     <string name="config_wifi_tcp_buffers">524288,1048576,2097152,262144,524288,1048576</string>
     <string name="decline">Decline</string>
     <string name="dlg_ok">OK</string>
+    <string name="notification_channel_apm_alerts">APM alerts</string>
     <string name="notification_channel_network_alerts">Network alerts</string>
     <string name="notification_channel_network_available">Network available</string>
     <string name="notification_channel_network_status">Network status</string>
@@ -96,15 +105,30 @@ This change may allow your device's location to be tracked by nearby devices."</
     <string name="wifi_enable_request_dialog_negative_button">"Don't allow"</string>
     <string name="wifi_enable_request_dialog_positive_button">Allow</string>
     <string name="wifi_enable_request_dialog_title">Allow %1$s to turn on Wi‑Fi?</string>
+    <string name="wifi_enabled_apm_first_time_message">"If you keep Wi‑Fi on, your device will remember to keep it on the next time you're in airplane mode"</string>
+    <string name="wifi_enabled_apm_first_time_title">Wi‑Fi on in airplane mode</string>
     <string name="wifi_interface_priority_approve">Allow</string>
+    <string name="wifi_interface_priority_interface_name_ap">Wi‑Fi Hotspot</string>
+    <string name="wifi_interface_priority_interface_name_ap_bridge">Wi‑Fi Hotspot</string>
+    <string name="wifi_interface_priority_interface_name_nan">Wi‑Fi Aware</string>
+    <string name="wifi_interface_priority_interface_name_p2p">Wi‑Fi Direct</string>
+    <string name="wifi_interface_priority_interface_name_sta">STA</string>
     <string name="wifi_interface_priority_message">This may cause problems for %3$s.</string>
     <string name="wifi_interface_priority_message_plural">This may cause problems for these apps: %3$s.</string>
     <string name="wifi_interface_priority_reject">"Don't allow"</string>
     <string name="wifi_interface_priority_title">%1$s wants to use a networking resource</string>
     <string name="wifi_localhotspot_configure_ssid_default">AndroidShare</string>
+    <string name="wifi_network_disabled_by_admin_button">Close</string>
+    <string name="wifi_network_disabled_by_admin_message">%1$s is disabled by your administrator.</string>
+    <string name="wifi_network_disabled_by_admin_title">Unavailable Network</string>
+    <string name="wifi_network_switch_dialog_negative_button">"Don't switch"</string>
+    <string name="wifi_network_switch_dialog_positive_button">Switch</string>
+    <string name="wifi_network_switch_dialog_title_bad_internet">%1$s is low quality. Switch to %2$s?</string>
+    <string name="wifi_network_switch_dialog_title_no_internet">%1$s does not appear to be connected to the internet. Switch to %2$s?</string>
     <string name="wifi_p2p_enter_pin_message">Type the required PIN:</string>
     <string name="wifi_p2p_frequency_conflict_message">"The phone will temporarily disconnect from Wi-Fi while it's connected to %1$s"</string>
     <string name="wifi_p2p_from_message">From:</string>
+    <string name="wifi_p2p_invitation_seconds_remaining">{0, plural, =1 {Accept in # second.} other {Accept in # seconds.} }</string>
     <string name="wifi_p2p_invitation_sent_title">Invitation sent</string>
     <string name="wifi_p2p_invitation_to_connect_title">Invitation to connect</string>
     <string name="wifi_p2p_show_pin_message">PIN:</string>

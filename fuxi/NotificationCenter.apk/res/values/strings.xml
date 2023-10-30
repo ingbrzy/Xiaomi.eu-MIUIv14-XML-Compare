@@ -137,7 +137,6 @@
     <string name="eras_bc">BCE</string>
     <string name="evening">Afternoon</string>
     <string name="expand_button_title">Advanced</string>
-    <string name="expand_top_notification">Expand top notification</string>
     <string name="feedback">Feedback</string>
     <string name="float_notification_snooze_strategy">Hide temporarily</string>
     <string name="float_notification_snooze_summary">Swipe up on a floating notification to temporarily hide upcoming ones</string>

@@ -422,30 +422,6 @@
         <item>@string/chinese_symbol_animals_dog</item>
         <item>@string/chinese_symbol_animals_pig</item>
     </string-array>
-    <string-array name="com.google.firebase.crashlytics.build_ids_arch">
-        <item>aarch64</item>
-        <item>aarch64</item>
-        <item>aarch64</item>
-        <item>arm</item>
-        <item>arm</item>
-        <item>arm</item>
-    </string-array>
-    <string-array name="com.google.firebase.crashlytics.build_ids_build_id">
-        <item>1d373aecb1c692c3929c9364174ec433c4732675</item>
-        <item>1376b8f3d617a881cc2ecf49d9ee3a252e3a21f0</item>
-        <item>ece72a2ebc3774a1be9fd21271258acd3bcdfaa7</item>
-        <item>8032386920ac9c64974a38cc1f9ed78e274dfa99</item>
-        <item>0239eecdd09a0e3af1dc524a64309d7b0e34bdf5</item>
-        <item>762708dbc6120b26bddc4ab5d3e081f6c9ae6e58</item>
-    </string-array>
-    <string-array name="com.google.firebase.crashlytics.build_ids_lib">
-        <item>libAIPOSE.so</item>
-        <item>libcamera_mi_handgesture.so</item>
-        <item>libc++_shared.so</item>
-        <item>libAIPOSE.so</item>
-        <item>libcamera_mi_handgesture.so</item>
-        <item>libc++_shared.so</item>
-    </string-array>
     <string-array name="detailed_am_pms">
         <item>@string/midnight</item>
         <item>@string/early_morning</item>
@@ -472,15 +448,6 @@
     <string-array name="eras">
         <item>@string/eras_bc</item>
         <item>@string/eras_ad</item>
-    </string-array>
-    <string-array name="exo_controls_playback_speeds">
-        <item>0.25x</item>
-        <item>0.5x</item>
-        <item>0.75x</item>
-        <item>Normal</item>
-        <item>1.25x</item>
-        <item>1.5x</item>
-        <item>2x</item>
     </string-array>
     <string-array name="heavenly_stems">
         <item>@string/heavenly_stems_jia</item>

@@ -329,6 +329,7 @@ Tap to view"</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
     <string name="privacy_settings">Privacy</string>
+    <string name="protect_oneself_when_recording">"Recording call. Protect your and other people's privacy while using this feature."</string>
     <string name="quit_recording">Quit Screen Recorder</string>
     <string name="record_time_too_short">Recorded video is too short</string>
     <string name="recording_failure">"Couldn't record, start over"</string>

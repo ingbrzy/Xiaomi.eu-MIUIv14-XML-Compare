@@ -134,6 +134,10 @@ Note: File will be deleted from this device as well."</item>
     <plurals name="half_hour_ago">
         <item quantity="other">Half an hour ago</item>
     </plurals>
+    <plurals name="hide_reason_duration">
+        <item quantity="other">Less than %1$ds</item>
+        <item quantity="one">Less than %1$ds</item>
+    </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">In 1 hour</item>
     </plurals>
@@ -157,6 +161,10 @@ Note: File will be deleted from this device as well."</item>
     <plurals name="list_header_follow_count">
         <item quantity="other">Following %d people</item>
         <item quantity="one">Following %d person</item>
+    </plurals>
+    <plurals name="media_store_new_songs_add">
+        <item quantity="other">%d new songs</item>
+        <item quantity="one">%d new song</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d items selected</item>

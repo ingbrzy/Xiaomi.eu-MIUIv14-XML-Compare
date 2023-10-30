@@ -72,6 +72,7 @@
     <string name="add_songs_manually_bottom">Add</string>
     <string name="add_songs_manually_home">Add songs manually</string>
     <string name="add_songs_manually_setting">Add songs manually</string>
+    <string name="add_songs_to_playlist">Add to playlist</string>
     <string name="add_to_last_of_playlist">Add to the end of playlist</string>
     <string name="add_to_playlist">Add to queue</string>
     <string name="add_to_playlist_successful">Added successfully</string>
@@ -276,8 +277,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">407cf69307264edc967807fa1fa11644</string>
-    <string name="com.miapm.build_id">8b3ec557caf8490e9a2fd17fda636644</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">a752d2e2ca7540ffb13f2af0fbd96589</string>
+    <string name="com.miapm.build_id">940ae39458304657aeb517dcf3e452ec</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">Enable</string>
     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
@@ -740,6 +741,11 @@
     <string name="hide_album">Hide album cover</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="hide_lyric">Hide lyrics</string>
+    <string name="hide_or_add_songs_manually">View hidden songs</string>
+    <string name="hide_reason_folder">Hidden folder</string>
+    <string name="hide_reason_other">Other reason</string>
+    <string name="hide_reason_size">Larger than %1$s</string>
+    <string name="hide_songs_title">Hidden songs</string>
     <string name="hifi_quality">Hi-Fi quality</string>
     <string name="high_sound_quality">High</string>
     <string name="higher_quality_music">High quality audio</string>
@@ -915,6 +921,13 @@
     <string name="lyric_label">Lyrics</string>
     <string name="lyric_open_other_connect">Download lyrics using mobile network</string>
     <string name="lyric_setting">Lyrics settings</string>
+    <string name="lyrics_guide_button_text">Try it out</string>
+    <string name="lyrics_guide_four">Return to the lyrics page to view</string>
+    <string name="lyrics_guide_one">Tap a search result to select it</string>
+    <string name="lyrics_guide_three">Edit and save the lyrics</string>
+    <string name="lyrics_guide_title">How to search and save lyrics</string>
+    <string name="lyrics_guide_two">Select the lyrics you want and copy them</string>
+    <string name="lyrics_popup_title">Tap to search lyrics</string>
     <string name="m3_ref_typeface_brand_medium">sans-serif-medium</string>
     <string name="m3_ref_typeface_brand_regular">sans-serif</string>
     <string name="m3_ref_typeface_plain_medium">sans-serif-medium</string>
@@ -1557,6 +1570,7 @@ Be Happy"</string>
     <string name="select_local_cover">Select local cover</string>
     <string name="select_local_lyric">Select file</string>
     <string name="select_local_lyric_file">Select local lyrics file</string>
+    <string name="select_lyrics_copy">Select and copy lyric text</string>
     <string name="select_none">Deselect all</string>
     <string name="select_one_language">Select at least %d language</string>
     <string name="select_three_languages">You can select up to %d languages</string>
