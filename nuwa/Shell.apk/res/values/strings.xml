@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="androidx_startup">androidx.startup</string>
     <string name="app_label">Shell</string>
     <string name="bugreport_add_details_to_zip_failed">"Couldn't add bug report details to zip file"</string>
     <string name="bugreport_confirm">"Bug reports contain data from the system's various log files, which may include data you consider sensitive (such as app-usage and location data). Only share bug reports with people and apps you trust."</string>
@@ -23,6 +24,13 @@
     <string name="bugreport_unreadable_text">Bug report file could not be read</string>
     <string name="bugreport_updating_title">Adding details to the bug report</string>
     <string name="bugreport_updating_wait">Please wait…</string>
+    <string name="call_notification_answer_action">Answer</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Decline</string>
+    <string name="call_notification_hang_up_action">Hang Up</string>
+    <string name="call_notification_incoming_text">Incoming call</string>
+    <string name="call_notification_ongoing_text">Ongoing call</string>
+    <string name="call_notification_screening_text">Screening an incoming call</string>
     <string name="save">Save</string>
     <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

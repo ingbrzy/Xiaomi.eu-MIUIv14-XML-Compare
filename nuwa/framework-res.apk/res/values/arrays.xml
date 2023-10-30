@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <array name="carrier_properties" />
+    <array name="cloneable_apps" />
     <array name="common_nicknames" />
     <array name="config_accessibility_allowed_install_source" />
     <array name="config_allowedGlobalInstantAppSettings" />
@@ -14,13 +15,6 @@
     </integer-array>
     <array name="config_ambientThresholdLevels" />
     <array name="config_ambientThresholdsOfPeakRefreshRate" />
-    <integer-array name="config_apfEthTypeBlackList">
-        <item>0x000088A2</item>
-        <item>0x000088A4</item>
-        <item>0x000088B8</item>
-        <item>0x000088CD</item>
-        <item>0x000088E3</item>
-    </integer-array>
     <string-array name="config_appsToPin">
         <item>com.tencent.mm</item>
     </string-array>
@@ -113,6 +107,10 @@
     <array name="config_companionDeviceCerts" />
     <array name="config_companionDevicePackages" />
     <array name="config_convert_to_emergency_number_map" />
+    <string-array name="config_defaultAmbientContextServices">
+        <item>@string/config_defaultAmbientContextDetectionService</item>
+        <item>@string/config_defaultWearableSensingService</item>
+    </string-array>
     <array name="config_defaultCloudSearchServices" />
     <array name="config_defaultFirstUserRestrictions" />
     <array name="config_defaultImperceptibleKillingExemptionPkgs" />
@@ -156,6 +154,8 @@
     <array name="config_deviceStatesAvailableForAppRequests" />
     <array name="config_deviceStatesOnWhichToSleep" />
     <array name="config_deviceStatesOnWhichToWakeUp" />
+    <array name="config_deviceStatesToReverseDefaultDisplayRotationAroundZAxis" />
+    <array name="config_deviceTabletopRotations" />
     <array name="config_device_state_postures" />
     <array name="config_disableApkUnlessMatchedSku_skus_list" />
     <array name="config_disableApksUnlessMatchedSku_apk_list" />
@@ -172,6 +172,10 @@
     <string-array name="config_displayCutoutPathArray">
         <item>@string/config_mainBuiltInDisplayCutout</item>
         <item>@string/config_secondaryBuiltInDisplayCutout</item>
+    </string-array>
+    <string-array name="config_displayShapeArray">
+        <item>@string/config_mainDisplayShape</item>
+        <item>@string/config_secondaryDisplayShape</item>
     </string-array>
     <array name="config_displayUniqueIdArray" />
     <array name="config_displayWhiteBalanceAmbientColorTemperatures" />
@@ -201,6 +205,12 @@
         <item>1.000000</item>
         <item>1.089058</item>
     </string-array>
+    <integer-array name="config_displayWhiteBalanceDisplayRangeMinimums">
+        <item>0</item>
+    </integer-array>
+    <integer-array name="config_displayWhiteBalanceDisplaySteps">
+        <item>1</item>
+    </integer-array>
     <array name="config_displayWhiteBalanceHighLightAmbientBiases" />
     <array name="config_displayWhiteBalanceHighLightAmbientBrightnesses" />
     <array name="config_displayWhiteBalanceIncreaseThresholds">
@@ -229,7 +239,6 @@
         <item>30</item>
     </integer-array>
     <array name="config_dozeTapSensorPostureMapping" />
-    <array name="config_dreamComplicationsEnabledByDefault" />
     <string-array name="config_dropboxLowPriorityTags">
         <item>data_app_strictmode</item>
         <item>data_app_wtf</item>
@@ -243,6 +252,7 @@
     <string-array name="config_emergency_iso_country_codes">
         <item>in</item>
     </string-array>
+    <array name="config_enabledCredentialProviderService" />
     <array name="config_ephemeralResolverPackage" />
     <array name="config_ethernet_interfaces" />
     <array name="config_face_acquire_biometricprompt_ignorelist" />
@@ -256,10 +266,12 @@
         <item>@bool/config_fillSecondaryBuiltInDisplayCutout</item>
     </array>
     <array name="config_foldedDeviceStates" />
+    <array name="config_fontManagerServiceCerts" />
     <string-array name="config_forceQueryablePackages">
         <item>com.android.settings</item>
         <item>com.android.providers.settings</item>
     </string-array>
+    <array name="config_forceSlowJpegModeList" />
     <string-array name="config_globalActionsList">
         <item>emergency</item>
         <item>lockdown</item>
@@ -270,6 +282,9 @@
         <item>bugreport</item>
     </string-array>
     <array name="config_gnssParameters" />
+    <array name="config_halfFoldedDeviceStates" />
+    <array name="config_healthConnectMigrationKnownSigners" />
+    <array name="config_healthConnectRestoreKnownSigners" />
     <array name="config_hideWhenDisabled_packageNames" />
     <array name="config_highAmbientBrightnessThresholdsOfFixedRefreshRate" />
     <array name="config_highDisplayBrightnessThresholdsOfFixedRefreshRate" />
@@ -277,6 +292,9 @@
     <array name="config_integrityRuleProviderPackages" />
     <array name="config_keep_warming_services" />
     <array name="config_keySystemUuidMapping" />
+    <integer-array name="config_keyboardTapVibePattern">
+        <item>50</item>
+    </integer-array>
     <string-array name="config_legacyPinnerServiceFiles">
         <item>/data/dalvik-cache/arm64/system@framework@boot.oat</item>
         <item>/data/dalvik-cache/arm/system@framework@boot.oat</item>
@@ -295,6 +313,7 @@
         <item>com.xiaomi.location.fused</item>
         <item>com.xiaomi.metoknlp</item>
     </string-array>
+    <array name="config_loggable_dream_prefixes" />
     <integer-array name="config_longPressOnPowerDurationSettings">
         <item>250</item>
         <item>350</item>
@@ -304,7 +323,9 @@
     </integer-array>
     <integer-array name="config_longPressVibePattern">
         <item>0</item>
-        <item>30</item>
+        <item>1</item>
+        <item>75</item>
+        <item>76</item>
     </integer-array>
     <integer-array name="config_lteDbmThresholds">
         <item>-140</item>
@@ -385,11 +406,6 @@
         <item>0.000302412211</item>
         <item>-0.198650895</item>
     </string-array>
-    <string-array name="config_nonBlockableNotificationPackages">
-        <item>com.android.dialer</item>
-        <item>com.android.messaging</item>
-        <item>com.android.cellbroadcastreceiver.module</item>
-    </string-array>
     <array name="config_nonPreemptibleInputMethods" />
     <integer-array name="config_notificationFallbackVibePattern">
         <item>0</item>
@@ -412,10 +428,15 @@
         <item>com.android.server.notification.BadgeExtractor</item>
         <item>com.android.server.notification.CriticalNotificationExtractor</item>
     </string-array>
+    <string-array name="config_ntpServers">
+        <item>ntp://time.android.com</item>
+    </string-array>
     <array name="config_oemUsbModeOverride" />
+    <array name="config_openDeviceStates" />
     <array name="config_optionalIpSecAlgorithms" />
     <array name="config_packagesExemptFromSuspension" />
     <array name="config_perDeviceStateRotationLockDefaults" />
+    <array name="config_primaryCredentialProviderService" />
     <string-array name="config_priorityOnlyDndExemptPackages">
         <item>com.android.dialer</item>
         <item>com.android.server.telecom</item>
@@ -429,6 +450,7 @@
         <item>14</item>
         <item>15</item>
     </integer-array>
+    <array name="config_rearDisplayDeviceStates" />
     <string-array name="config_reduceBrightColorsCoefficients">
         <item>-0.000000000000001</item>
         <item>-0.955555555555554</item>
@@ -493,6 +515,12 @@
     <string-array name="config_serviceStateLocationAllowedPackages">
         <item>com.android.phone</item>
     </string-array>
+    <string-array name="config_sfps_enroll_stage_thresholds">
+        <item>0</item>
+        <item>0.36</item>
+        <item>0.52</item>
+        <item>0.76</item>
+    </string-array>
     <array name="config_sfps_sensor_props" />
     <array name="config_sharedLibrariesLoadedAfterApp" />
     <array name="config_sms_enabled_locking_shift_tables" />
@@ -532,6 +560,7 @@
         <item>secure</item>
         <item>clock</item>
     </string-array>
+    <array name="config_strictFoldedDeviceStates" />
     <array name="config_supportedDreamComplications" />
     <integer-array name="config_supported_cellular_usage_settings">
         <item>1</item>
@@ -570,10 +599,18 @@
         <item>0.875</item>
     </string-array>
     <array name="config_udfps_sensor_props" />
+    <string-array name="config_udfps_touch_detection_options">
+        <item>0,0,1.0,0,1</item>
+        <item>1,1,1.0,0,1</item>
+        <item>1,1,1.0,.4,1</item>
+        <item>1,1,1.0,.15,15</item>
+    </string-array>
     <array name="config_usbHostDenylist" />
     <integer-array name="config_virtualKeyVibePattern">
         <item>0</item>
-        <item>20</item>
+        <item>30</item>
+        <item>45</item>
+        <item>53</item>
     </integer-array>
     <string-array name="config_vvmSmsFilterRegexes">
         <item>310004,310010,310012,310013,310590,310890,310910,311110,311270,311271,311272,311273,311274,311275,311276,311277,311278,311279,311280,311281,311282,311283,311284,311285,311286,311287,311288,311289,311390,311480,311481,311482,311483,311484,311485,311486,311487,311488,311489;^//VZWVVM.*</item>
@@ -639,6 +676,33 @@
         <item>@string/crossSimFormat_spn_cross_sim_calling</item>
     </string-array>
     <array name="cross_profile_apps" />
+    <string-array name="demo_device_provisioning_known_signers">
+        <item>@string/config_retailDemoPackageSignature</item>
+    </string-array>
+    <string-array name="device_state_notification_active_contents">
+        <item>@string/concurrent_display_notification_active_content</item>
+    </string-array>
+    <string-array name="device_state_notification_active_titles">
+        <item>@string/concurrent_display_notification_active_title</item>
+    </string-array>
+    <string-array name="device_state_notification_names">
+        <item>@string/concurrent_display_notification_name</item>
+    </string-array>
+    <string-array name="device_state_notification_power_save_contents">
+        <item>@string/concurrent_display_notification_power_save_content</item>
+    </string-array>
+    <string-array name="device_state_notification_power_save_titles">
+        <item>@string/concurrent_display_notification_power_save_title</item>
+    </string-array>
+    <integer-array name="device_state_notification_state_identifiers">
+        <item>@integer/config_deviceStateConcurrentRearDisplay</item>
+    </integer-array>
+    <string-array name="device_state_notification_thermal_contents">
+        <item>@string/concurrent_display_notification_thermal_content</item>
+    </string-array>
+    <string-array name="device_state_notification_thermal_titles">
+        <item>@string/concurrent_display_notification_thermal_title</item>
+    </string-array>
     <array name="dial_string_replace" />
     <array name="disallowed_apps_managed_device" />
     <array name="disallowed_apps_managed_profile" />
@@ -945,12 +1009,12 @@
         <item>@string/app_info</item>
     </string-array>
     <array name="sim_colors">
-        <item>@color/Teal_700</item>
-        <item>@color/Blue_700</item>
-        <item>@color/Indigo_700</item>
-        <item>@color/Purple_700</item>
-        <item>@color/Pink_700</item>
-        <item>@color/Red_700</item>
+        <item>@color/SIM_color_cyan</item>
+        <item>@color/SIM_color_blue</item>
+        <item>@color/SIM_color_green</item>
+        <item>@color/SIM_color_purple</item>
+        <item>@color/SIM_color_pink</item>
+        <item>@color/SIM_color_orange</item>
     </array>
     <string-array name="special_locale_codes">
         <item>ar_EG</item>
@@ -969,7 +1033,7 @@
         <item>ak-GH</item>
         <item>am-ET</item>
         <item>ar-AE</item>
-        <item>ar-AE-u-nu-latn</item>
+        <item>ar-AE-u-nu-arab</item>
         <item>ar-BH</item>
         <item>ar-BH-u-nu-latn</item>
         <item>ar-DJ</item>
@@ -1054,6 +1118,7 @@
         <item>cgg-UG</item>
         <item>chr-US</item>
         <item>cs-CZ</item>
+        <item>cv-RU</item>
         <item>cy-GB</item>
         <item>da-DK</item>
         <item>da-GL</item>
@@ -1136,6 +1201,7 @@
         <item>en-MS</item>
         <item>en-MT</item>
         <item>en-MU</item>
+        <item>en-MV</item>
         <item>en-MW</item>
         <item>en-MY</item>
         <item>en-NA</item>
@@ -1318,6 +1384,7 @@
         <item>ha-NG</item>
         <item>haw-US</item>
         <item>hi-IN</item>
+        <item>hi-Latn-IN</item>
         <item>hr-BA</item>
         <item>hr-HR</item>
         <item>hsb-DE</item>
@@ -1342,6 +1409,7 @@
         <item>kam-KE</item>
         <item>kde-TZ</item>
         <item>kea-CV</item>
+        <item>kgp-BR</item>
         <item>khq-ML</item>
         <item>ki-KE</item>
         <item>kk-KZ</item>
@@ -1353,6 +1421,9 @@
         <item>ko-KP</item>
         <item>ko-KR</item>
         <item>kok-IN</item>
+        <item>ks-Arab-IN</item>
+        <item>ks-Arab-IN-u-nu-latn</item>
+        <item>ks-Deva-IN</item>
         <item>ksb-TZ</item>
         <item>ksf-CM</item>
         <item>ksh-DE</item>
@@ -1445,6 +1516,8 @@
         <item>qu-BO</item>
         <item>qu-EC</item>
         <item>qu-PE</item>
+        <item>raj-IN</item>
+        <item>raj-IN-u-nu-latn</item>
         <item>rm-CH</item>
         <item>rn-BI</item>
         <item>ro-MD</item>
@@ -1459,11 +1532,13 @@
         <item>rw-RW</item>
         <item>rwk-TZ</item>
         <item>sa-IN</item>
+        <item>sa-IN-u-nu-latn</item>
         <item>sah-RU</item>
         <item>saq-KE</item>
         <item>sat-IN</item>
         <item>sat-IN-u-nu-latn</item>
         <item>sbp-TZ</item>
+        <item>sc-IT</item>
         <item>sd-Arab-PK</item>
         <item>sd-Arab-PK-u-nu-latn</item>
         <item>sd-Deva-IN</item>
@@ -1510,6 +1585,8 @@
         <item>teo-UG</item>
         <item>tg-TJ</item>
         <item>th-TH</item>
+        <item>ti-ER</item>
+        <item>ti-ET</item>
         <item>tk-TM</item>
         <item>to-TO</item>
         <item>tr-CY</item>
@@ -1531,10 +1608,14 @@
         <item>vun-TZ</item>
         <item>wae-CH</item>
         <item>wo-SN</item>
+        <item>xh-ZA</item>
         <item>xog-UG</item>
         <item>yav-CM</item>
         <item>yo-BJ</item>
         <item>yo-NG</item>
+        <item>yrl-BR</item>
+        <item>yrl-CO</item>
+        <item>yrl-VE</item>
         <item>yue-Hans-CN</item>
         <item>yue-Hant-HK</item>
         <item>zgh-MA</item>
@@ -1586,9 +1667,7 @@
         <item>@string/wfcSpnFormat_wifi_calling_wo_hyphen</item>
         <item>@string/wfcSpnFormat_vowifi</item>
         <item>@string/wfcSpnFormat_spn_wifi_calling_vo_hyphen</item>
+        <item>@string/wfcSpnFormat_wifi_call</item>
     </string-array>
     <array name="wifi_known_signers" />
-    <string-array name="window_tracing_whitelist">
-        <item>com.miui.uireporter</item>
-    </string-array>
 </resources>

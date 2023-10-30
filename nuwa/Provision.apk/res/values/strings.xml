@@ -158,7 +158,7 @@
     <string name="congratulation_swipe">Swipe up to enter the system</string>
     <string name="congratulation_title">Setup complete</string>
     <string name="content_description_complete">Complete</string>
-    <string name="content_description_miui_version">MIUI 13</string>
+    <string name="content_description_miui_version">MIUI 14</string>
     <string name="content_description_start">Start</string>
     <string name="content_introduction">Content Center aggregates content and services from multiple channels. Here you can read articles, watch videos, view daily featured items, and receive content recommendations.</string>
     <string name="continue_to_enable_accessibility">Keep holding down two fingers to enable accessibility.</string>
@@ -191,9 +191,9 @@
     <string name="disagreement_function">"If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this feature. You can choose not to use this feature in such cases."</string>
     <string name="disagreement_location_service">"If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this service."</string>
     <string name="disagreement_location_service_abnormal">"If you don't agree to grant these permissions, you won't be able to use location services. You can turn location services on or off at any time in Settings > Privacy protection."</string>
-    <string name="disagreement_mi_account_abnormal">"If you don't agree to grant these permissions, you won't be able to use Mi Account services. You can turn Mi Account services on or off at any time in Settings > Mi Account."</string>
+    <string name="disagreement_mi_account_abnormal">"If you don't agree to grant these permissions, you won't be able to use Xiaomi Account services. You can turn Xiaomi Account services on or off at any time in Settings > Xiaomi Account."</string>
     <string name="disagreement_service_not_working_properly">"If you don't agree to grant these permissions, you won't be able to use this app."</string>
-    <string name="disagreement_terminate_bluetooth">"If you don't want to grant these permissions, you won't be able to use Bluetooth. You can turn Bluetooth on and off and add Bluetooth devices in the Settings."</string>
+    <string name="disagreement_terminate_bluetooth">"If you don't want to grant these permissions, you won't be able to use Bluetooth. You can turn Bluetooth on and off and add Bluetooth devices in Settings > Bluetooth."</string>
     <string name="disagreement_terminate_miuidaemon">"We will use the permissions only when you start transferring data from your device when its screen is damaged. If you don't agree to grant these permissions, you won't be able to use this app."</string>
     <string name="disagreement_terminate_service">"If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this app. You can choose to uninstall, sign out, or restrict permissions in the Settings in such cases."</string>
     <string name="download_introduction">Downloads is an app provided by Xunlei used for downloads and managing downloaded content (including App store content, videos, system updates, themes, and browser content) for users of Xiaomi devices.</string>
@@ -213,7 +213,7 @@
     <string name="empty" />
     <string name="empty_title">" "</string>
     <string name="enable_accessibility_canceled">Accessibility canceled.</string>
-    <string name="enable_accessibility_dialog_message">You turned on TalkBack by pressing the screen with 2 fingers for more than 10 seconds. TalkBack provides voice feedback for people with visual impairments. If you turned it on by accident, tap the Cancel button, and then double tap the screen.</string>
+    <string name="enable_accessibility_dialog_message">You turned on TalkBack by pressing the screen with %1$d fingers for more than %2$d seconds. TalkBack provides voice feedback for people with visual impairments. If you turned it on by accident, tap the Cancel button, and then double tap the screen.</string>
     <string name="enable_accessibility_dialog_negative_btn">Cancel</string>
     <string name="enable_accessibility_dialog_positive_btn">OK</string>
     <string name="enable_or_disable_bluetooth">Turning Bluetooth on and off</string>
@@ -277,8 +277,8 @@
     <string name="fmt_weekday_timezone">W z</string>
     <string name="font_hint_large">Default text size</string>
     <string name="font_hint_normal">Increase text size</string>
-    <string name="framework_introduction">Mi Services Framework allows you to use Mi Account, Mi Push, Analytics, and MIUI BI.</string>
-    <string name="framwork_base_service">To provide you with these services, Mi Services Framework (Mi Account, Mi Push, Analytics, MIUI BI) needs to connect to the internet, access your location, phone number, IMEI, and IMSI, and allow your device to receive push notifications</string>
+    <string name="framework_introduction">Xiaomi service framework allows you to use Xiaomi Account, Mi Push, Analytics, and MIUI BI.</string>
+    <string name="framwork_base_service">To provide you with these services, Xiaomi service framework (Xiaomi Account, Mi Push, Analytics, MIUI BI) needs to connect to the internet, access your location, phone number, IMEI, and IMSI, and allow your device to receive push notifications.</string>
     <string name="friday">Friday</string>
     <string name="friday_short">Fri</string>
     <string name="friday_shortest">Fri</string>
@@ -357,7 +357,7 @@ Features are subject to change. Some of the features above may not be available 
     <string name="location_location">Emergency rescue agencies can obtain your current location upon request</string>
     <string name="lockscreen_introduction">Wallpaper Carousel allows you to get fresh images delivered to your Lock screen daily.</string>
     <string name="message_introduction">You can use this app to send and receive SMS.</string>
-    <string name="mi_account_introduction">Mi Account lets you register, sign in to, and manage system accounts.</string>
+    <string name="mi_account_introduction">Xiaomi Account lets you register, sign in to, and manage system accounts.</string>
     <string name="midnight">Night</string>
     <string name="mint_keyboard_oobe_checkbox">"I've read and agreed to Mint Keyboard Privacy Policy"</string>
     <string name="mint_keyboard_oobe_terms">Mint Keyboard Privacy Policy</string>
@@ -368,15 +368,16 @@ Features are subject to change. Some of the features above may not be available 
     <string name="miui_terms_no_network">"You don't have an internet connection. View the User Agreement at %s."</string>
     <string name="miuix_access_state_desc">Selected</string>
     <string name="miuix_alphabet_indexer_name">Index bar</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselect</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_action_mode_select_all">Select all</string>
     <string name="miuix_appcompat_action_mode_title_empty">Select items</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">More</string>
     <string name="miuix_appcompat_cancel_description">Cancel</string>
     <string name="miuix_appcompat_confirm_description">Confirm</string>
     <string name="miuix_appcompat_delete_description">Delete</string>
-    <string name="miuix_appcompat_deselect_all">Deselect</string>
+    <string name="miuix_appcompat_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_deselect_all_description">Deselect all</string>
+    <string name="miuix_appcompat_edit">Edit</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel</string>
     <string name="miuix_appcompat_search_input_description">Search</string>
     <string name="miuix_appcompat_select_all">Select all</string>
@@ -443,7 +444,7 @@ Features are subject to change. Some of the features above may not be available 
     <string name="msim_setting_default_voice">Default SIM for calls</string>
     <string name="multisim_settings_category">SIM card settings</string>
     <string name="multisim_settings_sb_title">%d SIM card detected</string>
-    <string name="multisim_settings_title">2 SIM cards detected</string>
+    <string name="multisim_settings_title">%d SIM cards detected</string>
     <string name="navigation_picker_gesture_guide">Gesture guide</string>
     <string name="navigation_picker_radio_text_full_screen">Full screen gestures</string>
     <string name="navigation_picker_radio_text_virtual_key">Buttons</string>
@@ -463,6 +464,10 @@ Features are subject to change. Some of the features above may not be available 
     <string name="other_settings_ad_disable_summary">Turn on to personalize ads</string>
     <string name="other_settings_ad_enable">Personalized ads</string>
     <string name="other_settings_ad_enable_summary">Personalize ads based on your interests</string>
+    <string name="other_settings_alarm_assistance">Emergency location</string>
+    <string name="other_settings_alarm_assistance_privacy">Privacy Policy</string>
+    <string name="other_settings_alarm_assistance_summary">"You can send your location info to the police using SMS or mobile data automatically while you're calling 110, 120, 119, or 122. Read and agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a> before using this feature."</string>
+    <string name="other_settings_alarm_assistance_user">User Agreement</string>
     <string name="other_settings_auto_update">Automatic system updates</string>
     <string name="other_settings_auto_update_summary">MIUI will select the best time to download and install updates. Your device will be rebooted automatically to apply changes.</string>
     <string name="other_settings_auto_update_summary_v1">Allow MIUI to select the best time to download and install updates. Your device will be rebooted automatically to apply changes.</string>
@@ -491,7 +496,7 @@ You can control this feature from Settings > Passwords &amp; security > Privacy 
     <string name="permission_access_calendar">Access calendar</string>
     <string name="permission_access_calendar_fast_application_summary">For allowing quick apps to access the calendar;</string>
     <string name="permission_account">Access accounts on your device</string>
-    <string name="permission_account_introduction">For signing in with Mi Account</string>
+    <string name="permission_account_introduction">For signing in with Xiaomi Account</string>
     <string name="permission_application_package_introduction">For accessing storage in order to parse and scan installation packages</string>
     <string name="permission_backup">Accessing storage</string>
     <string name="permission_backup_introduction">For accessing and saving backups on your device</string>
@@ -636,7 +641,7 @@ You can control this feature from Settings > Passwords &amp; security > Privacy 
     <string name="service_fast_pairing_policy"><Data>Read and agree to the &lt;a href=%1$s>Mi Link Privacy Policy&lt;/a > before you continue.</Data></string>
     <string name="service_interconnection_communication">Xiaomi Internet Communication Services</string>
     <string name="service_location_share_policy"><Data>Read and agree to the &lt;a href=%1$s>Location Services Privacy Statement&lt;/a > before you continue.</Data></string>
-    <string name="service_mi_account">Mi Account</string>
+    <string name="service_mi_account">Xiaomi Account</string>
     <string name="service_name_MIUIDaemon">MIUI Daemon</string>
     <string name="service_name_address_dialing">Contacts and Phone</string>
     <string name="service_name_album">Gallery</string>
@@ -662,7 +667,7 @@ You can control this feature from Settings > Passwords &amp; security > Privacy 
     <string name="service_name_recorder">Recorder</string>
     <string name="service_name_screen_recording">Screen Recorder</string>
     <string name="service_name_security">Security</string>
-    <string name="service_name_service_framework">Mi Services Framework</string>
+    <string name="service_name_service_framework">Xiaomi service framework</string>
     <string name="service_name_systemdesktop">Home screen service plug-in</string>
     <string name="service_policy"><Data>Read and agree to our &lt;a href=%1$s>Privacy Policy&lt;/a >.</Data></string>
     <string name="service_policy_adjust_content">Xunlei Privacy Policy</string>
@@ -673,7 +678,7 @@ You can control this feature from Settings > Passwords &amp; security > Privacy 
     <string name="servicestate_title">Statement on basic services</string>
     <string name="setting_locale">Setting region…</string>
     <string name="shut_down">Shut down</string>
-    <string name="sim_activation_introduction">The SIM card activation service verifies the information of the currently inserted SIM card to make sure that MIUI services can work normally. These services include Find device, Mi Message, creating Mi Accounts using phone numbers, and syncing messages and call history.</string>
+    <string name="sim_activation_introduction">The SIM card activation service verifies the information of the currently inserted SIM card to make sure that MIUI services can work normally. These services include Find device, Mi Message, creating Xiaomi Accounts using phone numbers, and syncing messages and call history.</string>
     <string name="sim_card_detecting">Checking for SIM card…</string>
     <string name="sim_card_detecting_check">"Couldn't find SIM card. Make sure SIM card is properly installed and you have sufficient funds on your balance."</string>
     <string name="sim_card_detecting_confirm_turn_on_network">Allow connecting to mobile data networks? If you do, the SIM card you insert will be used to connect to mobile data networks.</string>
@@ -728,6 +733,7 @@ You can control this feature from Settings > Passwords &amp; security > Privacy 
     <string name="sunday">Sunday</string>
     <string name="sunday_short">Sun</string>
     <string name="sunday_shortest">Sun</string>
+    <string name="switch_network">Switching Network</string>
     <string name="system_navigation_mode">System navigation mode</string>
     <string name="systemdesktop_introduction">The Home screen service plug-in provides you with basic features such as Home screen, system UI, and screenshots.</string>
     <string name="term_condition_detail">"Get stunning images and exciting stories delivered to your Lock screen daily. This feature won't use your data for personalization without your consent. Read and agree to the third party content provider's &lt;a href =%1$s>Privacy Policy&lt;/a> and &lt;a href =%2$s>User Agreement&lt;/a> before using this feature."</string>
@@ -753,7 +759,7 @@ You can control this feature from Settings > Passwords &amp; security > Privacy 
     <string name="terms_of_use_label_joyose">Joyose</string>
     <string name="terms_of_use_label_landscape">landscape view optimization functionality</string>
     <string name="terms_of_use_label_mab">MAB</string>
-    <string name="terms_of_use_label_mi_account">Mi Account components</string>
+    <string name="terms_of_use_label_mi_account">Xiaomi Account components</string>
     <string name="terms_of_use_label_miuiDaemon">MIUI Daemon</string>
     <string name="terms_of_use_label_miuisdk">MIUI SDK</string>
     <string name="terms_of_use_label_os">OS AI Setting</string>
@@ -845,10 +851,6 @@ You must agree to Mint Keyboard Privacy Policy before using this feature."</stri
     <string name="user_agreement">User Agreement</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
-    <string name="voice_assist_advice">Mi AI allows you to use voice controls, but it consumes more power (+1% every hour).</string>
-    <string name="voice_assist_condition">"You'll be able to use Mi AI in these cases:r
-1. When the screen is on.r
-2. When you're listening to music with your screen off."</string>
     <string name="voice_assist_desp">Say \"Mi AI\" into your phone. Mi AI will recognize your voice and will be able to control your device.</string>
     <string name="voice_assist_title">Wake with voice</string>
     <string name="wc_dialog_agree">Agree</string>

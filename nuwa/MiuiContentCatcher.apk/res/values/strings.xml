@@ -37,7 +37,7 @@
     <string name="auth_fingerprint_content_message_error">"Couldn't scan fingerprint, try again"</string>
     <string name="auth_fingerprint_title">Verify your fingerprint</string>
     <string name="autofill_description">"MIUI can encrypt and store your passwords so you could enter them whenever you need them automatically. Xiaomi won't be able to read your encrypted passwords."</string>
-    <string name="autofill_hint_email_address">Email</string>
+    <string name="autofill_hint_email_address">Account</string>
     <string name="autofill_hint_name">Name</string>
     <string name="autofill_hint_password">Password</string>
     <string name="autofill_hint_phone">Phone number</string>
@@ -219,15 +219,16 @@
     <string name="midnight">Night</string>
     <string name="miuix_access_state_desc">Selected</string>
     <string name="miuix_alphabet_indexer_name">Index bar</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselect</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_action_mode_select_all">Select all</string>
     <string name="miuix_appcompat_action_mode_title_empty">Select items</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">More</string>
     <string name="miuix_appcompat_cancel_description">Cancel</string>
     <string name="miuix_appcompat_confirm_description">Confirm</string>
     <string name="miuix_appcompat_delete_description">Delete</string>
-    <string name="miuix_appcompat_deselect_all">Deselect</string>
+    <string name="miuix_appcompat_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_deselect_all_description">Deselect all</string>
+    <string name="miuix_appcompat_edit">Edit</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel</string>
     <string name="miuix_appcompat_search_input_description">Search</string>
     <string name="miuix_appcompat_select_all">Select all</string>

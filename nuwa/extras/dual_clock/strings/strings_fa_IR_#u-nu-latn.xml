@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="date_time">EEE dd/MM</string>
-    <string name="date_time_12">EEE dd/MM</string>
-    <string name="location">کنونی</string>
-    <string name="resident_city">انتخاب شده</string>
-    <string name="talkback_TimeDesc">ساعت به وقت DQWZ</string>
-    <string name="talkback_date_time">EEEE، dd MMMM</string>
-    <string name="talkback_date_time_12">EEEE، dd MMMM</string>
-    <string name="talkback_location">زمان در موقعیت کنونی</string>
-    <string name="talkback_resident_city">زمان در موقعیت انتخاب شده</string>
+    <string name="date_time">EEEE، dd MMMM</string>
+    <string name="date_time_12">EEEE، dd MMMM</string>
+    <string name="location">محلی</string>
+    <string name="resident_city">شهر پیش‌فرض</string>
     <string name="clock_local">Local</string>
     <string name="clock_city">City</string>
 </resources>

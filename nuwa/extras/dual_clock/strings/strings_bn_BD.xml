@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="date_time">EEE dd/MM</string>
-    <string name="date_time_12">EEE dd/MM</string>
-    <string name="location">বর্তমান</string>
-    <string name="resident_city">বেছে নেওয়া হয়েছে</string>
-    <string name="talkback_TimeDesc">DQWZ এ সময়</string>
-    <string name="talkback_date_time">EEEE, dd MMMM</string>
-    <string name="talkback_date_time_12">EEEE, dd MMMM</string>
-    <string name="talkback_location">বর্তমান লোকেশনের সময়</string>
-    <string name="talkback_resident_city">বেছে নেওয়া লোকেশনের সময়</string>
+    <string name="date_time">EEEE, dd MMMM</string>
+    <string name="date_time_12">EEEE, dd MMMM</string>
+    <string name="location">স্থানীয়</string>
+    <string name="resident_city">ডিফল্ট শহর</string>
     <string name="clock_local">Local</string>
     <string name="clock_city">City</string>
 </resources>

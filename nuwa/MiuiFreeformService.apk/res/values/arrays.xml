@@ -140,6 +140,16 @@
         <item>@string/chinese_symbol_animals_dog</item>
         <item>@string/chinese_symbol_animals_pig</item>
     </string-array>
+    <string-array name="crossSimSpnFormats">
+        <item>com.example.flashbacktest</item>
+        <item>com.tencent.tmgp.sgame</item>
+        <item>com.xiaomi.joyose</item>
+        <item>cn.ishansong</item>
+        <item>com.sdu.didi.psnger</item>
+        <item>com.sankuai.meituan.takeoutnew</item>
+        <item>com.sankuai.meituan</item>
+        <item>com.baidu.BaiduMap</item>
+    </string-array>
     <string-array name="detailed_am_pms">
         <item>@string/midnight</item>
         <item>@string/early_morning</item>
