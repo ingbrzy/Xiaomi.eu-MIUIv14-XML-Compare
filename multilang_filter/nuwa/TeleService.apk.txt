@@ -1,8 +1,2 @@
-Removed: [de] plurals.xml: plurals/abbrev_a_hour_ago (format mismatch)
-Removed: [de] plurals.xml: plurals/abbrev_in_a_hour (format mismatch)
 Removed: [fr] strings.xml: string/arriérés_sim_title (invalid name)
-Removed: [hr] plurals.xml: plurals/abbrev_a_hour_ago (format mismatch)
-Removed: [hr] plurals.xml: plurals/abbrev_in_a_hour (format mismatch)
-Removed: [ru] plurals.xml: plurals/abbrev_a_hour_ago (format mismatch)
-Removed: [ru] plurals.xml: plurals/abbrev_in_a_hour (format mismatch)
 Removed: [vi] strings.xml: string/ hide_error_from_network_text (invalid name)
