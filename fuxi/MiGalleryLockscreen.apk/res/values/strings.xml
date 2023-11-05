@@ -34,6 +34,13 @@
     <string name="about_newest">Wallpaper Carousel is up to date.</string>
     <string name="about_permission">Permissions</string>
     <string name="about_update">Update</string>
+    <string name="action_more_dlg_add_to_loop">Add to slideshow</string>
+    <string name="action_more_dlg_apply">Set as Lock screen wallpaper</string>
+    <string name="action_more_dlg_dislike">"I don't like this"</string>
+    <string name="action_more_dlg_my_favor">Add to favorites</string>
+    <string name="action_more_dlg_save">Download wallpaper</string>
+    <string name="action_more_dlg_settings">More settings</string>
+    <string name="action_more_dlg_share">Share</string>
     <string name="actionbar_button_up_description">Back</string>
     <string name="ad_btn_connecting">Connecting</string>
     <string name="ad_btn_download_continue">Resume</string>
@@ -43,10 +50,15 @@
     <string name="ad_btn_pending">Pending</string>
     <string name="ad_delimiter_5">%1$s | %2$s | %3$s | %4$s | %5$s</string>
     <string name="ad_delimiter_6">%1$s | %2$s | %3$s | %4$s | %5$s | %6$s</string>
+    <string name="ad_delimiter_6_version">版本：%1$s | %2$s | %3$s | %4$s | %5$s | %6$s</string>
     <string name="ad_delimiter_7">%1$s | %2$s | %3$s | %4$s | %5$s | %6$s | %7$s</string>
+    <string name="ad_download">下载</string>
+    <string name="ad_download_continue">继续</string>
     <string name="ad_download_now">Download</string>
     <string name="ad_feed_badge">AD</string>
+    <string name="ad_installing">安装中</string>
     <string name="ad_introduction">介绍</string>
+    <string name="ad_open">打开</string>
     <string name="ad_permission">权限</string>
     <string name="ad_pop_btn_hidden">Hide</string>
     <string name="ad_pop_des">Downloading app:</string>
@@ -79,6 +91,7 @@
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="applied_and_added_to_custom_wallpaper">"Added to your slideshow successfully. &lt;font color ='#3482FF'>&lt;a href='%1$s'>View&lt;/font>&lt;/a>"</string>
     <string name="apply">Apply</string>
+    <string name="apply_success_toast">Set wallpaper successfully</string>
     <string name="apply_to_above_all">Set both</string>
     <string name="apply_to_screenlock">Set as Lock screen</string>
     <string name="apply_to_wallpaper">Set as Home screen</string>
@@ -291,6 +304,7 @@
     <string name="disable_dlg_ok">Turn off</string>
     <string name="disable_dlg_title">Turn off Wallpaper Carousel?</string>
     <string name="dislike">Delete</string>
+    <string name="dlg_add_to_loop_success_toast">Added wallpaper to slideshow</string>
     <string name="dlg_cancel">Cancel</string>
     <string name="dlg_ok">Apply</string>
     <string name="dot_and_space">• </string>
@@ -417,6 +431,7 @@
     <string name="idbct_title">Network types</string>
     <string name="later">"Don't turn off"</string>
     <string name="launch_bg_permission_exception">Allow Wallpaper Carousel to display pop-up windows while running in the background in Security</string>
+    <string name="left_lks_detail_entrance">View more</string>
     <string name="like">Add to favorites</string>
     <string name="liked">Added to favorites</string>
     <string name="lks_cta_dont_mention">"Don't show again"</string>
@@ -451,6 +466,11 @@ This may generate additional fees."</string>
     <string name="lks_loop_icon_open_ok">Got it</string>
     <string name="lks_more" />
     <string name="lks_more_pics_coming_toast">New images are on their way</string>
+    <string name="lks_new_data_loaded">Loaded successfully</string>
+    <string name="lks_new_data_warning">This feature is using mobile data</string>
+    <string name="lks_new_user_guide_horizontal">Swipe left and right to view more images</string>
+    <string name="lks_new_user_guide_left">Swipe left to view more images</string>
+    <string name="lks_new_user_guide_up">Swipe up to see more info</string>
     <string name="lks_new_user_help_anime">Swipe up to see more from Wallpaper Carousel</string>
     <string name="lks_no_network">"Couldn't connect to the network"</string>
     <string name="lks_please_reload">Reload</string>
@@ -465,6 +485,7 @@ This may generate additional fees."</string>
     <string name="llks_display_error">Permissions required</string>
     <string name="llks_display_error_des">Allow Wallpaper Carousel to be shown on the Lock screen in the Settings.</string>
     <string name="llks_learn_more_cate">More categories</string>
+    <string name="llks_loading">正在加载…</string>
     <string name="llks_pop_btm_des">Start your day with a smile</string>
     <string name="llks_pop_btm_des_backup">Get a great start to your day</string>
     <string name="llks_pop_btm_title">Good morning</string>
@@ -512,6 +533,16 @@ This may generate additional fees."</string>
     <string name="logout_summary">"You won't be able to sync your subscriptions and customized settings across devices after you sign out. Sign out anyway?"</string>
     <string name="logout_title">Sign out now?</string>
     <string name="look_str">Popular</string>
+    <string name="loop_service_dlg_content">Slideshow automatically cycles through Lock screen images tailored to your preferences, including themes like travel, food, art, entertainment, and more. Turn on Lock screen slideshow and add this image?</string>
+    <string name="loop_service_dlg_negative">Not now</string>
+    <string name="loop_service_dlg_positive">Turn on</string>
+    <string name="loop_service_dlg_positive_toast_day">Slideshow is on. Wallpaper will change every day. You can adjust the duration in Wallpaper Carousel settings.</string>
+    <string name="loop_service_dlg_positive_toast_hour_1">Slideshow is on. Wallpaper will change every hour. You can adjust the duration in Wallpaper Carousel settings.</string>
+    <string name="loop_service_dlg_positive_toast_hour_3">Slideshow is on. Wallpaper will change every 3 hours. You can adjust the duration in Wallpaper Carousel settings.</string>
+    <string name="loop_service_dlg_positive_toast_minutes_15">Slideshow is on. Wallpaper will change every 15 minutes. You can adjust the duration in Wallpaper Carousel settings.</string>
+    <string name="loop_service_dlg_positive_toast_minutes_5">Slideshow is on. Wallpaper will change every 5 minutes. You can adjust the duration in Wallpaper Carousel settings.</string>
+    <string name="loop_service_dlg_positive_toast_unlock">Slideshow is on. Wallpaper will change every time your device unlocks. You can adjust the duration in Wallpaper Carousel settings.</string>
+    <string name="loop_service_dlg_title">Turn on Lock screen slideshow?</string>
     <string name="main_fragment_title_discover">Discover</string>
     <string name="main_fragment_title_home">Recommend</string>
     <string name="main_fragment_title_home_excellent">Featured</string>
@@ -685,6 +716,7 @@ mm"</string>
     <string name="open_guid_des">Go to Settings > Permissions > Other permissions > Wallpaper Carousel and give the app all the required permissions.</string>
     <string name="open_sub_title">Select categories</string>
     <string name="open_title">Wallpaper Carousel</string>
+    <string name="open_unable">"Wallpaper Carousel only works with MIUI's default Lock screen."</string>
     <string name="opened">On</string>
     <string name="pager_load_hd">View original image</string>
     <string name="passport_access_denied">Access denied</string>
@@ -956,6 +988,13 @@ mm"</string>
     <string name="setting_title">Added successfully</string>
     <string name="settings">Settings</string>
     <string name="share">Share</string>
+    <string name="share_dlg_more">More</string>
+    <string name="share_dlg_qq">Send to QQ</string>
+    <string name="share_dlg_save">Save to Gallery</string>
+    <string name="share_dlg_title">Share wallpaper</string>
+    <string name="share_dlg_wechat">Send to a friend</string>
+    <string name="share_dlg_wechat_moment">WeChat Moments</string>
+    <string name="share_dlg_weibo">Send to Weibo</string>
     <string name="share_today_morning">Share</string>
     <string name="shield">"Block: "</string>
     <string name="shield_failed">"Couldn't block item"</string>
@@ -1176,7 +1215,7 @@ mm"</string>
     <string name="tuesday_shortest">Tue</string>
     <string name="txt_in_image_subscribe_info">%1$s / %2$s</string>
     <string name="understand_band_story">Learn more</string>
-    <string name="uninstall_introducation_text_desc">Wallpaper Carousel delivers new, high-quality images directly to your Lock screen. Make sure you can do without its features before you uninstall the app.</string>
+    <string name="uninstall_introducation_text_desc">Wallpaper Carousel delivers new quality images directly to your Lock screen. Make sure you can do without its features before you uninstall the app.</string>
     <string name="uninstall_introduction_text_title">About Wallpaper Carousel</string>
     <string name="uninstall_warning_text_desc">"Without Wallpaper Carousel you won't be able to receive new Lock screen wallpapers regularly. However, you'll be able to download and install the app again. Delete Wallpaper Carousel?"</string>
     <string name="uninstall_warning_text_title">Deleting Wallpaper Carousel</string>
@@ -1186,6 +1225,7 @@ mm"</string>
     <string name="v7_preference_on">ON</string>
     <string name="view_privacy_policy">Privacy Policy</string>
     <string name="wallpaper">Wallpaper</string>
+    <string name="wallpaper_added_success_toast">Added wallpaper successfully</string>
     <string name="wallpaper_feed_title">You may also like</string>
     <string name="wallpaper_relations_title">Recommended</string>
     <string name="wechat_application_id" />

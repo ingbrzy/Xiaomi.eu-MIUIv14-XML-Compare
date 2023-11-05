@@ -4,13 +4,13 @@
         <item quantity="other">1 hour ago</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 hour ago</item>
+        <item quantity="other">%d hour ago</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Half an hour ago</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">In 1 hour</item>
+        <item quantity="other">In %d hour</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">In half an hour</item>
@@ -19,27 +19,19 @@
         <item quantity="other">Immediately</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %d mins</item>
-        <item quantity="one">in 1 min</item>
+        <item quantity="other">In %d mins</item>
+        <item quantity="one">In %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Just now</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d mins ago</item>
-        <item quantity="one">1 min ago</item>
+        <item quantity="one">%d min ago</item>
     </plurals>
-    <plurals name="age_label_days">
-        <item quantity="other">%d days</item>
-        <item quantity="one">%d day</item>
-    </plurals>
-    <plurals name="age_label_months">
-        <item quantity="other">%d months</item>
-        <item quantity="one">%d month</item>
-    </plurals>
-    <plurals name="age_label_yrs">
-        <item quantity="other">years</item>
-        <item quantity="one">year</item>
+    <plurals name="delete_msg">
+        <item quantity="other">Delete %d items now?</item>
+        <item quantity="one">Delete %d item now?</item>
     </plurals>
     <plurals name="entries">
         <item quantity="other">%d items</item>
@@ -64,10 +56,6 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Just now</item>
     </plurals>
-    <plurals name="loan_repayment_detail">
-        <item quantity="other">Detailed repayment (%d years)</item>
-        <item quantity="one">Detailed repayment (%d year)</item>
-    </plurals>
     <plurals name="loan_repayment_detail_unit">
         <item quantity="other">Detailed repayment (%d years), CNY</item>
         <item quantity="one">Detailed repayment (%d year), CNY</item>
@@ -84,6 +72,10 @@
         <item quantity="other">%d minutes ago</item>
         <item quantity="one">1 minute ago</item>
     </plurals>
+    <plurals name="select_items">
+        <item quantity="other">Selected %d items</item>
+        <item quantity="one">Selected %d item</item>
+    </plurals>
     <plurals name="tenure_months">
         <item quantity="other">%d months</item>
         <item quantity="one">%d month</item>
@@ -91,5 +83,29 @@
     <plurals name="tenure_years">
         <item quantity="other">%d years</item>
         <item quantity="one">%d year</item>
+    </plurals>
+    <plurals name="unit_data_display_data_b">
+        <item quantity="other">Bytes</item>
+        <item quantity="one">Byte</item>
+    </plurals>
+    <plurals name="unit_data_display_data_gb">
+        <item quantity="other">Gigabytes</item>
+        <item quantity="one">Gigabyte</item>
+    </plurals>
+    <plurals name="unit_data_display_data_kb">
+        <item quantity="other">Kilobytes</item>
+        <item quantity="one">Kilobyte</item>
+    </plurals>
+    <plurals name="unit_data_display_data_mb">
+        <item quantity="other">Megabytes</item>
+        <item quantity="one">Megabyte</item>
+    </plurals>
+    <plurals name="unit_data_display_data_pb">
+        <item quantity="other">Petabytes</item>
+        <item quantity="one">Petabyte</item>
+    </plurals>
+    <plurals name="unit_data_display_data_tb">
+        <item quantity="other">Terabytes</item>
+        <item quantity="one">Terabyte</item>
     </plurals>
 </resources>

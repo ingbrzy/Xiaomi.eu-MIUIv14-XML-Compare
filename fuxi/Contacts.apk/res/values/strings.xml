@@ -1217,9 +1217,9 @@ Tap \"%1$s\", and then select \"%2$s\"."</string>
     <string name="remove_blacklist">Unblock</string>
     <string name="remove_blacklist_dialog_message">Show calls and messages from this number?</string>
     <string name="remove_blacklist_dialog_title">Unblock this phone number?</string>
-    <string name="remove_duplicate">"MIUI will help you find and merge duplicate contacts.
+    <string name="remove_duplicate">"This feature helps you find and merge duplicate contacts.
 
- To begin, tap the Merge icon at the bottom of your screen."</string>
+To begin, tap \"Merge\" at the bottom of your screen."</string>
     <string name="required_permissions">android.permission.WRITE_CONTACTS;android.permission.READ_CONTACTS;android.permission.WRITE_CALL_LOG;android.permission.READ_CALL_LOG;android.permission.READ_PHONE_STATE;android.permission.CALL_PHONE;android.permission.POST_NOTIFICATIONS</string>
     <string name="residual_time_description">%1$sday%2$shour</string>
     <string name="residual_time_description2">%1$dh</string>

@@ -287,7 +287,7 @@
     <string name="low_battery_error_title">Low battery</string>
     <string name="low_bit_rate">MP3, ~%1$d kbps, ~%2$d MB/h</string>
     <string name="manage_external_storage">Access all files</string>
-    <string name="marketSdkVersion">3.2.22</string>
+    <string name="marketSdkVersion">3.2.26</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Select AM or PM</string>
     <string name="material_hour_selection">Select hour</string>
