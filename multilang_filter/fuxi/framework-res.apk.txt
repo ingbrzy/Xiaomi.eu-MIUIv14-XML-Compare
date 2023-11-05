@@ -37,7 +37,6 @@ Removed: [pt-rPT] strings.xml: string/ext_media_unsupported_notification_message
 Removed: [ro] strings.xml: string/ext_media_unsupported_notification_message (format mismatch)
 Removed: [ru] strings.xml: string/ext_media_unsupported_notification_message (format mismatch)
 Removed: [sk] strings.xml: string/ext_media_unsupported_notification_message (format mismatch)
-Removed: [sl-rSI] strings.xml: string/ext_media_unsupported_notification_message (format mismatch)
 Removed: [sr] strings.xml: string/ext_media_unsupported_notification_message (format mismatch)
 Removed: [sv] strings.xml: string/ext_media_unsupported_notification_message (format mismatch)
 Removed: [th] strings.xml: string/ext_media_unsupported_notification_message (format mismatch)
