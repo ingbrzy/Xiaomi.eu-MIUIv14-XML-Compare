@@ -30,11 +30,11 @@
     <string name="actionbar_button_up_description">Back</string>
     <string name="afternoon">Afternoon</string>
     <string name="am">AM</string>
+    <string name="androidx_startup">androidx.startup</string>
     <string name="app_name">Screen Recorder</string>
     <string name="app_notification_channel_record_complete">Notifications about finished recordings</string>
     <string name="app_notification_info">Currently recording screen…</string>
-    <string name="app_notification_record_saved">"Saved recording successfully
-Tap to view"</string>
+    <string name="app_notification_record_saved">Screen recording saved. Tap to view.</string>
     <string name="app_notification_title">Screen Recorder</string>
     <string name="auto_stop_title">Video saved successfully</string>
     <string name="battery_not_allowed_warning">"Can't record when the battery is lower than %1$s. Make sure the battery is at least %2$s charged."</string>
@@ -249,15 +249,16 @@ Tap to view"</string>
     <string name="midnight">Night</string>
     <string name="miuix_access_state_desc">Selected</string>
     <string name="miuix_alphabet_indexer_name">Index bar</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselect</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_action_mode_select_all">Select all</string>
     <string name="miuix_appcompat_action_mode_title_empty">Select items</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">More</string>
     <string name="miuix_appcompat_cancel_description">Cancel</string>
     <string name="miuix_appcompat_confirm_description">Confirm</string>
     <string name="miuix_appcompat_delete_description">Delete</string>
-    <string name="miuix_appcompat_deselect_all">Deselect</string>
+    <string name="miuix_appcompat_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_deselect_all_description">Deselect all</string>
+    <string name="miuix_appcompat_edit">Edit</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel</string>
     <string name="miuix_appcompat_search_input_description">Search</string>
     <string name="miuix_appcompat_select_all">Select all</string>

@@ -276,7 +276,7 @@ path prefix"</string>
     <string name="bcc">Bcc</string>
     <string name="bcc_heading">"Bcc: "</string>
     <string name="blank_feedback_toast">You need to write feedback</string>
-    <string name="blank_place_holder">　</string>
+    <string name="blank_place_holder" />
     <string name="body_forward_email_text">[Forward]</string>
     <string name="body_hint">Body</string>
     <string name="body_inline_pic_text">[Picture]</string>
@@ -918,15 +918,16 @@ This issue might be caused by the account's two-factor authentication. Try enter
     <string name="midnight">Night</string>
     <string name="miuix_access_state_desc">Selected</string>
     <string name="miuix_alphabet_indexer_name">Index bar</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselect</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_action_mode_select_all">Select all</string>
     <string name="miuix_appcompat_action_mode_title_empty">Select items</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">More</string>
     <string name="miuix_appcompat_cancel_description">Cancel</string>
     <string name="miuix_appcompat_confirm_description">Confirm</string>
     <string name="miuix_appcompat_delete_description">Delete</string>
-    <string name="miuix_appcompat_deselect_all">Deselect</string>
+    <string name="miuix_appcompat_deselect_all">Deselect all</string>
     <string name="miuix_appcompat_deselect_all_description">Deselect all</string>
+    <string name="miuix_appcompat_edit">Edit</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel</string>
     <string name="miuix_appcompat_search_input_description">Search</string>
     <string name="miuix_appcompat_select_all">Select all</string>
@@ -942,11 +943,6 @@ This issue might be caused by the account's two-factor authentication. Try enter
     <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
-    <string name="miuix_search_action_mode_cancel">Cancel</string>
-    <string name="miuix_search_history_clear">Clear search history</string>
-    <string name="miuix_search_history_default_title">Search history</string>
-    <string name="miuix_search_recommendation_default_title">You might be interested in these</string>
-    <string name="miuix_search_recommendation_item_del_des">Delete</string>
     <string name="monday">Monday</string>
     <string name="monday_short">Mon</string>
     <string name="monday_shortest">Mon</string>
@@ -1363,6 +1359,7 @@ Wait until it's fully synced or view the message on your computer."</string>
     <string name="sign_in_dialog_office365">Office365 Personal Edition</string>
     <string name="sign_in_dialog_outlook_enterprise">Office365 Exchange Enterprise Edition</string>
     <string name="sign_in_dialog_outlook_imap">IMAP (without calendar)</string>
+    <string name="sign_in_dialog_title">Choose sign-in method</string>
     <string name="sign_in_no_useful_provider_error">"Can't get protocol configurations from Microsoft. Use a different protocol or update the protocol from Microsoft."</string>
     <string name="signature">"
 
