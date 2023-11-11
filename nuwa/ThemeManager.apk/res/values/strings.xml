@@ -693,6 +693,9 @@ To turn this feature off, go to Settings > Sound &amp; vibration > Profile video
     <string name="local_mode_hint">"You're using offline mode.
 Tap to turn off."</string>
     <string name="local_mode_open">Offline mode</string>
+    <string name="local_notification_default_title">Themes</string>
+    <string name="local_notification_font_trial_title">Check out new fonts</string>
+    <string name="local_notification_update_theme_title">Update your themes</string>
     <string name="local_photos">Local photos</string>
     <string name="local_resouce_creator_name">Developer: %1$s</string>
     <string name="lock_screen_apply">Set as Lock screen</string>
@@ -1320,6 +1323,7 @@ You can grant this permission in Settings > Privacy."</string>
     <string name="resource_ring_ranking_list_rank_3">3</string>
     <string name="resource_ringtone_default">Ringtones</string>
     <string name="resource_ringtone_playing_error">Error</string>
+    <string name="resource_ringtone_too_large_waring">Ringtone files must be %1$d MB or smaller</string>
     <string name="resource_ringtone_volume_mute">Ringer is silenced</string>
     <string name="resource_save_to_note">Save to Notes</string>
     <string name="resource_search_color_hint_blue">Blue</string>
