@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Network manager</string>
+    <string name="config_captive_portal_http_url" />
+    <string name="config_captive_portal_https_url" />
+    <string name="config_evaluating_bandwidth_url" />
+    <string name="config_network_validation_failed_content_regexp" />
+    <string name="config_network_validation_success_content_regexp" />
+    <string name="connected">Connected</string>
+    <string name="default_captive_portal_http_url">http://connectivitycheck.gstatic.com/generate_204</string>
+    <string name="default_captive_portal_https_url">https://www.google.com/generate_204</string>
+    <string name="notification_channel_description_connected">Notifications shown when the device has successfully authenticated to a captive portal network</string>
+    <string name="notification_channel_description_network_venue_info">Notifications shown to indicate the network has a venue information page</string>
+    <string name="notification_channel_name_connected">Captive portal authentication</string>
+    <string name="notification_channel_name_network_venue_info">Network venue information</string>
+    <string name="tap_for_info">Connected / Tap to view website</string>
+</resources>

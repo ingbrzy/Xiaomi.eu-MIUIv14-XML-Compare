@@ -627,6 +627,7 @@ You can start another session on your computer."</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sub_screen_lock_message">"Unlock your phone
 to continue"</string>
+    <string name="subscreen_exception_hint">"Device isn't updated to the latest version. Display errors may occur."</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Sunday</string>
     <string name="sunday_short">Sun</string>

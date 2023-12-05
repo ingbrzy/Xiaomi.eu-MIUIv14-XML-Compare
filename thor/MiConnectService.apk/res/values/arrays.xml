@@ -1,38 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="DeviceNameOfCustomThemeByHwid">
-        <item>yuechu</item>
-    </string-array>
-    <string-array name="PreCustomThemeConfig">
-        <item>hwId</item>
-        <item>themeID</item>
-    </string-array>
-    <string-array name="alphabet_sub_table_with_starred">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
     <string-array name="alphabet_table">
         <item>A</item>
         <item>B</item>
@@ -95,10 +62,6 @@
     <string-array name="am_pms">
         <item>@string/am</item>
         <item>@string/pm</item>
-    </string-array>
-    <string-array name="apply_icon_choices">
-        <item>@string/de_apply_icons</item>
-        <item>@string/de_apply_icons_and_wallpaper</item>
     </string-array>
     <string-array name="chinese_days">
         <item>@string/chinese_day_1</item>
@@ -177,13 +140,174 @@
         <item>@string/chinese_symbol_animals_dog</item>
         <item>@string/chinese_symbol_animals_pig</item>
     </string-array>
-    <string-array name="default_colors">
-        <item>\#ff0000</item>
-        <item>\#ff7f00</item>
-        <item>\#ffff00</item>
-        <item>\#800080</item>
-        <item>\#0000ff</item>
-        <item>\#00ff00</item>
+    <string-array name="country_codes_5ghz_supported">
+        <item>AE</item>
+        <item>AR</item>
+        <item>AS</item>
+        <item>AU</item>
+        <item>BB</item>
+        <item>BF</item>
+        <item>BH</item>
+        <item>BM</item>
+        <item>BN</item>
+        <item>BR</item>
+        <item>BS</item>
+        <item>CA</item>
+        <item>CF</item>
+        <item>CI</item>
+        <item>CL</item>
+        <item>CN</item>
+        <item>CO</item>
+        <item>CR</item>
+        <item>CX</item>
+        <item>DM</item>
+        <item>DO</item>
+        <item>EC</item>
+        <item>FM</item>
+        <item>GD</item>
+        <item>GH</item>
+        <item>GU</item>
+        <item>HK</item>
+        <item>HN</item>
+        <item>HT</item>
+        <item>IN</item>
+        <item>JM</item>
+        <item>JO</item>
+        <item>KE</item>
+        <item>KN</item>
+        <item>KR</item>
+        <item>KY</item>
+        <item>LB</item>
+        <item>LC</item>
+        <item>LK</item>
+        <item>MH</item>
+        <item>MN</item>
+        <item>MP</item>
+        <item>MU</item>
+        <item>MV</item>
+        <item>MX</item>
+        <item>MY</item>
+        <item>NI</item>
+        <item>NP</item>
+        <item>NZ</item>
+        <item>PA</item>
+        <item>PE</item>
+        <item>PG</item>
+        <item>PH</item>
+        <item>PR</item>
+        <item>PW</item>
+        <item>PY</item>
+        <item>RU</item>
+        <item>RW</item>
+        <item>SG</item>
+        <item>SN</item>
+        <item>SV</item>
+        <item>TC</item>
+        <item>TH</item>
+        <item>TT</item>
+        <item>UA</item>
+        <item>UG</item>
+        <item>US</item>
+        <item>UY</item>
+        <item>VE</item>
+        <item>VI</item>
+        <item>VN</item>
+        <item>VU</item>
+        <item>ZA</item>
+        <item>AF</item>
+        <item>AI</item>
+        <item>AL</item>
+        <item>AM</item>
+        <item>AN</item>
+        <item>AT</item>
+        <item>AW</item>
+        <item>AZ</item>
+        <item>BA</item>
+        <item>BE</item>
+        <item>BG</item>
+        <item>BL</item>
+        <item>BT</item>
+        <item>BY</item>
+        <item>CH</item>
+        <item>CY</item>
+        <item>CZ</item>
+        <item>DE</item>
+        <item>DK</item>
+        <item>DZ</item>
+        <item>EE</item>
+        <item>EG</item>
+        <item>ES</item>
+        <item>ET</item>
+        <item>FI</item>
+        <item>FR</item>
+        <item>GB</item>
+        <item>GE</item>
+        <item>GF</item>
+        <item>GL</item>
+        <item>GP</item>
+        <item>GR</item>
+        <item>GT</item>
+        <item>HR</item>
+        <item>HU</item>
+        <item>IE</item>
+        <item>IL</item>
+        <item>IS</item>
+        <item>IT</item>
+        <item>JP</item>
+        <item>KH</item>
+        <item>KW</item>
+        <item>LI</item>
+        <item>LS</item>
+        <item>LT</item>
+        <item>LU</item>
+        <item>LV</item>
+        <item>MA</item>
+        <item>MC</item>
+        <item>MD</item>
+        <item>ME</item>
+        <item>MF</item>
+        <item>MK</item>
+        <item>MQ</item>
+        <item>MR</item>
+        <item>MT</item>
+        <item>MW</item>
+        <item>NL</item>
+        <item>NO</item>
+        <item>OM</item>
+        <item>PF</item>
+        <item>PL</item>
+        <item>PM</item>
+        <item>PT</item>
+        <item>RE</item>
+        <item>RO</item>
+        <item>RS</item>
+        <item>SA</item>
+        <item>SE</item>
+        <item>SI</item>
+        <item>SK</item>
+        <item>SR</item>
+        <item>TD</item>
+        <item>TG</item>
+        <item>TN</item>
+        <item>TR</item>
+        <item>UZ</item>
+        <item>VC</item>
+        <item>WF</item>
+        <item>WS</item>
+        <item>YT</item>
+        <item>ZW</item>
+        <item>BD</item>
+        <item>BO</item>
+        <item>BZ</item>
+        <item>GY</item>
+        <item>ID</item>
+        <item>IR</item>
+        <item>MO</item>
+        <item>NG</item>
+        <item>PK</item>
+        <item>QA</item>
+        <item>TW</item>
+        <item>TZ</item>
     </string-array>
     <string-array name="detailed_am_pms">
         <item>@string/midnight</item>
@@ -193,9 +317,6 @@
         <item>@string/afternoon</item>
         <item>@string/evening</item>
         <item>@string/night</item>
-    </string-array>
-    <string-array name="disable_package_replacement">
-        <item>disable package name</item>
     </string-array>
     <string-array name="earthly_branches">
         <item>@string/earthly_branches_zi</item>
@@ -215,24 +336,6 @@
         <item>@string/eras_bc</item>
         <item>@string/eras_ad</item>
     </string-array>
-    <string-array name="exo_playback_speeds">
-        <item>0.25x</item>
-        <item>0.5x</item>
-        <item>0.75x</item>
-        <item>@string/exo_controls_playback_speed_normal</item>
-        <item>1.25x</item>
-        <item>1.5x</item>
-        <item>2x</item>
-    </string-array>
-    <integer-array name="exo_speed_multiplied_by_100">
-        <item>25</item>
-        <item>50</item>
-        <item>75</item>
-        <item>100</item>
-        <item>125</item>
-        <item>150</item>
-        <item>200</item>
-    </integer-array>
     <string-array name="heavenly_stems">
         <item>@string/heavenly_stems_jia</item>
         <item>@string/heavenly_stems_yi</item>
@@ -287,60 +390,13 @@
         <item>@string/month_november_shortest</item>
         <item>@string/month_december_shortest</item>
     </string-array>
-    <string-array name="search_price_list">
-        <item>@string/search_price_name</item>
-        <item>@string/search_price_no_limit</item>
-        <item>@string/search_price_free</item>
-        <item>@string/search_price_charge</item>
+    <string-array name="permissions">
+        <item>android.permission-group.STORAGE</item>
+        <item>android.permission-group.LOCATION</item>
     </string-array>
-    <string-array name="search_sort_list">
-        <item>@string/search_sort_name</item>
-        <item>@string/search_sort_synthesize</item>
-        <item>@string/search_sort_news</item>
-        <item>@string/search_sort_top</item>
-    </string-array>
-    <string-array name="set_video_wallpaper_three_items">
-        <item>@string/wallpaper_set_as_lockscreen</item>
-        <item>@string/wallpaper_set_as_desktop</item>
-        <item>@string/wallpaper_apply_full</item>
-    </string-array>
-    <string-array name="set_video_wallpaper_three_items_with_incall">
-        <item>@string/wallpaper_set_as_lockscreen</item>
-        <item>@string/wallpaper_set_as_desktop</item>
-        <item>@string/wallpaper_apply_full</item>
-        <item>@string/wallpaper_set_as_incall_show</item>
-    </string-array>
-    <string-array name="set_wallpaper_loop_interval">
-        <item>@string/wallpaper_loop_interval_15min</item>
-        <item>@string/wallpaper_loop_interval_1h</item>
-        <item>@string/wallpaper_loop_interval_1d</item>
-    </string-array>
-    <string-array name="set_wallpaper_loop_interval_values">
-        <item>900000</item>
-        <item>3600000</item>
-        <item>86400000</item>
-    </string-array>
-    <string-array name="set_wallpaper_loop_order">
-        <item>@string/wallpaper_loop_order_loop</item>
-        <item>@string/wallpaper_loop_order_shuffle</item>
-    </string-array>
-    <string-array name="set_wallpaper_loop_order_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
-    <string-array name="set_wallpaper_three_items">
-        <item>@string/wallpaper_set_as_lockscreen</item>
-        <item>@string/wallpaper_set_as_desktop</item>
-        <item>@string/wallpaper_set_as_both</item>
-    </string-array>
-    <string-array name="set_wallpaper_two_items">
-        <item>@string/wallpaper_set_as_desktop</item>
-        <item>@string/wallpaper_apply_full</item>
-    </string-array>
-    <string-array name="set_wallpaper_two_items_with_incall">
-        <item>@string/wallpaper_set_as_desktop</item>
-        <item>@string/wallpaper_apply_full</item>
-        <item>@string/wallpaper_set_as_incall_show</item>
+    <string-array name="permissions_desc">
+        <item>For accessing and saving images, apps, and other files, as well as transferring them</item>
+        <item>For transferring files using Bluetooth and Wi-Fi</item>
     </string-array>
     <string-array name="solar_terms">
         <item>@string/empty</item>
@@ -368,42 +424,6 @@
         <item>@string/solar_term_light_snow</item>
         <item>@string/solar_term_heavy_snow</item>
         <item>@string/solar_term_winter_solstice</item>
-    </string-array>
-    <string-array name="system_cta_runtime_perm">
-        <item>android.permission.READ_PHONE_STATE</item>
-        <item>android.permission-group.STORAGE</item>
-    </string-array>
-    <string-array name="system_cta_runtime_perm_desc">
-        <item>@string/system_cta_runtime_perm_desc_read_phone_state</item>
-        <item>@string/system_cta_runtime_perm_desc_storage</item>
-    </string-array>
-    <string-array name="system_cta_runtime_perm_desc_above_eleven">
-        <item>@string/system_cta_runtime_perm_desc_read_phone_state</item>
-        <item>@string/system_cta_runtime_perm_desc_storage_above_eleven</item>
-    </string-array>
-    <string-array name="system_cta_runtime_perm_desc_non_phone_state">
-        <item>@string/system_cta_runtime_perm_desc_storage</item>
-    </string-array>
-    <string-array name="system_cta_runtime_perm_desc_non_phone_state_above_eleven">
-        <item>@string/system_cta_runtime_perm_desc_storage_above_eleven</item>
-    </string-array>
-    <string-array name="system_cta_runtime_perm_desc_non_phone_state_install_app">
-        <item>@string/system_cta_runtime_perm_desc_storage</item>
-        <item>@string/application_list_permission_desc</item>
-    </string-array>
-    <string-array name="system_cta_runtime_perm_desc_non_phone_state_pad">
-        <item>@string/system_cta_runtime_perm_desc_storage_pad</item>
-    </string-array>
-    <string-array name="system_cta_runtime_perm_desc_pad">
-        <item>@string/system_cta_runtime_perm_desc_read_phone_state</item>
-        <item>@string/system_cta_runtime_perm_desc_storage_pad</item>
-    </string-array>
-    <string-array name="system_cta_runtime_perm_non_phone_state">
-        <item>android.permission-group.STORAGE</item>
-    </string-array>
-    <string-array name="system_cta_runtime_perm_phone_state_and_install_app">
-        <item>android.permission-group.STORAGE</item>
-        <item>com.android.permission.GET_INSTALLED_APPS</item>
     </string-array>
     <string-array name="week_days">
         <item>@string/sunday</item>

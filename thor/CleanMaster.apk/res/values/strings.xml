@@ -53,6 +53,7 @@
     <string name="activity_title_uninstall_apps">Apps</string>
     <string name="activity_title_video">Delete videos</string>
     <string name="activity_title_white_list">Exceptions</string>
+    <string name="ad_flag_text">AD</string>
     <string name="ad_install_success_dialog_lunch">Open</string>
     <string name="ad_install_success_dialog_title">Installed %1$s successfully. Open now?</string>
     <string name="afternoon">Afternoon</string>
@@ -732,6 +733,7 @@
     <string name="last_check_canceled">Previous scan was canceled</string>
     <string name="load_only_under_wlan">Load using only Wi-Fi</string>
     <string name="location_not_found">"Couldn't find file"</string>
+    <string name="lock_device_toast">This device is locked. Unlock to use Cleaner.</string>
     <string name="login_immediately">Sign in</string>
     <string name="long_click_dialog_summary">Long press to add to exceptions.</string>
     <string name="long_click_dialog_title">Notice</string>
@@ -838,6 +840,9 @@
     <string name="msg_update_error_code_success">Done</string>
     <string name="msg_update_error_code_unknown_error">Servers are busy. Wait a minute or two and try again.</string>
     <string name="name_debuglog_dir">BSP debug log</string>
+    <string name="native_body">Body</string>
+    <string name="native_headline">Headline</string>
+    <string name="native_media_view">Media View</string>
     <string name="nb_clear_set">Clear cache, view battery and blocklist info in the notification shade</string>
     <string name="network_not_available">"Can't connect to the network"</string>
     <string name="news_change">Change</string>
@@ -1016,13 +1021,8 @@
     <string name="preference_key_whatsapp_setting_other_shortcut">key_whatsapp_setting_other_shortcut</string>
     <string name="preference_key_whatsapp_setting_privacy_mi">key_whatsapp_setting_privacy_mi</string>
     <string name="preference_key_whatsapp_setting_privacy_third">key_whatsapp_setting_privacy_third</string>
-    <string name="privacy_app_desc">Account and password</string>
-    <string name="privacy_app_desc_message">Account, passwords, and messages</string>
-    <string name="privacy_app_desc_search">Account, passwords, and search history</string>
-    <string name="privacy_app_desc_setting">Account, passwords, and settings</string>
     <string name="privacy_appdata_chrome_history_des">Visited websites</string>
     <string name="privacy_browser_desc">Searched items</string>
-    <string name="privacy_cache_desc">Account, password, history, settings and more</string>
     <string name="privacy_cache_empty">No private data</string>
     <string name="privacy_cache_scaning">Checking…</string>
     <string name="privacy_cache_title">Personal info</string>
@@ -1089,6 +1089,7 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
+    <string name="skip_ad">Skip</string>
     <string name="sms">SMS/MMS</string>
     <string name="solar_term_autumn_begins">Autumn begins</string>
     <string name="solar_term_autumn_equinox">Autumn equinox</string>
@@ -1245,6 +1246,7 @@
     <string name="v7_preference_on">ON</string>
     <string name="virus_scan">Virus scan</string>
     <string name="vungle_ad_name">Vungle广告</string>
+    <string name="watermark_label_prefix">"AdMob - "</string>
     <string name="wechat_chat_data_type_cache">WeChat cache</string>
     <string name="wechat_chat_data_type_cache_desc">"You'll be able to restore these files after you connect to the internet."</string>
     <string name="wechat_chat_data_type_chat">Chat history</string>
@@ -1329,9 +1331,10 @@
     <string name="yandex_ads_internal_install">Установить</string>
     <string name="yandex_ads_internal_install_from_google_play">Установить из Google Play</string>
     <string name="yandex_ads_internal_instream_ad_position">%1$d из %2$d</string>
-    <string name="yandex_ads_internal_instream_advertiser_social">Социальная реклама</string>
-    <string name="yandex_ads_internal_instream_advertiser_yandex">Реклама</string>
+    <string name="yandex_ads_internal_instream_call_to_action">Перейти ➔</string>
     <string name="yandex_ads_internal_instream_skip">Пропустить</string>
+    <string name="yandex_ads_internal_instream_sponsored_social">СОЦИАЛЬНАЯ РЕКЛАМА</string>
+    <string name="yandex_ads_internal_instream_sponsored_yandex">РЕКЛАМА</string>
     <string name="yandex_ads_internal_rewarded_close_verification_button_close">Закрыть</string>
     <string name="yandex_ads_internal_rewarded_close_verification_button_dismiss">Досмотреть</string>
     <string name="yandex_ads_internal_rewarded_close_verification_text">Если закрыть рекламу до окончания таймера, награда за просмотр не будет начислена</string>

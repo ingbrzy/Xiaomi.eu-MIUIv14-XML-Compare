@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="config_apfEthTypeDenyList">
+        <item>0x000088A2</item>
+        <item>0x000088A4</item>
+        <item>0x000088B8</item>
+        <item>0x000088CD</item>
+        <item>0x000088E3</item>
+    </integer-array>
+    <array name="config_captive_portal_fallback_probe_specs" />
+    <array name="config_captive_portal_fallback_urls" />
+    <array name="config_captive_portal_http_urls" />
+    <array name="config_captive_portal_https_urls" />
+    <array name="config_default_dns_servers" />
+    <string-array name="default_captive_portal_fallback_urls">
+        <item>http://www.google.com/gen_204</item>
+        <item>http://play.googleapis.com/generate_204</item>
+    </string-array>
+</resources>

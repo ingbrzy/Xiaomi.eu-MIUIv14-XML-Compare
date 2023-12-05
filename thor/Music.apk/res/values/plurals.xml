@@ -134,6 +134,10 @@ Note: File will be deleted from this device as well."</item>
     <plurals name="half_hour_ago">
         <item quantity="other">Half an hour ago</item>
     </plurals>
+    <plurals name="hide_reason_duration">
+        <item quantity="other">Less than %1$ds</item>
+        <item quantity="one">Less than %1$ds</item>
+    </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">In 1 hour</item>
     </plurals>

@@ -205,6 +205,10 @@
         <item quantity="other">Blocked %d ads</item>
         <item quantity="one">Blocked %d ad</item>
     </plurals>
+    <plurals name="recommend_top_guide">
+        <item quantity="other">%d new recommended videos</item>
+        <item quantity="one">%d new recommended video</item>
+    </plurals>
     <plurals name="search_trending_views">
         <item quantity="other">%s search requests</item>
         <item quantity="one">%s search request</item>

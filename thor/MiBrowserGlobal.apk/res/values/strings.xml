@@ -308,6 +308,7 @@ Toggle off to stop syncing."</string>
     <string name="browser_wallpaper_subtitle">Personalize Mi Browser with beautiful wallpapers.</string>
     <string name="browser_wallpaper_system_default">Default</string>
     <string name="browser_wallpaper_title">Wallpapers</string>
+    <string name="browser_wallpaper_toast">Turn off the Promotions toggle to be able to switch wallpapers</string>
     <string name="btn_agree">Agree</string>
     <string name="btn_cancel">Cancel</string>
     <string name="camera_permission_name">Use camera</string>
@@ -482,8 +483,8 @@ Toggle off to stop syncing."</string>
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">Skip</string>
-    <string name="com.crashlytics.android.build_id">abc92d198ddb4df6bdeeb1a0a27a570a</string>
-    <string name="com.miapm.build_id">cd3d33322add49a08caf4baba656b1a6</string>
+    <string name="com.crashlytics.android.build_id">6b82253a292f49e8b6c54127134786a5</string>
+    <string name="com.miapm.build_id">608cec17e49b4524adfbb9d7897ebdbd</string>
     <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
     <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
@@ -552,12 +553,13 @@ Toggle off to stop syncing."</string>
     <string name="confirm_privacy_password">Draw your unlock pattern</string>
     <string name="confirm_unbundled_phone_dialog_message">This phone number was associated with Mi Account %2$s on %1$s. It will no longer be associated with Mi Account %3$s if you continue. Continue?</string>
     <string name="connection_lost">Disconnected</string>
-    <string name="content_center_title">111</string>
+    <string name="content_center_title">Content Center</string>
     <string name="content_collection_done">Added to favorites successfully</string>
     <string name="content_recommend">Recommended</string>
     <string name="content_recommend_trending_title">Google</string>
     <string name="contextmenu_add_contact">Add contact</string>
     <string name="contextmenu_copy">Copy</string>
+    <string name="contextmenu_copy_image">Copy image</string>
     <string name="contextmenu_copylink">Copy link URL</string>
     <string name="contextmenu_dial_dot">Dial…</string>
     <string name="contextmenu_download_image">Save image</string>
@@ -582,6 +584,8 @@ Toggle off to stop syncing."</string>
     <string name="continue_reading">Continue reading</string>
     <string name="continue_watch_video">Continue watching</string>
     <string name="copy">Copy</string>
+    <string name="copy_image_failed">"Couldn't copy"</string>
+    <string name="copy_image_success">Copied successfully</string>
     <string name="copy_success">Copied successfully</string>
     <string name="copy_toast_msg">Link copied to clipboard</string>
     <string name="copy_url">Copy URL</string>
@@ -609,13 +613,13 @@ Pages you view won't appear in history."</string>
     <string name="date_picker_lunar">Chinese Traditional Calendar</string>
     <string name="date_time_picker_dialog_title">Set date and time</string>
     <string name="debug_crash">Enable crash debug</string>
+    <string name="debug_user_firebase_config_list_title">Firebase Config List</string>
+    <string name="debug_user_firebase_config_reset">Reset</string>
+    <string name="debug_user_firebase_config_reset_confirm_dialog">Firebase configs will be reset</string>
+    <string name="debug_user_firebase_config_reset_loading_dialog">Processing…</string>
+    <string name="debug_user_firebase_config_search_hint">Search config</string>
     <string name="debug_youtube_file">Debug youtube file</string>
     <string name="debug_youtube_in_release">Debug youtube in release</string>
-    <string name="decompress">Extract</string>
-    <string name="decompress_fail">"Couldn't extract"</string>
-    <string name="decompress_success">Extracted successfully</string>
-    <string name="decompress_view">View</string>
-    <string name="decompress_viewer_label">Archive manager (Mi Browser)</string>
     <string name="decompressed_files">Extracted files</string>
     <string name="deeplink_intrercept_hint">This popup will suggest opening an app.</string>
     <string name="deeplink_intrercept_second_hint">The website is about to open an app. Stopped this action for now.</string>
@@ -807,7 +811,7 @@ Send this code to the supervisor."</string>
     <string name="empty_history_hint">History is empty</string>
     <string name="empty_snapshot_hint">Empty</string>
     <string name="enable_geolocation_confirm_message">Turning off location services will affect the recommendations you receive.</string>
-    <string name="enable_miui_lite_plus">Enable MiuiLite+ debug</string>
+    <string name="enable_miui_lite_plus">Enable Lite+ debug</string>
     <string name="enable_notification_permission_in_settings">Allow notifications in Settings to be able to use this feature.</string>
     <string name="encrypt_success">Hidden successfully</string>
     <string name="encrypting">Encrypting…</string>
@@ -1173,7 +1177,6 @@ Send this code to the supervisor."</string>
     <string name="ignore_add_game_center_dialog_this_week">"Don't show this week"</string>
     <string name="ignore_add_pwa_dialog_today">"Don't show today"</string>
     <string name="improve_mi_browser_pe">Help us improve Mi Browser</string>
-    <string name="in_secureaccess">Browser switched to Safe mode</string>
     <string name="incognito_message">"Now you can browse privately, and other people who use this device won't see your activity. However, downloads and bookmarks will still be saved."</string>
     <string name="incognito_off">Incognito mode is off.</string>
     <string name="incognito_on">"You're incognito!"</string>
@@ -1441,6 +1444,7 @@ Send this code to the supervisor."</string>
     <string name="more_option">More options</string>
     <string name="more_privacy">More privacy options</string>
     <string name="more_recommend">More recommendations</string>
+    <string name="more_videos">More videos</string>
     <string name="morning">Morning</string>
     <string name="most_visited_sites">Most visited</string>
     <string name="most_visited_sites_switch">Show most visited sites on the start page</string>
@@ -1722,13 +1726,15 @@ Leave this page now?"</string>
     <string name="navigationbar_rightbutton_actiontext_go">Go</string>
     <string name="navigationbar_rightbutton_actiontext_search">Search</string>
     <string name="net_error">Network error</string>
-    <string name="network_show_wifi_setting_tip_dialog_description">Found a Wi-Fi hotspot nearby. Try to connect?</string>
-    <string name="network_show_wifi_setting_tip_dialog_title">Wi-Fi network is available</string>
     <string name="new_update_available">An update is available</string>
     <string name="news_flow_more_recommend">More recommended items</string>
     <string name="news_load_failed">Tap to try again</string>
     <string name="news_loading">Loading…</string>
     <string name="news_native_see_all">Full article</string>
+    <string name="news_video_history">History</string>
+    <string name="news_video_history_empty">Nothing here yet</string>
+    <string name="news_video_invisible_item">"Can't view this video"</string>
+    <string name="news_video_no_more_videos">"That's all for now"</string>
     <string name="next">Next</string>
     <string name="nf_choose_reason">Describe the issue</string>
     <string name="nf_content_gif_label">GIF</string>
@@ -2190,15 +2196,15 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="privacy_agreement">User Agreement</string>
     <string name="privacy_authorize_cannot_revoke_dialog_msg">"This action requires uploading your Performance ID, which can't be done in Incognito mode. Leave Incognito mode and try again."</string>
     <string name="privacy_authorize_network_error">Your device needs to connect to the network for you to be able to withdraw consent. Check your network settings and try again.</string>
-    <string name="privacy_authorize_revoke">Revoke</string>
+    <string name="privacy_authorize_revoke">Withdraw</string>
     <string name="privacy_authorize_revoke_dialog_msg">After you revoke authorization, Mi Browser will stop collecting data, and all the related data will be deleted from the servers. This might make Mi Browser virtually unusable. Revoke authorization anyway?</string>
-    <string name="privacy_authorize_revoke_dialog_title">Revoking authorization</string>
-    <string name="privacy_authorize_revoke_failed">"Couldn't revoke authorization"</string>
-    <string name="privacy_authorize_revoke_success">Revoked authorization successfully</string>
-    <string name="privacy_authorize_revoke_time">Revoke (%1$ds)</string>
-    <string name="privacy_authorize_revoking">Revoking authorization…</string>
-    <string name="privacy_authorize_summary">Toggle the switch on and off to grant or revoke your authorization</string>
-    <string name="privacy_authorize_title">Authorization</string>
+    <string name="privacy_authorize_revoke_dialog_title">Withdrawal of consent</string>
+    <string name="privacy_authorize_revoke_failed">"Couldn't withdraw consent"</string>
+    <string name="privacy_authorize_revoke_success">Consent withdrawn successfully</string>
+    <string name="privacy_authorize_revoke_time">Withdraw (%1$ds)</string>
+    <string name="privacy_authorize_revoking">Withdrawing consent…</string>
+    <string name="privacy_authorize_summary">Toggle the switch on and off to grant or withdraw your consent</string>
+    <string name="privacy_authorize_title">Withdrawal of consent</string>
     <string name="privacy_btn_more">More</string>
     <string name="privacy_disagree">"Don't agree"</string>
     <string name="privacy_improve_performance">User Experience Program</string>
@@ -2295,6 +2301,7 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="recent_apk_status_install">INSTALLED</string>
     <string name="recent_search_hint_text">%s</string>
     <string name="recommend">Recommended</string>
+    <string name="recommend_bottom_guide">Swipe up to see more videos</string>
     <string name="recommend_button">Follow (%s)</string>
     <string name="recommend_description">"We've picked some creators you might like to follow."</string>
     <string name="record_permission_name">Record audio</string>
@@ -2459,8 +2466,6 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="search_yahoo">Yahoo!</string>
     <string name="search_yicha">Yicha</string>
     <string name="secure_download_in_xiaomi_market">Download in App Store</string>
-    <string name="secureaccess">Switch to Safe mode</string>
-    <string name="secureaccess_cancel">Ignore</string>
     <string name="security_url_confirm_message">Turning this feature off may create security risks.</string>
     <string name="security_warning">Security warning</string>
     <string name="security_warnings_confirm_message">Turning this feature off may create security risks.</string>
@@ -2508,8 +2513,8 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="settings_search_online_apps_desc">Content from app markets</string>
     <string name="share_by_yidianzixun">【一点资讯】</string>
     <string name="share_dialog_title">分享</string>
-    <string name="share_image_text">Look what I shared! @MIUI</string>
-    <string name="share_page_text">Look what I shared: %1$s @MIUI| %2$s</string>
+    <string name="share_image_text">I shared a photo, take a look! @Mi Browser</string>
+    <string name="share_page_text">Look what I shared: %1$s @Mi Browser | %2$s</string>
     <string name="share_slide_video_text">Look what I shared: %1$s</string>
     <string name="shear_plate_permission_name">Access or save items to clipboard</string>
     <string name="short_cut_name_novel">Free books</string>
@@ -2639,8 +2644,6 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="support_pwa">PWA</string>
     <string name="survey_feedback_general">Okay</string>
     <string name="switchText">YES</string>
-    <string name="switch_proxy_dialog_msg">"Network hijacking detected. Use MIUI's built-in Security app or report this to your mobile operator."</string>
-    <string name="switch_proxy_dialog_title">Network hijacking</string>
     <string name="sync_alert_checkbox_bookmark">Bookmarks</string>
     <string name="sync_alert_checkbox_history">Browsing history</string>
     <string name="sync_bookmark">Sync bookmarks</string>
@@ -2762,6 +2765,10 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="tuesday">Tuesday</string>
     <string name="tuesday_short">Tue</string>
     <string name="tuesday_shortest">Tue</string>
+    <string name="turn_off_dia_btn_cancel">Cancel</string>
+    <string name="turn_off_dia_btn_turn_off">Turn off</string>
+    <string name="turn_off_dia_content">"If you turn off Content Center, you won't be able to swipe up from the Home screen. You can edit the action for this gesture in Settings > Home screen. Turn off Content Center now?"</string>
+    <string name="turn_off_dia_title">Turn off Content Center?</string>
     <string name="twitter_moments">Twitter Moments</string>
     <string name="type_not_support">"This file format isn't supported. Unpack this file and try again."</string>
     <string name="unSwitchText">NO</string>
@@ -2789,8 +2796,6 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="url_suggest_indicator_bookmark">Bookmarks/History</string>
     <string name="url_suggest_indicator_hoturl">Popular</string>
     <string name="url_suggest_indicator_mostvisited">Most visited</string>
-    <string name="use_cellular_network_alert_message">"Wi-Fi isn't available. Use your mobile data connection instead?"</string>
-    <string name="use_cellular_network_alert_title">Data usage</string>
     <string name="user_avatar_update_title">Change profile photo</string>
     <string name="user_avatar_uploading">Just a sec…</string>
     <string name="user_defined_webpage">Add to start page</string>
@@ -2800,10 +2805,16 @@ Some sites won't use your previous browsing history to personalize their ads for
 You can always opt out in Settings > Privacy &amp; security."</string>
     <string name="user_experience_disagree">"Don't enroll"</string>
     <string name="user_experience_title">User Experience Program</string>
+    <string name="user_guide_agree">Agree</string>
     <string name="user_guide_color_mode_info">Light mode and Dark mode are available</string>
     <string name="user_guide_color_mode_title">Select color scheme</string>
     <string name="user_guide_control_privacy_tips">Be in full control of your privacy</string>
+    <string name="user_guide_disagree">"Don't agree"</string>
+    <string name="user_guide_privacy_message">Read and agree to our &lt;font color=#0a84ff>&lt;a href=%1$s style=color:#0a84ff;>Privacy Policy&lt;/a>&lt;/font> and &lt;font color=#0a84ff>&lt;a href=%2$s style=color:#0a84ff;>User Agreement&lt;/a>&lt;/font> before using Content Center.</string>
+    <string name="user_guide_provide_service_content">Popular videos and news</string>
+    <string name="user_guide_provide_service_title">This feature provides the following services:</string>
     <string name="user_guide_read_info_tips">To be able to include apps in search results, Mi Browser needs to access the list of apps installed on your device.</string>
+    <string name="user_guide_turn_off_feature">To turn off this feature, tap &lt;font color=#0a84ff>&lt;u>here&lt;/u>&lt;/font>.</string>
     <string name="user_id_hint">Email/Phone/Mi Account ID</string>
     <string name="username">Name</string>
     <string name="uuid">UUID(Click To Export)</string>
@@ -2836,10 +2847,16 @@ You can always opt out in Settings > Privacy &amp; security."</string>
 https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="video_downloader_fail">"Couldn't download this item"</string>
     <string name="video_downloader_retry">Try again</string>
+    <string name="video_feedback_description">We collect and use the information you enter above in order to improve your user experience. To learn more about how we collect and process your personal information, refer to our Privacy Policy.</string>
+    <string name="video_feedback_description_title">This information will be used only for content recommendations</string>
+    <string name="video_feedback_not_sumbit_toast">Select an answer before submitting</string>
     <string name="video_guess_you_like">You might like</string>
     <string name="video_play_next">Up next</string>
     <string name="video_replay_btn">Replay</string>
+    <string name="video_report_entrance">Report</string>
+    <string name="video_report_submit">Submit</string>
     <string name="video_retry_btn">Try again</string>
+    <string name="video_select_report_reason">Select a reason</string>
     <string name="video_view_more">More</string>
     <string name="view_certificate">View certificate</string>
     <string name="view_details">View details</string>
@@ -3030,6 +3047,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="whatsapp_tab_status">Status</string>
     <string name="whatsapp_webpage_btn">View</string>
     <string name="whatsapp_webpage_tips">WhatsApp Status Saver</string>
+    <string name="withdraw_dia_content">If you withdraw your consent to the Privacy Policy of Content Center, this feature will cease to collect your personal information. Any personal information previously collected and uploaded to our servers will be deleted. Once you withdraw your consent, you will no longer be able to use Content Center. Withdraw consent now?</string>
     <string name="xiaomi_sign_in_btn_txt">Sign in or create account</string>
     <string name="yandex_ads_context">yandex:ads:context</string>
     <string name="yandex_ads_context_allow_parsing">allow-parsing</string>

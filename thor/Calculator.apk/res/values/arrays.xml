@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="alphabet_table">
         <item>A</item>
         <item>B</item>
@@ -179,11 +205,9 @@
         <item>@string/heavenly_stems_ren</item>
         <item>@string/heavenly_stems_gui</item>
     </string-array>
-    <string-array name="height_array">
-        <item>Centimeters</item>
-        <item>Meters</item>
-        <item>Feet</item>
-        <item>Inches</item>
+    <string-array name="investment_type">
+        <item>@string/investment_type_once</item>
+        <item>@string/investment_type_recurring</item>
     </string-array>
     <string-array name="loan_rulers">
         <item>@string/loan_type_summary_lpr</item>
@@ -235,43 +259,31 @@
         <item>Equal installments</item>
         <item>Decreasing installments</item>
     </string-array>
-    <string-array name="operatorDescs">
-        <item>left parenthesis</item>
-        <item>right parenthesis</item>
-        <item>factorial</item>
-        <item>natural logarithm</item>
-        <item>logarithm</item>
-        <item>square root</item>
-        <item>divided by</item>
-        <item>multiplied by</item>
-        <item>plus</item>
-        <item>minus</item>
-        <item> point </item>
-        <item>power</item>
-        <item>tangent</item>
-        <item>sine</item>
-        <item>cosine</item>
-        <item>pi</item>
-        <item>equals</item>
+    <string-array name="multi_floating_package_allow_list">
+        <item>com.miui.securitycenter</item>
+        <item>com.miui.weather2</item>
+        <item>com.android.calendar</item>
+        <item>com.android.contacts</item>
+        <item>com.android.mms</item>
+        <item>com.miui.notes</item>
+        <item>com.android.settings</item>
+        <item>com.miui.gallery</item>
+        <item>com.miui.cloudservice</item>
+        <item>com.android.deskclock</item>
     </string-array>
-    <string-array name="operators">
-        <item>(</item>
-        <item>)</item>
-        <item>!</item>
-        <item>ln</item>
-        <item>log</item>
-        <item>√</item>
-        <item>÷</item>
-        <item>×</item>
-        <item>+</item>
-        <item>−</item>
-        <item>.</item>
-        <item>^</item>
-        <item>tan</item>
-        <item>sin</item>
-        <item>cos</item>
-        <item>π</item>
-        <item>=</item>
+    <string-array name="perioid">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
     </string-array>
     <string-array name="solar_terms">
         <item>@string/empty</item>
@@ -300,13 +312,6 @@
         <item>@string/solar_term_heavy_snow</item>
         <item>@string/solar_term_winter_solstice</item>
     </string-array>
-    <string-array name="table_titles">
-        <item>@string/mortgage_detail_month</item>
-        <item>@string/mortgage_detail_monthly_repayment</item>
-        <item>@string/mortgage_detail_monthly_principal</item>
-        <item>@string/mortgage_detail_monthly_interest</item>
-        <item>@string/mortgage_detail_monthly_remain</item>
-    </string-array>
     <string-array name="unit_data_order_area_">
         <item>sq.km</item>
         <item>ha</item>
@@ -330,7 +335,9 @@
     <string-array name="unit_data_order_currency_">
         <item>USD</item>
         <item>EUR</item>
+        <item>HKD</item>
         <item>JPY</item>
+        <item>CNY</item>
     </string-array>
     <string-array name="unit_data_order_data_">
         <item>b</item>
@@ -443,34 +450,6 @@
         <item>liang</item>
         <item>taijin</item>
     </string-array>
-    <integer-array name="units_default_selection_area">
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
-    <integer-array name="units_default_selection_length">
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
-    <integer-array name="units_default_selection_temperature">
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
-    <integer-array name="units_default_selection_time">
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
-    <integer-array name="units_default_selection_velocity">
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
-    <integer-array name="units_default_selection_volume">
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
-    <integer-array name="units_default_selection_weight">
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
     <string-array name="week_days">
         <item>@string/sunday</item>
         <item>@string/monday</item>
@@ -497,9 +476,5 @@
         <item>@string/thursday_shortest</item>
         <item>@string/friday_shortest</item>
         <item>@string/saturday_shortest</item>
-    </string-array>
-    <string-array name="weight_array">
-        <item>Kilograms</item>
-        <item>Pounds</item>
     </string-array>
 </resources>

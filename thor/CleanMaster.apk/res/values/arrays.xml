@@ -267,20 +267,10 @@
     <string-array name="hide_installed_packages">
         <item>com.miui.klo.bugreport</item>
         <item>com.mfashiongallery.emag</item>
-        <item>com.miui.miuibbs</item>
-        <item>com.xiaomi.smarthome</item>
-        <item>com.wali.live</item>
-        <item>com.xiaomi.o2o</item>
         <item>com.mi.vtalk</item>
-        <item>com.xiaomi.shop</item>
-        <item>com.xiaomi.jr</item>
-        <item>com.duokan.reader</item>
-        <item>com.ximalaya.ting.android</item>
         <item>com.mi.misupport</item>
-        <item>com.xiaomi.channel</item>
         <item>com.xiaomi.adecom</item>
         <item>com.sohu.inputmethod.sogou.xiaomi</item>
-        <item>com.baidu.input_mi</item>
         <item>com.amazon.appmanager</item>
         <item>com.xiaomi.mihomemanager</item>
         <item>com.baidu.duersdk.opensdk</item>
@@ -350,6 +340,17 @@
         <item>@string/month_october_shortest</item>
         <item>@string/month_november_shortest</item>
         <item>@string/month_december_shortest</item>
+    </string-array>
+    <string-array name="multi_floating_package_allow_list">
+        <item>com.miui.securitycenter</item>
+        <item>com.miui.weather2</item>
+        <item>com.android.calendar</item>
+        <item>com.android.contacts</item>
+        <item>com.android.mms</item>
+        <item>com.miui.notes</item>
+        <item>com.android.settings</item>
+        <item>com.miui.gallery</item>
+        <item>com.miui.cloudservice</item>
     </string-array>
     <string-array name="package_array_facebook">
         <item>@string/package_facebook</item>
